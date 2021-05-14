@@ -11941,12 +11941,12 @@ missing winner:
 <div created="20210416202217167" creator="jbiatek" host="Stephen" modified="20210430211900134" modifier="jbiatek" pick="2" score="-1" tags="[[2019 Annual Predictions]] Ricky" title="First ARM Mac ships" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Halfway through the year, Myke ups the ante: &quot;If Stephen gets this right, I will buy you one, if the Mac Pro is an ARM Mac I will buy you the top of the line model.&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210416194244525" modified="20210420001431575" tags="" title="FlexyPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210416194244525" modified="20210514203057185" tags="" title="FlexyPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! Flexy Picks
 
 &lt;ul&gt;
 &lt;$list filter=&quot;[tag{!!title}tag[Flexy]sort[pick]]&quot;&gt;
-&lt;li&gt;{{!!pick}}: ''{{!!host}}'' picked &quot;&lt;$link/&gt;&quot;, score: &lt;strong&gt;{{!!score}}&lt;/strong&gt;
+&lt;li&gt;{{!!pick}}: ''{{!!host}}'' picked &quot;&lt;$link/&gt;&quot;&lt;$list filter=&quot;[is[current]!score[]]&quot;&gt;, score: &lt;strong&gt;{{!!score}}&lt;/strong&gt;&lt;/$list&gt;
 {{!!text}}
 &lt;/li&gt;
 &lt;/$list&gt;
@@ -12169,12 +12169,12 @@ $:/core/ui/SideBar/Recent $:/core/ui/SideBar/Tools $:/core/ui/SideBar/More&quot;
 <div created="20210427205231403" host="Myke" modified="20210427205239903" pick="1.5" score="0" tags="Flexy [[2020 September Rickies]]" title="No specific date for iOS 14's release" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210507220150575" modified="20210507220213366" tags="" title="NonGradedPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210507220150575" modified="20210514203130385" tags="" title="NonGradedPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! Non-Graded Picks
 
 &lt;ul&gt;
 &lt;$list filter=&quot;[tag{!!title}tag[NonGraded]sort[pick]]&quot;&gt;
-&lt;li&gt;{{!!pick}}: ''{{!!host}}'' picked &quot;&lt;$link/&gt;&quot;, score: &lt;strong&gt;{{!!score}}&lt;/strong&gt;
+&lt;li&gt;{{!!pick}}: ''{{!!host}}'' picked &quot;&lt;$link/&gt;&quot;&lt;$list filter=&quot;[is[current]!score[]]&quot;&gt;, score: &lt;strong&gt;{{!!score}}&lt;/strong&gt;&lt;/$list&gt;
 {{!!text}}
 &lt;/li&gt;
 &lt;/$list&gt;
@@ -12235,12 +12235,12 @@ $:/core/ui/SideBar/Recent $:/core/ui/SideBar/Tools $:/core/ui/SideBar/More&quot;
 <div created="20210419174755590" host="Stephen" modified="20210419174920516" pick="3.3" score="0.5" tags="[[2017 Annual Predictions]]" title="Redesigned Mac Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210415174659095" modified="20210507220831454" tags="" title="RegularPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210415174659095" modified="20210514203145460" tags="" title="RegularPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! Regular Picks
 
 &lt;ul&gt;
 &lt;$list filter=&quot;[tag{!!title}!tag[Ricky]!tag[Flexy]!tag[NonGraded]!tag[Coin flip]sort[pick]]&quot;&gt;
-&lt;li&gt;{{!!pick}}: ''{{!!host}}'' picked &quot;&lt;$link/&gt;&quot;, score: &lt;strong&gt;{{!!score}}&lt;/strong&gt;
+&lt;li&gt;{{!!pick}}: ''{{!!host}}'' picked &quot;&lt;$link/&gt;&quot;&lt;$list filter=&quot;[is[current]!score[]]&quot;&gt;, score: &lt;strong&gt;{{!!score}}&lt;/strong&gt;&lt;/$list&gt;
 {{!!text}}
 &lt;/li&gt;
 &lt;/$list&gt;
@@ -12252,12 +12252,12 @@ $:/core/ui/SideBar/Recent $:/core/ui/SideBar/Tools $:/core/ui/SideBar/More&quot;
 <div created="20210417064035127" host="Federico" modified="20210507220453399" pick="1" score="0" tags="[[2018 Annual Predictions]] NonGraded" title="Reminders will get a major redesign modeled after iOS 11 and Files" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;With new family sharing features and integration with the HomePod.&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210416152416868" modified="20210422022341103" tags="" title="RickyPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210416152416868" modified="20210514203201059" tags="" title="RickyPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! Risky Picks
 
 &lt;ul&gt;
 &lt;$list filter=&quot;[tag{!!title}tag[Ricky]sort[pick]]&quot;&gt;
-&lt;li&gt;{{!!pick}}: ''{{!!host}}'' picked &quot;&lt;$link/&gt;&quot;, score: &lt;strong&gt;{{!!score}}&lt;/strong&gt;
+&lt;li&gt;{{!!pick}}: ''{{!!host}}'' picked &quot;&lt;$link/&gt;&quot;&lt;$list filter=&quot;[is[current]!score[]]&quot;&gt;, score: &lt;strong&gt;{{!!score}}&lt;/strong&gt;&lt;/$list&gt;
 {{!!text}}
 &lt;/li&gt;
 &lt;/$list&gt;
@@ -12642,7 +12642,7 @@ No host has attempted something like this yet, but this could lead to a contenti
 <div created="20210420212259379" host="Stephen" modified="20210424011136417" pick="1.1" score="0" tags="[[2021 April Rickies]] Flexy" title="The iPod Touch is taken down from sale in the wake of the event" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210428180224753" creator="jbiatek" host="Stephen" modified="20210428180318130" modifier="jbiatek" pick="3.6" score="" tags="[[2021 Annual Rickies]] Flexy" title="The iPod Touch will be cancelled" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428180224753" creator="jbiatek" host="Stephen" modified="20210514203426774" modifier="jbiatek" pick="3.6" score="" tags="[[2021 Annual Rickies]] Flexy" title="The iPod Touch will be cancelled" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;The other hosts question the word &quot;cancelled&quot; here.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210428022309119" host="Federico" modified="20210507223143131" pick="3.1" score="0" tags="[[2020 Summer Rickies]] NonGraded" title="The keynote is held outside on the stage Apple uses for concerts at Apple Park" type="text/vnd.tiddlywiki" revision="0" bag="default">
