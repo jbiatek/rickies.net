@@ -188,6 +188,8 @@ Error message and password prompt
 
 <li>$:/FaviconCode</li>
 
+<li>$:/FullSidebar</li>
+
 <li>$:/Import</li>
 
 <li>$:/isEncrypted</li>
@@ -203,6 +205,8 @@ Error message and password prompt
 <li>$:/plugins/tiddlywiki/highlight</li>
 
 <li>$:/SidebarLogo</li>
+
+<li>$:/SimpleSidebar</li>
 
 <li>$:/SiteSubtitle</li>
 
@@ -528,8 +532,6 @@ Error message and password prompt
 
 <li>FlexyScoreTemplate</li>
 
-<li>Full Sidebar</li>
-
 <li>HeadPods will be wireless only and they will have no headphone jack and will charge via Lightning or USB-C</li>
 
 <li>Hide the author and date</li>
@@ -726,8 +728,6 @@ Error message and password prompt
 
 <li>Show custom fields at bottom of views</li>
 
-<li>Simple Sidebar</li>
-
 <li>Siri on iOS will gain more verbal responses, speak more than it does now when activated with your voice</li>
 
 <li>Some element of an AR focused device from Apple</li>
@@ -739,6 +739,8 @@ Error message and password prompt
 <li>Someone washes their hands during the presentation</li>
 
 <li>Something in the default Dock of Catalina becomes a Catalyst app</li>
+
+<li>Super Secret Editing Interface</li>
 
 <li>TableOfContents</li>
 
@@ -923,8 +925,8 @@ Error message and password prompt
 <div created="20210509192300855" modified="20210509192300871" title="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/save-wiki" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>hide</pre>
 </div>
-<div created="20210419221709170" creator="jbiatek" modified="20210428223436899" modifier="jbiatek" title="$:/config/RelinkOnRename" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>no</pre>
+<div created="20210419221709170" creator="jbiatek" modified="20210526182148679" modifier="jbiatek" title="$:/config/RelinkOnRename" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>yes</pre>
 </div>
 <div created="20210430053317329" creator="jbiatek" modified="20210430053327372" modifier="jbiatek" title="$:/config/TiddlerInfo/Mode" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>sticky</pre>
@@ -10829,6 +10831,12 @@ About</pre>
 &lt;meta name=&quot;theme-color&quot; content=&quot;#000000&quot;&gt;
 </pre>
 </div>
+<div created="20210509210815809" modified="20210526182417881" tags="" title="$:/FullSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;&lt;tabs &quot;$:/core/ui/SideBar/Open 
+TableOfContents
+$:/core/ui/SideBar/Recent $:/core/ui/SideBar/Tools $:/core/ui/SideBar/More&quot; &quot;$:/core/ui/SideBar/Tools&quot;&gt;&gt;
+</pre>
+</div>
 <div created="20210501192050236" modified="20210501192050236" status="complete" title="$:/Import" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>The following tiddlers were imported:
 
@@ -11143,6 +11151,11 @@ very-muted-foreground: #888888</pre>
 <div created="20210518204925103" modified="20210518205813252" tags="$:/tags/SideBarSegment" title="$:/SidebarLogo" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;img src=&quot;https://rickies.net/images/logo.png&quot; alt=&quot;The Rickipedia Logo&quot; style=&quot;  width: 60%; height: 60%;&quot; /&gt;</pre>
 </div>
+<div created="20210509212832036" modified="20210526182417328" tags="$:/tags/SideBarSegment" title="$:/SimpleSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;&lt;tabs &quot;$:/core/ui/SideBar/Open 
+TableOfContents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
+</pre>
+</div>
 <div created="20210417034622277" modified="20210417034632238" title="$:/SiteSubtitle" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>the comprehensive collection of picks and predictions</pre>
 </div>
@@ -11155,7 +11168,7 @@ very-muted-foreground: #888888</pre>
 <div list="Welcome About" title="$:/StoryList" revision="1" bag="default">
 <pre></pre>
 </div>
-<div created="20210509212919684" list="$:/SidebarLogo $:/core/ui/SideBarSegments/site-title $:/core/ui/SideBarSegments/site-subtitle $:/core/ui/SideBarSegments/page-controls $:/core/ui/SideBarSegments/search [[Simple Sidebar]]" modified="20210518205646223" title="$:/tags/SideBarSegment" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509212919684" list="$:/SidebarLogo $:/core/ui/SideBarSegments/site-title $:/core/ui/SideBarSegments/site-subtitle $:/core/ui/SideBarSegments/page-controls $:/core/ui/SideBarSegments/search $:/SimpleSidebar" modified="20210526182154259" title="$:/tags/SideBarSegment" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210430052917727" creator="jbiatek" modified="20210430052944057" modifier="jbiatek" title="$:/theme" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -11990,12 +12003,6 @@ missing winner:
 * Federico: &lt;$text text={{{ [tag{!!title}tag[Flexy]host[Federico]get[score]sum[]] }}}/&gt; out of &lt;$text text={{{ [tag{!!title}tag[Flexy]host[Federico]count[]] }}}/&gt;
 </pre>
 </div>
-<div created="20210509210815809" modified="20210509221637202" tags="" title="Full Sidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>&lt;&lt;tabs &quot;$:/core/ui/SideBar/Open 
-TableOfContents
-$:/core/ui/SideBar/Recent $:/core/ui/SideBar/Tools $:/core/ui/SideBar/More&quot;&gt;&gt;
-</pre>
-</div>
 <div created="20210430042545694" creator="jbiatek" host="Federico" modified="20210502015657660" modifier="jbiatek" pick="9" score="0" tags="[[Audio Predictions]]" title="HeadPods will be wireless only and they will have no headphone jack and will charge via Lightning or USB-C" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
@@ -12501,11 +12508,6 @@ $:/core/ui/SideBar/Recent $:/core/ui/SideBar/Tools $:/core/ui/SideBar/More&quot;
 &lt;/table&gt;
 &lt;/$list&gt;</pre>
 </div>
-<div created="20210509212832036" modified="20210526155157168" tags="$:/tags/SideBarSegment" title="Simple Sidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>&lt;&lt;tabs &quot;$:/core/ui/SideBar/Open 
-TableOfContents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
-</pre>
-</div>
 <div created="20210419173049368" host="Federico" modified="20210419173336900" pick="1.1" score="0.5" tags="[[2017 Annual Predictions]]" title="Siri on iOS will gain more verbal responses, speak more than it does now when activated with your voice" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;It can hold longer conversations without the user needing to look at the screen.&quot;&lt;/li&gt;&lt;li&gt;This was graded as a half point or a &quot;kinda&quot;.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
@@ -12523,6 +12525,11 @@ TableOfContents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
 </div>
 <div created="20210428005558115" host="Stephen" modified="20210428005735543" pick="1" score="2" tags="[[2020 Summer Rickies]] Ricky" title="Something in the default Dock of Catalina becomes a Catalyst app" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
+</div>
+<div created="20210526181659214" modified="20210526182240445" tags="" title="Super Secret Editing Interface" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;$list filter=&quot;$:/FullSidebar $:/SimpleSidebar&quot;&gt;
+&lt;$checkbox tag=&quot;$:/tags/SideBarSegment&quot;&gt; &lt;$link/&gt;&lt;br&gt;&lt;/$checkbox&gt;
+&lt;/$list&gt;</pre>
 </div>
 <div caption="Contents" created="20210416150736779" list-after="$:/core/ui/SideBar/Open" modified="20210420003438137" tags="$:/tags/SideBar" title="TableOfContents" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;div class=&quot;tc-table-of-contents&quot;&gt;
