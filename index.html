@@ -190,8 +190,6 @@ Error message and password prompt
 
 <li>$:/FullSidebar</li>
 
-<li>$:/Import</li>
-
 <li>$:/isEncrypted</li>
 
 <li>$:/layout</li>
@@ -201,6 +199,8 @@ Error message and password prompt
 <li>$:/palettes/Rocker-Fixed</li>
 
 <li>$:/palettes/Roller</li>
+
+<li>$:/PickTableStyling</li>
 
 <li>$:/plugins/tiddlywiki/highlight</li>
 
@@ -695,6 +695,8 @@ Error message and password prompt
 <li>Phil Schiller is nowhere to be seen</li>
 
 <li>Pick Prototype</li>
+
+<li>PickTableRowTemplate</li>
 
 <li>Preview of fall Apple TV+ content</li>
 
@@ -10809,7 +10811,7 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div created="20210509213107110" modified="20210509213111547" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509213107110" modified="20210528205310905" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;div class=&quot;tc-sidebar-lists tc-sidebar-tabs&quot;&gt;
 
 &lt;$macrocall $name=&quot;tabs&quot; tabsList=&quot;[all[shadows+tiddlers]tag[$:/tags/SideBar]!has[draft.of]]&quot; default={{$:/config/DefaultSidebarTab}} state=&quot;$:/state/tab/sidebar&quot; class=&quot;tc-sidebar-tabs-main&quot; explicitState=&quot;$:/state/tab/sidebar--595412856&quot;/&gt;
@@ -10833,29 +10835,11 @@ About</pre>
 &lt;meta name=&quot;theme-color&quot; content=&quot;#000000&quot;&gt;
 </pre>
 </div>
-<div created="20210509210815809" modified="20210526200416843" tags="" title="$:/FullSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509210815809" modified="20210528205314500" tags="" title="$:/FullSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;&lt;tabs &quot;$:/core/ui/SideBar/Open 
 TableOfContents
 $:/core/ui/SideBar/Recent $:/core/ui/SideBar/Tools $:/core/ui/SideBar/More&quot; &quot;$:/core/ui/SideBar/Tools&quot;&gt;&gt;
 </pre>
-</div>
-<div created="20210501192050236" modified="20210501192050236" status="complete" title="$:/Import" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>The following tiddlers were imported:
-
-# [[Audio Predictions]]
-# [[The AirPower Game]]
-# [[AirPods to gain more controls via touch actions]]
-# [[Apple will create some kind of new noise-cancelling technology]]
-# [[At least 1 more color option comes to AirPods]]
-# [[Better incorporation of Apple News into the audio ecosystem]]
-# [[HeadPods will be wireless only and they will have no headphone jack and will charge via Lightning or USB-C]]
-# [[HomePod price drop]]
-# [[Shortcuts will gain new AirPlay 2 actions to play audio on specific HomePods]]
-# [[The AirPods line is split in two and the lower end version gets a price drop]]
-# [[The next HomePod is a mini HomePod]]
-# [[AirPower will come out after the 2018 iPhone event]]
-# [[AirPower will come out before the 2018 iPhone event]]
-# [[AirPower will come out the first week of December 2018]]</pre>
 </div>
 <div title="$:/isEncrypted" revision="0" bag="default">
 <pre>no</pre>
@@ -11080,6 +11064,87 @@ toolbar-done-button:
 untagged-background: #999999
 very-muted-foreground: #888888</pre>
 </div>
+<div created="20210528064944192" modified="20210528205122009" tags="$:/tags/Stylesheet Infrastructure" title="$:/PickTableStyling" type="text/plain" revision="0" bag="default">
+<pre>table.picktable, .picktable th {
+    border: none !important;
+}
+.picktable td {
+    border-left: none !important;
+}
+
+td ul {
+    margin: 5px;
+    padding-left: 0px;
+    list-style-type: none;
+}
+td ul &gt; li:before {
+  content: &quot;–&quot;; /* en dash */
+  position: absolute;
+  margin-left: -1.1em; 
+}
+tr .tc-reveal {
+    display: contents;
+}
+
+.Federico {
+    background-image: linear-gradient(to right, honeydew, honeydew, white, white, lavenderblush, lavenderblush);
+    border-radius: 0px 0px 5px 0px;
+}
+.Myke {
+    background-image: 
+        linear-gradient(to bottom, transparent, transparent, transparent, transparent, transparent, transparent, transparent, rgba(255,255,255,0), white, lavenderblush, lavenderblush, white, rgba(255,255,255,0), transparent, transparent, transparent, transparent, transparent, transparent, transparent), 
+        linear-gradient(to right,transparent, transparent,  transparent, transparent, transparent, transparent, transparent, rgba(255,255,255,0), white, lavenderblush, lavenderblush, white, rgba(255,255,255,0), transparent, transparent, transparent, transparent, transparent, transparent, transparent), 
+        linear-gradient(to bottom right, transparent, transparent, transparent, transparent, transparent, transparent, transparent, rgba(255,255,255,0), white, lavenderblush, white, white, rgba(255,255,255,0), transparent, transparent, transparent, transparent, transparent, transparent, transparent), 
+        linear-gradient(to top right, transparent, transparent, transparent, transparent, transparent, transparent, transparent, rgba(255,255,255,0), white, lavenderblush, white, white, rgba(255,255,255,0), transparent, transparent, transparent, transparent, transparent, transparent, transparent), 
+        linear-gradient(to bottom, aliceblue, aliceblue);
+    border-radius: 0px 0px 5px 0px;
+}
+.Stephen {
+    background-image: 
+linear-gradient(to bottom, transparent, transparent, transparent, transparent, transparent, transparent, rgba(255, 255, 255, 0), white, lavenderblush, white, lavenderblush, white, lavenderblush),
+        linear-gradient(to right, aliceblue, aliceblue, rgba(240, 248, 255, 0), transparent), 
+        linear-gradient(to bottom, lavenderblush, white, lavenderblush, white, lavenderblush, white, lavenderblush, white, lavenderblush, white, lavenderblush, white, lavenderblush);
+
+    old-background-image: conic-gradient(transparent, transparent, transparent, transparent, transparent, transparent, aliceblue, aliceblue), linear-gradient(to bottom, lavenderblush, white, lavenderblush, white, lavenderblush, white, lavenderblush, white, lavenderblush, white, lavenderblush, white, lavenderblush);
+    border-radius: 0px 0px 5px 0px;
+}
+.Federico, .Myke, .Stephen {
+    text-align: center;
+}
+
+
+
+.pick {
+    border-left: none;
+}
+.score {
+    text-align: center; 
+    vertical-align: middle;
+	padding-block: 7px;
+    border-left: none;
+    border-radius: 0px 0px 0px 5px;
+}
+.correct {
+    background-color: lightgreen;
+}
+.incorrect {
+    background-color: lightpink;
+}
+.halfcorrect {
+    background-color: lemonchiffon;
+}
+.ungraded {
+    color: #dddddd;
+}
+.notes-spacer {
+    border-top: none !important;
+}
+.notes {
+    border-left: none; 
+    border-top: none !important;
+}
+</pre>
+</div>
 <div author="Joao Bolila" dependents="" description="Highlight.js syntax highlighting" list="readme usage howto license" name="Highlight" plugin-type="plugin" title="$:/plugins/tiddlywiki/highlight" type="application/json" version="5.1.23" revision="0" bag="default">
 <pre>{
     &quot;tiddlers&quot;: {
@@ -11150,10 +11215,10 @@ very-muted-foreground: #888888</pre>
     }
 }</pre>
 </div>
-<div created="20210518204925103" modified="20210518205813252" tags="$:/tags/SideBarSegment" title="$:/SidebarLogo" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210518204925103" modified="20210528205112246" tags="$:/tags/SideBarSegment Infrastructure" title="$:/SidebarLogo" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;img src=&quot;https://rickies.net/images/logo.png&quot; alt=&quot;The Rickipedia Logo&quot; style=&quot;  width: 60%; height: 60%;&quot; /&gt;</pre>
 </div>
-<div created="20210509212832036" modified="20210526200416297" tags="$:/tags/SideBarSegment" title="$:/SimpleSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509212832036" modified="20210528205300860" tags="Infrastructure $:/tags/SideBarSegment" title="$:/SimpleSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;&lt;tabs &quot;$:/core/ui/SideBar/Open 
 TableOfContents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
 </pre>
@@ -11170,7 +11235,7 @@ TableOfContents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
 <div list="Welcome About" title="$:/StoryList" revision="1" bag="default">
 <pre></pre>
 </div>
-<div created="20210509212919684" list="$:/SidebarLogo $:/core/ui/SideBarSegments/site-title $:/core/ui/SideBarSegments/site-subtitle $:/core/ui/SideBarSegments/page-controls $:/core/ui/SideBarSegments/search $:/SimpleSidebar" modified="20210526182154259" title="$:/tags/SideBarSegment" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509212919684" list="$:/SidebarLogo $:/core/ui/SideBarSegments/site-title $:/core/ui/SideBarSegments/site-subtitle $:/core/ui/SideBarSegments/page-controls $:/core/ui/SideBarSegments/search $:/SimpleSidebar" modified="20210528205152010" tags="Infrastructure" title="$:/tags/SideBarSegment" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210430052917727" creator="jbiatek" modified="20210430052944057" modifier="jbiatek" title="$:/theme" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -11288,7 +11353,7 @@ TableOfContents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
 <div created="20210420210733834" host="Myke" modified="20210424005404386" pick="2" score="-1" tags="[[2021 April Rickies]] Ricky" title="2 sizes of iMac announced" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210419172505280" creator="jbiatek" modified="20210507220312667" modifier="jbiatek" picked="20170104" tags="TableOfContents Annual" title="2017 Annual Predictions" type="text/vnd.tiddlywiki" winner="Tie - Myke and Stephen" revision="0" bag="default">
+<div created="20210419172505280" creator="jbiatek" modified="20210528172619150" modifier="jbiatek" picked="20170104" tags="TableOfContents Annual" title="2017 Annual Predictions" type="text/vnd.tiddlywiki" winner="Tie - Myke and Stephen" revision="0" bag="default">
 <pre>The predictions: https://www.relay.fm/connected/123
 
 The results: https://www.relay.fm/connected/174
@@ -11974,7 +12039,7 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div created="20210429195232090" creator="jbiatek" host="Myke" modified="20210507222227248" modifier="jbiatek" pick="2.1" score="1" tags="[[2019 WWDC Predictions]] NonGraded" title="External storage support on iOS" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210415203535992" modified="20210417161856688" tags="" title="FieldChecker" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210415203535992" modified="20210528204609912" tags="Infrastructure" title="FieldChecker" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>hosts: 
 &lt;$list filter=&quot;[each[host]has[host]]&quot;&gt; {{!!host}} &lt;/$list&gt;
 
@@ -11984,18 +12049,16 @@ missing winner:
 <div created="20210416202217167" creator="jbiatek" host="Stephen" modified="20210430211900134" modifier="jbiatek" pick="2" score="-1" tags="[[2019 Annual Predictions]] Ricky" title="First ARM Mac ships" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Halfway through the year, Myke ups the ante: &quot;If Stephen gets this right, I will buy you one, if the Mac Pro is an ARM Mac I will buy you the top of the line model.&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210416194244525" modified="20210514203057185" tags="" title="FlexyPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210416194244525" modified="20210528204557369" tags="Infrastructure" title="FlexyPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! Flexy Picks
 
-&lt;ul&gt;
-&lt;$list filter=&quot;[tag{!!title}tag[Flexy]sort[pick]]&quot;&gt;
-&lt;li&gt;{{!!pick}}: ''{{!!host}}'' picked &quot;&lt;$link/&gt;&quot;&lt;$list filter=&quot;[is[current]!score[]]&quot;&gt;, score: &lt;strong&gt;{{!!score}}&lt;/strong&gt;&lt;/$list&gt;
-{{!!text}}
-&lt;/li&gt;
-&lt;/$list&gt;
-&lt;/ul&gt;</pre>
+&lt;table class=&quot;picktable&quot;&gt;
+&lt;tr&gt;&lt;th&gt;Host&lt;/th&gt;&lt;th&gt;Pick&lt;/th&gt;&lt;th&gt;Score&lt;/th&gt;&lt;/tr&gt;
+&lt;$list filter=&quot;[tag{!!title}tag[Flexy]sort[pick]]&quot; template=&quot;PickTableRowTemplate&quot; /&gt;
+&lt;/table&gt;
+</pre>
 </div>
-<div created="20210420011538500" modified="20210423060106990" tags="" title="FlexyScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420011538500" modified="20210528204545741" tags="Infrastructure" title="FlexyScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! Flexy Scores
 
 * Stephen: &lt;$text text={{{ [tag{!!title}tag[Flexy]host[Stephen]get[score]sum[]] }}}/&gt; out of &lt;$text text={{{ [tag{!!title}tag[Flexy]host[Stephen]count[]] }}}/&gt;
@@ -12008,7 +12071,7 @@ missing winner:
 <div created="20210430042545694" creator="jbiatek" host="Federico" modified="20210502015657660" modifier="jbiatek" pick="9" score="0" tags="[[Audio Predictions]]" title="HeadPods will be wireless only and they will have no headphone jack and will charge via Lightning or USB-C" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210428223355287" creator="jbiatek" modified="20210428223454908" modifier="jbiatek" tags="$:/tags/Stylesheet" title="Hide the author and date" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428223355287" creator="jbiatek" modified="20210528204536526" modifier="jbiatek" tags="$:/tags/Stylesheet Infrastructure" title="Hide the author and date" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>.tc-subtitle {display:none;}</pre>
 </div>
 <div created="20210430041950778" creator="jbiatek" host="Stephen" modified="20210502015614408" modifier="jbiatek" pick="5" score="1" tags="[[Audio Predictions]]" title="HomePod price drop" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12211,18 +12274,15 @@ missing winner:
 <div created="20210427205231403" host="Myke" modified="20210427205239903" pick="1.5" score="0" tags="Flexy [[2020 September Rickies]]" title="No specific date for iOS 14's release" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210507220150575" modified="20210514203130385" tags="" title="NonGradedPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210507220150575" modified="20210528204525479" tags="Infrastructure" title="NonGradedPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! Non-Graded Picks
 
-&lt;ul&gt;
-&lt;$list filter=&quot;[tag{!!title}tag[NonGraded]sort[pick]]&quot;&gt;
-&lt;li&gt;{{!!pick}}: ''{{!!host}}'' picked &quot;&lt;$link/&gt;&quot;&lt;$list filter=&quot;[is[current]!score[]]&quot;&gt;, score: &lt;strong&gt;{{!!score}}&lt;/strong&gt;&lt;/$list&gt;
-{{!!text}}
-&lt;/li&gt;
-&lt;/$list&gt;
-&lt;/ul&gt;</pre>
+&lt;table class=&quot;picktable&quot;&gt;
+&lt;tr&gt;&lt;th&gt;Host&lt;/th&gt;&lt;th&gt;Pick&lt;/th&gt;&lt;th&gt;Score&lt;/th&gt;&lt;/tr&gt;
+&lt;$list filter=&quot;[tag{!!title}tag[NonGraded]sort[pick]]&quot; template=&quot;PickTableRowTemplate&quot; /&gt;
+&lt;/table&gt;</pre>
 </div>
-<div created="20210507220046004" modified="20210507220141925" tags="" title="NonGradedScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210507220046004" modified="20210528204516922" tags="Infrastructure" title="NonGradedScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! Non-Graded Scores
 
 * Stephen: &lt;$text text={{{ [tag{!!title}tag[NonGraded]host[Stephen]get[score]sum[]] }}}/&gt; out of &lt;$text text={{{ [tag{!!title}tag[NonGraded]host[Stephen]count[]] }}}/&gt;
@@ -12265,8 +12325,26 @@ missing winner:
 <div created="20210423054343481" host="Stephen" modified="20210423054424732" pick="1.1" score="1" tags="[[2020 November Rickies]] Flexy" title="Phil Schiller is nowhere to be seen" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420185756451" host="" modified="20210420185816058" pick="" score="" tags="" title="Pick Prototype" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420185756451" host="" modified="20210528204508685" pick="" score="" tags="Infrastructure" title="Pick Prototype" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
+</div>
+<div created="20210527212654514" modified="20210528204459341" tags="Infrastructure" title="PickTableRowTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;tr class=&quot;pickrow&quot;&gt;
+&lt;td class={{!!host}}&gt;{{!!host}}&lt;/td&gt;
+&lt;td class=&quot;pick&quot;&gt;&quot;&lt;$link/&gt;&quot;&lt;/td&gt;
+
+&lt;$list filter=&quot;[is[current]!score[]]&quot;&gt;
+&lt;$reveal type=&quot;match&quot; state=&quot;!!score&quot; text=&quot;0.5&quot;&gt;&lt;td class=&quot;score halfcorrect&quot;&gt;&lt;strong&gt;{{!!score}}&lt;/strong&gt;&lt;/td&gt;&lt;/$reveal&gt;
+&lt;$reveal type=&quot;match&quot; state=&quot;!!score&quot; text=&quot;0.75&quot;&gt;&lt;td class=&quot;score halfcorrect&quot;&gt;&lt;strong&gt;{{!!score}}&lt;/strong&gt;&lt;/td&gt;&lt;/$reveal&gt;
+
+&lt;$reveal type=&quot;lteq&quot; state=&quot;!!score&quot; text=&quot;0&quot;&gt;&lt;td class=&quot;score incorrect&quot;&gt;&lt;strong&gt;{{!!score}}&lt;/strong&gt;&lt;/td&gt;&lt;/$reveal&gt;
+&lt;$reveal type=&quot;gteq&quot; state=&quot;!!score&quot; text=&quot;1&quot;&gt;&lt;td class=&quot;score correct&quot;&gt;&lt;strong&gt;{{!!score}}&lt;/strong&gt;&lt;/td&gt;&lt;/$reveal&gt;
+&lt;/$list&gt;
+
+&lt;$list filter=&quot;[is[current]score[]]&quot;&gt;&lt;td class=&quot;score ungraded&quot;&gt;TBD&lt;/td&gt;&lt;/$list&gt;
+
+&lt;/tr&gt;
+&lt;$list filter=&quot;[is[current]!text[]]&quot;&gt;&lt;tr&gt;&lt;td class=&quot;notes-spacer&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;notes&quot;&gt;{{!!text}}&lt;/td&gt;&lt;/tr&gt;&lt;/$list&gt;</pre>
 </div>
 <div created="20210427205651650" host="Stephen" modified="20210427232841103" pick="2.5" score="0" tags="Flexy [[2020 September Rickies]]" title="Preview of fall Apple TV+ content" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
@@ -12277,16 +12355,13 @@ missing winner:
 <div created="20210419174755590" host="Stephen" modified="20210419174920516" pick="3.3" score="0.5" tags="[[2017 Annual Predictions]]" title="Redesigned Mac Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210415174659095" modified="20210514203145460" tags="" title="RegularPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210415174659095" modified="20210528204450359" tags="Infrastructure" title="RegularPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! Regular Picks
 
-&lt;ul&gt;
-&lt;$list filter=&quot;[tag{!!title}!tag[Ricky]!tag[Flexy]!tag[NonGraded]!tag[Coin flip]sort[pick]]&quot;&gt;
-&lt;li&gt;{{!!pick}}: ''{{!!host}}'' picked &quot;&lt;$link/&gt;&quot;&lt;$list filter=&quot;[is[current]!score[]]&quot;&gt;, score: &lt;strong&gt;{{!!score}}&lt;/strong&gt;&lt;/$list&gt;
-{{!!text}}
-&lt;/li&gt;
-&lt;/$list&gt;
-&lt;/ul&gt;</pre>
+&lt;table class=&quot;picktable&quot;&gt;
+&lt;tr&gt;&lt;th&gt;Host&lt;/th&gt;&lt;th&gt;Pick&lt;/th&gt;&lt;th&gt;Score&lt;/th&gt;&lt;/tr&gt;
+&lt;$list filter=&quot;[tag{!!title}!tag[Ricky]!tag[Flexy]!tag[NonGraded]!tag[Coin flip]sort[pick]]&quot; template=&quot;PickTableRowTemplate&quot; /&gt;
+&lt;/table&gt;</pre>
 </div>
 <div created="20210416201838906" host="Federico" modified="20210417055717527" pick="1" score="2" tags="[[2019 Annual Predictions]] Ricky" title="Reminders gets a major update" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;(how do we decide major? — on stage at WWDC or we decide past that)&quot;&lt;/li&gt;&lt;li&gt;Ungraded: &quot;some features that Federico would like to see&quot;, the actual features that Federico talked about were not recorded in the document, but were: a new, more flexible design, easier and faster to add dates and notes, tags, saved searches, better Files integration&lt;/li&gt;&lt;/ul&gt;</pre>
@@ -12294,16 +12369,13 @@ missing winner:
 <div created="20210417064035127" host="Federico" modified="20210507220453399" pick="1" score="0" tags="[[2018 Annual Predictions]] NonGraded" title="Reminders will get a major redesign modeled after iOS 11 and Files" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;With new family sharing features and integration with the HomePod.&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210416152416868" modified="20210514203201059" tags="" title="RickyPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210416152416868" modified="20210528204441426" tags="Infrastructure" title="RickyPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! Risky Picks
 
-&lt;ul&gt;
-&lt;$list filter=&quot;[tag{!!title}tag[Ricky]sort[pick]]&quot;&gt;
-&lt;li&gt;{{!!pick}}: ''{{!!host}}'' picked &quot;&lt;$link/&gt;&quot;&lt;$list filter=&quot;[is[current]!score[]]&quot;&gt;, score: &lt;strong&gt;{{!!score}}&lt;/strong&gt;&lt;/$list&gt;
-{{!!text}}
-&lt;/li&gt;
-&lt;/$list&gt;
-&lt;/ul&gt;</pre>
+&lt;table class=&quot;picktable&quot;&gt;
+&lt;tr&gt;&lt;th&gt;Host&lt;/th&gt;&lt;th&gt;Pick&lt;/th&gt;&lt;th&gt;Score&lt;/th&gt;&lt;/tr&gt;
+&lt;$list filter=&quot;[tag{!!title}tag[Ricky]sort[pick]]&quot; template=&quot;PickTableRowTemplate&quot; /&gt;
+&lt;/table&gt;</pre>
 </div>
 <div created="20210419224220858" creator="jbiatek" modified="20210507223827436" modifier="jbiatek" tags="TableOfContents" title="Scores and Stats" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! Annual Rickies:
@@ -12454,7 +12526,7 @@ missing winner:
 * Other: &lt;ul&gt;&lt;$list filter=&quot;[!result[Heads]!result[Tails]!result[]]&quot;&gt;&lt;li&gt;&lt;$link/&gt;: {{!!result}}&lt;/li&gt;&lt;/$list&gt;&lt;/ul&gt;
 </pre>
 </div>
-<div created="20210416152908218" modified="20210507222844482" tags="" title="ScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210416152908218" modified="20210528204425738" tags="Infrastructure" title="ScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! Scores
 
 * Stephen: &lt;$text text={{{ [tag{!!title}!tag[Flexy]!tag[NonGraded]host[Stephen]get[score]sum[]] }}}/&gt;
@@ -12485,9 +12557,9 @@ missing winner:
 <div created="20210430042028478" creator="jbiatek" host="Federico" modified="20210502015624172" modifier="jbiatek" pick="6" score="1" tags="[[Audio Predictions]]" title="Shortcuts will gain new HomePod/AirPlay 2 actions to play audio on HomePod more quickly" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210416154224635" creator="jbiatek" modified="20210507182014024" modifier="jbiatek" tags="$:/tags/ViewTemplate" title="Show custom fields at bottom of views" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210416154224635" creator="jbiatek" modified="20210528205458952" modifier="jbiatek" tags="$:/tags/ViewTemplate Infrastructure" title="Show custom fields at bottom of views" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;$list filter=&quot;[is[current]!field:host[]] [is[current]!field:pick[]] [is[current]!field:score[]] [is[current]!field:winner[]] [is[current]!field:loser[]] [is[current]!field:result[]] [is[current]!field:donator[]] [is[current]!field:donation[]]&quot;&gt;
-&lt;table&gt;
+&lt;table class=&quot;custom-fields&quot;&gt;
 &lt;$list filter=&quot;[is[current]!field:host[]]&quot;&gt;
 &lt;tr&gt;&lt;th&gt;Host&lt;/th&gt;&lt;td&gt;{{!!host}}&lt;/td&gt;&lt;/tr&gt;
 &lt;/$list&gt;
@@ -12533,8 +12605,8 @@ missing winner:
 <div created="20210428005558115" host="Stephen" modified="20210428005735543" pick="1" score="2" tags="[[2020 Summer Rickies]] Ricky" title="Something in the default Dock of Catalina becomes a Catalyst app" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210526181659214" modified="20210526182240445" tags="" title="Super Secret Editing Interface" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>&lt;$list filter=&quot;$:/FullSidebar $:/SimpleSidebar&quot;&gt;
+<div created="20210526181659214" modified="20210528205243127" tags="Infrastructure" title="Super Secret Editing Interface" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;$list filter=&quot;$:/FullSidebar $:/SimpleSidebar $:/core/ui/SideBarSegments/tabs&quot;&gt;
 &lt;$checkbox tag=&quot;$:/tags/SideBarSegment&quot;&gt; &lt;$link/&gt;&lt;br&gt;&lt;/$checkbox&gt;
 &lt;/$list&gt;</pre>
 </div>
