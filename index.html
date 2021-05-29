@@ -10823,9 +10823,9 @@ Error message and password prompt
 &lt;/div&gt;
 </pre>
 </div>
-<div created="20210528212115861" list-after="$:/core/ui/ViewTemplate/tags" modified="20210529223258902" tags="$:/tags/ViewTemplate Infrastructure" title="$:/CustomFieldView" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210528212115861" list-after="$:/core/ui/ViewTemplate/tags" modified="20210529224035234" tags="$:/tags/ViewTemplate Infrastructure" title="$:/CustomFieldView" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;$reveal type=&quot;nomatch&quot; stateTitle=&lt;&lt;folded-state&gt;&gt; text=&quot;hide&quot; tag=&quot;div&quot; retain=&quot;yes&quot; animate=&quot;yes&quot;&gt;
-&lt;div class=&quot;custom-field-wrapper&quot;&gt;&lt;$list filter=&quot;[all[current]fields:include[host pick score winner loser result donator donation]]&quot; variable=&quot;theField&quot; template=&quot;$:/FieldPillTemplate&quot; storyview=&quot;pop&quot;/&gt;&lt;/div&gt;
+&lt;div class=&quot;custom-field-wrapper&quot;&gt;&lt;$list filter=&quot;[all[current]fields:include[host pick score winner loser result donator donation flexies-winner]]&quot; variable=&quot;theField&quot; template=&quot;$:/FieldPillTemplate&quot; storyview=&quot;pop&quot;/&gt;&lt;/div&gt;
 &lt;/$reveal&gt;</pre>
 </div>
 <div created="20210420002151655" creator="jbiatek" modified="20210502220433685" modifier="jbiatek" title="$:/DefaultTiddlers" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -10844,9 +10844,9 @@ About</pre>
 &lt;meta name=&quot;theme-color&quot; content=&quot;#000000&quot;&gt;
 </pre>
 </div>
-<div created="20210528213229981" modified="20210529223411923" tags="Infrastructure" title="$:/FieldPillTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210528213229981" modified="20210529224146165" tags="Infrastructure" title="$:/FieldPillTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;span class=&quot;tc-tag-label tc-tag-list-item tc-button-invisible&quot; style=&quot;background-color: lightblue;&quot;&gt;
-&lt;$text text={{{ [&lt;theField&gt;sentencecase[]] }}} /&gt;:  &lt;$text text={{{ [&lt;theField&gt;match[donation]then[$]else[]] }}} /&gt;&lt;$transclude field=&lt;&lt;theField&gt;&gt; }}} /&gt;
+&lt;$text text={{{ [&lt;theField&gt;sentencecase[]search-replace:g:[-],[ ]] }}} /&gt;:  &lt;$text text={{{ [&lt;theField&gt;match[donation]then[$]else[]] }}} /&gt;&lt;$transclude field=&lt;&lt;theField&gt;&gt; }}} /&gt;
 &lt;/span&gt;</pre>
 </div>
 <div created="20210509210815809" modified="20210529015058332" tags="" title="$:/FullSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -11544,7 +11544,7 @@ Stephen coins &quot;The Flexies&quot; in the 2020 prediction episode.
 
 In the year between making the picks and grading them, the Flexies became a game of their own with money on the line, but the new Flexy rules were //not// applied retroactively to this year's Flexy picks. &quot;That would just be silly&quot; and &quot;We're not savages&quot;, after all. As a result, these Flexies are just two rounds of predictions for bragging rights.</pre>
 </div>
-<div created="20210421055926555" creator="jbiatek" donation="75" donator="Federico" modified="20210430062018544" modifier="jbiatek" picked="20201104" tags="Keynote TableOfContents" title="2020 November Rickies" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
+<div created="20210421055926555" creator="jbiatek" donation="75" donator="Federico" flexies-winner="Stephen" modified="20210529224320283" modifier="jbiatek" picked="20201104" tags="Keynote TableOfContents" title="2020 November Rickies" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
 <pre>The predictions: https://www.relay.fm/connected/319
 
 The results: https://www.relay.fm/connected/320
@@ -11562,7 +11562,7 @@ The results: https://www.relay.fm/connected/320
 Federico donates $75 to &lt;a href=&quot;https://fundraise.operationbrokensilence.org/team/318824&quot;&gt;Stephen's wife's 5K&lt;/a&gt; for &lt;a href=&quot;https://fundraise.operationbrokensilence.org/event/edens-run-2020-virtual-challenge/e291154&quot;&gt;Eden's Run&lt;/a&gt;.
 </pre>
 </div>
-<div created="20210426162958246" creator="jbiatek" donation="100" donator="Federico" modified="20210430061948780" modifier="jbiatek" picked="20201014" tags="Keynote TableOfContents" title="2020 October Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
+<div created="20210426162958246" creator="jbiatek" donation="100" donator="Federico" flexies-winner="Stephen" modified="20210529224248543" modifier="jbiatek" picked="20201014" tags="Keynote TableOfContents" title="2020 October Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
 <pre>The predictions: https://www.relay.fm/connected/315
 
 The results: https://www.relay.fm/connected/316
@@ -11582,7 +11582,7 @@ Federico donates $100 to the &lt;a href=&quot;https://www.forrestspencefund.org/
 <div created="20210427203128743" loser="Stephen" modified="20210507181711002" result="Tails" tags="[[Coin flip]] [[2020 September Rickies]]" title="2020 September coin flip for second place" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210427201228063" creator="jbiatek" donation="100" donator="Stephen" modified="20210507183616959" modifier="jbiatek" picked="20200916" tags="Keynote TableOfContents" title="2020 September Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
+<div created="20210427201228063" creator="jbiatek" donation="100" donator="Stephen" flexies-winner="Federico" modified="20210529224023437" modifier="jbiatek" picked="20200916" tags="Keynote TableOfContents" title="2020 September Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
 <pre>The predictions: https://www.relay.fm/connected/311
 
 The results: https://www.relay.fm/connected/312
@@ -11627,7 +11627,7 @@ Myke wins [[a special Relay challenge coin flip by Jason Snell|2020 Summer coin 
 Federico loses due to the &quot;ratio&quot; tiebreaker, which is created in the moment, and thus owes drinks. But from the next Rickies on, the Flexies will include a substantial donation to charity from the loser.
 </pre>
 </div>
-<div created="20210416065847762" creator="jbiatek" modified="20210529223343444" modifier="jbiatek" picked="20210107" tags="Annual TableOfContents" title="2021 Annual Rickies" type="text/vnd.tiddlywiki" winner="TBD" revision="0" bag="default">
+<div created="20210416065847762" creator="jbiatek" flexies-winner="TBD" modified="20210529224739003" modifier="jbiatek" picked="20210107" tags="Annual TableOfContents" title="2021 Annual Rickies" type="text/vnd.tiddlywiki" winner="TBD" revision="0" bag="default">
 <pre>The predictions: https://www.relay.fm/connected/327
 
 The results: TBD
@@ -11648,7 +11648,7 @@ The results: TBD
 <div created="20210424010501429" loser="Stephen" modified="20210507181656867" result="Tails" tags="[[2021 April Rickies]] [[Coin flip]]" title="2021 April coin flip for second place in the Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420185532450" creator="jbiatek" donation="125" donator="Stephen" modified="20210507183943201" modifier="jbiatek" picked="20210414" tags="Keynote TableOfContents" title="2021 April Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
+<div created="20210420185532450" creator="jbiatek" donation="125" donator="Stephen" flexies-winner="Federico" modified="20210529224342814" modifier="jbiatek" picked="20210414" tags="Keynote TableOfContents" title="2021 April Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
 <pre>The predictions: https://www.relay.fm/connected/341
 
 The results: https://www.relay.fm/connected/342
@@ -12396,29 +12396,31 @@ missing winner:
 &lt;$list filter=&quot;[tag{!!title}tag[Ricky]sort[pick]]&quot; template=&quot;PickTableRowTemplate&quot; /&gt;
 &lt;/table&gt;</pre>
 </div>
-<div created="20210419224220858" creator="jbiatek" modified="20210507223827436" modifier="jbiatek" tags="TableOfContents" title="Scores and Stats" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210419224220858" creator="jbiatek" modified="20210529224757109" modifier="jbiatek" tags="TableOfContents" title="Scores and Stats" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! Annual Rickies:
 &lt;table&gt;
-&lt;tr&gt;&lt;th&gt;Name&lt;/th&gt;&lt;th&gt;Winner&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Name&lt;/th&gt;&lt;th&gt;Winner&lt;/th&gt;&lt;th&gt;Flexies Winner&lt;/th&gt;&lt;/tr&gt;
 &lt;$list filter=&quot;[tag[Annual]sort[picked]]&quot;&gt;
 &lt;tr&gt;
 &lt;th&gt;
 &lt;$link/&gt;
 &lt;/th&gt;
 &lt;td&gt;{{!!winner}}&lt;/td&gt;
+&lt;td&gt;{{!!flexies-winner}}&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/$list&gt;
 &lt;/table&gt;
 
 !! Keynote Rickies:
 &lt;table&gt;
-&lt;tr&gt;&lt;th&gt;Name&lt;/th&gt;&lt;th&gt;Winner&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Name&lt;/th&gt;&lt;th&gt;Winner&lt;/th&gt;&lt;th&gt;Flexies Winner&lt;/th&gt;&lt;/tr&gt;
 &lt;$list filter=&quot;[tag[Keynote]sort[picked]]&quot;&gt;
 &lt;tr&gt;
 &lt;th&gt;
 &lt;$link/&gt;
 &lt;/th&gt;
 &lt;td&gt;{{!!winner}}&lt;/td&gt;
+&lt;td&gt;{{!!flexies-winner}}&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/$list&gt;
 &lt;/table&gt;
