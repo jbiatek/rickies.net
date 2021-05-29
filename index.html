@@ -184,9 +184,13 @@ Error message and password prompt
 
 <li>$:/core/ui/SideBarSegments/tabs</li>
 
+<li>$:/CustomFieldView</li>
+
 <li>$:/DefaultTiddlers</li>
 
 <li>$:/FaviconCode</li>
+
+<li>$:/FieldPillTemplate</li>
 
 <li>$:/FullSidebar</li>
 
@@ -215,6 +219,8 @@ Error message and password prompt
 <li>$:/status/RequireReloadDueToPluginChange</li>
 
 <li>$:/StoryList</li>
+
+<li>$:/TagPillTweakForFieldPills</li>
 
 <li>$:/tags/SideBarSegment</li>
 
@@ -729,8 +735,6 @@ Error message and password prompt
 <li>Shortcuts will gain folders and/or new ways to run Shortcuts</li>
 
 <li>Shortcuts will gain new HomePod/AirPlay 2 actions to play audio on HomePod more quickly</li>
-
-<li>Show custom fields at bottom of views</li>
 
 <li>Siri on iOS will gain more verbal responses, speak more than it does now when activated with your voice</li>
 
@@ -10811,13 +10815,18 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div created="20210509213107110" modified="20210528205310905" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509213107110" modified="20210528211346015" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;div class=&quot;tc-sidebar-lists tc-sidebar-tabs&quot;&gt;
 
 &lt;$macrocall $name=&quot;tabs&quot; tabsList=&quot;[all[shadows+tiddlers]tag[$:/tags/SideBar]!has[draft.of]]&quot; default={{$:/config/DefaultSidebarTab}} state=&quot;$:/state/tab/sidebar&quot; class=&quot;tc-sidebar-tabs-main&quot; explicitState=&quot;$:/state/tab/sidebar--595412856&quot;/&gt;
 
 &lt;/div&gt;
 </pre>
+</div>
+<div created="20210528212115861" list-after="$:/core/ui/ViewTemplate/tags" modified="20210529223258902" tags="$:/tags/ViewTemplate Infrastructure" title="$:/CustomFieldView" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;$reveal type=&quot;nomatch&quot; stateTitle=&lt;&lt;folded-state&gt;&gt; text=&quot;hide&quot; tag=&quot;div&quot; retain=&quot;yes&quot; animate=&quot;yes&quot;&gt;
+&lt;div class=&quot;custom-field-wrapper&quot;&gt;&lt;$list filter=&quot;[all[current]fields:include[host pick score winner loser result donator donation]]&quot; variable=&quot;theField&quot; template=&quot;$:/FieldPillTemplate&quot; storyview=&quot;pop&quot;/&gt;&lt;/div&gt;
+&lt;/$reveal&gt;</pre>
 </div>
 <div created="20210420002151655" creator="jbiatek" modified="20210502220433685" modifier="jbiatek" title="$:/DefaultTiddlers" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Welcome
@@ -10835,7 +10844,12 @@ About</pre>
 &lt;meta name=&quot;theme-color&quot; content=&quot;#000000&quot;&gt;
 </pre>
 </div>
-<div created="20210509210815809" modified="20210528205314500" tags="" title="$:/FullSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210528213229981" modified="20210529223411923" tags="Infrastructure" title="$:/FieldPillTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;span class=&quot;tc-tag-label tc-tag-list-item tc-button-invisible&quot; style=&quot;background-color: lightblue;&quot;&gt;
+&lt;$text text={{{ [&lt;theField&gt;sentencecase[]] }}} /&gt;:  &lt;$text text={{{ [&lt;theField&gt;match[donation]then[$]else[]] }}} /&gt;&lt;$transclude field=&lt;&lt;theField&gt;&gt; }}} /&gt;
+&lt;/span&gt;</pre>
+</div>
+<div created="20210509210815809" modified="20210529015058332" tags="" title="$:/FullSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;&lt;tabs &quot;$:/core/ui/SideBar/Open 
 TableOfContents
 $:/core/ui/SideBar/Recent $:/core/ui/SideBar/Tools $:/core/ui/SideBar/More&quot; &quot;$:/core/ui/SideBar/Tools&quot;&gt;&gt;
@@ -11218,7 +11232,7 @@ linear-gradient(to bottom, transparent, transparent, transparent, transparent, t
 <div created="20210518204925103" modified="20210528205112246" tags="$:/tags/SideBarSegment Infrastructure" title="$:/SidebarLogo" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;img src=&quot;https://rickies.net/images/logo.png&quot; alt=&quot;The Rickipedia Logo&quot; style=&quot;  width: 60%; height: 60%;&quot; /&gt;</pre>
 </div>
-<div created="20210509212832036" modified="20210528205300860" tags="Infrastructure $:/tags/SideBarSegment" title="$:/SimpleSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509212832036" modified="20210529015056445" tags="Infrastructure $:/tags/SideBarSegment" title="$:/SimpleSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;&lt;tabs &quot;$:/core/ui/SideBar/Open 
 TableOfContents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
 </pre>
@@ -11234,6 +11248,11 @@ TableOfContents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
 </div>
 <div list="Welcome About" title="$:/StoryList" revision="1" bag="default">
 <pre></pre>
+</div>
+<div created="20210529154248621" modified="20210529154331941" tags="Infrastructure $:/tags/Stylesheet" title="$:/TagPillTweakForFieldPills" type="text/css" revision="0" bag="default">
+<pre>.tc-tags-wrapper {
+    margin: 4px 0 5px 0 !important;
+}</pre>
 </div>
 <div created="20210509212919684" list="$:/SidebarLogo $:/core/ui/SideBarSegments/site-title $:/core/ui/SideBarSegments/site-subtitle $:/core/ui/SideBarSegments/page-controls $:/core/ui/SideBarSegments/search $:/SimpleSidebar" modified="20210528205152010" tags="Infrastructure" title="$:/tags/SideBarSegment" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
@@ -11608,7 +11627,7 @@ Myke wins [[a special Relay challenge coin flip by Jason Snell|2020 Summer coin 
 Federico loses due to the &quot;ratio&quot; tiebreaker, which is created in the moment, and thus owes drinks. But from the next Rickies on, the Flexies will include a substantial donation to charity from the loser.
 </pre>
 </div>
-<div created="20210416065847762" creator="jbiatek" donation="" donator="" modified="20210501194839795" modifier="jbiatek" picked="20210107" tags="Annual TableOfContents" title="2021 Annual Rickies" type="text/vnd.tiddlywiki" winner="TBD" revision="0" bag="default">
+<div created="20210416065847762" creator="jbiatek" modified="20210529223343444" modifier="jbiatek" picked="20210107" tags="Annual TableOfContents" title="2021 Annual Rickies" type="text/vnd.tiddlywiki" winner="TBD" revision="0" bag="default">
 <pre>The predictions: https://www.relay.fm/connected/327
 
 The results: TBD
@@ -12556,36 +12575,6 @@ missing winner:
 </div>
 <div created="20210430042028478" creator="jbiatek" host="Federico" modified="20210502015624172" modifier="jbiatek" pick="6" score="1" tags="[[Audio Predictions]]" title="Shortcuts will gain new HomePod/AirPlay 2 actions to play audio on HomePod more quickly" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
-</div>
-<div created="20210416154224635" creator="jbiatek" modified="20210528205458952" modifier="jbiatek" tags="$:/tags/ViewTemplate Infrastructure" title="Show custom fields at bottom of views" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>&lt;$list filter=&quot;[is[current]!field:host[]] [is[current]!field:pick[]] [is[current]!field:score[]] [is[current]!field:winner[]] [is[current]!field:loser[]] [is[current]!field:result[]] [is[current]!field:donator[]] [is[current]!field:donation[]]&quot;&gt;
-&lt;table class=&quot;custom-fields&quot;&gt;
-&lt;$list filter=&quot;[is[current]!field:host[]]&quot;&gt;
-&lt;tr&gt;&lt;th&gt;Host&lt;/th&gt;&lt;td&gt;{{!!host}}&lt;/td&gt;&lt;/tr&gt;
-&lt;/$list&gt;
-&lt;$list filter=&quot;[is[current]!field:pick[]]&quot;&gt;
-&lt;tr&gt;&lt;th&gt;Pick&lt;/th&gt;&lt;td&gt;{{!!pick}}&lt;/td&gt;&lt;/tr&gt;
-&lt;/$list&gt;
-&lt;$list filter=&quot;[is[current]!field:score[]]&quot;&gt;
-&lt;tr&gt;&lt;th&gt;Score&lt;/th&gt;&lt;td&gt;{{!!score}}&lt;/td&gt;&lt;/tr&gt;
-&lt;/$list&gt;
-&lt;$list filter=&quot;[is[current]!field:winner[]]&quot;&gt;
-&lt;tr&gt;&lt;th&gt;Winner&lt;/th&gt;&lt;td&gt;{{!!winner}}&lt;/td&gt;&lt;/tr&gt;
-&lt;/$list&gt;
-&lt;$list filter=&quot;[is[current]!field:loser[]]&quot;&gt;
-&lt;tr&gt;&lt;th&gt;Loser&lt;/th&gt;&lt;td&gt;{{!!loser}}&lt;/td&gt;&lt;/tr&gt;
-&lt;/$list&gt;
-&lt;$list filter=&quot;[is[current]!field:result[]]&quot;&gt;
-&lt;tr&gt;&lt;th&gt;Result&lt;/th&gt;&lt;td&gt;{{!!result}}&lt;/td&gt;&lt;/tr&gt;
-&lt;/$list&gt;
-&lt;$list filter=&quot;[is[current]!field:donator[]]&quot;&gt;
-&lt;tr&gt;&lt;th&gt;Donator&lt;/th&gt;&lt;td&gt;{{!!donator}}&lt;/td&gt;&lt;/tr&gt;
-&lt;/$list&gt;
-&lt;$list filter=&quot;[is[current]!field:donation[]]&quot;&gt;
-&lt;tr&gt;&lt;th&gt;Donation&lt;/th&gt;&lt;td&gt;${{!!donation}}&lt;/td&gt;&lt;/tr&gt;
-&lt;/$list&gt;
-&lt;/table&gt;
-&lt;/$list&gt;</pre>
 </div>
 <div created="20210419173049368" host="Federico" modified="20210419173336900" pick="1.1" score="0.5" tags="[[2017 Annual Predictions]]" title="Siri on iOS will gain more verbal responses, speak more than it does now when activated with your voice" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;It can hold longer conversations without the user needing to look at the screen.&quot;&lt;/li&gt;&lt;li&gt;This was graded as a half point or a &quot;kinda&quot;.&lt;/li&gt;&lt;/ul&gt;</pre>
