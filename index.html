@@ -888,6 +888,8 @@ Error message and password prompt
 
 <li>WWDC brings no real changes to Mac Catalyst</li>
 
+<li>WWDC Events</li>
+
 <li>WWDC will introduce a multi-year plan to move macOS and iOS closer</li>
 
 <li>You can buy AirTags in a 3-pack</li>
@@ -11078,7 +11080,7 @@ toolbar-done-button:
 untagged-background: #999999
 very-muted-foreground: #888888</pre>
 </div>
-<div created="20210528064944192" modified="20210528205122009" tags="$:/tags/Stylesheet Infrastructure" title="$:/PickTableStyling" type="text/plain" revision="0" bag="default">
+<div created="20210528064944192" modified="20210530064617536" tags="$:/tags/Stylesheet Infrastructure" title="$:/PickTableStyling" type="text/plain" revision="0" bag="default">
 <pre>table.picktable, .picktable th {
     border: none !important;
 }
@@ -11130,6 +11132,7 @@ linear-gradient(to bottom, transparent, transparent, transparent, transparent, t
 
 .pick {
     border-left: none;
+    width: 100%;
 }
 .score {
     text-align: center; 
@@ -11157,7 +11160,9 @@ linear-gradient(to bottom, transparent, transparent, transparent, transparent, t
     border-left: none; 
     border-top: none !important;
 }
-</pre>
+.nonotes .notes, .nonotes .notes-spacer { 
+display: none; 
+}</pre>
 </div>
 <div author="Joao Bolila" dependents="" description="Highlight.js syntax highlighting" list="readme usage howto license" name="Highlight" plugin-type="plugin" title="$:/plugins/tiddlywiki/highlight" type="application/json" version="5.1.23" revision="0" bag="default">
 <pre>{
@@ -12852,7 +12857,7 @@ No host has attempted something like this yet, but this could lead to a contenti
 <div created="20210420212340448" host="Stephen" modified="20210424011145240" pick="1.2" score="0" tags="[[2021 April Rickies]] Flexy" title="We see Joz introduce something" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420213953579" creator="jbiatek" modified="20210506060918279" modifier="jbiatek" tags="" title="Welcome" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420213953579" creator="jbiatek" modified="20210530065121349" modifier="jbiatek" tags="" title="Welcome" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>This is Rickipedia, a comprehensive repository of information about the ever-evolving Apple prediction game played on &lt;a href=&quot;https://relay.fm/connected/&quot;&gt;Connected&lt;/a&gt; by hosts Stephen Hackett, Myke Hurley, and Federico Viticci.
 
 
@@ -12861,6 +12866,7 @@ No host has attempted something like this yet, but this could lead to a contenti
 — Myke Hurley
 &lt;&lt;&lt;
 
+WWDC is almost here! [[Catch up on all the past WWDC predictions|WWDC Events]].
 
 ! Contents
 
@@ -12874,6 +12880,28 @@ No host has attempted something like this yet, but this could lead to a contenti
 </div>
 <div created="20210416194033781" host="Stephen" modified="20210507222727118" pick="1.3" score="0" tags="[[2020 Annual Rickies]] NonGraded" title="WWDC brings no real changes to Mac Catalyst" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
+</div>
+<div created="20210530055921782" modified="20210530070606794" tags="" title="WWDC Events" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>So far, there have been two WWDC competitions: The [[2019 WWDC Predictions]] draft, an early iteration of what is now the Keynote Rickies, and the [[2020 Summer Rickies]]. Stephen won in 2019 and Myke in 2020. These have been high scoring affairs, with the vast majority of picks hitting the mark.
+
+The 2019 event was graded at a raucous live show, where at one point Federico threatened to call the police when his arguments didn't seem to be getting traction. Ultimately, all 3 hosts had perfect scores, leading to the game's first and so far only 3 way tie, which also led to the only coin flip that Myke has ever lost. Since then, he has an active streak of 5 coin flip wins.
+
+2020 also saw perfect scores for Myke and Stephen, but Federico did not fare quite as well. He had hoped for new iMessage features and Xcode for iPad. Myke did well with an iOS-focused slate of picks, while Stephen staked most of his picks on the Mac.
+
+This will be the first WWDC event where the loser of the Flexies is not penalized with a mandate to buy a round of drinks, as the [[new rules|The Bill of Rickies]] with a monetary donation for charity will be in effect. 
+
+&lt;$list filter=&quot;Stephen Myke Federico&quot; variable=&quot;currentHost&quot;&gt;
+&lt;h2&gt;&lt;&lt;currentHost&gt;&gt;'s Picks&lt;/h2&gt;
+&lt;$list filter=&quot;[[2019 WWDC Predictions]] [[2020 Summer Rickies]]&quot; variable=&quot;currentEvent&quot;&gt;
+
+&lt;table class=&quot;picktable nonotes&quot;&gt;
+&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;&lt;&lt;currentEvent&gt;&gt;&lt;/th&gt;&lt;th&gt;Score&lt;/th&gt;&lt;/tr&gt;
+&lt;$list filter=&quot;[tag&lt;currentEvent&gt;host&lt;currentHost&gt;tag[Regular]sort[pick]]&quot; template=&quot;PickTableRowTemplate&quot; /&gt;
+&lt;$list filter=&quot;[tag&lt;currentEvent&gt;host&lt;currentHost&gt;tag[Ricky]]&quot; template=&quot;PickTableRowTemplate&quot; /&gt;
+&lt;/table&gt;
+
+&lt;/$list&gt;
+&lt;/$list&gt;</pre>
 </div>
 <div created="20210416204223310" host="Stephen" modified="20210507221533348" pick="2.2" score="1" tags="[[2019 Annual Predictions]] NonGraded" title="WWDC will introduce a multi-year plan to move macOS and iOS closer" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Mac Catalyst and SwiftUI deemed to fulfill this&lt;/li&gt;&lt;/ul&gt;</pre>
