@@ -202,6 +202,8 @@ Error message and password prompt
 
 <li>$:/isEncrypted</li>
 
+<li>$:/language/Search/DefaultResults/Caption</li>
+
 <li>$:/layout</li>
 
 <li>$:/palette</li>
@@ -807,6 +809,8 @@ Error message and password prompt
 <li>Pick</li>
 
 <li>Pick Prototype</li>
+
+<li>PicksSearch</li>
 
 <li>PickTableRowTemplate</li>
 
@@ -11013,21 +11017,24 @@ TableOfContents
 $:/core/ui/SideBar/Recent $:/core/ui/SideBar/Tools $:/core/ui/SideBar/More&quot; &quot;$:/core/ui/SideBar/Tools&quot;&gt;&gt;
 </pre>
 </div>
-<div created="20210530160955049" modified="20210530160955049" status="complete" title="$:/Import" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210604031444155" modified="20210604031444155" status="complete" title="$:/Import" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>The following tiddlers were imported:
 
-# [[$:/config/KookmaPluginLibrary]]</pre>
+# [[Pick Search]]</pre>
 </div>
 <div title="$:/isEncrypted" revision="0" bag="default">
 <pre>no</pre>
 </div>
+<div created="20210604032308773" modified="20210604032324580" tags="Infrastructure" title="$:/language/Search/DefaultResults/Caption" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>All</pre>
+</div>
 <div created="20210430053150840" creator="jbiatek" modified="20210603183522208" modifier="jbiatek" title="$:/layout" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>$:/core/ui/PageTemplate</pre>
 </div>
-<div created="20210415165652580" creator="jbiatek" modified="20210509214019732" modifier="jbiatek" title="$:/palette" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210415165652580" creator="jbiatek" modified="20210604031736954" modifier="jbiatek" title="$:/palette" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>$:/palettes/Rocker-Fixed</pre>
 </div>
-<div created="20210509213924096" description="A dark theme, fixed" modified="20210510173931518" name="Rocker (fixed)" tags="$:/tags/Palette" title="$:/palettes/Rocker-Fixed" type="application/x-tiddler-dictionary" revision="0" bag="default">
+<div created="20210509213924096" description="A dark theme, fixed" modified="20210604032121842" name="Rocker (fixed)" tags="$:/tags/Palette" title="$:/palettes/Rocker-Fixed" type="application/x-tiddler-dictionary" revision="0" bag="default">
 <pre>alert-background: #ffe476
 alert-border: #b99e2f
 alert-highlight: #881122
@@ -11081,8 +11088,8 @@ sidebar-controls-foreground: #ffffff
 sidebar-foreground-shadow: rgba(255,255,255, 0.0)
 sidebar-foreground: #acacac
 sidebar-muted-foreground-hover: #444444
-sidebar-muted-foreground: #c0c0c0
-sidebar-tab-background-selected: #000
+sidebar-muted-foreground: #edecee
+sidebar-tab-background-selected: #FFFFFF
 sidebar-tab-background: &lt;&lt;colour tab-background&gt;&gt;
 sidebar-tab-border-selected: &lt;&lt;colour tab-border-selected&gt;&gt;
 sidebar-tab-border: &lt;&lt;colour tab-border&gt;&gt;
@@ -13667,6 +13674,17 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 </div>
 <div created="20210420185756451" host="" modified="20210528204508685" pick="" score="" tags="Infrastructure" title="Pick Prototype" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
+</div>
+<div caption="Picks" created="20210601154854808" modified="20210604055915901" tags="$:/tags/SearchResults Infrastructure" title="PicksSearch" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>\define searchResults()
+&lt;i&gt;&lt;small&gt;In title (&lt;$count filter=&quot;[!is[system]tag[Pick]search:title{$(searchTiddler)$}]&quot;/&gt;)&lt;/small&gt;&lt;/i&gt;
+&lt;$list filter=&quot;[!is[system]tag[Pick]search:title{$(searchTiddler)$}]&quot;&gt;&lt;$link/&gt;&lt;/$list&gt;
+
+&lt;i&gt;&lt;small&gt;Other (&lt;$count filter=&quot;[!is[system]tag[Pick]search{$(searchTiddler)$}!search:title{$(searchTiddler)$}]&quot;/&gt;)&lt;/small&gt;&lt;/i&gt;
+&lt;$list filter=&quot;[!is[system]tag[Pick]search{$(searchTiddler)$}!search:title{$(searchTiddler)$}]&quot;&gt;&lt;$link/&gt;&lt;/$list&gt;
+
+\end
+&lt;&lt;searchResults&gt;&gt;</pre>
 </div>
 <div created="20210527212654514" modified="20210531071355071" tags="Infrastructure" title="PickTableRowTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;tr class=&quot;pickrow&quot;&gt;
