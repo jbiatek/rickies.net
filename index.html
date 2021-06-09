@@ -52,6 +52,17 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE." />
 
 <!--~~ Raw markup ~~-->
 
+<script type="text/javascript">
+if (window.location.hostname.includes("rickies.net")) {
+  document.addEventListener("DOMContentLoaded", function () {
+    console.log("Clearing out window unload functionality");
+    window.onbeforeunload = new function() { return; };
+    console.log(window.onbeforeunload);
+  });
+} else {
+  console.log("Not messing with unload handler");
+}
+</script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -191,6 +202,8 @@ Error message and password prompt
 <li>$:/CustomFieldView</li>
 
 <li>$:/DefaultTiddlers</li>
+
+<li>$:/DisableNaggingOnPublicSite</li>
 
 <li>$:/FaviconCode</li>
 
@@ -11065,6 +11078,20 @@ To use in other wikis, drag and drop this link to those wikis: [[Kookma Plugin L
 <div created="20210420002151655" creator="jbiatek" modified="20210502220433685" modifier="jbiatek" title="$:/DefaultTiddlers" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Welcome
 About</pre>
+</div>
+<div created="20210609205052864" modified="20210609214140314" tags="Infrastructure $:/tags/RawMarkup" title="$:/DisableNaggingOnPublicSite" type="text/plain" revision="0" bag="default">
+<pre>&lt;script type=&quot;text/javascript&quot;&gt;
+if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
+  document.addEventListener(&quot;DOMContentLoaded&quot;, function () {
+    console.log(&quot;Clearing out window unload functionality&quot;);
+    window.onbeforeunload = new function() { return; };
+    console.log(window.onbeforeunload);
+  });
+} else {
+  console.log(&quot;Not messing with unload handler&quot;);
+}
+&lt;/script&gt;
+</pre>
 </div>
 <div created="20210518202501611" modified="20210606235050592" tags="$:/tags/RawMarkup Infrastructure" title="$:/FaviconCode" type="text/plain" revision="0" bag="default">
 <pre>&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;180x180&quot; href=&quot;/apple-touch-icon.png&quot;&gt;
