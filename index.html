@@ -309,6 +309,8 @@ Error message and password prompt
 
 <li>2021 Annual Rickies</li>
 
+<li>2021 Annual Rickies Halftime Report</li>
+
 <li>2021 April coin flip for second place in the Flexies</li>
 
 <li>2021 April coin flip for second place in the Rickies</li>
@@ -11138,7 +11140,7 @@ Contents
 $:/core/ui/SideBar/Recent $:/core/ui/SideBar/Tools $:/core/ui/SideBar/More&quot; &quot;$:/core/ui/SideBar/Tools&quot;&gt;&gt;
 </pre>
 </div>
-<div created="20210622161731919" modified="20210622172358041" tags="Infrastructure $:/tags/Stylesheet" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
+<div created="20210622161731919" modified="20210622174243386" tags="Infrastructure" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
 <pre>.tc-drop-down button[aria-label=&quot;info&quot;],
 .tc-drop-down button[aria-label=&quot;new here&quot;],
 .tc-drop-down button[aria-label=&quot;new journal here&quot;],
@@ -11383,15 +11385,8 @@ toolbar-done-button:
 untagged-background: #999999
 very-muted-foreground: #888888</pre>
 </div>
-<div created="20210528064944192" modified="20210531074733629" tags="$:/tags/Stylesheet Infrastructure" title="$:/PickTableStyling" type="text/plain" revision="0" bag="default">
-<pre>table.picktable, .picktable th {
-    border: none !important;
-}
-.picktable td {
-    border-left: none !important;
-}
-
-td ul {
+<div created="20210528064944192" modified="20210622171609438" tags="$:/tags/Stylesheet Infrastructure" title="$:/PickTableStyling" type="text/plain" revision="0" bag="default">
+<pre>td ul {
     margin: 5px;
     padding-left: 0px;
     list-style-type: none;
@@ -11434,14 +11429,14 @@ linear-gradient(to bottom, transparent, transparent, transparent, transparent, t
 
 
 .pick {
-    border-left: none;
     width: 100%;
 }
-.score {
+.score, .cellcenter {
     text-align: center; 
     vertical-align: middle;
 	padding-block: 7px;
-    border-left: none;
+}
+.score {
     border-radius: 0px 0px 0px 5px;
 }
 .correct {
@@ -11456,12 +11451,12 @@ linear-gradient(to bottom, transparent, transparent, transparent, transparent, t
 .ungraded {
     color: #dddddd;
 }
+.picktable .forecast {
+    box-shadow: 0px 0px 12px 12px white inset;
+}
 .notes-spacer {
-    border-top: none !important;
 }
 .notes {
-    border-left: none; 
-    border-top: none !important;
 }
 .picktype {
     text-align: center; 
@@ -11469,6 +11464,16 @@ linear-gradient(to bottom, transparent, transparent, transparent, transparent, t
 .nonotes .notes, .nonotes .notes-spacer, .nopicktype .picktype,
 .nohost .Federico, .nohost .Myke, .nohost .Stephen { 
 display: none; 
+}
+
+.picktable th, .picktable td, .picktable {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+}
+.picktable td.Myke, .picktable td.Stephen, .picktable td.Federico, .picktable td.picktype, .picktable td.pick, .picktable td.score {
+    border-top: 1px solid #dddddd;
 }</pre>
 </div>
 <div author="Mohammad Rahmani" core-version="&gt;=5.1.22" created="20210530161053455" dependents="" description="batch processing tiddlers" list="readme history license authors" modified="20210530161053455" name="Tiddler Commander" plugin-type="plugin" source="https://github.com/kookma/TW-Commander" title="$:/plugins/kookma/commander" type="application/json" version="2.1.2" revision="0" bag="default">
@@ -12820,8 +12825,10 @@ Myke wins [[a special Relay challenge coin flip by Jason Snell|2020 Summer coin 
 Federico loses due to the &quot;ratio&quot; tiebreaker, which is created in the moment, and thus owes drinks. But from the next Rickies on, the Flexies will include a substantial donation to charity from the loser.
 </pre>
 </div>
-<div created="20210416065847762" creator="jbiatek" flexies-winner="TBD" modified="20210606163100960" modifier="jbiatek" picked="20210107" tags="Annual Contents Game" title="2021 Annual Rickies" type="text/vnd.tiddlywiki" winner="TBD" revision="0" bag="default">
-<pre>{{||RelevantEpisodeTemplate}}
+<div created="20210416065847762" creator="jbiatek" flexies-winner="TBD" modified="20210622153530804" modifier="jbiatek" picked="20210107" tags="Annual Contents Game" title="2021 Annual Rickies" type="text/vnd.tiddlywiki" winner="TBD" revision="0" bag="default">
+<pre>The [[2021 Annual Rickies Halftime Report]] is also available, with analysis of the state of the game halfway through the year.
+
+{{||RelevantEpisodeTemplate}}
 
 {{||RegularPickTemplate}}
 
@@ -12832,6 +12839,144 @@ Federico loses due to the &quot;ratio&quot; tiebreaker, which is created in the 
 {{||FlexyPickTemplate}}
 
 &lt;!--{{||FlexyScoreTemplate}}--&gt;</pre>
+</div>
+<div created="20210611203507014" modified="20210622174805240" tags="[[Articles and Commentaries]] [[2021 Annual Rickies]]" title="2021 Annual Rickies Halftime Report" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>For the full multimedia experience, &lt;a href=&quot;https://www.youtube.com/watch?v=JCIHjcOm23E&amp;t=300s&quot; target=&quot;_blank&quot;&gt;play this in the background&lt;/a&gt;.  
+
+!! Forecast terminology
+
+* &quot;Locked In&quot;: indisputably settled, no room for argument
+* &quot;Very Likely&quot;: practically settled, but subjective language or a hypothetical scenario prevents it from being a lock
+* &quot;Leans&quot;: speculation, but with evidence pointing in a particular direction
+* &quot;Tossup&quot;: Who knows?
+
+! 🏆 The Rickies 🏆
+
+!! 🇬🇧 Myke
+
+&lt;table class=&quot;picktable nohost nonotes&quot;&gt;
+&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Myke&lt;/th&gt;&lt;th&gt;Forecast&lt;/th&gt;&lt;/tr&gt;
+{{Apple announces a new Mac Pro powered by Apple Silicon||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;New Mac Pros have a good chance of coming out this year, but &lt;a href=&quot;https://www.macrumors.com/2021/06/08/intel-mac-pro-xcode-13/&quot; target=&quot;_blank&quot;&gt;they might be one last round of Intel machines&lt;/a&gt;. Myke's other chance is if &lt;a href=&quot;https://www.macrumors.com/2021/01/15/apple-two-new-mac-pro-models/&quot; target=&quot;_blank&quot;&gt;the rumored Mac Pro Mini with Apple Silicon&lt;/a&gt; is announced in 2021, which would satisfy this pick as well.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast halfcorrect&quot;&gt;Tossup&lt;/td&gt;&lt;/tr&gt;
+
+{{iOS 15 gives users more home screen customization options||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;iOS 15 doesn't offer much in new home screen features, but it will have home screen reordering and automatic showing and hiding of home screens with different Focus settings. Myke may have to debate whether these are &quot;customization&quot; of the home screen itself, but the pick is vague enough that he will probably be successful.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast correct&quot;&gt;Very Likely +1&lt;/td&gt;&lt;/tr&gt;
+
+{{A Mac gets a screen that supports touch and/or Apple Pencil input||PickTableRowTemplate}}
+
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Rumors don't seem to have touch or Apple Pencil support in the works for the Mac, and it runs counter to Apple's statements about ergonomics in the past, so this remains a risky pick.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast incorrect&quot;&gt;Leans -1&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+
+!! 🇺🇸 Stephen
+
+&lt;table class=&quot;picktable nohost nonotes&quot;&gt;
+&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Stephen&lt;/th&gt;&lt;th&gt;Forecast&lt;/th&gt;&lt;/tr&gt;
+{{The iPad mini does receive the new design language||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Stephen may need to thank his rivals, as they bullied him into being positive about the iPad Mini and now &lt;a href=&quot;https://9to5mac.com/2021/06/11/redesigned-ipad-mini-renders/&quot; target=&quot;_blank&quot;&gt;rumors indicate he might get this point after all&lt;/a&gt;. If this is true, it's just a matter of whether it happens before the end of the year.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast correct&quot;&gt;Leans +1&lt;/td&gt;&lt;/tr&gt;
+
+{{No in-person WWDC 2021||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;WWDC was indeed not in person this year.&lt;/td&gt;&lt;td class=&quot;cellcenter correct&quot;&gt;Locked in +1&lt;/td&gt;&lt;/tr&gt;
+
+{{Apple has Apple Silicon versions of all of its Intel Macs on sale by the end of 2021||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Apple would have to move ahead of their stated schedule to ensure that every line of Mac has an Apple Silicon offering in 2021. The MacBook Pro and higher end iMacs will probably make the jump this year, but the iMac Pro and Mac Pro remain more questionable. And since the iMac Pro is its own distinct line which is unlikely to continue in the Apple Silicon era, if Apple keeps it around to the end of the year then Stephen will lose this point.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast incorrect&quot;&gt;Leans -1&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+
+!! 🇮🇹 Federico
+
+&lt;table class=&quot;picktable nohost nonotes&quot;&gt;
+&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Federico&lt;/th&gt;&lt;th&gt;Forecast&lt;/th&gt;&lt;/tr&gt;
+{{Apple launches at least one iPad model with a new display technology||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;The 12.9&quot; iPad Pro did get new display technology.&lt;/td&gt;&lt;td class=&quot;cellcenter correct&quot;&gt;Locked in +1&lt;/td&gt;&lt;/tr&gt;
+{{Apple launches 'AirTags' accessories for tracking physical objects||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;AirTags were released, and even the name was right.&lt;/td&gt;&lt;td class=&quot;cellcenter correct&quot;&gt;Locked in +1&lt;/td&gt;&lt;/tr&gt;
+{{Apple will release a new programming app for iPad||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;As was mentioned as a potential stumbling block for Federico at the beginning of the year, Apple did add new programming functionality for the iPad, but it's in the existing Swift Playgrounds app and not &quot;a new programming app&quot;. While Apple //could// still make this pick happen, it would be a very confusing rollout for programming on the iPad.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast incorrect&quot;&gt;Very Likely -1&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+
+!! 🔮 Rankings
+
+# Federico
+# Stephen
+# Myke
+
+With 2 points already locked in, and no one's Risky Picks looking very promising, Federico is the current favorite to win. 
+
+Stephen has also locked in a point, and his iPad mini pick is starting to show up in the rumor mill which is encouraging. If any host is going to get their Risky Pick, Stephen probably has the best chance, needing Apple to once again complete a chip transition ahead of schedule.
+
+Myke has one point that he can probably already argue in favor of, but if Apple does indeed get the Mac Pro line onto Apple Silicon, it becomes much more likely that Stephen's Risky Pick comes true too. His paths to victory are narrower than the others, putting him in the toughest spot.
+
+! 💪 The Flexies 💪
+
+
+!! 🇬🇧 Myke 
+
+&lt;table class=&quot;picktable nohost nonotes&quot;&gt;
+&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Myke&lt;/th&gt;&lt;th&gt;Forecast&lt;/th&gt;&lt;/tr&gt;
+{{Another variant of over-ear headphones will be released||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;To my knowledge, there are no rumors one way or the other about new over-ear headphones from Apple. There is potentially a question about whether Beats headphones would count.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast halfcorrect&quot;&gt;Tossup&lt;/td&gt;&lt;/tr&gt;
+{{Apple releases a weather API||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Apple has kept Dark Sky's old API active for another year, a strong indication that a new one isn't coming any time soon.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast incorrect&quot;&gt;Very Likely 0&lt;/td&gt;&lt;/tr&gt;
+{{New Apple TV released||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;This happened, complete with a new remote as well.&lt;/td&gt;&lt;td class=&quot;cellcenter correct&quot;&gt;Locked in +1&lt;/td&gt;&lt;/tr&gt;
+{{iPad multitasking is overhauled again||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;iPad multitasking got a big update, but with a subjective word like &quot;overhauled&quot; we will need to wait for final grading. It could be argued that &quot;overhaul&quot; is a strong word for a system that retains largely the same capabilities but has newer, easier ways to activate them.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast correct&quot;&gt;Very Likely +1&lt;/td&gt;&lt;/tr&gt;
+{{A new iMac has adjustability that is reminiscent of the Pro Display XDR||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;The higher-end iMac is expected to get an update with what we're all calling the M1X chip fairly soon, but so far no leaks about the stand.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast halfcorrect&quot;&gt;Tossup&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+!! 🇮🇹 Federico
+
+&lt;table class=&quot;picktable nohost nonotes&quot;&gt;
+&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Federico&lt;/th&gt;&lt;th&gt;Forecast&lt;/th&gt;&lt;/tr&gt;
+
+{{Apple releases its own game controller||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Apple releasing its own game controller was always unlikely, but with the Apple TV getting an update and no word of a first party controller, chances are looking slim.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast incorrect&quot;&gt;Leans 0&lt;/td&gt;&lt;/tr&gt;
+{{iOS gets a native feature to change icons for any app you want||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;iOS 15 was revealed without native icon changing beyond what apps can already offer. They'd have to add it in the middle of the OS update cycle now.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast incorrect&quot;&gt;Very Likely 0&lt;/td&gt;&lt;/tr&gt;
+{{Apple releases a bigger iPad Pro||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;The iPad Pro has already had an update with no larger size. It could still happen, but the most likely chance to release it has passed.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast incorrect&quot;&gt;Leans 0&lt;/td&gt;&lt;/tr&gt;
+{{At least one new iPhone model has both Face ID and Touch ID||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;We don't have much about the new iPhone hardware, but the security and user interface complexity of two biometric authentications in one device make it seem like an un-Apple move.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast incorrect&quot;&gt;Leans 0&lt;/td&gt;&lt;/tr&gt;
+{{WidgetKit will support new widget sizes and more interactivity||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;WidgetKit did gain new widget sizes on iPadOS, but no more interactivity. The word &quot;and&quot; is going to lose this for Federico unless Apple makes a surprise change in a point update toward the end of the year.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast incorrect&quot;&gt;Very Likely 0&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+
+
+!! 🇺🇸 Stephen
+
+&lt;table class=&quot;picktable nohost nonotes&quot;&gt;
+&lt;tr&gt;&lt;th&gt;&lt;/th&gt;&lt;th&gt;Stephen&lt;/th&gt;&lt;th&gt;Forecast&lt;/th&gt;&lt;/tr&gt;
+
+{{Apple puts a cheaper display on sale as a sibling to the XDR||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;a href=&quot;https://www.macrumors.com/2021/06/03/apple-thunderbolt-display-now-considered-vintage/&quot; target=&quot;_blank&quot;&gt;Rumors indicate that Apple is working on a new, cheaper display&lt;/a&gt;, but no indication yet on when it may come out.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast halfcorrect&quot;&gt;Tossup&lt;/td&gt;&lt;/tr&gt;
+{{There will be a chip named M1 followed by a letter||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;A few of Apple's YouTube videos &lt;a href=&quot;https://www.macrumors.com/2021/06/09/apple-m1x-macbook-pro-wwdc-keynote/&quot; target=&quot;_blank&quot;&gt;may have spilled the beans&lt;/a&gt; early. M1X was always a likely name for the more powerful chip anyway.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast correct&quot;&gt;Leans +1&lt;/td&gt;&lt;/tr&gt;
+{{The new iPhone will be the 12S, not the 13||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;At this point, no rumors about what the new phones will be named.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast halfcorrect&quot;&gt;Tossup&lt;/td&gt;&lt;/tr&gt;
+{{Apple ships an AR, VR, and/or MR dedicated device||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;It's a given that Apple is working on AR/VR hardware, but will it be out this year? &lt;a href=&quot;https://www.macrumors.com/roundup/apple-glasses/&quot; target=&quot;_blank&quot;&gt;Most rumors seem to indicate 2022&lt;/a&gt;.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast incorrect&quot;&gt;Leans 0&lt;/td&gt;&lt;/tr&gt;
+{{No Mac gets a cellular data option||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;So far, so good for this pick, but the MacBook Pro is likely to move to Apple Silicon soon and could pick up this feature.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast halfcorrect&quot;&gt;Tossup&lt;/td&gt;&lt;/tr&gt;
+{{The iPod Touch will be cancelled||PickTableRowTemplate}}
+&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;The iPod Touch continues to be a product in Apple's lineup.&lt;/td&gt;&lt;td class=&quot;cellcenter forecast halfcorrect&quot;&gt;Tossup&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+
+!! 🔮 Rankings
+
+# Myke
+# Stephen
+# Federico
+
+Myke has 1 Flexy point locked in, one that looks good, one that looks bad, and two tossups. We could see a score anywhere from 20% to 100% for him. With the most upside of the three, Myke has an edge on his cohosts.
+
+Stephen has once again made an extra pick above the minimum, putting him at a disadvantage: he has to get one more correct than his rivals to beat their ratios. All of his picks are still up in the air with a lot of uncertainty, so almost anything could happen.
+
+Federico made some very passionate picks, and that may be why he's a favorite to be donating to charity this year. Two of his picks would require some surprise new OS features to be announced as point releases before the end of the year, and a larger iPad and game controller were missing from the recent Spring Loaded event, which otherwise featured iPads and Apple TV.</pre>
 </div>
 <div created="20210426031404974" loser="Stephen" modified="20210507181704416" result="Heads" tags="[[2021 April Rickies]] [[Coin flip]]" title="2021 April coin flip for second place in the Flexies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre></pre>
@@ -13982,7 +14127,7 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <pre></pre>
 </div>
 <div created="20210416152416868" modified="20210622154816365" tags="Infrastructure" title="RickyPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>!! ⚠️  Risky Picks
+<pre>!! ⚠️ Risky Picks
 
 &lt;&lt;pick-table [tag{!!title}tag[Ricky]]&gt;&gt;</pre>
 </div>
@@ -14238,8 +14383,10 @@ As it turns out, it didn't come out at all. At the beginning of 2019, Federico s
 <div created="20210429061705146" creator="jbiatek" host="Federico" modified="20210530222631094" modifier="jbiatek" pick="1.3" score="0" tags="[[2019 Fall Rickies]] Regular iPhone Pick" title="The biggest phone will not be called Pro Max" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210416055238692" creator="jbiatek" modified="20210609222912975" modifier="jbiatek" tags="Contents" title="The Bill of Rickies" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>Last amended June 9, 2021.
+<div created="20210416055238692" creator="jbiatek" modified="20210622160102787" modifier="jbiatek" tags="Contents" title="The Bill of Rickies" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;div class=&quot;fancy-body&quot;&gt;
+
+Last amended June 9, 2021.
 
 Past results can be seen at &lt;a href=&quot;https://rickies.co&quot; target=&quot;_blank&quot;&gt;Rickies.co&lt;/a&gt; and Rickies.net.
 
@@ -14266,6 +14413,8 @@ Past results can be seen at &lt;a href=&quot;https://rickies.co&quot; target=&qu
 
 A tie in either the regular picks or the Flexies is to be broken by coin toss. Jason Snell has a lifetime ban on flipping the coin, but Digital Voice Assistants may be used, even by Jason.
 
+&lt;/div&gt;
+
 &lt;hr&gt;
 
 ! Changes
@@ -14275,7 +14424,20 @@ To see each iteration of the Bill as it existed over time, check out the incredi
 &lt;$list filter=&quot;[!episode[]!text[]!sort[episode]]&quot;&gt;
 &lt;li&gt;&lt;$link&gt;#{{!!episode}}&lt;/$link&gt;: {{!!text}}&lt;/li&gt;
 &lt;/$list&gt;
-&lt;/ul&gt;</pre>
+&lt;/ul&gt;
+
+&lt;style&gt;
+[data-tiddler-title=&quot;{{!!title}}&quot;] .tc-title {
+font-family: &quot;Snell Roundhand&quot;, &quot;Georgia&quot;, &quot;Times New Roman&quot;, -apple-system, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;
+}
+[data-tiddler-title=&quot;{{!!title}}&quot;] .fancy-body {
+font-family: &quot;Palatino&quot;, &quot;Georgia&quot;, &quot;Times New Roman&quot;, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;
+font-size: 16px;
+}
+[data-tiddler-title=&quot;{{!!title}}&quot;] {
+background-color: rgb(255, 252, 240);
+}
+&lt;/style&gt;</pre>
 </div>
 <div created="20210420212915809" host="Myke" modified="20210530222631103" pick="2.6" score="0" tags="[[2021 April Rickies]] Flexy iPad Pick" title="The camera on the iPad Pro moves to the long side" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
@@ -14597,7 +14759,7 @@ June, 2021
 <div created="20210420212340448" host="Stephen" modified="20210530222631531" pick="1.2" score="0" tags="[[2021 April Rickies]] Flexy Stagecraft Pick" title="We see Joz introduce something" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420213953579" creator="jbiatek" modified="20210609203701563" modifier="jbiatek" tags="Contents" title="Welcome" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420213953579" creator="jbiatek" modified="20210622035941536" modifier="jbiatek" tags="Contents" title="Welcome" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>This is Rickipedia, a comprehensive repository of information about the ever-evolving Apple prediction game played on &lt;a href=&quot;https://relay.fm/connected/&quot;&gt;Connected&lt;/a&gt; by hosts Stephen Hackett, Myke Hurley, and Federico Viticci.
 
 
@@ -14605,6 +14767,14 @@ June, 2021
 “Better than, maybe, anything else I’ve ever seen on the Internet ever”&lt;br&gt;
 — Myke Hurley
 &lt;&lt;&lt;
+
+Browse the extensive selection of [[scores and stats|Scores and Stats]], a breakdown of picks [[by topic|Topics]], a copy of [[The Bill of Rickies]] with a changelog, and [[more|Contents]]. In the sidebar (or the top of the page on mobile), use the search bar to search the entire database or just the picks. 
+
+!! What's new
+
+With half of the year already over and a few Apple announcements already done, it's time to check in on the [[2021 Annual Rickies]] with [[a halftime report|2021 Annual Rickies Halftime Report]] to see how each host's picks are faring.
+
+New topic: [[Find out which host has been the biggest buzzkill|Buzzkill]], making picks that Apple will do something that its fans may be disappointed by. 
 
 !! Active games
 
@@ -14614,9 +14784,10 @@ June, 2021
 
 &lt;ul&gt;&lt;$list filter=&quot;[!episode[]!sort[episode]tags[]tag[Game]!winner[TBD]limit[3]]&quot;&gt;&lt;li&gt;&lt;$link/&gt;&lt;/li&gt;&lt;/$list&gt;&lt;/ul&gt;
 
-! Contents
 
-{{Contents}}</pre>
+!! Everything
+
+[[Open the full Table of Contents|Contents]]</pre>
 </div>
 <div created="20210531201348708" host="Federico" modified="20210609192714300" pick="2.1" score="0" tags="[[2021 WWDC Rickies]] Regular [[Developer tools]] Pick" title="WidgetKit gains new interactivity features that allow you to perform actions inside widgets without launching the associated app" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
