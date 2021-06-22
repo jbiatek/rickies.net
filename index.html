@@ -191,6 +191,14 @@ Error message and password prompt
 
 <li>$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/edit</li>
 
+<li>$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/fold</li>
+
+<li>$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/fold-bar</li>
+
+<li>$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/more-tiddler-actions</li>
+
+<li>$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/new-here</li>
+
 <li>$:/config/WikiParserRules/Inline/wikilink</li>
 
 <li>$:/ConnectedLinkView</li>
@@ -210,6 +218,8 @@ Error message and password prompt
 <li>$:/FieldPillTemplate</li>
 
 <li>$:/FullSidebar</li>
+
+<li>$:/HideEditControls</li>
 
 <li>$:/isEncrypted</li>
 
@@ -1184,10 +1194,22 @@ To use in other wikis, drag and drop this link to those wikis: [[Kookma Plugin L
 <div created="20210415205842836" modified="20210415205849926" title="$:/config/Toolbar/Text" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>no</pre>
 </div>
-<div created="20210428223303607" creator="jbiatek" modified="20210603170958227" modifier="jbiatek" title="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/clone" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428223303607" creator="jbiatek" modified="20210622163813890" modifier="jbiatek" title="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/clone" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>show</pre>
+</div>
+<div created="20210430190000407" creator="jbiatek" modified="20210622163813011" modifier="jbiatek" title="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/edit" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>show</pre>
+</div>
+<div created="20210622161912926" modified="20210622161921483" title="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/fold" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>hide</pre>
 </div>
-<div created="20210430190000407" creator="jbiatek" modified="20210609203637925" modifier="jbiatek" title="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/edit" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210622161853494" modified="20210622161855013" title="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/fold-bar" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>hide</pre>
+</div>
+<div created="20210622161846614" modified="20210622161858360" title="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/more-tiddler-actions" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>show</pre>
+</div>
+<div created="20210622162638079" modified="20210622162639615" title="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/new-here" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>hide</pre>
 </div>
 <div created="20210416065750625" modified="20210416065750647" title="$:/config/WikiParserRules/Inline/wikilink" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -11062,7 +11084,7 @@ To use in other wikis, drag and drop this link to those wikis: [[Kookma Plugin L
     }
 }</pre>
 </div>
-<div created="20210509213107110" modified="20210528211346015" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509213107110" modified="20210622172358970" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;div class=&quot;tc-sidebar-lists tc-sidebar-tabs&quot;&gt;
 
 &lt;$macrocall $name=&quot;tabs&quot; tabsList=&quot;[all[shadows+tiddlers]tag[$:/tags/SideBar]!has[draft.of]]&quot; default={{$:/config/DefaultSidebarTab}} state=&quot;$:/state/tab/sidebar&quot; class=&quot;tc-sidebar-tabs-main&quot; explicitState=&quot;$:/state/tab/sidebar--595412856&quot;/&gt;
@@ -11110,11 +11132,30 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 &lt;$text text={{{ [&lt;theField&gt;sentencecase[]search-replace:g:[-],[ ]] }}} /&gt;:  &lt;$text text={{{ [&lt;theField&gt;match[donation]then[$]else[]] }}} /&gt;&lt;$transclude field=&lt;&lt;theField&gt;&gt; }}} /&gt;
 &lt;/span&gt;</pre>
 </div>
-<div created="20210509210815809" modified="20210606235440496" tags="Infrastructure" title="$:/FullSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509210815809" modified="20210622164717320" tags="Infrastructure" title="$:/FullSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;&lt;tabs &quot;$:/core/ui/SideBar/Open 
 Contents
 $:/core/ui/SideBar/Recent $:/core/ui/SideBar/Tools $:/core/ui/SideBar/More&quot; &quot;$:/core/ui/SideBar/Tools&quot;&gt;&gt;
 </pre>
+</div>
+<div created="20210622161731919" modified="20210622172358041" tags="Infrastructure $:/tags/Stylesheet" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
+<pre>.tc-drop-down button[aria-label=&quot;info&quot;],
+.tc-drop-down button[aria-label=&quot;new here&quot;],
+.tc-drop-down button[aria-label=&quot;new journal here&quot;],
+.tc-drop-down button[aria-label=&quot;edit&quot;],
+.tc-drop-down button[aria-label=&quot;clone&quot;],
+.tc-drop-down button[aria-label=&quot;export tiddler&quot;],
+.tc-drop-down button[aria-label=&quot;delete&quot;],
+.tc-tiddler-controls button[aria-label=&quot;info&quot;],
+.tc-tiddler-controls button[aria-label=&quot;new here&quot;],
+.tc-tiddler-controls button[aria-label=&quot;new journal here&quot;],
+.tc-tiddler-controls button[aria-label=&quot;edit&quot;],
+.tc-tiddler-controls button[aria-label=&quot;clone&quot;],
+.tc-tiddler-controls button[aria-label=&quot;export tiddler&quot;],
+.tc-tiddler-controls button[aria-label=&quot;delete&quot;]
+{
+    display: none;
+}</pre>
 </div>
 <div title="$:/isEncrypted" revision="0" bag="default">
 <pre>no</pre>
@@ -11125,10 +11166,10 @@ $:/core/ui/SideBar/Recent $:/core/ui/SideBar/Tools $:/core/ui/SideBar/More&quot;
 <div created="20210430053150840" creator="jbiatek" modified="20210603183522208" modifier="jbiatek" title="$:/layout" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>$:/core/ui/PageTemplate</pre>
 </div>
-<div created="20210415165652580" creator="jbiatek" modified="20210604031736954" modifier="jbiatek" title="$:/palette" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210415165652580" creator="jbiatek" modified="20210622164557919" modifier="jbiatek" title="$:/palette" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>$:/palettes/Rocker-Fixed</pre>
 </div>
-<div created="20210509213924096" description="A dark theme, fixed" modified="20210604032121842" name="Rocker (fixed)" tags="$:/tags/Palette" title="$:/palettes/Rocker-Fixed" type="application/x-tiddler-dictionary" revision="0" bag="default">
+<div created="20210509213924096" description="A dark theme, fixed" modified="20210622164623897" name="Rocker (fixed)" tags="$:/tags/Palette" title="$:/palettes/Rocker-Fixed" type="application/x-tiddler-dictionary" revision="0" bag="default">
 <pre>alert-background: #ffe476
 alert-border: #b99e2f
 alert-highlight: #881122
@@ -11177,7 +11218,7 @@ primary: #cc0000
 select-tag-background: 
 select-tag-foreground: 
 sidebar-button-foreground: &lt;&lt;colour foreground&gt;&gt;
-sidebar-controls-foreground-hover: #000000
+sidebar-controls-foreground-hover: #cc0000
 sidebar-controls-foreground: #ffffff
 sidebar-foreground-shadow: rgba(255,255,255, 0.0)
 sidebar-foreground: #acacac
@@ -12410,7 +12451,7 @@ display: none;
 <div created="20210518204925103" list-before="$:/core/ui/SideBarSegments/site-title" modified="20210606154537636" tags="$:/tags/SideBarSegment Infrastructure" title="$:/SidebarLogo" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;img src=&quot;https://rickies.net/images/logo.png&quot; alt=&quot;The Rickipedia Logo&quot; style=&quot;  width: 60%; height: 60%;&quot; /&gt;</pre>
 </div>
-<div created="20210509212832036" modified="20210606163314962" tags="Infrastructure $:/tags/SideBarSegment" title="$:/SimpleSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509212832036" modified="20210622172400159" tags="Infrastructure $:/tags/SideBarSegment" title="$:/SimpleSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;&lt;tabs &quot;$:/core/ui/SideBar/Open 
 Contents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
 </pre>
@@ -12888,14 +12929,16 @@ And, in case you didn't notice, the whole thing is also a big reference to &lt;a
 <div created="20210417062450783" host="Federico" modified="20210530222629323" pick="2.2" score="0" tags="[[2018 Annual Predictions]] Regular Services [[Apple TV+]] Pick" title="A streaming service announced as Apple Video" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;1-2 months for free, bundled with Apple Music as an option&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210421020603617" creator="jbiatek" modified="20210606163100976" modifier="jbiatek" tags="Contents" title="About" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210421020603617" creator="jbiatek" modified="20210622034848278" modifier="jbiatek" tags="Contents" title="About" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>This exercise in nerdery about nerdery was put together by me, Jason Biatek (pronounced &quot;bee-attic&quot;). 
 
 Corrections and additional information are more than welcome. &lt;a href=&quot;https://github.com/jbiatek/rickies.net/issues/new/choose&quot;&gt;Open an issue on GitHub&lt;/a&gt; preferably, or you can also email me at [my first name] at [my last name] dot net. The interface of this page may look editable in some places, but those changes won’t be saved, they’re just in your browser.
 
 This page is built with &lt;a href=&quot;https://tiddlywiki.com&quot;&gt;TiddlyWiki&lt;/a&gt;, which is a nifty single page wiki tool with lots of options for taking little bits of information and composing them together in different ways. When I realized that, my mind jumped to the many, many little bits of information in The Rickies, and I just had to try it out.
 
-&lt;p xmlns:cc=&quot;http://creativecommons.org/ns#&quot; xmlns:dct=&quot;http://purl.org/dc/terms/&quot;&gt;Rickipedia is licensed under &lt;a href=&quot;http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1&quot; target=&quot;_blank&quot; rel=&quot;license noopener noreferrer&quot; style=&quot;display:inline-block;&quot;&gt;CC BY-NC 4.0&lt;img style=&quot;height:22px!important;margin-left:3px;vertical-align:text-bottom;&quot; src=&quot;https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1&quot;&gt;&lt;img style=&quot;height:22px!important;margin-left:3px;vertical-align:text-bottom;&quot; src=&quot;https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1&quot;&gt;&lt;img style=&quot;height:22px!important;margin-left:3px;vertical-align:text-bottom;&quot; src=&quot;https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1&quot;&gt;&lt;/a&gt;&lt;/p&gt;</pre>
+As a single page wiki, linking to a particular item or set of items is a little different from other sites. A link to a single item can be obtained by selecting &quot;permalink&quot; from the menu in the top right of each item. To link to multiple items, use the &quot;permaview&quot; option which creates a single link that will reopen every item currently open. (The &quot;permaview&quot; button can also be found in the sidebar next to the home button.)
+
+&lt;p xmlns:cc=&quot;http://creativecommons.org/ns#&quot; xmlns:dct=&quot;http://purl.org/dc/terms/&quot;&gt;Rickipedia is licensed under &lt;a href=&quot;http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1&quot; target=&quot;_blank&quot; rel=&quot;license noopener noreferrer&quot; style=&quot;display:inline-block;&quot;&gt;CC BY-NC 4.0&lt;img style=&quot;height:22px!important;margin-left:3px;vertical-align:text-bottom;&quot; src=&quot;https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1&quot; alt=&quot;Creative Commons&quot;&gt;&lt;img style=&quot;height:22px!important;margin-left:3px;vertical-align:text-bottom;&quot; src=&quot;https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1&quot; alt=&quot;Attribution required&quot;&gt;&lt;img style=&quot;height:22px!important;margin-left:3px;vertical-align:text-bottom;&quot; src=&quot;https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1&quot; alt=&quot;Non-Commercial&quot;&gt;&lt;/a&gt;&lt;/p&gt;</pre>
 </div>
 <div color="#77bb41" created="20210530165711437" modified="20210531073659365" tags="Topics" title="Accessories" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||TopicDetailTemplate}}</pre>
@@ -13431,14 +13474,14 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div color="#004d65" created="20210530222902836" modified="20210530222902886" title="Flexy" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210416194244525" modified="20210601065316722" tags="Infrastructure" title="FlexyPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>!! Flexy Picks
+<div created="20210416194244525" modified="20210622154753053" tags="Infrastructure" title="FlexyPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>!! 💪 Flexy Picks
 
 &lt;&lt;pick-table [tag{!!title}tag[Flexy]]&gt;&gt;
 </pre>
 </div>
-<div created="20210420011538500" modified="20210609223534300" tags="Infrastructure" title="FlexyScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>!! Flexy Scores
+<div created="20210420011538500" modified="20210622154843394" tags="Infrastructure" title="FlexyScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>!! 💸 Flexy Scores
 
 &lt;ol&gt;
 &lt;$list filter=&quot;Stephen Myke Federico [enlist{!!flexy-score-sort}]&quot; variable=&quot;currentHost&quot;&gt;
@@ -13791,8 +13834,8 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 
 &lt;&lt;pick-table [tag{!!title}tag[NonGraded]]&gt;&gt;</pre>
 </div>
-<div created="20210507220046004" modified="20210601202729373" tags="Infrastructure" title="NonGradedScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>!! Non-Graded Scores
+<div created="20210507220046004" modified="20210622155022846" tags="Infrastructure" title="NonGradedScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>!! 🍹 Non-Graded Scores
 
 &lt;ul&gt;
 &lt;$list filter=&quot;Stephen Myke Federico [enlist{!!flexy-score-sort}]&quot; variable=&quot;currentHost&quot;&gt;
@@ -13915,8 +13958,8 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div color="#008cb4" created="20210530222828573" modified="20210530222907974" title="Regular" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210415174659095" modified="20210601065521841" tags="Infrastructure" title="RegularPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>!! Regular Picks
+<div created="20210415174659095" modified="20210622154807360" tags="Infrastructure" title="RegularPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>!! 🥇 Regular Picks
 
 &lt;&lt;pick-table [tag{!!title}tag[Regular]]&gt;&gt;</pre>
 </div>
@@ -13938,8 +13981,8 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div color="#00c7fc" created="20210530222835359" modified="20210530222913171" title="Ricky" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210416152416868" modified="20210601065556813" tags="Infrastructure" title="RickyPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>!! Risky Picks
+<div created="20210416152416868" modified="20210622154816365" tags="Infrastructure" title="RickyPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>!! ⚠️  Risky Picks
 
 &lt;&lt;pick-table [tag{!!title}tag[Ricky]]&gt;&gt;</pre>
 </div>
@@ -14081,8 +14124,8 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 * Other: &lt;ul&gt;&lt;$list filter=&quot;[!result[Heads]!result[Tails]!result[]]&quot;&gt;&lt;li&gt;&lt;$link/&gt;: {{!!result}}&lt;/li&gt;&lt;/$list&gt;&lt;/ul&gt;
 </pre>
 </div>
-<div created="20210416152908218" modified="20210609223542584" tags="Infrastructure" title="ScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>!! Scores
+<div created="20210416152908218" modified="20210622154826288" tags="Infrastructure" title="ScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>!! 🏆 Scores
 
 &lt;ol&gt;
 &lt;$list filter=&quot;Stephen Myke Federico [enlist{!!score-sort}]&quot; variable=&quot;currentHost&quot;&gt;
@@ -14150,9 +14193,12 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 &lt;/table&gt;
 \end</pre>
 </div>
-<div created="20210526181659214" modified="20210528205243127" tags="Infrastructure" title="Super Secret Editing Interface" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210526181659214" modified="20210622163247877" tags="Infrastructure" title="Super Secret Editing Interface" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;$list filter=&quot;$:/FullSidebar $:/SimpleSidebar $:/core/ui/SideBarSegments/tabs&quot;&gt;
 &lt;$checkbox tag=&quot;$:/tags/SideBarSegment&quot;&gt; &lt;$link/&gt;&lt;br&gt;&lt;/$checkbox&gt;
+&lt;/$list&gt;
+&lt;$list filter=&quot;$:/HideEditControls&quot;&gt;
+&lt;$checkbox tag=&quot;$:/tags/Stylesheet&quot;&gt; &lt;$link/&gt;&lt;br&gt;&lt;/$checkbox&gt;
 &lt;/$list&gt;</pre>
 </div>
 <div created="20210420190653660" host="Myke" modified="20210530222630934" pick="1.2" score="0" tags="[[2021 April Rickies]] Regular iPad Pick" title="The 12.9&quot; iPad Pro ships later than the 11&quot; iPad Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
