@@ -10264,7 +10264,7 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 <div created="20210428223355287" creator="jbiatek" modified="20210627153209355" modifier="jbiatek" tags="$:/tags/Stylesheet Infrastructure" title="$:/HideAuthorAndDate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>.tc-subtitle {display:none;}</pre>
 </div>
-<div created="20210622161731919" modified="20210627155934368" tags="Infrastructure $:/tags/Stylesheet" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
+<div created="20210622161731919" modified="20210627163647263" tags="Infrastructure $:/tags/Stylesheet" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
 <pre>.tc-drop-down button[aria-label=&quot;info&quot;],
 .tc-drop-down button[aria-label=&quot;new here&quot;],
 .tc-drop-down button[aria-label=&quot;new journal here&quot;],
@@ -12973,14 +12973,16 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div created="20210531195606927" host="Federico" modified="20210609191548711" pick="1.1" score="1" tags="[[2021 WWDC Rickies]] Regular iPad Pick iPadOS" title="In the next version of iPadOS, you can put widgets in more places (out of the left column)" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210627004918274" modified="20210627054121439" tags="" title="index" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>! [[Welcome]]
+<div created="20210627004918274" modified="20210627163443676" tags="" title="index" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;$set name=&quot;Defaults&quot; value={{{ [[$:/DefaultTiddlers]get[text]] }}}&gt;
+&lt;$list filter=&quot;[enlist&lt;Defaults&gt;]&quot;&gt;
 
-{{Welcome}}
+! {{!!title}}
 
-! [[About]]
+{{!!text}}
 
-{{About}}</pre>
+&lt;/$list&gt;
+&lt;/$set&gt;</pre>
 </div>
 <div color="#000000" created="20210530222807082" modified="20210530222810613" title="Infrastructure" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
