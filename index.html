@@ -205,6 +205,8 @@ Error message and password prompt
 
 <li>$:/core</li>
 
+<li>$:/core/ui/SideBarSegments/search</li>
+
 <li>$:/core/ui/SideBarSegments/tabs</li>
 
 <li>$:/CustomFieldView</li>
@@ -239,6 +241,12 @@ Error message and password prompt
 
 <li>$:/plugins/tiddlywiki/highlight</li>
 
+<li>$:/RegularSearchButton</li>
+
+<li>$:/RegularSearchImage</li>
+
+<li>$:/Search</li>
+
 <li>$:/SidebarLogo</li>
 
 <li>$:/SimpleSidebar</li>
@@ -248,6 +256,8 @@ Error message and password prompt
 <li>$:/SiteSubtitle</li>
 
 <li>$:/SiteTitle</li>
+
+<li>$:/StaticBanner</li>
 
 <li>$:/status/RequireReloadDueToPluginChange</li>
 
@@ -704,6 +714,8 @@ Error message and password prompt
 <li>Improved support for ZIP archives in the Files app and framework</li>
 
 <li>In the next version of iPadOS, you can put widgets in more places (out of the left column)</li>
+
+<li>index</li>
 
 <li>Infrastructure</li>
 
@@ -11088,6 +11100,99 @@ To use in other wikis, drag and drop this link to those wikis: [[Kookma Plugin L
     }
 }</pre>
 </div>
+<div created="20210627054753708" modified="20210627061357975" tags="" title="$:/core/ui/SideBarSegments/search" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>\whitespace trim
+
+\define count-popup-button()
+\whitespace trim
+&lt;$button popup=&lt;&lt;qualify &quot;$:/state/popup/search-dropdown&quot;&gt;&gt; class=&quot;tc-btn-invisible&quot;&gt;
+{{$:/core/images/down-arrow}}
+&lt;$list filter=&quot;[{$(searchTiddler)$}minlength{$:/config/Search/MinLength}limit[1]]&quot; variable=&quot;listItem&quot;&gt;
+&lt;$vars userInput={{{ [&lt;searchTiddler&gt;get[text]] }}} configTiddler={{{ [[$:/state/search/currentTab]!is[missing]get[text]] ~[{$:/config/SearchResults/Default}] }}} replaceRegexp=&quot;limit\[\d+\]&quot;&gt;
+&lt;$vars primaryListFilter={{{ [&lt;configTiddler&gt;get[first-search-filter]search-replace:g:regexp&lt;replaceRegexp&gt;,[]] }}} secondaryListFilter={{{ [&lt;configTiddler&gt;get[second-search-filter]search-replace:g:regexp&lt;replaceRegexp&gt;,[]] }}}&gt;
+&lt;$set name=&quot;resultCount&quot; value=&quot;&quot;&quot;&lt;$count filter=&quot;[subfilter&lt;primaryListFilter&gt;] [subfilter&lt;secondaryListFilter&gt;]&quot;/&gt;&quot;&quot;&quot;&gt;
+{{$:/language/Search/Matches}}
+&lt;/$set&gt;
+&lt;/$vars&gt;
+&lt;/$vars&gt;
+&lt;/$list&gt;
+&lt;/$button&gt;
+\end
+
+\define search-results-list()
+\whitespace trim
+&lt;$vars userInput={{$(searchTiddler)$}} configTiddler={{{ [[$:/state/search/currentTab]!is[missing]get[text]] ~[{$:/config/SearchResults/Default}] }}}&gt;
+&lt;$list filter=&quot;[&lt;userInput&gt;minlength{$:/config/Search/MinLength}limit[1]]&quot; emptyMessage=&quot;&quot;&quot;&lt;div class=&quot;tc-search-results&quot;&gt;{{$:/language/Search/Search/TooShort}}&lt;/div&gt;&quot;&quot;&quot; variable=&quot;listItem&quot;&gt;
+
+&lt;$tiddler tiddler=&lt;&lt;configTiddler&gt;&gt;&gt;
+
+{{$:/core/ui/SearchResults}}
+
+&lt;/$tiddler&gt;
+
+&lt;/$list&gt;
+&lt;/$vars&gt;
+\end
+
+\define cancel-search-actions() &lt;$list filter=&quot;[&lt;searchTiddler&gt;get[text]!match{$:/temp/search}]&quot; emptyMessage=&quot;&quot;&quot;&lt;$action-deletetiddler $filter=&quot;[[$:/temp/search]] [&lt;searchTiddler&gt;] [&lt;searchListState&gt;]&quot;/&gt;&quot;&quot;&quot;&gt;&lt;$action-setfield $tiddler=&quot;$:/temp/search&quot; text={{{ [&lt;searchTiddler&gt;get[text]] }}}/&gt;&lt;$action-setfield $tiddler=&quot;$:/temp/search/refresh&quot; text=&quot;yes&quot;/&gt;&lt;/$list&gt;
+
+\define input-accept-actions() &lt;$list filter=&quot;[{$:/config/Search/NavigateOnEnter/enable}match[yes]]&quot; emptyMessage=&quot;&quot;&quot;&lt;$list filter=&quot;[&lt;__tiddler__&gt;get[text]!is[missing]] ~[&lt;__tiddler__&gt;get[text]is[shadow]]&quot;&gt;&lt;$action-navigate $to={{{ [&lt;__tiddler__&gt;get[text]] }}}/&gt;&lt;/$list&gt;&quot;&quot;&quot;&gt;&lt;$action-navigate $to={{{ [&lt;__tiddler__&gt;get[text]] }}}/&gt;&lt;/$list&gt;
+
+\define input-accept-variant-actions() &lt;$list filter=&quot;[{$:/config/Search/NavigateOnEnter/enable}match[yes]]&quot; emptyMessage=&quot;&quot;&quot;&lt;$list filter=&quot;[&lt;__tiddler__&gt;get[text]!is[missing]] ~[&lt;__tiddler__&gt;get[text]is[shadow]]&quot;&gt;&lt;$list filter=&quot;[&lt;__tiddler__&gt;get[text]minlength[1]]&quot;&gt;&lt;$action-sendmessage $message=&quot;tm-edit-tiddler&quot; $param={{{  [&lt;__tiddler__&gt;get[text]] }}}/&gt;&lt;/$list&gt;&lt;/$list&gt;&quot;&quot;&quot;&gt;&lt;$list filter=&quot;[&lt;__tiddler__&gt;get[text]minlength[1]]&quot;&gt;&lt;$action-sendmessage $message=&quot;tm-edit-tiddler&quot; $param={{{  [&lt;__tiddler__&gt;get[text]] }}}/&gt;&lt;/$list&gt;&lt;/$list&gt;
+
+\define set-next-input-tab(beforeafter:&quot;after&quot;) &lt;$macrocall $name=&quot;change-input-tab&quot; stateTitle=&quot;$:/state/tab/search-results/sidebar&quot; tag=&quot;$:/tags/SearchResults&quot; beforeafter=&quot;$beforeafter$&quot; defaultState={{$:/config/SearchResults/Default}} actions=&quot;&quot;&quot;&lt;$action-setfield $tiddler=&quot;$:/state/search/currentTab&quot; text=&lt;&lt;nextTab&gt;&gt;/&gt;&quot;&quot;&quot;/&gt;
+
+\define advanced-search-actions() &lt;$action-setfield $tiddler=&quot;$:/temp/advancedsearch&quot; text={{$:/temp/search/input}}/&gt;&lt;$action-setfield $tiddler=&quot;$:/temp/advancedsearch/input&quot; text={{$:/temp/search/input}}/&gt;&lt;&lt;delete-state-tiddlers&gt;&gt;&lt;$action-navigate $to=&quot;$:/AdvancedSearch&quot;/&gt;&lt;$action-setfield $tiddler=&quot;$:/temp/advancedsearch/refresh&quot; text=&quot;yes&quot;/&gt;&lt;$action-sendmessage $message=&quot;tm-focus-selector&quot; $param=&quot;&quot;&quot;[data-tiddler-title=&quot;$:/AdvancedSearch&quot;] .tc-search input&quot;&quot;&quot; preventScroll=&quot;true&quot;/&gt;&lt;$action-deletetiddler $filter=&quot;$:/temp/search $:/temp/search/input $:/temp/search/refresh [&lt;searchListState&gt;]&quot;/&gt;
+
+&lt;div class=&quot;tc-sidebar-lists tc-sidebar-search&quot;&gt;
+
+&lt;$vars editTiddler=&quot;$:/temp/search&quot; searchTiddler=&quot;$:/temp/search/input&quot; searchListState=&lt;&lt;qualify &quot;$:/state/search-list/selected-item&quot;&gt;&gt;&gt;
+&lt;div class=&quot;tc-search&quot;&gt;
+&lt;$keyboard key=&quot;((input-tab-right))&quot; actions=&lt;&lt;set-next-input-tab&gt;&gt;&gt;
+&lt;$keyboard key=&quot;((input-tab-left))&quot; actions=&lt;&lt;set-next-input-tab &quot;before&quot;&gt;&gt;&gt;
+&lt;$keyboard key=&quot;((advanced-search-sidebar))&quot; actions=&lt;&lt;advanced-search-actions&gt;&gt;&gt;
+&lt;$macrocall $name=&quot;keyboard-driven-input&quot; tiddler=&lt;&lt;editTiddler&gt;&gt; storeTitle=&lt;&lt;searchTiddler&gt;&gt; 
+		selectionStateTitle=&lt;&lt;searchListState&gt;&gt; refreshTitle=&quot;$:/temp/search/refresh&quot; type=&quot;search&quot; 
+		tag=&quot;input&quot; focus={{$:/config/Search/AutoFocus}} focusPopup=&lt;&lt;qualify &quot;$:/state/popup/search-dropdown&quot;&gt;&gt; 
+		class=&quot;tc-popup-handle&quot; filterMinLength={{$:/config/Search/MinLength}} inputCancelActions=&lt;&lt;cancel-search-actions&gt;&gt; 
+		inputAcceptActions=&lt;&lt;input-accept-actions&gt;&gt; inputAcceptVariantActions=&lt;&lt;input-accept-variant-actions&gt;&gt; cancelPopups=&quot;yes&quot; 
+		configTiddlerFilter=&quot;[[$:/state/search/currentTab]!is[missing]get[text]] ~[{$:/config/SearchResults/Default}]&quot;/&gt;
+&lt;/$keyboard&gt;
+&lt;/$keyboard&gt;
+&lt;/$keyboard&gt;
+&lt;$reveal state=&lt;&lt;searchTiddler&gt;&gt; type=&quot;nomatch&quot; text=&quot;&quot;&gt;
+&lt;$button tooltip={{$:/language/Buttons/AdvancedSearch/Hint}} aria-label={{$:/language/Buttons/AdvancedSearch/Caption}} class=&quot;tc-btn-invisible&quot;&gt;
+&lt;&lt;advanced-search-actions&gt;&gt;
+{{$:/core/images/advanced-search-button}}
+&lt;/$button&gt;
+&lt;$button class=&quot;tc-btn-invisible&quot;&gt;
+&lt;&lt;cancel-search-actions&gt;&gt;&lt;$action-sendmessage $message=&quot;tm-focus-selector&quot; $param=&quot;.tc-search input&quot;/&gt;
+{{$:/core/images/close-button}}
+&lt;/$button&gt;
+&lt;&lt;count-popup-button&gt;&gt;
+&lt;/$reveal&gt;
+&lt;$reveal state=&lt;&lt;searchTiddler&gt;&gt; type=&quot;match&quot; text=&quot;&quot;&gt;
+&lt;$button to=&quot;$:/AdvancedSearch&quot; tooltip={{$:/language/Buttons/AdvancedSearch/Hint}} aria-label={{$:/language/Buttons/AdvancedSearch/Caption}} class=&quot;tc-btn-invisible&quot;&gt;
+{{$:/core/images/advanced-search-button}}
+&lt;/$button&gt;
+&lt;/$reveal&gt;
+&lt;/div&gt;
+
+&lt;$reveal tag=&quot;div&quot; class=&quot;tc-block-dropdown-wrapper&quot; state=&lt;&lt;searchTiddler&gt;&gt; type=&quot;nomatch&quot; text=&quot;&quot;&gt;
+
+&lt;$reveal tag=&quot;div&quot; class=&quot;tc-block-dropdown tc-search-drop-down tc-popup-handle&quot; state=&lt;&lt;qualify &quot;$:/state/popup/search-dropdown&quot;&gt;&gt; type=&quot;nomatch&quot; text=&quot;&quot; default=&quot;&quot;&gt;
+
+&lt;&lt;search-results-list&gt;&gt;
+
+&lt;/$reveal&gt;
+
+&lt;/$reveal&gt;
+
+&lt;/$vars&gt;
+
+&lt;/div&gt;
+</pre>
+</div>
 <div created="20210509213107110" modified="20210627003901433" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;div class=&quot;tc-sidebar-lists tc-sidebar-tabs&quot;&gt;
 
@@ -11142,7 +11247,7 @@ Contents
 $:/core/ui/SideBar/Recent $:/core/ui/SideBar/Tools $:/core/ui/SideBar/More&quot; &quot;$:/core/ui/SideBar/Tools&quot;&gt;&gt;
 </pre>
 </div>
-<div created="20210622161731919" modified="20210627004619469" tags="Infrastructure" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
+<div created="20210622161731919" modified="20210627061811744" tags="Infrastructure $:/tags/Stylesheet" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
 <pre>.tc-drop-down button[aria-label=&quot;info&quot;],
 .tc-drop-down button[aria-label=&quot;new here&quot;],
 .tc-drop-down button[aria-label=&quot;new journal here&quot;],
@@ -12457,6 +12562,108 @@ display: none;
     }
 }</pre>
 </div>
+<div caption="Search" created="20210627052928516" description="Search this wiki" modified="20210627054512441" tags="$:/tags/PageControls Infrastructure" title="$:/RegularSearchButton" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>\whitespace trim
+\define regular-search-button(class)
+&lt;$button to=&quot;$:/Search&quot; tooltip=&quot;Search this wiki&quot; aria-label=&quot;search&quot; class=&quot;&quot;&quot;$(tv-config-toolbar-class)$ $class$&quot;&quot;&quot;&gt;
+&lt;$list filter=&quot;[&lt;tv-config-toolbar-icons&gt;match[yes]]&quot;&gt;
+{{$:/RegularSearchImage}}
+&lt;/$list&gt;
+&lt;$list filter=&quot;[&lt;tv-config-toolbar-text&gt;match[yes]]&quot;&gt;
+&lt;span class=&quot;tc-btn-text&quot;&gt;&lt;$text text={{$:/language/Buttons/AdvancedSearch/Caption}}/&gt;&lt;/span&gt;
+&lt;/$list&gt;
+&lt;/$button&gt;
+\end
+
+&lt;$list filter=&quot;[list[$:/StoryList]] +[field:title[$:/Search]]&quot; emptyMessage=&lt;&lt;regular-search-button&gt;&gt;&gt;
+&lt;&lt;regular-search-button &quot;tc-selected&quot;&gt;&gt;
+&lt;/$list&gt;
+</pre>
+</div>
+<div created="20210627054433506" modified="20210627054539589" tags="$:/tags/Image Infrastructure" title="$:/RegularSearchImage" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;svg width=&quot;22pt&quot; height=&quot;22pt&quot; class=&quot;tc-image-advanced-search-button tc-image-button&quot; viewBox=&quot;0 0 128 128&quot;&gt;&lt;g fill-rule=&quot;evenodd&quot;&gt;&lt;path d=&quot;M74.565 87.985A47.776 47.776 0 0148 96C21.49 96 0 74.51 0 48S21.49 0 48 0s48 21.49 48 48c0 9.854-2.97 19.015-8.062 26.636l34.347 34.347a9.443 9.443 0 010 13.36 9.446 9.446 0 01-13.36 0l-34.36-34.358zM48 80c17.673 0 32-14.327 32-32 0-17.673-14.327-32-32-32-17.673 0-32 14.327-32 32 0 17.673 14.327 32 32 32z&quot;/&gt;&lt;/g&gt;&lt;/svg&gt;</pre>
+</div>
+<div created="20210627053508032" modified="20210627060445431" tags="Infrastructure" title="$:/Search" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>\whitespace trim
+
+\define count-popup-button()
+\whitespace trim
+&lt;$list filter=&quot;[{$(searchTiddler)$}minlength{$:/config/Search/MinLength}limit[1]]&quot; variable=&quot;listItem&quot;&gt;
+&lt;$vars userInput={{{ [&lt;searchTiddler&gt;get[text]] }}} configTiddler={{{ [[$:/state/search/currentTab]!is[missing]get[text]] ~[{$:/config/SearchResults/Default}] }}} replaceRegexp=&quot;limit\[\d+\]&quot;&gt;
+&lt;$vars primaryListFilter={{{ [&lt;configTiddler&gt;get[first-search-filter]search-replace:g:regexp&lt;replaceRegexp&gt;,[]] }}} secondaryListFilter={{{ [&lt;configTiddler&gt;get[second-search-filter]search-replace:g:regexp&lt;replaceRegexp&gt;,[]] }}}&gt;
+&lt;$set name=&quot;resultCount&quot; value=&quot;&quot;&quot;&lt;$count filter=&quot;[subfilter&lt;primaryListFilter&gt;] [subfilter&lt;secondaryListFilter&gt;]&quot;/&gt;&quot;&quot;&quot;&gt;
+{{$:/language/Search/Matches}}
+&lt;/$set&gt;
+&lt;/$vars&gt;
+&lt;/$vars&gt;
+&lt;/$list&gt;
+\end
+
+\define search-results-list()
+\whitespace trim
+&lt;$vars userInput={{$(searchTiddler)$}} configTiddler={{{ [[$:/state/search/currentTab]!is[missing]get[text]] ~[{$:/config/SearchResults/Default}] }}}&gt;
+&lt;$list filter=&quot;[&lt;userInput&gt;minlength{$:/config/Search/MinLength}limit[1]]&quot; emptyMessage=&quot;&quot;&quot;&lt;div class=&quot;tc-search-results&quot;&gt;{{$:/language/Search/Search/TooShort}}&lt;/div&gt;&quot;&quot;&quot; variable=&quot;listItem&quot;&gt;
+
+&lt;$tiddler tiddler=&lt;&lt;configTiddler&gt;&gt;&gt;
+
+{{$:/core/ui/SearchResults}}
+
+&lt;/$tiddler&gt;
+
+&lt;/$list&gt;
+&lt;/$vars&gt;
+\end
+
+\define cancel-search-actions() &lt;$list filter=&quot;[&lt;searchTiddler&gt;get[text]!match{$:/temp/search}]&quot; emptyMessage=&quot;&quot;&quot;&lt;$action-deletetiddler $filter=&quot;[[$:/temp/search]] [&lt;searchTiddler&gt;] [&lt;searchListState&gt;]&quot;/&gt;&quot;&quot;&quot;&gt;&lt;$action-setfield $tiddler=&quot;$:/temp/search&quot; text={{{ [&lt;searchTiddler&gt;get[text]] }}}/&gt;&lt;$action-setfield $tiddler=&quot;$:/temp/search/refresh&quot; text=&quot;yes&quot;/&gt;&lt;/$list&gt;
+
+\define input-accept-actions() &lt;$list filter=&quot;[{$:/config/Search/NavigateOnEnter/enable}match[yes]]&quot; emptyMessage=&quot;&quot;&quot;&lt;$list filter=&quot;[&lt;__tiddler__&gt;get[text]!is[missing]] ~[&lt;__tiddler__&gt;get[text]is[shadow]]&quot;&gt;&lt;$action-navigate $to={{{ [&lt;__tiddler__&gt;get[text]] }}}/&gt;&lt;/$list&gt;&quot;&quot;&quot;&gt;&lt;$action-navigate $to={{{ [&lt;__tiddler__&gt;get[text]] }}}/&gt;&lt;/$list&gt;
+
+\define input-accept-variant-actions() &lt;$list filter=&quot;[{$:/config/Search/NavigateOnEnter/enable}match[yes]]&quot; emptyMessage=&quot;&quot;&quot;&lt;$list filter=&quot;[&lt;__tiddler__&gt;get[text]!is[missing]] ~[&lt;__tiddler__&gt;get[text]is[shadow]]&quot;&gt;&lt;$list filter=&quot;[&lt;__tiddler__&gt;get[text]minlength[1]]&quot;&gt;&lt;$action-sendmessage $message=&quot;tm-edit-tiddler&quot; $param={{{  [&lt;__tiddler__&gt;get[text]] }}}/&gt;&lt;/$list&gt;&lt;/$list&gt;&quot;&quot;&quot;&gt;&lt;$list filter=&quot;[&lt;__tiddler__&gt;get[text]minlength[1]]&quot;&gt;&lt;$action-sendmessage $message=&quot;tm-edit-tiddler&quot; $param={{{  [&lt;__tiddler__&gt;get[text]] }}}/&gt;&lt;/$list&gt;&lt;/$list&gt;
+
+\define set-next-input-tab(beforeafter:&quot;after&quot;) &lt;$macrocall $name=&quot;change-input-tab&quot; stateTitle=&quot;$:/state/tab/search-results/sidebar&quot; tag=&quot;$:/tags/SearchResults&quot; beforeafter=&quot;$beforeafter$&quot; defaultState={{$:/config/SearchResults/Default}} actions=&quot;&quot;&quot;&lt;$action-setfield $tiddler=&quot;$:/state/search/currentTab&quot; text=&lt;&lt;nextTab&gt;&gt;/&gt;&quot;&quot;&quot;/&gt;
+
+\define advanced-search-actions() &lt;$action-setfield $tiddler=&quot;$:/temp/advancedsearch&quot; text={{$:/temp/search/input}}/&gt;&lt;$action-setfield $tiddler=&quot;$:/temp/advancedsearch/input&quot; text={{$:/temp/search/input}}/&gt;&lt;&lt;delete-state-tiddlers&gt;&gt;&lt;$action-navigate $to=&quot;$:/AdvancedSearch&quot;/&gt;&lt;$action-setfield $tiddler=&quot;$:/temp/advancedsearch/refresh&quot; text=&quot;yes&quot;/&gt;&lt;$action-sendmessage $message=&quot;tm-focus-selector&quot; $param=&quot;&quot;&quot;[data-tiddler-title=&quot;$:/AdvancedSearch&quot;] .tc-search input&quot;&quot;&quot; preventScroll=&quot;true&quot;/&gt;&lt;$action-deletetiddler $filter=&quot;$:/temp/search $:/temp/search/input $:/temp/search/refresh [&lt;searchListState&gt;]&quot;/&gt;
+
+&lt;$vars editTiddler=&quot;$:/temp/search&quot; searchTiddler=&quot;$:/temp/search/input&quot; searchListState=&lt;&lt;qualify &quot;$:/state/search-list/selected-item&quot;&gt;&gt;&gt;
+&lt;div class=&quot;tc-search&quot;&gt;
+&lt;$keyboard key=&quot;((input-tab-right))&quot; actions=&lt;&lt;set-next-input-tab&gt;&gt;&gt;
+&lt;$keyboard key=&quot;((input-tab-left))&quot; actions=&lt;&lt;set-next-input-tab &quot;before&quot;&gt;&gt;&gt;
+&lt;$keyboard key=&quot;((advanced-search-sidebar))&quot; actions=&lt;&lt;advanced-search-actions&gt;&gt;&gt;
+&lt;$macrocall $name=&quot;keyboard-driven-input&quot; tiddler=&lt;&lt;editTiddler&gt;&gt; storeTitle=&lt;&lt;searchTiddler&gt;&gt; 
+		selectionStateTitle=&lt;&lt;searchListState&gt;&gt; refreshTitle=&quot;$:/temp/search/refresh&quot; type=&quot;search&quot; 
+		tag=&quot;input&quot; focus={{$:/config/Search/AutoFocus}} focusPopup=&lt;&lt;qualify &quot;$:/state/popup/search-dropdown&quot;&gt;&gt; 
+		class=&quot;tc-popup-handle&quot; filterMinLength={{$:/config/Search/MinLength}} inputCancelActions=&lt;&lt;cancel-search-actions&gt;&gt; 
+		inputAcceptActions=&lt;&lt;input-accept-actions&gt;&gt; inputAcceptVariantActions=&lt;&lt;input-accept-variant-actions&gt;&gt; cancelPopups=&quot;yes&quot; 
+		configTiddlerFilter=&quot;[[$:/state/search/currentTab]!is[missing]get[text]] ~[{$:/config/SearchResults/Default}]&quot;/&gt;
+&lt;/$keyboard&gt;
+&lt;/$keyboard&gt;
+&lt;/$keyboard&gt;
+&lt;$reveal state=&lt;&lt;searchTiddler&gt;&gt; type=&quot;nomatch&quot; text=&quot;&quot;&gt;
+&lt;$button tooltip={{$:/language/Buttons/AdvancedSearch/Hint}} aria-label={{$:/language/Buttons/AdvancedSearch/Caption}} class=&quot;tc-btn-invisible&quot;&gt;
+&lt;&lt;advanced-search-actions&gt;&gt;
+{{$:/core/images/advanced-search-button}}
+&lt;/$button&gt;
+&lt;$button class=&quot;tc-btn-invisible&quot;&gt;
+&lt;&lt;cancel-search-actions&gt;&gt;&lt;$action-sendmessage $message=&quot;tm-focus-selector&quot; $param=&quot;.tc-search input&quot;/&gt;
+{{$:/core/images/close-button}}
+&lt;/$button&gt;
+&lt;&lt;count-popup-button&gt;&gt;
+&lt;/$reveal&gt;
+&lt;$reveal state=&lt;&lt;searchTiddler&gt;&gt; type=&quot;match&quot; text=&quot;&quot;&gt;
+&lt;$button to=&quot;$:/AdvancedSearch&quot; tooltip={{$:/language/Buttons/AdvancedSearch/Hint}} aria-label={{$:/language/Buttons/AdvancedSearch/Caption}} class=&quot;tc-btn-invisible&quot;&gt;
+{{$:/core/images/advanced-search-button}}
+&lt;/$button&gt;
+&lt;/$reveal&gt;
+&lt;/div&gt;
+
+&lt;$reveal tag=&quot;div&quot; class=&quot;tc-block-dropdown-wrapper&quot; state=&lt;&lt;searchTiddler&gt;&gt; type=&quot;nomatch&quot; text=&quot;&quot;&gt;
+
+&lt;&lt;search-results-list&gt;&gt;
+
+&lt;/$reveal&gt;
+
+&lt;/$vars&gt;</pre>
+</div>
 <div created="20210518204925103" list-before="$:/core/ui/SideBarSegments/site-title" modified="20210606154537636" tags="$:/tags/SideBarSegment Infrastructure" title="$:/SidebarLogo" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;img src=&quot;https://rickies.net/images/logo.png&quot; alt=&quot;The Rickipedia Logo&quot; style=&quot;  width: 60%; height: 60%;&quot; /&gt;</pre>
 </div>
@@ -12475,6 +12682,10 @@ Contents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
 </div>
 <div created="20210415165711108" creator="jbiatek" modified="20210502215800357" modifier="jbiatek" title="$:/SiteTitle" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Rickipedia</pre>
+</div>
+<div created="20210627043012430" modified="20210627043144604" tags="Infrastructure" title="$:/StaticBanner" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;div class=&quot;tc-static-alert&quot;&gt;&lt;div class=&quot;tc-static-alert-inner&quot;&gt;This page is a static snapshot of a page on Rickipedia. For the fully functional site, go to &lt;a href=&quot;https://rickies.net/&quot;&gt;rickies.net&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;
+</pre>
 </div>
 <div title="$:/status/RequireReloadDueToPluginChange" revision="0" bag="default">
 <pre>no</pre>
@@ -12599,8 +12810,8 @@ Contents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
     }
 }</pre>
 </div>
-<div created="20210601065021380" modified="20210606154726745" title="$:/themes/tiddlywiki/vanilla/options/sidebarlayout" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>fixed-fluid</pre>
+<div created="20210601065021380" modified="20210627054230757" title="$:/themes/tiddlywiki/vanilla/options/sidebarlayout" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>fluid-fixed</pre>
 </div>
 <div created="20210420210733834" host="Myke" modified="20210530222629132" pick="2" score="-1" tags="[[2021 April Rickies]] Ricky Mac Pick" title="2 sizes of iMac announced" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
@@ -13679,6 +13890,15 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div created="20210531195606927" host="Federico" modified="20210609191548711" pick="1.1" score="1" tags="[[2021 WWDC Rickies]] Regular iPad Pick iPadOS" title="In the next version of iPadOS, you can put widgets in more places (out of the left column)" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
+<div created="20210627004918274" modified="20210627054121439" tags="" title="index" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>! [[Welcome]]
+
+{{Welcome}}
+
+! [[About]]
+
+{{About}}</pre>
+</div>
 <div color="#000000" created="20210530222807082" modified="20210530222810613" title="Infrastructure" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
@@ -14062,13 +14282,21 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div created="20210420185756451" host="" modified="20210528204508685" pick="" score="" tags="Infrastructure" title="Pick Prototype" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div caption="Picks" created="20210601154854808" modified="20210604055915901" tags="$:/tags/SearchResults Infrastructure" title="PicksSearch" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div caption="Picks" created="20210601154854808" modified="20210627061318934" tags="$:/tags/SearchResults Infrastructure" title="PicksSearch" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>\define searchResults()
 &lt;i&gt;&lt;small&gt;In title (&lt;$count filter=&quot;[!is[system]tag[Pick]search:title{$(searchTiddler)$}]&quot;/&gt;)&lt;/small&gt;&lt;/i&gt;
-&lt;$list filter=&quot;[!is[system]tag[Pick]search:title{$(searchTiddler)$}]&quot;&gt;&lt;$link/&gt;&lt;/$list&gt;
+&lt;$list filter=&quot;[!is[system]tag[Pick]search:title{$(searchTiddler)$}]&quot;&gt;
+&lt;span class={{{[&lt;currentTiddler&gt;addsuffix[-primaryList]] -[&lt;searchListState&gt;get[text]] +[then[]else[tc-list-item-selected]] }}}&gt;
+&lt;$transclude tiddler=&quot;$:/core/ui/ListItemTemplate&quot;/&gt;
+&lt;/span&gt;
+&lt;/$list&gt;
 
 &lt;i&gt;&lt;small&gt;Other (&lt;$count filter=&quot;[!is[system]tag[Pick]search{$(searchTiddler)$}!search:title{$(searchTiddler)$}]&quot;/&gt;)&lt;/small&gt;&lt;/i&gt;
-&lt;$list filter=&quot;[!is[system]tag[Pick]search{$(searchTiddler)$}!search:title{$(searchTiddler)$}]&quot;&gt;&lt;$link/&gt;&lt;/$list&gt;
+&lt;$list filter=&quot;[!is[system]tag[Pick]search{$(searchTiddler)$}!search:title{$(searchTiddler)$}]&quot;&gt;
+&lt;span class={{{[&lt;currentTiddler&gt;addsuffix[-primaryList]] -[&lt;searchListState&gt;get[text]] +[then[]else[tc-list-item-selected]] }}}&gt;
+&lt;$transclude tiddler=&quot;$:/core/ui/ListItemTemplate&quot;/&gt;
+&lt;/span&gt;
+&lt;/$list&gt;
 
 \end
 &lt;&lt;searchResults&gt;&gt;</pre>
@@ -14347,8 +14575,8 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 &lt;/table&gt;
 \end</pre>
 </div>
-<div created="20210526181659214" modified="20210622163247877" tags="Infrastructure" title="Super Secret Editing Interface" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>&lt;$list filter=&quot;$:/FullSidebar $:/SimpleSidebar $:/core/ui/SideBarSegments/tabs&quot;&gt;
+<div created="20210526181659214" modified="20210627054743239" tags="Infrastructure" title="Super Secret Editing Interface" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;$list filter=&quot;$:/FullSidebar $:/SimpleSidebar $:/core/ui/SideBarSegments/tabs $:/core/ui/SideBarSegments/search&quot;&gt;
 &lt;$checkbox tag=&quot;$:/tags/SideBarSegment&quot;&gt; &lt;$link/&gt;&lt;br&gt;&lt;/$checkbox&gt;
 &lt;/$list&gt;
 &lt;$list filter=&quot;$:/HideEditControls&quot;&gt;
@@ -14768,7 +14996,7 @@ June, 2021
 <div created="20210420212340448" host="Stephen" modified="20210530222631531" pick="1.2" score="0" tags="[[2021 April Rickies]] Flexy Stagecraft Pick" title="We see Joz introduce something" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420213953579" creator="jbiatek" modified="20210622201042927" modifier="jbiatek" tags="Contents" title="Welcome" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420213953579" creator="jbiatek" modified="20210627055031105" modifier="jbiatek" tags="Contents" title="Welcome" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>This is Rickipedia, a comprehensive repository of information about the ever-evolving Apple prediction game played on &lt;a href=&quot;https://relay.fm/connected/&quot;&gt;Connected&lt;/a&gt; by hosts Stephen Hackett, Myke Hurley, and Federico Viticci.
 
 
@@ -14777,7 +15005,7 @@ June, 2021
 — Myke Hurley
 &lt;&lt;&lt;
 
-Browse the extensive selection of [[scores and stats|Scores and Stats]], a breakdown of picks [[by topic|Topics]], a copy of [[The Bill of Rickies]] with a changelog, and [[more|Contents]]. In the sidebar (or the top of the page on mobile), use the search bar to search the entire database or just the picks. 
+Browse the extensive selection of [[scores and stats|Scores and Stats]], a breakdown of picks [[by topic|Topics]], a copy of [[The Bill of Rickies]] with a changelog, [[search the database or just the picks|$:/Search]], and [[more|Contents]].
 
 !! ✨ What's new
 

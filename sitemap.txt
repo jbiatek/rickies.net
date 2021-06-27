@@ -1,0 +1,3 @@
+https://rickies.net/index.html
+https://rickies.net/static/index.html
+https://rickies.net/static/Contents.html
