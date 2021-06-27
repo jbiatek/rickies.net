@@ -243,6 +243,8 @@ Error message and password prompt
 
 <li>$:/SimpleSidebar</li>
 
+<li>$:/Sitemap</li>
+
 <li>$:/SiteSubtitle</li>
 
 <li>$:/SiteTitle</li>
@@ -1172,11 +1174,11 @@ To use in other wikis, drag and drop this link to those wikis: [[Kookma Plugin L
 <div created="20210509192314173" modified="20210509192314189" title="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/home" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>show</pre>
 </div>
-<div created="20210509213344087" modified="20210509213356470" title="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/more-page-actions" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>hide</pre>
+<div created="20210509213344087" modified="20210627003852045" title="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/more-page-actions" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>show</pre>
 </div>
-<div created="20210509192308663" modified="20210531195602891" title="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/new-tiddler" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>hide</pre>
+<div created="20210509192308663" modified="20210627003827392" title="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/new-tiddler" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>show</pre>
 </div>
 <div created="20210509192250784" modified="20210509192250805" title="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/permaview" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>show</pre>
@@ -11086,7 +11088,7 @@ To use in other wikis, drag and drop this link to those wikis: [[Kookma Plugin L
     }
 }</pre>
 </div>
-<div created="20210509213107110" modified="20210622172358970" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509213107110" modified="20210627003901433" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;div class=&quot;tc-sidebar-lists tc-sidebar-tabs&quot;&gt;
 
 &lt;$macrocall $name=&quot;tabs&quot; tabsList=&quot;[all[shadows+tiddlers]tag[$:/tags/SideBar]!has[draft.of]]&quot; default={{$:/config/DefaultSidebarTab}} state=&quot;$:/state/tab/sidebar&quot; class=&quot;tc-sidebar-tabs-main&quot; explicitState=&quot;$:/state/tab/sidebar--595412856&quot;/&gt;
@@ -11140,7 +11142,7 @@ Contents
 $:/core/ui/SideBar/Recent $:/core/ui/SideBar/Tools $:/core/ui/SideBar/More&quot; &quot;$:/core/ui/SideBar/Tools&quot;&gt;&gt;
 </pre>
 </div>
-<div created="20210622161731919" modified="20210623203424674" tags="Infrastructure $:/tags/Stylesheet" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
+<div created="20210622161731919" modified="20210627004619469" tags="Infrastructure" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
 <pre>.tc-drop-down button[aria-label=&quot;info&quot;],
 .tc-drop-down button[aria-label=&quot;new here&quot;],
 .tc-drop-down button[aria-label=&quot;new journal here&quot;],
@@ -11154,7 +11156,9 @@ $:/core/ui/SideBar/Recent $:/core/ui/SideBar/Tools $:/core/ui/SideBar/More&quot;
 .tc-tiddler-controls button[aria-label=&quot;edit&quot;],
 .tc-tiddler-controls button[aria-label=&quot;clone&quot;],
 .tc-tiddler-controls button[aria-label=&quot;export tiddler&quot;],
-.tc-tiddler-controls button[aria-label=&quot;delete&quot;]
+.tc-tiddler-controls button[aria-label=&quot;delete&quot;],
+.tc-page-controls button[aria-label=&quot;new tiddler&quot;],
+.tc-page-controls button[aria-label=&quot;more&quot;]
 {
     display: none;
 }</pre>
@@ -12456,10 +12460,15 @@ display: none;
 <div created="20210518204925103" list-before="$:/core/ui/SideBarSegments/site-title" modified="20210606154537636" tags="$:/tags/SideBarSegment Infrastructure" title="$:/SidebarLogo" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;img src=&quot;https://rickies.net/images/logo.png&quot; alt=&quot;The Rickipedia Logo&quot; style=&quot;  width: 60%; height: 60%;&quot; /&gt;</pre>
 </div>
-<div created="20210509212832036" modified="20210622172400159" tags="Infrastructure $:/tags/SideBarSegment" title="$:/SimpleSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509212832036" modified="20210627003901051" tags="Infrastructure $:/tags/SideBarSegment" title="$:/SimpleSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;&lt;tabs &quot;$:/core/ui/SideBar/Open 
 Contents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
 </pre>
+</div>
+<div created="20210626191739968" modified="20210626191846537" tags="" title="$:/Sitemap" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;$list filter=&quot;[tag[Contents]]&quot;&gt;
+{{!!title}}
+&lt;/$list&gt;</pre>
 </div>
 <div created="20210417034622277" modified="20210417034632238" title="$:/SiteSubtitle" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>the comprehensive collection of picks and predictions</pre>
