@@ -244,6 +244,9 @@ To use in other wikis, drag and drop this link to those wikis: [[Kookma Plugin L
 <div created="20210622162638079" modified="20210622162639615" title="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/new-here" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>hide</pre>
 </div>
+<div created="20210711165054696" modified="20210711165054718" title="$:/config/ViewToolbarButtons/Visibility/$:/StaticLink" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>hide</pre>
+</div>
 <div created="20210416065750625" modified="20210416065750647" title="$:/config/WikiParserRules/Inline/wikilink" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>disable</pre>
 </div>
@@ -10264,7 +10267,7 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 <div created="20210428223355287" creator="jbiatek" modified="20210627153209355" modifier="jbiatek" tags="$:/tags/Stylesheet Infrastructure" title="$:/HideAuthorAndDate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>.tc-subtitle {display:none;}</pre>
 </div>
-<div created="20210622161731919" modified="20210627163647263" tags="Infrastructure $:/tags/Stylesheet" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
+<div created="20210622161731919" modified="20210711165107161" tags="Infrastructure $:/tags/Stylesheet" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
 <pre>.tc-drop-down button[aria-label=&quot;info&quot;],
 .tc-drop-down button[aria-label=&quot;new here&quot;],
 .tc-drop-down button[aria-label=&quot;new journal here&quot;],
@@ -11708,6 +11711,20 @@ Contents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
 <div created="20210627043012430" modified="20210627043144604" tags="Infrastructure" title="$:/StaticBanner" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;div class=&quot;tc-static-alert&quot;&gt;&lt;div class=&quot;tc-static-alert-inner&quot;&gt;This page is a static snapshot of a page on Rickipedia. For the fully functional site, go to &lt;a href=&quot;https://rickies.net/&quot;&gt;rickies.net&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;
 </pre>
+</div>
+<div caption="{{$:/core/images/open-window}} static link" created="20210711162703617" description="Open a simple static version of this page in a new window" list-after="$:/core/ui/Buttons/delete" modified="20210711165046980" tags="$:/tags/ViewToolbar" title="$:/StaticLink" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>\whitespace trim
+&lt;$button message=&quot;tm-open-external-window&quot; param={{{ [&lt;currentTiddler&gt;encodeuri[]encodeuri[]addprefix[static/]addsuffix[.html]] }}} tooltip=&quot;Open a simple static version of this page in a new window&quot; aria-label=&quot;static link&quot; class=&lt;&lt;tv-config-toolbar-class&gt;&gt;&gt;
+&lt;$list filter=&quot;[&lt;tv-config-toolbar-icons&gt;match[yes]]&quot;&gt;
+{{$:/core/images/open-window}}
+&lt;/$list&gt;
+&lt;$list filter=&quot;[&lt;tv-config-toolbar-text&gt;match[yes]]&quot;&gt;
+&lt;span class=&quot;tc-btn-text&quot;&gt;
+&lt;$text text=&quot; &quot;/&gt;
+&lt;$text text=&quot;static link&quot;/&gt;
+&lt;/span&gt;
+&lt;/$list&gt;
+&lt;/$button&gt;</pre>
 </div>
 <div title="$:/status/RequireReloadDueToPluginChange" revision="0" bag="default">
 <pre>no</pre>
