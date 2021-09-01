@@ -409,6 +409,7 @@ https://rickies.net/static/iPad.html
 https://rickies.net/static/iPadOS%252015%2520brings%2520organization%2520changes%2520to%2520the%2520home%2520screen%2520that%2520don%25E2%2580%2599t%2520exist%2520on%2520the%2520iPhone%252C%2520including%2520iOS%252015.html
 https://rickies.net/static/iPadOS.html
 https://rickies.net/static/iPhone%25209%2520will%2520come%2520in%2520colors.html
+https://rickies.net/static/iPhone%2520Event%2520Retrospective%2520(2021).html
 https://rickies.net/static/iPhone.html
 https://rickies.net/static/iPod%2520Touch%2520updated.html
 https://rickies.net/static/iPod%2520Touch.html
