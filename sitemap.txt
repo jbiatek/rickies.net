@@ -47,6 +47,7 @@ https://rickies.net/static/A%2520non-Pro%2520iPad%2520gets%2520a%2520LIDAR%2520s
 https://rickies.net/static/A%2520streaming%2520service%2520announced%2520as%2520Apple%2520Video.html
 https://rickies.net/static/About.html
 https://rickies.net/static/Accessories.html
+https://rickies.net/static/Ahead%2520of%2520Its%2520Time.html
 https://rickies.net/static/AirPods%2520to%2520gain%2520more%2520controls%2520via%2520touch%2520actions.html
 https://rickies.net/static/AirPods.html
 https://rickies.net/static/AirPower%2520is%2520released%2520and%2520new%2520AirPods%2520are%2520released.html
@@ -278,6 +279,7 @@ https://rickies.net/static/Over-ear%2520AirPods%2520are%2520offered%2520with%252
 https://rickies.net/static/Over-ear%2520headphones%2520(i.e.%2520HeadPods).html
 https://rickies.net/static/Phil%2520Schiller%2520is%2520nowhere%2520to%2520be%2520seen.html
 https://rickies.net/static/Pick.html
+https://rickies.net/static/Possible%2520Vindication.html
 https://rickies.net/static/Preview%2520of%2520fall%2520Apple%2520TV%252B%2520content.html
 https://rickies.net/static/Preview%2520of%2520the%2520new%2520Apple%2520Silicon%2520Mac%2520Pro.html
 https://rickies.net/static/ProMotion%2520does%2520not%2520come%2520to%2520new%2520iPhones.html
