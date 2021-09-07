@@ -41,6 +41,7 @@ https://rickies.net/static/A%2520new%2520Smart%2520Keyboard.html
 https://rickies.net/static/A%2520new%2520iMac%2520has%2520adjustability%2520that%2520is%2520reminiscent%2520of%2520the%2520Pro%2520Display%2520XDR.html
 https://rickies.net/static/A%2520new%2520iMac%2520is%2520announced%2520with%2520Intel%2520CPUs.html
 https://rickies.net/static/A%2520new%2520iPad%2520comes%2520in%2520a%2520new%2520color%2520for%2520its%2520line.html
+https://rickies.net/static/A%2520new%2520smart%2520keyboard%253A%2520new%2520material%252C%2520backlit%2520keys%252C%2520a%2520dedicated%2520Siri%2520key.html
 https://rickies.net/static/A%2520new%2520way%2520to%2520turn%2520off%2520confirmation%2520banners%2520in%2520Shortcuts.html
 https://rickies.net/static/A%2520new%252C%2520unique%2520case.html
 https://rickies.net/static/A%2520non-Pro%2520iPad%2520gets%2520a%2520LIDAR%2520sensor.html
@@ -162,6 +163,7 @@ https://rickies.net/static/Big%2520Sur%2520released%2520within%252048%2520hours%
 https://rickies.net/static/Buzzkill.html
 https://rickies.net/static/Catalina%2520gets%2520a%2520release%2520date.html
 https://rickies.net/static/Cheaper%2520phone%2520is%2520not%2520called%2520%2522iPhone%25209%2522.html
+https://rickies.net/static/Coin%2520Flips.html
 https://rickies.net/static/Coin%2520flip.html
 https://rickies.net/static/Connected%2520%2523123%253A%25202017%2520Apple%2520Predictions.html
 https://rickies.net/static/Connected%2520%2523174%253A%25202017%2520In%2520Review%253A%2520I've%2520Been%2520Sitting%2520on%2520That%2520Joke%2520for%2520Months.html
@@ -307,6 +309,7 @@ https://rickies.net/static/Someone%2520on%2520Apple's%2520executive%2520website%
 https://rickies.net/static/Someone%2520washes%2520their%2520hands%2520during%2520the%2520presentation.html
 https://rickies.net/static/Something%2520in%2520the%2520default%2520Dock%2520of%2520Catalina%2520becomes%2520a%2520Catalyst%2520app.html
 https://rickies.net/static/Stagecraft.html
+https://rickies.net/static/Success%2520By%2520Pick%2520Complexity.html
 https://rickies.net/static/The%252012%2522%2520MacBook%2520does%2520not%2520return.html
 https://rickies.net/static/The%252012.9%2522%2520iPad%2520Pro%2520ships%2520later%2520than%2520the%252011%2522%2520iPad%2520Pro.html
 https://rickies.net/static/The%252013%2520inch%2520MacBook%2520Pro%2520will%2520gain%2520a%2520larger%2520screen.html
