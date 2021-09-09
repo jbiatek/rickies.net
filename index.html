@@ -220,6 +220,9 @@ To use in other wikis, drag and drop this link to those wikis: [[Kookma Plugin L
 <div created="20210419221709170" creator="jbiatek" modified="20210531214719621" modifier="jbiatek" title="$:/config/RelinkOnRename" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>yes</pre>
 </div>
+<div created="20210909161417763" modified="20210909161419394" title="$:/config/SearchResults/Default" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>$:/PicksSearch</pre>
+</div>
 <div created="20210430053317329" creator="jbiatek" modified="20210430053327372" modifier="jbiatek" title="$:/config/TiddlerInfo/Mode" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>sticky</pre>
 </div>
@@ -10123,7 +10126,7 @@ To use in other wikis, drag and drop this link to those wikis: [[Kookma Plugin L
 <pre>&lt;!-- For Google, and people without JavaScript --&gt;
 JavaScript appears to be disabled. A version of this site that doesn't require JavaScript can be found at: https://rickies.net/static/</pre>
 </div>
-<div created="20210627054753708" modified="20210909153151285" tags="" title="$:/core/ui/SideBarSegments/search" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210627054753708" modified="20210909162141855" tags="" title="$:/core/ui/SideBarSegments/search" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>\whitespace trim
 
 \define count-popup-button()
@@ -10216,7 +10219,7 @@ JavaScript appears to be disabled. A version of this site that doesn't require J
 &lt;/div&gt;
 </pre>
 </div>
-<div created="20210509213107110" modified="20210909153150713" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509213107110" modified="20210909162141228" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;div class=&quot;tc-sidebar-lists tc-sidebar-tabs&quot;&gt;
 
 &lt;$macrocall $name=&quot;tabs&quot; tabsList=&quot;[all[shadows+tiddlers]tag[$:/tags/SideBar]!has[draft.of]]&quot; default={{$:/config/DefaultSidebarTab}} state=&quot;$:/state/tab/sidebar&quot; class=&quot;tc-sidebar-tabs-main&quot; explicitState=&quot;$:/state/tab/sidebar--595412856&quot;/&gt;
@@ -10267,7 +10270,7 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 <div created="20210428223355287" creator="jbiatek" modified="20210627153209355" modifier="jbiatek" tags="$:/tags/Stylesheet Infrastructure" title="$:/HideAuthorAndDate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>.tc-subtitle {display:none;}</pre>
 </div>
-<div created="20210622161731919" modified="20210909153151874" tags="Infrastructure $:/tags/Stylesheet" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
+<div created="20210622161731919" modified="20210909162142483" tags="Infrastructure $:/tags/Stylesheet" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
 <pre>.tc-drop-down button[aria-label=&quot;info&quot;],
 .tc-drop-down button[aria-label=&quot;new here&quot;],
 .tc-drop-down button[aria-label=&quot;new journal here&quot;],
@@ -10291,8 +10294,8 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 <div title="$:/isEncrypted" revision="0" bag="default">
 <pre>no</pre>
 </div>
-<div created="20210604032308773" modified="20210604032324580" tags="Infrastructure" title="$:/language/Search/DefaultResults/Caption" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>All</pre>
+<div created="20210604032308773" modified="20210909161335054" tags="Infrastructure" title="$:/language/Search/DefaultResults/Caption" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>Entire Wiki</pre>
 </div>
 <div created="20210430053150840" creator="jbiatek" modified="20210603183522208" modifier="jbiatek" title="$:/layout" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>$:/core/ui/PageTemplate</pre>
@@ -10513,6 +10516,25 @@ toolbar-cancel-button:
 toolbar-done-button: 
 untagged-background: #999999
 very-muted-foreground: #888888</pre>
+</div>
+<div caption="All Picks" created="20210601154854808" list-before="$:/core/ui/DefaultSearchResultList" modified="20210909161217348" tags="$:/tags/SearchResults Infrastructure" title="$:/PicksSearch" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>\define searchResults()
+
+&lt;i&gt;&lt;small&gt;Graded picks&lt;/small&gt;&lt;/i&gt;
+&lt;$list filter=&quot;[!is[system]tag[Pick]search{$(searchTiddler)$}] +[!tag[NonGraded]] +[!tag[Flexy]]&quot;&gt;
+&lt;span class={{{[&lt;currentTiddler&gt;addsuffix[-primaryList]] -[&lt;searchListState&gt;get[text]] +[then[]else[tc-list-item-selected]] }}}&gt;
+&lt;$transclude tiddler=&quot;$:/core/ui/ListItemTemplate&quot;/&gt;
+&lt;/span&gt;
+&lt;/$list&gt;
+
+&lt;i&gt;&lt;small&gt;Non-graded or Flexy picks&lt;/small&gt;&lt;/i&gt;
+&lt;$list filter=&quot;[!is[system]tag[Pick]search{$(searchTiddler)$}] +[!tag[Regular]] +[!tag[Ricky]]&quot;&gt;
+&lt;span class={{{[&lt;currentTiddler&gt;addsuffix[-primaryList]] -[&lt;searchListState&gt;get[text]] +[then[]else[tc-list-item-selected]] }}}&gt;
+&lt;$transclude tiddler=&quot;$:/core/ui/ListItemTemplate&quot;/&gt;
+&lt;/span&gt;
+&lt;/$list&gt;
+\end
+&lt;&lt;searchResults&gt;&gt;</pre>
 </div>
 <div created="20210528064944192" modified="20210622171609438" tags="$:/tags/Stylesheet Infrastructure" title="$:/PickTableStyling" type="text/plain" revision="0" bag="default">
 <pre>td ul {
@@ -11692,7 +11714,7 @@ display: none;
 <div created="20210518204925103" list-before="$:/core/ui/SideBarSegments/site-title" modified="20210606154537636" tags="$:/tags/SideBarSegment Infrastructure" title="$:/SidebarLogo" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;img src=&quot;https://rickies.net/images/logo.png&quot; alt=&quot;The Rickipedia Logo&quot; style=&quot;  width: 60%; height: 60%;&quot; /&gt;</pre>
 </div>
-<div created="20210509212832036" modified="20210909153150116" tags="Infrastructure $:/tags/SideBarSegment" title="$:/SimpleSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509212832036" modified="20210909162140454" tags="Infrastructure $:/tags/SideBarSegment" title="$:/SimpleSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;&lt;tabs &quot;$:/core/ui/SideBar/Open 
 Contents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
 </pre>
@@ -13495,25 +13517,6 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 </div>
 <div created="20210420185756451" host="" modified="20210907194208615" pick="" pick-conditions="" score="" tags="Infrastructure" title="Pick Prototype" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
-</div>
-<div caption="Picks" created="20210601154854808" modified="20210627061318934" tags="$:/tags/SearchResults Infrastructure" title="PicksSearch" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>\define searchResults()
-&lt;i&gt;&lt;small&gt;In title (&lt;$count filter=&quot;[!is[system]tag[Pick]search:title{$(searchTiddler)$}]&quot;/&gt;)&lt;/small&gt;&lt;/i&gt;
-&lt;$list filter=&quot;[!is[system]tag[Pick]search:title{$(searchTiddler)$}]&quot;&gt;
-&lt;span class={{{[&lt;currentTiddler&gt;addsuffix[-primaryList]] -[&lt;searchListState&gt;get[text]] +[then[]else[tc-list-item-selected]] }}}&gt;
-&lt;$transclude tiddler=&quot;$:/core/ui/ListItemTemplate&quot;/&gt;
-&lt;/span&gt;
-&lt;/$list&gt;
-
-&lt;i&gt;&lt;small&gt;Other (&lt;$count filter=&quot;[!is[system]tag[Pick]search{$(searchTiddler)$}!search:title{$(searchTiddler)$}]&quot;/&gt;)&lt;/small&gt;&lt;/i&gt;
-&lt;$list filter=&quot;[!is[system]tag[Pick]search{$(searchTiddler)$}!search:title{$(searchTiddler)$}]&quot;&gt;
-&lt;span class={{{[&lt;currentTiddler&gt;addsuffix[-primaryList]] -[&lt;searchListState&gt;get[text]] +[then[]else[tc-list-item-selected]] }}}&gt;
-&lt;$transclude tiddler=&quot;$:/core/ui/ListItemTemplate&quot;/&gt;
-&lt;/span&gt;
-&lt;/$list&gt;
-
-\end
-&lt;&lt;searchResults&gt;&gt;</pre>
 </div>
 <div created="20210527212654514" modified="20210531071355071" tags="Infrastructure" title="PickTableRowTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;tr class=&quot;pickrow&quot;&gt;
