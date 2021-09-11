@@ -225,7 +225,6 @@ https://rickies.net/static/Hypervisor%2520comes%2520to%2520iPad.html
 https://rickies.net/static/Improved%2520external%2520display%2520support%2520for%2520iPadOS.html
 https://rickies.net/static/Improved%2520support%2520for%2520ZIP%2520archives%2520in%2520the%2520Files%2520app%2520and%2520framework.html
 https://rickies.net/static/In%2520the%2520next%2520version%2520of%2520iPadOS%252C%2520you%2520can%2520put%2520widgets%2520in%2520more%2520places%2520(out%2520of%2520the%2520left%2520column).html
-https://rickies.net/static/Infrastructure.html
 https://rickies.net/static/Jeff%2520Williams%2520will%2520take%2520a%2520greater%2520role%2520in%2520the%2520keynote.html
 https://rickies.net/static/Joz%2520presents%2520a%2520new%2520product.html
 https://rickies.net/static/Joz%2520wears%2520a%2520non-solid-color%2520shirt.html
