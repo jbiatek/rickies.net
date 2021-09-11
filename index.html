@@ -10126,7 +10126,7 @@ To use in other wikis, drag and drop this link to those wikis: [[Kookma Plugin L
 <pre>&lt;!-- For Google, and people without JavaScript --&gt;
 JavaScript appears to be disabled. A version of this site that doesn't require JavaScript can be found at: https://rickies.net/static/</pre>
 </div>
-<div created="20210627054753708" modified="20210911150313567" tags="" title="$:/core/ui/SideBarSegments/search" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210627054753708" modified="20210911200535250" tags="" title="$:/core/ui/SideBarSegments/search" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>\whitespace trim
 
 \define count-popup-button()
@@ -10219,7 +10219,7 @@ JavaScript appears to be disabled. A version of this site that doesn't require J
 &lt;/div&gt;
 </pre>
 </div>
-<div created="20210509213107110" modified="20210911150312931" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509213107110" modified="20210911200534589" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;div class=&quot;tc-sidebar-lists tc-sidebar-tabs&quot;&gt;
 
 &lt;$macrocall $name=&quot;tabs&quot; tabsList=&quot;[all[shadows+tiddlers]tag[$:/tags/SideBar]!has[draft.of]]&quot; default={{$:/config/DefaultSidebarTab}} state=&quot;$:/state/tab/sidebar&quot; class=&quot;tc-sidebar-tabs-main&quot; explicitState=&quot;$:/state/tab/sidebar--595412856&quot;/&gt;
@@ -10322,7 +10322,7 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 <div created="20210428223355287" creator="jbiatek" modified="20210911145053271" modifier="jbiatek" tags="$:/tags/Stylesheet $:/Infrastructure" title="$:/HideAuthorAndDate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>.tc-subtitle {display:none;}</pre>
 </div>
-<div created="20210622161731919" modified="20210911150314284" tags="$:/Infrastructure $:/tags/Stylesheet" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
+<div created="20210622161731919" modified="20210911200536029" tags="$:/Infrastructure $:/tags/Stylesheet" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
 <pre>.tc-drop-down button[aria-label=&quot;info&quot;],
 .tc-drop-down button[aria-label=&quot;new here&quot;],
 .tc-drop-down button[aria-label=&quot;new journal here&quot;],
@@ -10673,22 +10673,35 @@ very-muted-foreground: #888888</pre>
 <div created="20210420185756451" host="" modified="20210911145253620" pick="" pick-conditions="" score="" tags="$:/Infrastructure" title="$:/Pick Prototype" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div caption="All Picks" created="20210601154854808" first-search-filter="[!is[system]tag[Pick]search&lt;userInput&gt;]" list-before="$:/core/ui/DefaultSearchResultList" modified="20210911145053289" tags="$:/tags/SearchResults $:/Infrastructure" title="$:/PicksSearch" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div caption="All Picks" created="20210601154854808" first-search-filter="[!is[system]tag[Pick]search&lt;userInput&gt;]" list-before="$:/core/ui/DefaultSearchResultList" modified="20210911200001273" tags="$:/tags/SearchResults $:/Infrastructure" title="$:/PicksSearch" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>\define searchResults()
 
-&lt;i&gt;&lt;small&gt;Graded picks&lt;/small&gt;&lt;/i&gt;
-&lt;$list filter=&quot;[!is[system]tag[Pick]search{$(searchTiddler)$}] +[!tag[NonGraded]] +[!tag[Flexy]]&quot;&gt;
+&lt;h3&gt;Graded picks&lt;/h3&gt;
+&lt;$list filter=&quot;[!is[system]tag[Pick]search:title{$(searchTiddler)$}] +[!tag[NonGraded]] +[!tag[Flexy]]&quot;&gt;
+&lt;span class={{{[&lt;currentTiddler&gt;addsuffix[-primaryList]] -[&lt;searchListState&gt;get[text]] +[then[]else[tc-list-item-selected]] }}}&gt;
+&lt;$transclude tiddler=&quot;$:/core/ui/ListItemTemplate&quot;/&gt;
+&lt;/span&gt;
+&lt;/$list&gt;
+&lt;i&gt;&lt;small&gt;In notes or tags:&lt;/small&gt;&lt;/i&gt;
+&lt;$list filter=&quot;[!is[system]tag[Pick]!search:title{$(searchTiddler)$}search{$(searchTiddler)$}] +[!tag[NonGraded]] +[!tag[Flexy]]&quot;&gt;
 &lt;span class={{{[&lt;currentTiddler&gt;addsuffix[-primaryList]] -[&lt;searchListState&gt;get[text]] +[then[]else[tc-list-item-selected]] }}}&gt;
 &lt;$transclude tiddler=&quot;$:/core/ui/ListItemTemplate&quot;/&gt;
 &lt;/span&gt;
 &lt;/$list&gt;
 
-&lt;i&gt;&lt;small&gt;Non-graded or Flexy picks&lt;/small&gt;&lt;/i&gt;
-&lt;$list filter=&quot;[!is[system]tag[Pick]search{$(searchTiddler)$}] +[!tag[Regular]] +[!tag[Ricky]]&quot;&gt;
+&lt;h3&gt;Non-graded or Flexy picks&lt;/h3&gt;
+&lt;$list filter=&quot;[!is[system]tag[Pick]search:title{$(searchTiddler)$}] +[!tag[Regular]] +[!tag[Ricky]]&quot;&gt;
 &lt;span class={{{[&lt;currentTiddler&gt;addsuffix[-primaryList]] -[&lt;searchListState&gt;get[text]] +[then[]else[tc-list-item-selected]] }}}&gt;
 &lt;$transclude tiddler=&quot;$:/core/ui/ListItemTemplate&quot;/&gt;
 &lt;/span&gt;
 &lt;/$list&gt;
+&lt;i&gt;&lt;small&gt;In notes or tags:&lt;/small&gt;&lt;/i&gt;
+&lt;$list filter=&quot;[!is[system]tag[Pick]!search:title{$(searchTiddler)$}search{$(searchTiddler)$}] +[!tag[Regular]] +[!tag[Ricky]]&quot;&gt;
+&lt;span class={{{[&lt;currentTiddler&gt;addsuffix[-primaryList]] -[&lt;searchListState&gt;get[text]] +[then[]else[tc-list-item-selected]] }}}&gt;
+&lt;$transclude tiddler=&quot;$:/core/ui/ListItemTemplate&quot;/&gt;
+&lt;/span&gt;
+&lt;/$list&gt;
+
 \end
 &lt;&lt;searchResults&gt;&gt;</pre>
 </div>
@@ -11926,7 +11939,7 @@ display: none;
 <div created="20210518204925103" list-before="$:/core/ui/SideBarSegments/site-title" modified="20210911145053330" tags="$:/tags/SideBarSegment $:/Infrastructure" title="$:/SidebarLogo" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;img src=&quot;https://rickies.net/images/logo.png&quot; alt=&quot;The Rickipedia Logo&quot; style=&quot;  width: 60%; height: 60%;&quot; /&gt;</pre>
 </div>
-<div created="20210509212832036" modified="20210911150312347" tags="$:/Infrastructure $:/tags/SideBarSegment" title="$:/SimpleSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509212832036" modified="20210911200533488" tags="$:/Infrastructure $:/tags/SideBarSegment" title="$:/SimpleSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;&lt;tabs &quot;$:/core/ui/SideBar/Open 
 Contents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
 </pre>
