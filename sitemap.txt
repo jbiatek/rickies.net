@@ -28,6 +28,8 @@ https://rickies.net/static/2021%2520April%2520Rickies.html
 https://rickies.net/static/2021%2520April%2520coin%2520flip%2520for%2520second%2520place%2520in%2520the%2520Flexies.html
 https://rickies.net/static/2021%2520April%2520coin%2520flip%2520for%2520second%2520place%2520in%2520the%2520Rickies.html
 https://rickies.net/static/2021%2520September%2520Rickies.html
+https://rickies.net/static/2021%2520September%2520coin%2520flip%2520for%2520Rickies%2520winner.html
+https://rickies.net/static/2021%2520September%2520coin%2520flip%2520for%2520the%2520Flexies%2520loser.html
 https://rickies.net/static/2021%2520WWDC%2520Rickies.html
 https://rickies.net/static/2021%2520WWDC%2520coin%2520flip%2520for%2520second%2520place%2520in%2520the%2520Rickies.html
 https://rickies.net/static/A%252010.9%2522%2520bezel-less%2520iPad%2520Pro.html
@@ -206,6 +208,7 @@ https://rickies.net/static/Connected%2520%2523342%253A%2520MH%2520AH%2520%25F0%2
 https://rickies.net/static/Connected%2520%2523348%253A%2520The%2520Rickies%2520(WWDC%25202021).html
 https://rickies.net/static/Connected%2520%2523349%253A%2520If%2520Robots%2520Happen%252C%2520We'll%2520Need%2520To%2520Readdress%2520This.html
 https://rickies.net/static/Connected%2520%2523362%253A%2520The%2520Rickies%2520(September%25202021).html
+https://rickies.net/static/Connected%2520%2523363%253A%2520FaceIDSensorThatSupportsPartiallyOccludedFaces.html
 https://rickies.net/static/Contents.html
 https://rickies.net/static/Craig%2520demos%2520Big%2520Sur%2520features.html
 https://rickies.net/static/Cursor%2520support%2520for%2520iOS.html
