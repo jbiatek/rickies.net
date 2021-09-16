@@ -2773,6 +2773,26 @@ background-color: rgb(255, 252, 240);
 
 .tc-subtitle {display:none;}
 
+.tc-drop-down button[aria-label="info"],
+.tc-drop-down button[aria-label="new here"],
+.tc-drop-down button[aria-label="new journal here"],
+.tc-drop-down button[aria-label="edit"],
+.tc-drop-down button[aria-label="clone"],
+.tc-drop-down button[aria-label="export tiddler"],
+.tc-drop-down button[aria-label="delete"],
+.tc-tiddler-controls button[aria-label="info"],
+.tc-tiddler-controls button[aria-label="new here"],
+.tc-tiddler-controls button[aria-label="new journal here"],
+.tc-tiddler-controls button[aria-label="edit"],
+.tc-tiddler-controls button[aria-label="clone"],
+.tc-tiddler-controls button[aria-label="export tiddler"],
+.tc-tiddler-controls button[aria-label="delete"],
+.tc-page-controls button[aria-label="new tiddler"],
+.tc-page-controls button[aria-label="more"]
+{
+    display: none;
+}
+
 td ul {
     margin: 5px;
     padding-left: 0px;
