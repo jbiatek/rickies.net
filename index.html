@@ -188,6 +188,9 @@ background-color: rgb(255, 252, 240);
 <div created="20210415165728031" modified="20210415165729258" title="$:/config/AnimationDuration" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>100</pre>
 </div>
+<div created="20210921191653959" modified="20210921192327003" title="$:/config/DragAndDrop/Enable" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>no</pre>
+</div>
 <div caption="Kookma Plugin Library" created="20200306121057751" modified="20210530160955070" tags="$:/tags/PluginLibrary" title="$:/config/KookmaPluginLibrary" type="text/vnd.tiddlywiki" url="https://kookma.github.io/TW-PluginLibrary/library/index.html" revision="0" bag="default">
 <pre>Kookma plugin library is a set of plugins, themes, and scripts, to extend functionality and add new features to Tiddlywiki. For detail information visit the library at [[GitHub|https://github.com/kookma]]. It is recommended to backup your data before installing any plugin, theme, or script. 
 
@@ -10126,7 +10129,7 @@ To use in other wikis, drag and drop this link to those wikis: [[Kookma Plugin L
 <pre>&lt;!-- For Google, and people without JavaScript --&gt;
 JavaScript appears to be disabled. A version of this site that doesn't require JavaScript can be found at: https://rickies.net/static/</pre>
 </div>
-<div created="20210627054753708" modified="20210916220448790" tags="" title="$:/core/ui/SideBarSegments/search" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210627054753708" modified="20210917044232611" tags="" title="$:/core/ui/SideBarSegments/search" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>\whitespace trim
 
 \define count-popup-button()
@@ -10219,7 +10222,7 @@ JavaScript appears to be disabled. A version of this site that doesn't require J
 &lt;/div&gt;
 </pre>
 </div>
-<div created="20210509213107110" modified="20210916220449493" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509213107110" modified="20210917044231991" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;div class=&quot;tc-sidebar-lists tc-sidebar-tabs&quot;&gt;
 
 &lt;$macrocall $name=&quot;tabs&quot; tabsList=&quot;[all[shadows+tiddlers]tag[$:/tags/SideBar]!has[draft.of]]&quot; default={{$:/config/DefaultSidebarTab}} state=&quot;$:/state/tab/sidebar&quot; class=&quot;tc-sidebar-tabs-main&quot; explicitState=&quot;$:/state/tab/sidebar--595412856&quot;/&gt;
@@ -10326,7 +10329,7 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 <div created="20210428223355287" creator="jbiatek" modified="20210911145053271" modifier="jbiatek" tags="$:/tags/Stylesheet $:/Infrastructure" title="$:/HideAuthorAndDate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>.tc-subtitle {display:none;}</pre>
 </div>
-<div created="20210622161731919" modified="20210916220448148" tags="$:/Infrastructure $:/tags/Stylesheet" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
+<div created="20210622161731919" modified="20210921192045468" tags="$:/Infrastructure $:/tags/Stylesheet" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
 <pre>.tc-drop-down button[aria-label=&quot;info&quot;],
 .tc-drop-down button[aria-label=&quot;new here&quot;],
 .tc-drop-down button[aria-label=&quot;new journal here&quot;],
@@ -11943,7 +11946,7 @@ display: none;
 <div created="20210518204925103" list-before="$:/core/ui/SideBarSegments/site-title" modified="20210911145053330" tags="$:/tags/SideBarSegment $:/Infrastructure" title="$:/SidebarLogo" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;img src=&quot;https://rickies.net/images/logo.png&quot; alt=&quot;The Rickipedia Logo&quot; style=&quot;  width: 60%; height: 60%;&quot; /&gt;</pre>
 </div>
-<div created="20210509212832036" modified="20210916220450185" tags="$:/Infrastructure $:/tags/SideBarSegment" title="$:/SimpleSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509212832036" modified="20210917044231428" tags="$:/Infrastructure $:/tags/SideBarSegment" title="$:/SimpleSidebar" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;&lt;tabs &quot;$:/core/ui/SideBar/Open 
 Contents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
 </pre>
@@ -13915,13 +13918,19 @@ Note that the additional conditions may be in the notes of the pick.
 &lt;/$list&gt;
 </pre>
 </div>
-<div created="20210526181659214" modified="20210911145053685" tags="$:/Infrastructure" title="Super Secret Editing Interface" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>&lt;$list filter=&quot;$:/SimpleSidebar $:/core/ui/SideBarSegments/tabs $:/core/ui/SideBarSegments/search&quot;&gt;
+<div created="20210526181659214" modified="20210921192030082" tags="$:/Infrastructure" title="Super Secret Editing Interface" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;$list filter=&quot;$:/config/DragAndDrop/Enable&quot;&gt;
+&lt;$checkbox checked=&quot;yes&quot; unchecked=&quot;no&quot; field=&quot;text&quot;&gt; &lt;$link/&gt;&lt;br&gt;&lt;/$checkbox&gt;
+&lt;/$list&gt;
+
+&lt;$list filter=&quot;$:/SimpleSidebar $:/core/ui/SideBarSegments/tabs $:/core/ui/SideBarSegments/search&quot;&gt;
 &lt;$checkbox tag=&quot;$:/tags/SideBarSegment&quot;&gt; &lt;$link/&gt;&lt;br&gt;&lt;/$checkbox&gt;
 &lt;/$list&gt;
+
 &lt;$list filter=&quot;$:/HideEditControls&quot;&gt;
 &lt;$checkbox tag=&quot;$:/tags/Stylesheet&quot;&gt; &lt;$link/&gt;&lt;br&gt;&lt;/$checkbox&gt;
-&lt;/$list&gt;</pre>
+&lt;/$list&gt;
+</pre>
 </div>
 <div created="20210420190653660" host="Myke" modified="20210906181704710" pick="1.2" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Regular iPad Pick" title="The 12.9&quot; iPad Pro ships later than the 11&quot; iPad Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
