@@ -10222,7 +10222,7 @@ JavaScript appears to be disabled. A version of this site that doesn't require J
 &lt;/div&gt;
 </pre>
 </div>
-<div created="20210509213107110" modified="20210917044231991" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210509213107110" modified="20210922145408684" tags="" title="$:/core/ui/SideBarSegments/tabs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;div class=&quot;tc-sidebar-lists tc-sidebar-tabs&quot;&gt;
 
 &lt;$macrocall $name=&quot;tabs&quot; tabsList=&quot;[all[shadows+tiddlers]tag[$:/tags/SideBar]!has[draft.of]]&quot; default={{$:/config/DefaultSidebarTab}} state=&quot;$:/state/tab/sidebar&quot; class=&quot;tc-sidebar-tabs-main&quot; explicitState=&quot;$:/state/tab/sidebar--595412856&quot;/&gt;
@@ -10265,7 +10265,7 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 &lt;meta name=&quot;theme-color&quot; content=&quot;#000000&quot;&gt;
 </pre>
 </div>
-<div created="20210415203535992" modified="20210914194917735" tags="$:/Infrastructure" title="$:/FieldChecker" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210415203535992" modified="20210922144133724" tags="$:/Infrastructure" title="$:/FieldChecker" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>! hosts: 
 &lt;$list filter=&quot;[each[host]has[host]]&quot;&gt; {{!!host}} &lt;/$list&gt;
 
@@ -10277,7 +10277,7 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 &lt;$list filter=&quot;[tag[Pick]!tag[Ricky]!score[0]!score[1]!score[0.5]!score[0.75]!score[]]&quot;/&gt;
 
 ! missing Pick tag:
-&lt;&lt;mass-tagger &quot;[tag[Regular]!tag[Pick]] [tag[Ricky]!tag[Pick]] [tag[Flexy]!tag[Pick]] [tag[NonGraded]!tag[Pick]]&quot; &quot;Pick&quot;&gt;&gt;
+&lt;&lt;mass-tagger &quot;[tag[Regular]!tag[Pick]] [tag[Ricky]!tag[Pick]] [tag[Flexie]!tag[Pick]] [tag[NonGraded]!tag[Pick]]&quot; &quot;Pick&quot;&gt;&gt;
 
 ! missing pick-conditions
 &lt;$list filter=&quot;[tag[Pick]pick-conditions[]]&quot;&gt;&lt;$link/&gt;&lt;br&gt;&lt;/$list&gt;
@@ -10305,19 +10305,19 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 &lt;$text text={{{ [&lt;theField&gt;sentencecase[]search-replace:g:[-],[ ]] }}} /&gt;:  &lt;$text text={{{ [&lt;theField&gt;match[donation]then[$]else[]] }}} /&gt;&lt;$transclude field=&lt;&lt;theField&gt;&gt; }}} /&gt;
 &lt;/span&gt;</pre>
 </div>
-<div created="20210416194244525" modified="20210911145253568" tags="$:/Infrastructure" title="$:/FlexyPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>!! 💪 Flexy Picks
+<div created="20210416194244525" modified="20210922144506625" tags="$:/Infrastructure" title="$:/FlexiePickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>!! 💪 Flexie Picks
 
-&lt;&lt;pick-table [tag{!!title}tag[Flexy]]&gt;&gt;
+&lt;&lt;pick-table [tag{!!title}tag[Flexie]]&gt;&gt;
 </pre>
 </div>
-<div created="20210420011538500" modified="20210911145253583" tags="$:/Infrastructure" title="$:/FlexyScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>!! 💸 Flexy Scores
+<div created="20210420011538500" modified="20210922144849120" tags="$:/Infrastructure" title="$:/FlexieScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>!! 💸 Flexie Scores
 
 &lt;ol&gt;
-&lt;$list filter=&quot;Stephen Myke Federico [enlist{!!flexy-score-sort}]&quot; variable=&quot;currentHost&quot;&gt;
-&lt;$set name=&quot;overallRight&quot; value={{{[tag{!!title}tag[Flexy]host&lt;currentHost&gt;get[score]sum[]] }}}&gt;
-&lt;$set name=&quot;overallTotal&quot; value={{{[tag{!!title}tag[Flexy]host&lt;currentHost&gt;count[]] }}}&gt;
+&lt;$list filter=&quot;Stephen Myke Federico [enlist{!!flexie-score-sort}]&quot; variable=&quot;currentHost&quot;&gt;
+&lt;$set name=&quot;overallRight&quot; value={{{[tag{!!title}tag[Flexie]host&lt;currentHost&gt;get[score]sum[]] }}}&gt;
+&lt;$set name=&quot;overallTotal&quot; value={{{[tag{!!title}tag[Flexie]host&lt;currentHost&gt;count[]] }}}&gt;
 &lt;li&gt;&lt;&lt;currentHost&gt;&gt;: &lt;$text text={{{ [&lt;overallRight&gt;divide&lt;overallTotal&gt;multiply[100]fixed[1]] }}} /&gt;% (&lt;&lt;overallRight&gt;&gt;/&lt;&lt;overallTotal&gt;&gt;)
 &lt;/li&gt;
 &lt;/$set&gt;
@@ -10329,7 +10329,7 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 <div created="20210428223355287" creator="jbiatek" modified="20210911145053271" modifier="jbiatek" tags="$:/tags/Stylesheet $:/Infrastructure" title="$:/HideAuthorAndDate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>.tc-subtitle {display:none;}</pre>
 </div>
-<div created="20210622161731919" modified="20210921192045468" tags="$:/Infrastructure $:/tags/Stylesheet" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
+<div created="20210622161731919" modified="20210922145409659" tags="$:/Infrastructure $:/tags/Stylesheet" title="$:/HideEditControls" type="text/css" revision="0" bag="default">
 <pre>.tc-drop-down button[aria-label=&quot;info&quot;],
 .tc-drop-down button[aria-label=&quot;new here&quot;],
 .tc-drop-down button[aria-label=&quot;new journal here&quot;],
@@ -10376,7 +10376,7 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 &lt;/$list&gt;
 \end</pre>
 </div>
-<div created="20210601060941113" modified="20210911145053725" tags="$:/Infrastructure $:/tags/Macro" title="$:/MultiEventPickTableMacro" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210601060941113" modified="20210922143856209" tags="$:/Infrastructure $:/tags/Macro" title="$:/MultiEventPickTableMacro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>\define multi-event-nohost(mySubfilter:&quot;[tag[Ricky]]&quot;)
 &lt;table class=&quot;picktable nonotes nohost&quot;&gt;
 &lt;$list filter=&quot;[tag[Keynote]] [tag[Annual]] [tag[Other]] +[sort[picked]]&quot; variable=&quot;currentEvent&quot;&gt;
@@ -10391,7 +10391,7 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 &lt;$list filter=&quot;[tag&lt;currentEvent&gt;subfilter&lt;__mySubfilter__&gt;tag[NonGraded]sort[pick]]&quot;&gt;
 {{||$:/PickTableRowTemplate}}
 &lt;/$list&gt;
-&lt;$list filter=&quot;[tag&lt;currentEvent&gt;subfilter&lt;__mySubfilter__&gt;tag[Flexy]sort[pick]]&quot;&gt;
+&lt;$list filter=&quot;[tag&lt;currentEvent&gt;subfilter&lt;__mySubfilter__&gt;tag[Flexie]sort[pick]]&quot;&gt;
 {{||$:/PickTableRowTemplate}}
 &lt;/$list&gt;
 &lt;/$list&gt;
@@ -10415,7 +10415,7 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 &lt;$list filter=&quot;[tag&lt;currentEvent&gt;subfilter&lt;__mySubfilter__&gt;tag[NonGraded]sort[pick]]&quot;&gt;
 {{||$:/PickTableRowTemplate}}
 &lt;/$list&gt;
-&lt;$list filter=&quot;[tag&lt;currentEvent&gt;subfilter&lt;__mySubfilter__&gt;tag[Flexy]sort[pick]]&quot;&gt;
+&lt;$list filter=&quot;[tag&lt;currentEvent&gt;subfilter&lt;__mySubfilter__&gt;tag[Flexie]sort[pick]]&quot;&gt;
 {{||$:/PickTableRowTemplate}}
 &lt;/$list&gt;
 &lt;/$list&gt;
@@ -10428,11 +10428,11 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 
 &lt;&lt;pick-table [tag{!!title}tag[NonGraded]]&gt;&gt;</pre>
 </div>
-<div created="20210507220046004" modified="20210911145253611" tags="$:/Infrastructure" title="$:/NonGradedScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210507220046004" modified="20210922144901847" tags="$:/Infrastructure" title="$:/NonGradedScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! 🍹 Non-Graded Scores
 
 &lt;ul&gt;
-&lt;$list filter=&quot;Stephen Myke Federico [enlist{!!flexy-score-sort}]&quot; variable=&quot;currentHost&quot;&gt;
+&lt;$list filter=&quot;Stephen Myke Federico [enlist{!!flexie-score-sort}]&quot; variable=&quot;currentHost&quot;&gt;
 &lt;li&gt;&lt;&lt;currentHost&gt;&gt;: &lt;$text text={{{ [tag{!!title}tag[NonGraded]host&lt;currentHost&gt;get[score]sum[]] }}}/&gt; out of &lt;$text text={{{ [tag{!!title}tag[NonGraded]host&lt;currentHost&gt;count[]] }}}/&gt;
 &lt;/li&gt;
 &lt;/$list&gt;
@@ -10680,23 +10680,23 @@ very-muted-foreground: #888888</pre>
 <div created="20210420185756451" host="" modified="20210911145253620" pick="" pick-conditions="" score="" tags="$:/Infrastructure" title="$:/Pick Prototype" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div caption="All Picks" created="20210601154854808" first-search-filter="[!is[system]tag[Pick]search&lt;userInput&gt;]" list-before="$:/core/ui/DefaultSearchResultList" modified="20210911200001273" tags="$:/tags/SearchResults $:/Infrastructure" title="$:/PicksSearch" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div caption="All Picks" created="20210601154854808" first-search-filter="[!is[system]tag[Pick]search&lt;userInput&gt;]" list-before="$:/core/ui/DefaultSearchResultList" modified="20210922144400600" tags="$:/tags/SearchResults $:/Infrastructure" title="$:/PicksSearch" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>\define searchResults()
 
 &lt;h3&gt;Graded picks&lt;/h3&gt;
-&lt;$list filter=&quot;[!is[system]tag[Pick]search:title{$(searchTiddler)$}] +[!tag[NonGraded]] +[!tag[Flexy]]&quot;&gt;
+&lt;$list filter=&quot;[!is[system]tag[Pick]search:title{$(searchTiddler)$}] +[!tag[NonGraded]] +[!tag[Flexie]]&quot;&gt;
 &lt;span class={{{[&lt;currentTiddler&gt;addsuffix[-primaryList]] -[&lt;searchListState&gt;get[text]] +[then[]else[tc-list-item-selected]] }}}&gt;
 &lt;$transclude tiddler=&quot;$:/core/ui/ListItemTemplate&quot;/&gt;
 &lt;/span&gt;
 &lt;/$list&gt;
 &lt;i&gt;&lt;small&gt;In notes or tags:&lt;/small&gt;&lt;/i&gt;
-&lt;$list filter=&quot;[!is[system]tag[Pick]!search:title{$(searchTiddler)$}search{$(searchTiddler)$}] +[!tag[NonGraded]] +[!tag[Flexy]]&quot;&gt;
+&lt;$list filter=&quot;[!is[system]tag[Pick]!search:title{$(searchTiddler)$}search{$(searchTiddler)$}] +[!tag[NonGraded]] +[!tag[Flexie]]&quot;&gt;
 &lt;span class={{{[&lt;currentTiddler&gt;addsuffix[-primaryList]] -[&lt;searchListState&gt;get[text]] +[then[]else[tc-list-item-selected]] }}}&gt;
 &lt;$transclude tiddler=&quot;$:/core/ui/ListItemTemplate&quot;/&gt;
 &lt;/span&gt;
 &lt;/$list&gt;
 
-&lt;h3&gt;Non-graded or Flexy picks&lt;/h3&gt;
+&lt;h3&gt;Non-graded or Flexie picks&lt;/h3&gt;
 &lt;$list filter=&quot;[!is[system]tag[Pick]search:title{$(searchTiddler)$}] +[!tag[Regular]] +[!tag[Ricky]]&quot;&gt;
 &lt;span class={{{[&lt;currentTiddler&gt;addsuffix[-primaryList]] -[&lt;searchListState&gt;get[text]] +[then[]else[tc-list-item-selected]] }}}&gt;
 &lt;$transclude tiddler=&quot;$:/core/ui/ListItemTemplate&quot;/&gt;
@@ -10712,13 +10712,13 @@ very-muted-foreground: #888888</pre>
 \end
 &lt;&lt;searchResults&gt;&gt;</pre>
 </div>
-<div created="20210527212654514" modified="20210911145253640" tags="$:/Infrastructure" title="$:/PickTableRowTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210527212654514" modified="20210922144437084" tags="$:/Infrastructure" title="$:/PickTableRowTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;tr class=&quot;pickrow&quot;&gt;
 &lt;td class={{!!host}}&gt;{{!!host}}&lt;/td&gt;
 &lt;td class=&quot;picktype&quot;&gt;
     &lt;$list filter=&quot;[is[current]tag[Regular]]&quot;&gt;Regular&lt;/$list&gt;
     &lt;$list filter=&quot;[is[current]tag[Ricky]]&quot;&gt;Risky&lt;/$list&gt;
-    &lt;$list filter=&quot;[is[current]tag[Flexy]]&quot;&gt;Flexy&lt;/$list&gt;
+    &lt;$list filter=&quot;[is[current]tag[Flexie]]&quot;&gt;Flexie&lt;/$list&gt;
     &lt;$list filter=&quot;[is[current]tag[NonGraded]]&quot;&gt;Non&amp;#8209;graded&lt;/$list&gt;
 &lt;/td&gt;
 &lt;td class=&quot;pick&quot;&gt;&quot;&lt;$link/&gt;&quot;&lt;/td&gt;
@@ -11847,12 +11847,12 @@ display: none;
 
 &lt;&lt;pick-table [tag{!!title}tag[Ricky]]&gt;&gt;</pre>
 </div>
-<div created="20210416152908218" modified="20210911145253687" tags="$:/Infrastructure" title="$:/ScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210416152908218" modified="20210922143856256" tags="$:/Infrastructure" title="$:/ScoreTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! 🏆 Scores
 
 &lt;ol&gt;
 &lt;$list filter=&quot;Stephen Myke Federico [enlist{!!score-sort}]&quot; variable=&quot;currentHost&quot;&gt;
-&lt;li&gt;&lt;&lt;currentHost&gt;&gt;: &lt;$text text={{{ [tag{!!title}!tag[Flexy]!tag[NonGraded]host&lt;currentHost&gt;get[score]sum[]] }}}/&gt;
+&lt;li&gt;&lt;&lt;currentHost&gt;&gt;: &lt;$text text={{{ [tag{!!title}!tag[Flexie]!tag[NonGraded]host&lt;currentHost&gt;get[score]sum[]] }}}/&gt;
 &lt;/li&gt;
 &lt;/$list&gt;
 &lt;/ol&gt;</pre>
@@ -12304,7 +12304,7 @@ These were non-graded picks for bragging rights, and indeed weren't ever graded 
 <div created="20210429201136116" creator="jbiatek" loser="Federico" modified="20210507181741819" modifier="jbiatek" result="Tails" tags="[[Coin flip]] [[2019 WWDC Predictions]]" title="2019 WWDC flip for second place" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210429184248607" creator="jbiatek" flexy-score-sort="Myke Federico Stephen" modified="20210911145053406" modifier="jbiatek" picked="20190528" score-sort="Stephen Myke Federico" tags="Keynote Contents Game WWDC" title="2019 WWDC Predictions" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
+<div created="20210429184248607" creator="jbiatek" flexie-score-sort="Myke Federico Stephen" modified="20210922144834483" modifier="jbiatek" picked="20190528" score-sort="Stephen Myke Federico" tags="Keynote Contents Game WWDC" title="2019 WWDC Predictions" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 In episode 245, Stephen mentions accidentally sending &quot;Ricky&quot; instead of &quot;risky&quot; in an iMessage, which ends up being a major shift in branding for the Connected predictions game.
@@ -12331,7 +12331,7 @@ The non-graded picks have mild stakes added: the loser must buy a round of drink
 
 Stephen owes drinks to the other two.</pre>
 </div>
-<div created="20210415174738530" modified="20210911145053413" picked="20200101" score-sort="Myke Stephen Federico" tags="Contents Annual Game" title="2020 Annual Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div created="20210415174738530" modified="20210922145030784" picked="20200101" score-sort="Myke Stephen Federico" tags="Contents Annual Game" title="2020 Annual Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12344,9 +12344,9 @@ Stephen owes drinks to the other two.</pre>
 
 Stephen coins &quot;The Flexies&quot; in the 2020 prediction episode.
 
-In the year between making the picks and grading them, the Flexies became a game of their own with money on the line, but the new Flexy rules were //not// applied retroactively to this year's Flexy picks. &quot;That would just be silly&quot; and &quot;We're not savages&quot;, after all. As a result, these Flexies are just two rounds of predictions for bragging rights.</pre>
+In the year between making the picks and grading them, the Flexies became a game of their own with money on the line, but the new Flexie rules were //not// applied retroactively to this year's Flexie picks. &quot;That would just be silly&quot; and &quot;We're not savages&quot;, after all. As a result, these Flexies are just two rounds of predictions for bragging rights.</pre>
 </div>
-<div created="20210421055926555" creator="jbiatek" donation="75" donator="Federico" flexies-winner="Stephen" flexy-score-sort="Stephen Myke Federico" modified="20210915165508967" modifier="jbiatek" picked="20201104" score-sort="Stephen Myke Federico" tags="Keynote Contents Game" title="2020 November Rickies" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
+<div created="20210421055926555" creator="jbiatek" donation="75" donator="Federico" flexie-score-sort="Stephen Myke Federico" flexies-winner="Stephen" modified="20210922144834514" modifier="jbiatek" picked="20201104" score-sort="Stephen Myke Federico" tags="Keynote Contents Game" title="2020 November Rickies" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12355,14 +12355,14 @@ In the year between making the picks and grading them, the Flexies became a game
 
 {{||$:/ScoreTemplate}}
 
-{{||$:/FlexyPickTemplate}}
+{{||$:/FlexiePickTemplate}}
 
-{{||$:/FlexyScoreTemplate}}
+{{||$:/FlexieScoreTemplate}}
 
 Federico donates $75 to &lt;a href=&quot;https://fundraise.operationbrokensilence.org/team/318824&quot; target=&quot;_blank&quot;&gt;Stephen's wife's 5K&lt;/a&gt; for &lt;a href=&quot;https://fundraise.operationbrokensilence.org/event/edens-run-2020-virtual-challenge/e291154&quot; target=&quot;_blank&quot;&gt;Eden's Run&lt;/a&gt;.
 </pre>
 </div>
-<div created="20210426162958246" creator="jbiatek" donation="100" donator="Federico" flexies-winner="Stephen" flexy-score-sort="Stephen Myke Federico" modified="20210915165527498" modifier="jbiatek" picked="20201014" score-sort="Federico Stephen Myke" tags="Keynote Contents Game [[iPhone Event]]" title="2020 October Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
+<div created="20210426162958246" creator="jbiatek" donation="100" donator="Federico" flexie-score-sort="Stephen Myke Federico" flexies-winner="Stephen" modified="20210922144834520" modifier="jbiatek" picked="20201014" score-sort="Federico Stephen Myke" tags="Keynote Contents Game [[iPhone Event]]" title="2020 October Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12371,16 +12371,16 @@ Federico donates $75 to &lt;a href=&quot;https://fundraise.operationbrokensilenc
 
 {{||$:/ScoreTemplate}}
 
-{{||$:/FlexyPickTemplate}}
+{{||$:/FlexiePickTemplate}}
 
-{{||$:/FlexyScoreTemplate}}
+{{||$:/FlexieScoreTemplate}}
 
 Federico donates $100 to the &lt;a href=&quot;https://www.forrestspencefund.org/about-us/&quot; target=&quot;_blank&quot;&gt;Forrest Spence Fund&lt;/a&gt;, after some international transaction issues.</pre>
 </div>
 <div created="20210427203128743" loser="Stephen" modified="20210507181711002" result="Tails" tags="[[Coin flip]] [[2020 September Rickies]]" title="2020 September coin flip for second place" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210427201228063" creator="jbiatek" donation="100" donator="Stephen" flexies-winner="Federico" flexy-score-sort="Federico Myke Stephen" modified="20210915165558000" modifier="jbiatek" picked="20200916" score-sort="Federico Myke Stephen" tags="Keynote Contents Game" title="2020 September Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
+<div created="20210427201228063" creator="jbiatek" donation="100" donator="Stephen" flexie-score-sort="Federico Myke Stephen" flexies-winner="Federico" modified="20210922144834527" modifier="jbiatek" picked="20200916" score-sort="Federico Myke Stephen" tags="Keynote Contents Game" title="2020 September Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12391,9 +12391,9 @@ Federico donates $100 to the &lt;a href=&quot;https://www.forrestspencefund.org/
 
 Myke wins [[the coin flip|2020 September coin flip for second place]] for second place, again.
 
-{{||$:/FlexyPickTemplate}}
+{{||$:/FlexiePickTemplate}}
 
-{{||$:/FlexyScoreTemplate}}
+{{||$:/FlexieScoreTemplate}}
 
 The rule about ties and ratios comes into play, dropping Stephen into last place.
 
@@ -12403,7 +12403,7 @@ This is the first Flexies with donations to charity. As such, Stephen donates $1
 <div created="20210428010023252" loser="Stephen" modified="20210507181014463" result="&quot;Little R&quot; on a Relay.FM challenge coin" tags="[[Coin flip]] [[2020 Summer Rickies]]" title="2020 Summer coin flip for the win" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre>Jason Snell flips a Relay.FM challenge coin, and it lands on &quot;little R&quot;.</pre>
 </div>
-<div created="20210428003943648" flexy-score-sort="Stephen Myke Federico" modified="20210911145053442" picked="20200617" score-sort="Myke Stephen Federico" tags="Keynote Contents Game WWDC" title="2020 Summer Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div created="20210428003943648" flexie-score-sort="Stephen Myke Federico" modified="20210922144834532" picked="20200617" score-sort="Myke Stephen Federico" tags="Keynote Contents Game WWDC" title="2020 Summer Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12421,7 +12421,7 @@ Myke wins [[a special Relay challenge coin flip by Jason Snell|2020 Summer coin 
 Federico loses due to the &quot;ratio&quot; tiebreaker, which is created in the moment, and thus owes drinks. But from the next Rickies on, the Flexies will include a substantial donation to charity from the loser.
 </pre>
 </div>
-<div created="20210416065847762" creator="jbiatek" flexies-winner="TBD" modified="20210911145053449" modifier="jbiatek" picked="20210107" tags="Annual Contents Game" title="2021 Annual Rickies" type="text/vnd.tiddlywiki" winner="TBD" revision="0" bag="default">
+<div created="20210416065847762" creator="jbiatek" flexies-winner="TBD" modified="20210922145053554" modifier="jbiatek" picked="20210107" tags="Annual Contents Game" title="2021 Annual Rickies" type="text/vnd.tiddlywiki" winner="TBD" revision="0" bag="default">
 <pre>The [[2021 Annual Rickies Halftime Report]] is also available, with analysis of the state of the game halfway through the year.
 
 {{||$:/RelevantEpisodeTemplate}}
@@ -12432,11 +12432,11 @@ Federico loses due to the &quot;ratio&quot; tiebreaker, which is created in the 
 
 &lt;!--{{||ScoreTemplate}}--&gt;
 
-{{||$:/FlexyPickTemplate}}
+{{||$:/FlexiePickTemplate}}
 
-&lt;!--{{||FlexyScoreTemplate}}--&gt;</pre>
+&lt;!--{{||FlexieScoreTemplate}}--&gt;</pre>
 </div>
-<div created="20210611203507014" modified="20210911145053458" tags="[[Articles and Commentaries]] [[2021 Annual Rickies]]" title="2021 Annual Rickies Halftime Report" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210611203507014" modified="20210922145120160" tags="[[Articles and Commentaries]] [[2021 Annual Rickies]]" title="2021 Annual Rickies Halftime Report" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>For the full multimedia experience, &lt;a href=&quot;https://www.youtube.com/watch?v=JCIHjcOm23E&amp;t=300s&quot; target=&quot;_blank&quot;&gt;play this in the background&lt;/a&gt;.  
 
 !! Forecast terminology
@@ -12568,7 +12568,7 @@ Myke has one point that he can probably already argue in favor of, but if Apple 
 # Stephen
 # Federico
 
-Myke has 1 Flexy point locked in, one that looks good, one that looks bad, and two tossups. We could see a score anywhere from 20% to 100% for him. With the most upside of the three, Myke has an edge on his cohosts.
+Myke has 1 Flexie point locked in, one that looks good, one that looks bad, and two tossups. We could see a score anywhere from 20% to 100% for him. With the most upside of the three, Myke has an edge on his cohosts.
 
 Stephen has once again made an extra pick above the minimum, putting him at a disadvantage: he has to get one more correct than his rivals to beat their ratios. All of his picks are still up in the air with a lot of uncertainty, so almost anything could happen.
 
@@ -12580,7 +12580,7 @@ Federico made some very passionate picks, and that may be why he's a favorite to
 <div created="20210424010501429" loser="Stephen" modified="20210507181656867" result="Tails" tags="[[2021 April Rickies]] [[Coin flip]]" title="2021 April coin flip for second place in the Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420185532450" creator="jbiatek" donation="125" donator="Stephen" flexies-winner="Federico" flexy-score-sort="Federico Myke Stephen" modified="20210911145053467" modifier="jbiatek" picked="20210414" score-sort="Federico Myke Stephen" tags="Keynote Contents Game" title="2021 April Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
+<div created="20210420185532450" creator="jbiatek" donation="125" donator="Stephen" flexie-score-sort="Federico Myke Stephen" flexies-winner="Federico" modified="20210922144834537" modifier="jbiatek" picked="20210414" score-sort="Federico Myke Stephen" tags="Keynote Contents Game" title="2021 April Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12591,9 +12591,9 @@ Federico made some very passionate picks, and that may be why he's a favorite to
 
 Myke wins [[the coin flip|2021 April coin flip for second place in the Rickies]] for second place.
 
-{{||$:/FlexyPickTemplate}}
+{{||$:/FlexiePickTemplate}}
 
-{{||$:/FlexyScoreTemplate}}
+{{||$:/FlexieScoreTemplate}}
 
 Myke again wins [[the coin flip|2021 April coin flip for second place in the Flexies]]. Stephen donates $125 to the Red Cross.</pre>
 </div>
@@ -12603,7 +12603,7 @@ Myke again wins [[the coin flip|2021 April coin flip for second place in the Fle
 <div created="20210914200846673" loser="Myke" modified="20210916215426862" result="Tails" tags="[[Coin flip]] [[2021 September Rickies]]" title="2021 September coin flip for the Flexies loser" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;This coin flip finally ended Myke's 6 coin flip winning streak and was his first ever solo coin flip loss. James Thomson's tricky insertion of Jason Snell into the Relay mode of Dice by PCalc was finally discovered.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210907193706332" donation="75" donator="Myke" flexies-winner="Federico" flexy-score-sort="Federico Stephen Myke" modified="20210916215645873" picked="20210908" score-sort="Myke Federico Stephen" tags="Keynote Game Contents [[iPhone Event]]" title="2021 September Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div created="20210907193706332" donation="75" donator="Myke" flexie-score-sort="Federico Stephen Myke" flexies-winner="Federico" modified="20210922145153928" picked="20210908" score-sort="Myke Federico Stephen" tags="Keynote Game Contents [[iPhone Event]]" title="2021 September Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12614,18 +12614,18 @@ Myke again wins [[the coin flip|2021 April coin flip for second place in the Fle
 
 Myke wins [[the coin flip for first place|2021 September coin flip for Rickies winner]], preserving his dual Chairmanship and his streak of coin flip wins, but was there something unusual about that voice? Hmm...
 
-{{||$:/FlexyPickTemplate}}
+{{||$:/FlexiePickTemplate}}
 
-{{||$:/FlexyScoreTemplate}}
+{{||$:/FlexieScoreTemplate}}
 
-Federico decides that he is &quot;Prince Flexy&quot;, either due to his high donation total or his Flexy prowess.
+Federico decides that he is &quot;Prince Flexie&quot;, either due to his high donation total or his Flexie prowess.
 
 Myke [[finally tastes defeat in coin flips|2021 September coin flip for the Flexies loser]], and donates $75 to, of course, &lt;a href=&quot;https://tiltify.com/@relay-fm/relay-st-jude-21&quot; target=&quot;_blank&quot;&gt;St. Jude&lt;/a&gt;. James Thomson's tricky insertion of Jason Snell into the Relay coin flipper is finally discovered (deviously, this mode only turns on during Connected's typical recording time). As punishment, Jason and James are ordered to donate to St. Jude as well, and James is also banned from flipping coins.</pre>
 </div>
 <div created="20210609194717636" loser="Stephen" modified="20210609195021180" result="Tails" tags="[[Coin flip]] [[2021 WWDC Rickies]]" title="2021 WWDC coin flip for second place in the Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210531181035036" donation="175" donator="Federico" flexies-winner="Myke" flexy-score-sort="Myke Stephen Federico" modified="20210915165636615" picked="20210531" score-sort="Myke Federico Stephen" tags="Keynote Game Contents WWDC" title="2021 WWDC Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div created="20210531181035036" donation="175" donator="Federico" flexie-score-sort="Myke Stephen Federico" flexies-winner="Myke" modified="20210922144834548" picked="20210531" score-sort="Myke Federico Stephen" tags="Keynote Game Contents WWDC" title="2021 WWDC Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12636,9 +12636,9 @@ Myke [[finally tastes defeat in coin flips|2021 September coin flip for the Flex
 
 Federico wins [[the coin flip for second place|2021 WWDC coin flip for second place in the Rickies]].
 
-{{||$:/FlexyPickTemplate}}
+{{||$:/FlexiePickTemplate}}
 
-{{||$:/FlexyScoreTemplate}}
+{{||$:/FlexieScoreTemplate}}
 
 The grading of Flexies was formally changed to be based on percentage correct, making Federico the loser. He donates $175 to &lt;a href=&quot;https://www.stonewall.org.uk&quot; target=&quot;_blank&quot;&gt;Stonewall&lt;/a&gt;.</pre>
 </div>
@@ -12659,7 +12659,7 @@ And, in case you didn't notice, the whole thing is also a big reference to &lt;a
 <div created="20210428175338228" creator="jbiatek" host="Myke" modified="20210906181702393" modifier="jbiatek" pick="1" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Ricky Mac Accessories Pick" title="A Mac gets a screen that supports touch and/or Apple Pencil input" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt; Myke was torn between this and &quot;iPad multitasking is overhauled again&quot;, but elected to make the more passionate pick.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210907195700435" host="Stephen" modified="20210914201924332" pick="2.03" pick-conditions="1" score="0" tags="[[2021 September Rickies]] Pick Flexy Accessories AirPods [[Possible Vindication]]" title="A new AirPods product is announced" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210907195700435" host="Stephen" modified="20210922143856270" pick="2.03" pick-conditions="1" score="0" tags="[[2021 September Rickies]] Pick Flexie Accessories AirPods [[Possible Vindication]]" title="A new AirPods product is announced" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210428011622192" host="Myke" modified="20210906181702403" pick="2.4" pick-conditions="1" score="0" tags="[[2020 Summer Rickies]] NonGraded Accessories Pick [[Possible Vindication]]" title="A new Apple Display" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12671,16 +12671,16 @@ And, in case you didn't notice, the whole thing is also a big reference to &lt;a
 <div created="20210427203006912" host="Federico" modified="20210906193748076" pick="3" pick-conditions="2" score="2" tags="[[2020 September Rickies]] Ricky [[Apple Watch]] Pick [[Apple Apps]]" title="A new Apple Watch has at least one new built-in app because of an exclusive feature not found on existing watches" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210428175822113" creator="jbiatek" host="Myke" modified="20210906193728601" modifier="jbiatek" pick="1.5" pick-conditions="2" score="" tags="[[2021 Annual Rickies]] Flexy Mac Pick" title="A new iMac has adjustability that is reminiscent of the Pro Display XDR" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428175822113" creator="jbiatek" host="Myke" modified="20210922143856276" modifier="jbiatek" pick="1.5" pick-conditions="2" score="" tags="[[2021 Annual Rickies]] Flexie Mac Pick" title="A new iMac has adjustability that is reminiscent of the Pro Display XDR" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210428010808573" host="Stephen" modified="20210906193706350" pick="1.3" pick-conditions="2" score="0" tags="[[2020 Summer Rickies]] NonGraded Mac Pick [[Possible Vindication]]" title="A new iMac is announced with Intel CPUs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420212517086" host="Stephen" modified="20210914224809321" pick="1.5" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexy iPad Pick [[Ahead of Its Time]]" title="A new iPad comes in a new color for its line" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420212517086" host="Stephen" modified="20210922143856284" pick="1.5" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie iPad Pick [[Ahead of Its Time]]" title="A new iPad comes in a new color for its line" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210907195431545" host="Myke" modified="20210914194333968" pick="1.01" pick-conditions="6" score="0" tags="[[2021 September Rickies]] Pick Flexy iPad [[Possible Vindication]]" title="A new iPad mini is introduced with a refreshed design, new colours previously not a part of the product, USB-C, Smart Connector, and 5G support" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210907195431545" host="Myke" modified="20210922143856289" pick="1.01" pick-conditions="6" score="0" tags="[[2021 September Rickies]] Pick Flexie iPad [[Possible Vindication]]" title="A new iPad mini is introduced with a refreshed design, new colours previously not a part of the product, USB-C, Smart Connector, and 5G support" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Originally a Risky Pick.&lt;/li&gt;&lt;li&gt;This was &lt;i&gt;very&lt;/i&gt; close to coming true, but it was missing a Smart Connector.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210420010616934" host="Federico" modified="20210906181702459" pick="1.2" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded Accessories Pick [[Possible Vindication]]" title="A new Smart Keyboard" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12689,7 +12689,7 @@ And, in case you didn't notice, the whole thing is also a big reference to &lt;a
 <div created="20210417221408674" host="Federico" modified="20210906193627247" pick="4" pick-conditions="4" score="0" tags="[[2018 Annual Predictions]] NonGraded Accessories Pick [[Ahead of Its Time]]" title="A new smart keyboard: new material, backlit keys, a dedicated Siri key" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Apple's Magic Keyboard basically matching this description came out in 2020.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210531214750715" host="Federico" modified="20210906181702475" pick="1.10" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexy iOS Pick [[Apple Apps]] [[Possible Vindication]]" title="A new way to turn off confirmation banners in Shortcuts" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531214750715" host="Federico" modified="20210922143856293" pick="1.10" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexie iOS Pick [[Apple Apps]] [[Possible Vindication]]" title="A new way to turn off confirmation banners in Shortcuts" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210420012123223" host="Myke" modified="20210906181702482" pick="3.8" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Accessories Pick" title="A new, unique case" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12736,7 +12736,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210421053023897" host="Stephen" modified="20210906193355667" pick="2" pick-conditions="4" score="0" tags="[[The AirPower Game]] NonGraded Accessories Pick" title="AirPower will come out the first week of December 2018" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;This wasn't actually an option, but Stephen felt confident.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210420212838028" host="Myke" modified="20210906181702566" pick="2.4" pick-conditions="1" score="1" tags="[[2021 April Rickies]] Flexy Accessories Pick" title="AirTags unveiled" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420212838028" host="Myke" modified="20210922143856298" pick="2.4" pick-conditions="1" score="1" tags="[[2021 April Rickies]] Flexie Accessories Pick" title="AirTags unveiled" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210430033951741" creator="jbiatek" host="Myke" modified="20210906193320268" modifier="jbiatek" pick="2.2" pick-conditions="2" score="1" tags="[[2019 Media Event Predictions]] NonGraded Stagecraft Pick" title="All the celebrities will come out at the end and take a picture together" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12748,7 +12748,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210421061901834" host="Myke" modified="20210906181702590" pick="3" pick-conditions="1" score="2" tags="[[2020 November Rickies]] Ricky Mac Pick" title="An Apple Silicon Mac is cheaper than the product it replaces" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210426174032191" host="Stephen" modified="20210906181702597" pick="3.2" pick-conditions="1" score="1" tags="[[2020 October Rickies]] Flexy Stagecraft [[Augmented Reality]] Pick" title="An AR demo is shown" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210426174032191" host="Stephen" modified="20210922143856303" pick="3.2" pick-conditions="1" score="1" tags="[[2020 October Rickies]] Flexie Stagecraft [[Augmented Reality]] Pick" title="An AR demo is shown" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210419174713880" host="Federico" modified="20210906181702608" pick="3.2" pick-conditions="1" score="0" tags="[[2017 Annual Predictions]] Regular [[Apple management]] Pick" title="An executive shakeup in the iOS or Mac OS software teams" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12766,7 +12766,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div color="#ff6251" created="20210530222730294" modified="20210530222730346" title="Annual" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210428175709948" creator="jbiatek" host="Myke" modified="20210906181702625" modifier="jbiatek" pick="1.1" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexy AirPods Accessories Pick" title="Another variant of over-ear headphones will be released" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428175709948" creator="jbiatek" host="Myke" modified="20210922143856307" modifier="jbiatek" pick="1.1" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexie AirPods Accessories Pick" title="Another variant of over-ear headphones will be released" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210417064214913" host="Stephen" modified="20210906193048187" pick="2" pick-conditions="3" score="0" tags="[[2018 Annual Predictions]] NonGraded [[Developer tools]] Pick [[Ahead of Its Time]]" title="AppKit and UIKit give birth to something new and cross-platform" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12790,19 +12790,19 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210429064614430" creator="jbiatek" host="Federico" modified="20210906181702705" modifier="jbiatek" pick="3.4" pick-conditions="1" score="0" tags="[[2019 Fall Rickies]] NonGraded Services Pick [[Ahead of Its Time]]" title="Apple announces original podcast content" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;In 2020, Apple did come out with Apple News Today, and has since introduced other shows as well.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210420212554993" host="Stephen" modified="20210906181702714" pick="1.6" pick-conditions="1" score="1" tags="[[2021 April Rickies]] Flexy Services Pick" title="Apple announces something with podcasts" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420212554993" host="Stephen" modified="20210922143856312" pick="1.6" pick-conditions="1" score="1" tags="[[2021 April Rickies]] Flexie Services Pick" title="Apple announces something with podcasts" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210423054551973" host="Stephen" modified="20210906192937434" pick="1.5" pick-conditions="2" score="0" tags="[[2020 November Rickies]] Flexy macOS Mac Pick [[Ahead of Its Time]]" title="Apple announces Windows for ARM coming via virtualization in the future" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210423054551973" host="Stephen" modified="20210922143856316" pick="1.5" pick-conditions="2" score="0" tags="[[2020 November Rickies]] Flexie macOS Mac Pick [[Ahead of Its Time]]" title="Apple announces Windows for ARM coming via virtualization in the future" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Parallels was updated to do this by 2021, but it wasn't announced at this event.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div color="#77bb41" created="20210604063000243" modified="20210911145053520" tags="Topics" title="Apple Apps" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||$:/TopicDetailTemplate}}</pre>
 </div>
-<div created="20210423054955847" host="Federico" modified="20210906181702731" pick="3.1" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexy Mac Stagecraft Pick" title="Apple compares the performance of Apple Silicon Macs to &quot;most PCs sold today&quot;" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210423054955847" host="Federico" modified="20210922143856323" pick="3.1" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexie Mac Stagecraft Pick" title="Apple compares the performance of Apple Silicon Macs to &quot;most PCs sold today&quot;" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210423055146469" host="Federico" modified="20210906181702741" pick="3.2" pick-conditions="1" score="0" tags="[[2020 November Rickies]] Flexy Stagecraft macOS Mac Pick" title="Apple demos a game running on an Apple Silicon Mac" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210423055146469" host="Federico" modified="20210922143856328" pick="3.2" pick-conditions="1" score="0" tags="[[2020 November Rickies]] Flexie Stagecraft macOS Mac Pick" title="Apple demos a game running on an Apple Silicon Mac" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210421061358747" host="Myke" modified="20210906181702751" pick="2.3" pick-conditions="1" score="0" tags="[[2020 November Rickies]] Regular Stagecraft iOS macOS Mac Pick" title="Apple demos iOS apps running on a Mac" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12823,7 +12823,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210428175449363" creator="jbiatek" host="Stephen" modified="20210907153332844" modifier="jbiatek" pick="2" pick-conditions="5" score="" tags="[[2021 Annual Rickies]] Ricky Mac Pick" title="Apple has Apple Silicon versions of all of its Intel Macs on sale by the end of 2021" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt; &quot;No Intel Macs are available for sale without an Apple Silicon counterpart.&quot; Myke points out the iMac Pro as a potential spoiler.&lt;/li&gt;&lt;li&gt;(For pick complexity purposes, I'm counting this as 1 condition for each Mac line that still had no Apple Silicon counterpart at the beginning of 2021: The larger MacBook Pros, the iMac in both sizes, the iMac Pro, and the Mac Pro. The Mac mini is 1 line with a high end and low end, so it already had an &quot;Apple Silicon counterpart&quot; although the high end Mac mini was still Intel.)&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210426173127903" host="Federico" modified="20210906192431121" pick="1.5" pick-conditions="2" score="1" tags="[[2020 October Rickies]] Flexy iPhone Pick" title="Apple introduces a new proximity-based software feature for iPhone based on the U1 chip" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210426173127903" host="Federico" modified="20210922143856332" pick="1.5" pick-conditions="2" score="1" tags="[[2020 October Rickies]] Flexie iPhone Pick" title="Apple introduces a new proximity-based software feature for iPhone based on the U1 chip" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210427202411648" host="Federico" modified="20210906192420026" pick="2.3" pick-conditions="2" score="1" tags="[[2020 September Rickies]] Regular [[Apple Watch]] Pick" title="Apple introduces a new, lower end Apple Watch model in addition to the higher end Series 6" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12832,16 +12832,16 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210428175222460" creator="jbiatek" host="Federico" modified="20210906181702843" modifier="jbiatek" pick="2.3" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Regular Accessories Pick" title="Apple launches 'AirTags' accessories for tracking physical objects" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;    The name may be different. &lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210426173024494" host="Federico" modified="20210906181702856" pick="1.3" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexy Accessories iOS AirPods Pick [[Apple Apps]] [[Possible Vindication]]" title="Apple launches a new AirPods app for iPhone, similar to Watch app" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210426173024494" host="Federico" modified="20210922143856337" pick="1.3" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexie Accessories iOS AirPods Pick [[Apple Apps]] [[Possible Vindication]]" title="Apple launches a new AirPods app for iPhone, similar to Watch app" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210426172852750" host="Federico" modified="20210906181702863" pick="1.1" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexy Services Pick [[Ahead of Its Time]]" title="Apple launches a new HD tier for Apple Music" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210426172852750" host="Federico" modified="20210922143856343" pick="1.1" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexie Services Pick [[Ahead of Its Time]]" title="Apple launches a new HD tier for Apple Music" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;This feature &lt;a href=&quot;https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/&quot; target=&quot;_blank&quot;&gt;did come eventually&lt;/a&gt;, in 2021.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210427210017217" host="Federico" modified="20210906181702875" pick="3.2" pick-conditions="1" score="1" tags="Flexy [[2020 September Rickies]] Services Pick" title="Apple launches a new subscription service for virtual fitness classes" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210427210017217" host="Federico" modified="20210922143856347" pick="3.2" pick-conditions="1" score="1" tags="Flexie [[2020 September Rickies]] Services Pick" title="Apple launches a new subscription service for virtual fitness classes" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210426173003903" host="Federico" modified="20210906184846904" pick="1.2" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexy iOS [[Augmented Reality]] Pick [[Ahead of Its Time]]" title="Apple launches an AR navigation mode for Apple Maps" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210426173003903" host="Federico" modified="20210922143856352" pick="1.2" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexie iOS [[Augmented Reality]] Pick [[Ahead of Its Time]]" title="Apple launches an AR navigation mode for Apple Maps" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;A year too early, this was a feature in iOS 15.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210428175003778" creator="jbiatek" host="Federico" modified="20210906181702895" modifier="jbiatek" pick="1.3" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Regular iPad Pick" title="Apple launches at least one iPad model with a new display technology" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12865,16 +12865,16 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210416152759777" host="Stephen" modified="20210906181702950" pick="3" pick-conditions="1" score="-1" tags="[[2020 Annual Rickies]] Ricky Services Pick [[Apple Apps]] [[Possible Vindication]]" title="Apple Podcast app launches on Android" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210428180108213" creator="jbiatek" host="Stephen" modified="20210906181702963" modifier="jbiatek" pick="3.1" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexy Accessories Pick" title="Apple puts a cheaper display on sale as a sibling to the XDR" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428180108213" creator="jbiatek" host="Stephen" modified="20210922143856359" modifier="jbiatek" pick="3.1" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexie Accessories Pick" title="Apple puts a cheaper display on sale as a sibling to the XDR" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210423055314578" host="Federico" modified="20210906192154731" pick="3.5" pick-conditions="2" score="0" tags="[[2020 November Rickies]] Flexy macOS Mac Pick [[Apple Apps]] [[Possible Vindication]]" title="Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210423055314578" host="Federico" modified="20210922143856364" pick="3.5" pick-conditions="2" score="0" tags="[[2020 November Rickies]] Flexie macOS Mac Pick [[Apple Apps]] [[Possible Vindication]]" title="Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210428175949331" creator="jbiatek" host="Federico" modified="20210906181703002" modifier="jbiatek" pick="2.3" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexy iPad Pick" title="Apple releases a bigger iPad Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428175949331" creator="jbiatek" host="Federico" modified="20210922143856368" modifier="jbiatek" pick="2.3" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexie iPad Pick" title="Apple releases a bigger iPad Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210428175741043" creator="jbiatek" host="Myke" modified="20210906181703014" modifier="jbiatek" pick="1.2" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexy [[Developer tools]] Pick" title="Apple releases a weather API" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428175741043" creator="jbiatek" host="Myke" modified="20210922143856373" modifier="jbiatek" pick="1.2" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexie [[Developer tools]] Pick" title="Apple releases a weather API" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210416202613615" creator="jbiatek" host="Myke" modified="20210906192116331" modifier="jbiatek" pick="3" pick-conditions="5" score="-1" tags="[[2019 Annual Predictions]] Ricky Services iPhone Pick [[Possible Vindication]]" title="Apple releases an iPhone subscription service that bundles a device, AppleCare, and a selection of other Apple content services into one monthly payment" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12883,7 +12883,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210421060453026" host="Federico" modified="20210906181703050" pick="1.1" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Regular Mac Pick" title="Apple releases at least 2 different Mac models that run on Apple Silicon" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210428175923667" creator="jbiatek" host="Federico" modified="20210906181703068" modifier="jbiatek" pick="2.1" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexy Accessories Pick" title="Apple releases its own game controller" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428175923667" creator="jbiatek" host="Federico" modified="20210922143856377" modifier="jbiatek" pick="2.1" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexie Accessories Pick" title="Apple releases its own game controller" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210429184826199" creator="jbiatek" host="Stephen" modified="20210906181703079" modifier="jbiatek" pick="2.2" pick-conditions="1" score="1" tags="[[2019 WWDC Predictions]] Regular macOS Mac Pick [[Apple Apps]]" title="Apple replaces at least one bundled macOS app with a Marzipan version" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12895,16 +12895,16 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210428004518207" host="Stephen" modified="20210915165713984" pick="2.1" pick-conditions="2" score="1" tags="[[2020 Summer Rickies]] Regular iPad [[Augmented Reality]] Pick" title="Apple shares a video touting the benefits of the time-of-flight sensor found in the 2020 iPad Pros for AR" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;He was talking about LIDAR, that's accepted. &lt;a href=&quot;https://developer.apple.com/videos/play/wwdc2020/10612/&quot; target=&quot;_blank&quot;&gt;And Myke tracks down the video as well.&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210428180201450" creator="jbiatek" host="Stephen" modified="20210906181703116" modifier="jbiatek" pick="3.4" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexy [[Augmented Reality]] Pick" title="Apple ships an AR, VR, and/or MR dedicated device" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428180201450" creator="jbiatek" host="Stephen" modified="20210922143856382" modifier="jbiatek" pick="3.4" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexie [[Augmented Reality]] Pick" title="Apple ships an AR, VR, and/or MR dedicated device" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210427210241890" host="Federico" modified="20210906191906269" pick="3.3" pick-conditions="2" score="0" tags="Flexy [[2020 September Rickies]] iOS iPad Pick iPadOS Stagecraft" title="Apple showcases at least one new feature coming in iOS or iPadOS 14.1" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210427210241890" host="Federico" modified="20210922143856392" pick="3.3" pick-conditions="2" score="0" tags="Flexie [[2020 September Rickies]] iOS iPad Pick iPadOS Stagecraft" title="Apple showcases at least one new feature coming in iOS or iPadOS 14.1" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;The version number wasn't stated explicitly, otherwise Fitness+ would have counted.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210427205557803" host="Stephen" modified="20210906181703133" pick="2.3" pick-conditions="1" score="0" tags="Flexy [[2020 September Rickies]] Stagecraft iPhone Pick" title="Apple somehow sets expectations for when the iPhone will be announced" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210427205557803" host="Stephen" modified="20210922143856397" pick="2.3" pick-conditions="1" score="0" tags="Flexie [[2020 September Rickies]] Stagecraft iPhone Pick" title="Apple somehow sets expectations for when the iPhone will be announced" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420212623816" host="Myke" modified="20210906181703140" pick="2.1" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexy iOS Pick Stagecraft" title="Apple talks about App Tracking Transparency in iOS 14.5" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420212623816" host="Myke" modified="20210922143856403" pick="2.1" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie iOS Pick Stagecraft" title="Apple talks about App Tracking Transparency in iOS 14.5" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div color="#77bb41" created="20210530173105055" modified="20210911145053541" tags="Topics" title="Apple TV" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12919,10 +12919,10 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div color="#77bb41" created="20210530180041093" modified="20210911145053548" tags="Topics" title="Apple TV+" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||$:/TopicDetailTemplate}}</pre>
 </div>
-<div created="20210907195704963" host="Stephen" modified="20210914195528288" pick="2.04" pick-conditions="1" score="1" tags="[[2021 September Rickies]] Pick Flexy [[Apple TV+]] Stagecraft" title="Apple TV+ content is featured in the keynote" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210907195704963" host="Stephen" modified="20210922143856409" pick="2.04" pick-conditions="1" score="1" tags="[[2021 September Rickies]] Pick Flexie [[Apple TV+]] Stagecraft" title="Apple TV+ content is featured in the keynote" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210426173826966" host="Myke" modified="20210906181703160" pick="2.4" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexy Services Stagecraft [[Apple TV+]] Pick" title="Apple TV+ trailers are shown" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210426173826966" host="Myke" modified="20210922143856415" pick="2.4" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexie Services Stagecraft [[Apple TV+]] Pick" title="Apple TV+ trailers are shown" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210429063744284" creator="jbiatek" host="Myke" modified="20210906181703166" modifier="jbiatek" pick="1.1" pick-conditions="1" score="0" tags="[[2019 Fall Rickies]] NonGraded Services [[Apple TV+]] Pick [[Ahead of Its Time]]" title="Apple TV+ will be free with another subscription" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12931,7 +12931,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210427201455606" host="Myke" modified="20210906181703174" pick="1.1" pick-conditions="1" score="1" tags="[[2020 September Rickies]] Regular [[Apple Watch]] Pick" title="Apple unveils a new Apple Watch" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210531201804223" host="Stephen" modified="20210906181703181" pick="3.5" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexy Accessories Pick [[Possible Vindication]]" title="Apple unveils a new external display" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531201804223" host="Stephen" modified="20210922143856421" pick="3.5" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexie Accessories Pick [[Possible Vindication]]" title="Apple unveils a new external display" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210531201432722" host="Stephen" modified="20210906181703187" pick="3" pick-conditions="1" score="-1" tags="[[2021 WWDC Rickies]] Ricky Accessories Pick [[Possible Vindication]]" title="Apple unveils a new high-end audio product" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12940,10 +12940,10 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210427202325014" host="Myke" modified="20210906181703193" pick="2.1" pick-conditions="1" score="1" tags="[[2020 September Rickies]] Regular iPad Pick" title="Apple unveils a new iPad, not Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210531214733649" host="Federico" modified="20210906181703200" pick="1.07" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexy Services Pick [[Apple Apps]]" title="Apple updates the Listen Now page of the Music app" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531214733649" host="Federico" modified="20210922143856429" pick="1.07" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexie Services Pick [[Apple Apps]]" title="Apple updates the Listen Now page of the Music app" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420213347503" host="Federico" modified="20210906181703208" pick="3.5" pick-conditions="1" score="1" tags="[[2021 April Rickies]] Flexy Accessories Pick" title="Apple updates the standard Bluetooth Magic Keyboard" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420213347503" host="Federico" modified="20210922143856436" pick="3.5" pick-conditions="1" score="1" tags="[[2021 April Rickies]] Flexie Accessories Pick" title="Apple updates the standard Bluetooth Magic Keyboard" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Jason Snell had to be called in to adjudicate this one. Stephen contended that it was just the //iMac’s// keyboard that was updated, not the “standard” one.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210417063905132" host="Federico" modified="20210906191646621" pick="7" pick-conditions="4" score="0" tags="[[2018 Annual Predictions]] NonGraded Services iOS macOS [[Apple TV+]] Mac Pick [[Apple Apps]] [[Ahead of Its Time]]" title="Apple Video and Apple Music have dedicated apps for Mac and iOS" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12964,7 +12964,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210430024513201" creator="jbiatek" host="Myke" modified="20210906191556995" modifier="jbiatek" pick="1.2" pick-conditions="3" score="1" tags="[[2019 Media Event Predictions]] Regular Services [[Apple TV+]] Pick" title="Apple will announce a video streaming service" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;...which includes content from other providers, this will either be free content or paying for a subscription from within the app&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210907195847262" host="Federico" modified="20210914200102313" pick="3.05" pick-conditions="2" score="1" tags="[[2021 September Rickies]] Pick Flexy iOS" title="Apple will announce at least 1 new feature that will be coming later in the iOS 15 cycle" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210907195847262" host="Federico" modified="20210922143856446" pick="3.05" pick-conditions="2" score="1" tags="[[2021 September Rickies]] Pick Flexie iOS" title="Apple will announce at least 1 new feature that will be coming later in the iOS 15 cycle" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;ProRes video recording on the iPhone 13 Pro models will be coming &quot;later this fall&quot;.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210429190452552" creator="jbiatek" host="Federico" modified="20210906181703253" modifier="jbiatek" pick="3" pick-conditions="1" score="2" tags="[[2019 WWDC Predictions]] Ricky iPad Pick" title="Apple will bring back some kind of &quot;app list/launcher&quot; UI element on iPad" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12994,7 +12994,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210416194202379" host="Stephen" modified="20210906181703310" pick="2.3" pick-conditions="1" score="0" tags="[[2020 Annual Rickies]] NonGraded Mac Pick Buzzkill" title="Apple will not ship an ARM Mac in 2020" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt; In 2019, Stephen picked the first ARM Mac to be shipped, so this was his... revenge?&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210427205840114" host="Stephen" modified="20210906181703318" pick="2.6" pick-conditions="1" score="1" tags="Flexy [[2020 September Rickies]] Mac Pick Buzzkill" title="Apple will not unveil additional details about the release of the first Apple Silicon Macs" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210427205840114" host="Stephen" modified="20210922143856456" pick="2.6" pick-conditions="1" score="1" tags="Flexie [[2020 September Rickies]] Mac Pick Buzzkill" title="Apple will not unveil additional details about the release of the first Apple Silicon Macs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210428175539997" creator="jbiatek" host="Federico" modified="20210909162818350" modifier="jbiatek" pick="3" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Ricky iPad Pick [[Apple Apps]]" title="Apple will release a new programming app for iPad" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13023,7 +13023,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210907194213762" host="Myke" modified="20210914193053959" pick="1.1" pick-conditions="1" score="1" tags="[[2021 September Rickies]] Pick Regular iPhone" title="At least one iPhone gets a 120 hz refresh rate display" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;This was nearly a reuse of a [[previous pick|At least one of the 2020 iPhones will have a higher refresh rate display (Pro Motion)]] before the live chat caught it. The fix was to specify an exact refresh rate to make it more specific.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210428180003051" creator="jbiatek" host="Federico" modified="20210906191228488" modifier="jbiatek" pick="2.4" pick-conditions="2" score="" tags="[[2021 Annual Rickies]] Flexy iPhone Pick" title="At least one new iPhone model has both Face ID and Touch ID" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428180003051" creator="jbiatek" host="Federico" modified="20210922143856463" modifier="jbiatek" pick="2.4" pick-conditions="2" score="" tags="[[2021 Annual Rickies]] Flexie iPhone Pick" title="At least one new iPhone model has both Face ID and Touch ID" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210427202655827" host="Stephen" modified="20210906181703361" pick="2.2" pick-conditions="1" score="1" tags="[[2020 September Rickies]] Regular iPad Pick" title="At least one new non-Pro iPad will switch to USB-C" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13032,7 +13032,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210416152055802" host="Federico" modified="20210915142755457" pick="2.1" pick-conditions="1" score="0" tags="[[2020 Annual Rickies]] Regular iPhone Pick [[Ahead of Its Time]]" title="At least one of the 2020 iPhones will have a higher refresh rate display (Pro Motion)" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;This feature did show up in the iPhone 13 line.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210423055246091" host="Federico" modified="20210906181703376" pick="3.4" pick-conditions="1" score="0" tags="[[2020 November Rickies]] Flexy Mac Pick [[Possible Vindication]]" title="At least one of the Apple Silicon Macs has a Pro Motion display" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210423055246091" host="Federico" modified="20210922143856468" pick="3.4" pick-conditions="1" score="0" tags="[[2020 November Rickies]] Flexie Mac Pick [[Possible Vindication]]" title="At least one of the Apple Silicon Macs has a Pro Motion display" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210420190822179" host="Federico" modified="20210906181703382" pick="1.3" pick-conditions="1" score="1" tags="[[2021 April Rickies]] Regular iPad Pick" title="At least one of the new iPad Pros will have a Thunderbolt/USB4 port" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13041,10 +13041,10 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210427201658773" host="Federico" modified="20210906181703390" pick="1.3" pick-conditions="1" score="1" tags="[[2020 September Rickies]] Regular iPad Pick" title="At least one of the new non-Pro iPads will have an iPad Pro inspired design" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;(the flat sides are key)&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210427210505338" host="Federico" modified="20210906181703396" pick="3.4" pick-conditions="1" score="1" tags="Flexy [[2020 September Rickies]] Stagecraft Pick" title="At least one segment of the keynote is shot inside Apple's own fitness labs" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210427210505338" host="Federico" modified="20210922143856475" pick="3.4" pick-conditions="1" score="1" tags="Flexie [[2020 September Rickies]] Stagecraft Pick" title="At least one segment of the keynote is shot inside Apple's own fitness labs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;It isn't quite clear if what they showed was the //lab//, but it doesn't matter to the scoring anyway so the point is given.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210426174135478" host="Stephen" modified="20210906181703402" pick="3.5" pick-conditions="1" score="1" tags="[[2020 October Rickies]] Flexy iPhone Pick" title="At least some of the new iPhones have 5G" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210426174135478" host="Stephen" modified="20210922143856482" pick="3.5" pick-conditions="1" score="1" tags="[[2020 October Rickies]] Flexie iPhone Pick" title="At least some of the new iPhones have 5G" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210420210602319" host="Stephen" modified="20210906181703408" pick="1" pick-conditions="1" score="-1" tags="[[2021 April Rickies]] Ricky Stagecraft [[Augmented Reality]] Pick" title="At this event, we see some sort of AR-focused hardware" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13064,13 +13064,13 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div color="#77bb41" created="20210530174530619" modified="20210911145053571" tags="Topics" title="Augmented Reality" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||$:/TopicDetailTemplate}}</pre>
 </div>
-<div created="20210531201649894" host="Federico" modified="20210906181703415" pick="1.04" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexy iPad Pick iPadOS [[Possible Vindication]]" title="Better external display support on iPad" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531201649894" host="Federico" modified="20210922143856491" pick="1.04" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexie iPad Pick iPadOS [[Possible Vindication]]" title="Better external display support on iPad" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210430042253097" creator="jbiatek" host="Stephen" modified="20210906181703420" modifier="jbiatek" pick="8" pick-conditions="1" score="0" tags="[[Audio Predictions]] Regular Services Pick [[Ahead of Its Time]]" title="Better incorporation of Apple News into the audio ecosystem" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;For example, asking Siri for the news on a HomePod&lt;/li&gt;&lt;li&gt;This did eventually happen, but in 2020.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210426174106127" host="Stephen" modified="20210906181703427" pick="3.3" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexy macOS Mac Pick" title="Big Sur gets a release date" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210426174106127" host="Stephen" modified="20210922143856498" pick="3.3" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexie macOS Mac Pick" title="Big Sur gets a release date" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210421060551871" host="Stephen" modified="20210906181703433" pick="1.2" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Regular macOS Mac Pick" title="Big Sur gets a revised release window" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13079,7 +13079,7 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div created="20210421061555904" host="Federico" modified="20210906181703440" pick="1" pick-conditions="1" score="-1" tags="[[2020 November Rickies]] Ricky macOS Mac Pick [[Ahead of Its Time]]" title="Big Sur on the new Apple Silicon Macs comes with a low power mode feature" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;This was a feature in Monterey the next year.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210423054751723" host="Myke" modified="20210906181703445" pick="2.2" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexy macOS Mac Pick" title="Big Sur released within 48 hours of event" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210423054751723" host="Myke" modified="20210922143856504" pick="2.2" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexie macOS Mac Pick" title="Big Sur released within 48 hours of event" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div color="#76bb40" created="20210601070418988" modified="20210911145053579" tags="Topics" title="Buzzkill" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13175,13 +13175,13 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div created="20210605231051813" episode="299" modified="20210605231156871" tags="[[2020 Summer Rickies]]" title="Connected #299: The Rickies (Summer 2020)" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210605231110057" episode="300" modified="20210606072559358" tags="[[2020 Summer Rickies]]" title="Connected #300: You Cannot Put a Price on Glory" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>The &quot;ratio&quot; based tiebreaker for the Flexies is added, and then the ideas start flowing. Instead of just buying drinks for the winner, bigger financial stakes are added. After much debate, the final decision is that the loser must pay both $25 per wrong Flexy to the winner's choice of charity and also purchase a surprise for the winner of the same amount. A 5 Flexy minimum is added. &quot;tondog&quot; in the Discord coins &quot;The Bill of Rickies&quot;.</pre>
+<div created="20210605231110057" episode="300" modified="20210922145215076" tags="[[2020 Summer Rickies]]" title="Connected #300: You Cannot Put a Price on Glory" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>The &quot;ratio&quot; based tiebreaker for the Flexies is added, and then the ideas start flowing. Instead of just buying drinks for the winner, bigger financial stakes are added. After much debate, the final decision is that the loser must pay both $25 per wrong Flexie to the winner's choice of charity and also purchase a surprise for the winner of the same amount. A 5 Flexie minimum is added. &quot;tondog&quot; in the Discord coins &quot;The Bill of Rickies&quot;.</pre>
 </div>
-<div created="20210605231216950" episode="311" modified="20210606072835004" tags="[[2020 September Rickies]]" title="Connected #311: The Rickies (September 2020)" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210605231216950" episode="311" modified="20210922145238623" tags="[[2020 September Rickies]]" title="Connected #311: The Rickies (September 2020)" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;
 &lt;li&gt;The title of &quot;Chairman Ricky&quot; is rephrased as &quot;Keynote Chairman&quot; and &quot;Annual Chairman&quot;.&lt;/li&gt;
-&lt;li&gt;The Flexy rules are simplified back down to just a donation to charity, dropping the additional gift to the winner.&lt;/li&gt;
+&lt;li&gt;The Flexie rules are simplified back down to just a donation to charity, dropping the additional gift to the winner.&lt;/li&gt;
 &lt;li&gt;The existing Chairman Twitter accounts are explicitly added to the written rules.&lt;/li&gt;
 &lt;/ul&gt;</pre>
 </div>
@@ -13205,8 +13205,8 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div created="20210605230707992" episode="327" modified="20210606073404591" tags="[[2020 Annual Rickies]] [[2021 Annual Rickies]]" title="Connected #327: The Rickies (Early 2021)" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Clarified the difference between Keynote and Annual Chairmanships.</pre>
 </div>
-<div created="20210606073506526" episode="328" modified="20210606073606240" tags="" title="Connected #328: Sir, I Believe That’s Not Your Suitcase" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>&quot;Non-graded&quot; removed from the Flexy rules by listener request.</pre>
+<div created="20210606073506526" episode="328" modified="20210922145250065" tags="" title="Connected #328: Sir, I Believe That’s Not Your Suitcase" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&quot;Non-graded&quot; removed from the Flexie rules by listener request.</pre>
 </div>
 <div created="20210605231836264" episode="341" modified="20210605231928959" tags="[[2021 April Rickies]]" title="Connected #341: The Rickies (April 2021)" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
@@ -13234,7 +13234,7 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 &lt;/div&gt;
 </pre>
 </div>
-<div created="20210423054907989" host="Myke" modified="20210906181703468" pick="2.5" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexy Stagecraft macOS Mac Pick" title="Craig demos Big Sur features" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210423054907989" host="Myke" modified="20210922143856513" pick="2.5" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexie Stagecraft macOS Mac Pick" title="Craig demos Big Sur features" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;The instant wake demo is counted for this.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210429185903524" creator="jbiatek" host="Myke" modified="20210906181703474" modifier="jbiatek" pick="1" pick-conditions="1" score="2" tags="[[2019 WWDC Predictions]] Ricky iOS Pick" title="Cursor support for iOS" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13243,7 +13243,7 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div created="20210429184358020" creator="jbiatek" host="Myke" modified="20210906181703479" modifier="jbiatek" pick="1.1" pick-conditions="1" score="1" tags="[[2019 WWDC Predictions]] Regular iOS Pick" title="Dark mode for iOS" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210427203730067" host="Myke" modified="20210915142416089" pick="1.1" pick-conditions="1" score="0" tags="Flexy [[2020 September Rickies]] iPad Pick [[Ahead of Its Time]]" title="Details of a new iPad mini" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210427203730067" host="Myke" modified="20210922143856520" pick="1.1" pick-conditions="1" score="0" tags="Flexie [[2020 September Rickies]] iPad Pick [[Ahead of Its Time]]" title="Details of a new iPad mini" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Also one year too early.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div color="#77bb41" created="20210530173244419" modified="20210911145053586" tags="Topics" title="Developer tools" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13252,10 +13252,10 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div created="20210428022146701" host="Myke" modified="20210906181703497" pick="2.2" pick-conditions="1" score="0" tags="[[2020 Summer Rickies]] NonGraded [[Developer tools]] Pick [[Possible Vindication]]" title="Developers will get tools for more control over refresh rate/frame rate in apps" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420213119441" host="Federico" modified="20210906181703504" pick="3.2" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexy Accessories iPad [[Developer tools]] Pick iPadOS [[Possible Vindication]]" title="DriverKit comes to iPadOS to let more kinds of accessories be supported on iPad" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420213119441" host="Federico" modified="20210922143856527" pick="3.2" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie Accessories iPad [[Developer tools]] Pick iPadOS [[Possible Vindication]]" title="DriverKit comes to iPadOS to let more kinds of accessories be supported on iPad" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210427205522954" host="Stephen" modified="20210906181703513" pick="2.2" pick-conditions="1" score="1" tags="Flexy [[2020 September Rickies]] Stagecraft Pick" title="Event looks mostly like WWDC" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210427205522954" host="Stephen" modified="20210922143856535" pick="2.2" pick-conditions="1" score="1" tags="Flexie [[2020 September Rickies]] Stagecraft Pick" title="Event looks mostly like WWDC" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Not all on stage in a theater but using different parts of the campus or outside world&lt;/li&gt;&lt;/ul&gt;
 </pre>
 </div>
@@ -13265,7 +13265,7 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div created="20210416202217167" creator="jbiatek" host="Stephen" modified="20210906181703531" modifier="jbiatek" pick="2" pick-conditions="1" score="-1" tags="[[2019 Annual Predictions]] Ricky Mac Pick" title="First ARM Mac ships" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Halfway through the year, Myke ups the ante: &quot;If Stephen gets this right, I will buy you one, if the Mac Pro is an ARM Mac I will buy you the top of the line model.&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div color="#004d65" created="20210530222902836" modified="20210530222902886" title="Flexy" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div color="#004d65" created="20210530222902836" modified="20210922143856998" title="Flexie" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div color="#f5ec00" created="20210601152338225" modified="20210601152408412" title="Game" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13277,7 +13277,7 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div created="20210430041950778" creator="jbiatek" host="Stephen" modified="20210906181703545" modifier="jbiatek" pick="5" pick-conditions="1" score="1" tags="[[Audio Predictions]] Regular Accessories Pick" title="HomePod price drop" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;In April, they were cut from $349 to $299.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210420213309619" host="Federico" modified="20210906181703554" pick="3.4" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexy iPad Pick iPadOS [[Possible Vindication]]" title="Hypervisor comes to iPad" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420213309619" host="Federico" modified="20210922143856543" pick="3.4" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie iPad Pick iPadOS [[Possible Vindication]]" title="Hypervisor comes to iPad" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210429195312330" creator="jbiatek" host="Stephen" modified="20210906181703560" modifier="jbiatek" pick="2.2" pick-conditions="1" score="0" tags="[[2019 WWDC Predictions]] NonGraded Services Pick [[Possible Vindication]]" title="iCloud family photo sharing" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13321,28 +13321,28 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div created="20210429184415613" creator="jbiatek" host="Stephen" modified="20210906181703623" modifier="jbiatek" pick="1.2" pick-conditions="1" score="1" tags="[[2019 WWDC Predictions]] Regular iOS Pick" title="iOS 13 will change the system requirements, dropping devices supported by iOS 12" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210427210606779" host="Federico" modified="20210906181703629" pick="3.5" pick-conditions="1" score="1" tags="Flexy [[2020 September Rickies]] iOS Pick" title="iOS 14 launches in September" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210427210606779" host="Federico" modified="20210922143856548" pick="3.5" pick-conditions="1" score="1" tags="Flexie [[2020 September Rickies]] iOS Pick" title="iOS 14 launches in September" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210426173102198" host="Federico" modified="20210906181703635" pick="1.4" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexy Stagecraft iOS Pick" title="iOS 14.2's Shazam recognition is demoed" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210426173102198" host="Federico" modified="20210922143856555" pick="1.4" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexie Stagecraft iOS Pick" title="iOS 14.2's Shazam recognition is demoed" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420212808147" host="Myke" modified="20210906181703640" pick="2.3" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexy iOS Pick" title="iOS 14.5 will drop within 24 hours of the event" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420212808147" host="Myke" modified="20210922143856563" pick="2.3" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie iOS Pick" title="iOS 14.5 will drop within 24 hours of the event" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210531214738611" host="Federico" modified="20210906181703645" pick="1.08" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexy iOS iPhone Pick" title="iOS 15 drops support for the iPhone 6S" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531214738611" host="Federico" modified="20210922143856569" pick="1.08" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexie iOS iPhone Pick" title="iOS 15 drops support for the iPhone 6S" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210428175106125" creator="jbiatek" host="Myke" modified="20210906181703651" modifier="jbiatek" pick="2.1" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Regular iOS Pick" title="iOS 15 gives users more home screen customization options" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;        Specifically //not// iPadOS 15. &lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210907195819569" host="Federico" modified="20210914195544126" pick="3.01" pick-conditions="1" score="1" tags="[[2021 September Rickies]] Pick Flexy iOS" title="iOS 15 releases the following week to the public" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210907195819569" host="Federico" modified="20210922143856577" pick="3.01" pick-conditions="1" score="1" tags="[[2021 September Rickies]] Pick Flexie iOS" title="iOS 15 releases the following week to the public" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;In other words, the week of Monday September 20th.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210531201653612" host="Federico" modified="20210906190750875" pick="1.05" pick-conditions="2" score="0" tags="[[2021 WWDC Rickies]] Flexy iOS Pick iPad iPadOS [[Possible Vindication]]" title="iOS and iPadOS 15 get native HomeKit widgets" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531201653612" host="Federico" modified="20210922143856582" pick="1.05" pick-conditions="2" score="0" tags="[[2021 WWDC Rickies]] Flexie iOS Pick iPad iPadOS [[Possible Vindication]]" title="iOS and iPadOS 15 get native HomeKit widgets" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210428175938092" creator="jbiatek" host="Federico" modified="20210906181703662" modifier="jbiatek" pick="2.2" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexy iOS Pick" title="iOS gets a native feature to change icons for any app you want" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428175938092" creator="jbiatek" host="Federico" modified="20210922143856587" modifier="jbiatek" pick="2.2" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexie iOS Pick" title="iOS gets a native feature to change icons for any app you want" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210416201403240" host="Federico" modified="20210906190737495" pick="2.1" pick-conditions="2" score="1" tags="[[2019 Annual Predictions]] Regular iOS Pick" title="iOS gets a tabbed windows feature that all apps can implement" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13360,10 +13360,10 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div color="#77bb41" created="20210530170419407" modified="20210911145053605" tags="Topics" title="iPad" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||$:/TopicDetailTemplate}}</pre>
 </div>
-<div created="20210426174122377" host="Stephen" modified="20210906181703690" pick="3.4" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexy Stagecraft iPad Pick" title="iPad Air preorder date announced" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210426174122377" host="Stephen" modified="20210922143856593" pick="3.4" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexie Stagecraft iPad Pick" title="iPad Air preorder date announced" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210428175806602" creator="jbiatek" host="Myke" modified="20210906181703696" modifier="jbiatek" pick="1.4" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexy iPad Pick iPadOS" title="iPad multitasking is overhauled again" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428175806602" creator="jbiatek" host="Myke" modified="20210922143856598" modifier="jbiatek" pick="1.4" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexie iPad Pick iPadOS" title="iPad multitasking is overhauled again" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div color="#77bb41" created="20210604060844999" modified="20210911145053613" tags="Topics" title="iPadOS" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13421,10 +13421,10 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210429064113854" creator="jbiatek" host="Stephen" modified="20210906190621593" modifier="jbiatek" pick="2.1" pick-conditions="2" score="0" tags="[[2019 Fall Rickies]] NonGraded Stagecraft Pick" title="Jeff Williams will take a greater role in the keynote" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;More than just the Apple Watch section&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210426173949567" host="Stephen" modified="20210906181703741" pick="3.1" pick-conditions="1" score="1" tags="[[2020 October Rickies]] Flexy Stagecraft Pick" title="Joz presents a new product" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210426173949567" host="Stephen" modified="20210922143856604" pick="3.1" pick-conditions="1" score="1" tags="[[2020 October Rickies]] Flexie Stagecraft Pick" title="Joz presents a new product" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210427205259381" host="Stephen" modified="20210906181703748" pick="2.1" pick-conditions="1" score="0" tags="Flexy [[2020 September Rickies]] Stagecraft Pick" title="Joz wears a non-solid-color shirt" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210427205259381" host="Stephen" modified="20210922143856613" pick="2.1" pick-conditions="1" score="0" tags="Flexie [[2020 September Rickies]] Stagecraft Pick" title="Joz wears a non-solid-color shirt" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div color="#ff6251" created="20210530222744787" modified="20210530222744832" title="Keynote" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13447,7 +13447,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div color="#77bb41" created="20210530170851380" modified="20210911145053650" tags="Topics" title="macOS" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||$:/TopicDetailTemplate}}</pre>
 </div>
-<div created="20210531201740472" host="Stephen" modified="20210906181703768" pick="3.1" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexy macOS Mac Pick [[Possible Vindication]]" title="macOS skips ahead to version 15 to match iOS and iPadOS" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531201740472" host="Stephen" modified="20210922143856619" pick="3.1" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexie macOS Mac Pick [[Possible Vindication]]" title="macOS skips ahead to version 15 to match iOS and iPadOS" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210907195138635" host="Stephen" modified="20210914194818457" pick="3" pick-conditions="3" score="-1" tags="[[2021 September Rickies]] Pick Ricky iPhone Accessories [[Possible Vindication]]" title="MagSafe is updated to support 20 watt charging or higher, but a new puck is required" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13468,10 +13468,10 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210420011235788" host="Stephen" modified="20210906190401928" pick="2.3" pick-conditions="2" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="Names will be XC and XS" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210907195843176" host="Federico" modified="20210914195709880" pick="3.04" pick-conditions="2" score="0" tags="[[2021 September Rickies]] Pick Flexy AirPods Accessories [[Possible Vindication]]" title="New AirPods announced with a MagSafe compatible case" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210907195843176" host="Federico" modified="20210922143856624" pick="3.04" pick-conditions="2" score="0" tags="[[2021 September Rickies]] Pick Flexie AirPods Accessories [[Possible Vindication]]" title="New AirPods announced with a MagSafe compatible case" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210423054821205" host="Myke" modified="20210906181703811" pick="2.3" pick-conditions="1" score="0" tags="[[2020 November Rickies]] Flexy Accessories AirPods Pick" title="New AirPods or AirPods Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210423054821205" host="Myke" modified="20210922143856631" pick="2.3" pick-conditions="1" score="0" tags="[[2020 November Rickies]] Flexie Accessories AirPods Pick" title="New AirPods or AirPods Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210420012049367" host="Myke" modified="20210906190351069" pick="3.7" pick-conditions="2" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="New and faster FaceID" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13480,22 +13480,22 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210429184559047" creator="jbiatek" host="Federico" modified="20210906181703827" modifier="jbiatek" pick="1.3" pick-conditions="1" score="1" tags="[[2019 WWDC Predictions]] Regular iOS Pick" title="New Animoji in iOS 13" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Ungraded: Federico had some specific predictions which were not written down: at least 4, maybe 5, a demo on stage, would like to see kangaroo, peacock, squirrel, or white rat as new animals.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210428175754234" creator="jbiatek" host="Myke" modified="20210906181703833" modifier="jbiatek" pick="1.3" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexy [[Apple TV]] Pick" title="New Apple TV released" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428175754234" creator="jbiatek" host="Myke" modified="20210922143856636" modifier="jbiatek" pick="1.3" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexie [[Apple TV]] Pick" title="New Apple TV released" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210907195526980" host="Myke" modified="20210914194438972" pick="1.04" pick-conditions="1" score="0" tags="[[2021 September Rickies]] Pick Flexy Buzzkill [[Apple Watch]]" title="New Apple Watch is not a part of the presentation" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210907195526980" host="Myke" modified="20210922143856643" pick="1.04" pick-conditions="1" score="0" tags="[[2021 September Rickies]] Pick Flexie Buzzkill [[Apple Watch]]" title="New Apple Watch is not a part of the presentation" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420213030857" host="Federico" modified="20210906181703841" pick="3.1" pick-conditions="1" score="1" tags="[[2021 April Rickies]] Flexy Accessories iPhone Pick" title="New case colors for the iPhone" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420213030857" host="Federico" modified="20210922143856650" pick="3.1" pick-conditions="1" score="1" tags="[[2021 April Rickies]] Flexie Accessories iPhone Pick" title="New case colors for the iPhone" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210429060844258" creator="jbiatek" host="Myke" modified="20210909150135726" modifier="jbiatek" pick="1.1" pick-conditions="1" score="1" tags="[[2019 Fall Rickies]] Regular iPhone Pick" title="New colours in the iPhone line as compared to the previous year" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210531201724653" host="Myke" modified="20210906181703855" pick="2.4" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexy iOS Pick [[Apple Apps]]" title="New features for FaceTime" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531201724653" host="Myke" modified="20210922143856658" pick="2.4" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexie iOS Pick [[Apple Apps]]" title="New features for FaceTime" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210426173811295" host="Myke" modified="20210906181703864" pick="2.3" pick-conditions="1" score="1" tags="[[2020 October Rickies]] Flexy Accessories Pick" title="New HomePod model" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210426173811295" host="Myke" modified="20210922143856664" pick="2.3" pick-conditions="1" score="1" tags="[[2020 October Rickies]] Flexie Accessories Pick" title="New HomePod model" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210428004404138" host="Federico" modified="20210906190334262" pick="1.3" pick-conditions="2" score="0" tags="[[2020 Summer Rickies]] Regular Services Pick [[Possible Vindication]]" title="New iMessage features, including the ability to retract sent messages" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13504,28 +13504,28 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210419220703991" host="Federico" modified="20210906190323776" pick="4" pick-conditions="4" score="0.75" tags="[[2017 Annual Predictions]] NonGraded Accessories iPad Pick" title="New iPad accessories: Keyboard + protection + pencil holder" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420212712647" host="Myke" modified="20210906181703895" pick="2.2" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexy Accessories iPad Pick" title="New iPad Pro accessory" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420212712647" host="Myke" modified="20210922143856669" pick="2.2" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie Accessories iPad Pick" title="New iPad Pro accessory" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;Something we haven't seen before, or is redesigned significantly, e.g. Apple Pencil 1 to 2.&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210420011447830" host="Myke" modified="20210906181703904" pick="3.1" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPad Pick" title="New iPads" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210531201702799" host="Myke" modified="20210906181703920" pick="2.1" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexy Mac Pick" title="New MacBook Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531201702799" host="Myke" modified="20210922143856674" pick="2.1" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexie Mac Pick" title="New MacBook Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210423054723417" host="Myke" modified="20210906181703938" pick="2.1" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexy Mac Pick Buzzkill" title="New Macs follow current design trends, no large scale redesign" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210423054723417" host="Myke" modified="20210922143856679" pick="2.1" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexie Mac Pick Buzzkill" title="New Macs follow current design trends, no large scale redesign" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210423054845956" host="Myke" modified="20210906190252625" pick="2.4" pick-conditions="2" score="0" tags="[[2020 November Rickies]] Flexy Accessories AirPods Pick [[Possible Vindication]]" title="New MagSafe charging case for existing AirPods" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210423054845956" host="Myke" modified="20210922143856684" pick="2.4" pick-conditions="2" score="0" tags="[[2020 November Rickies]] Flexie Accessories AirPods Pick [[Possible Vindication]]" title="New MagSafe charging case for existing AirPods" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210427205145042" host="Myke" modified="20210906181703960" pick="1.3" pick-conditions="1" score="1" tags="Flexy [[2020 September Rickies]] Accessories iPad Pick" title="New non-Pro iPad gets second generation Apple Pencil" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210427205145042" host="Myke" modified="20210922143856691" pick="1.3" pick-conditions="1" score="1" tags="Flexie [[2020 September Rickies]] Accessories iPad Pick" title="New non-Pro iPad gets second generation Apple Pencil" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210428022656752" host="Federico" modified="20210906181703969" pick="3.6" pick-conditions="1" score="0" tags="[[2020 Summer Rickies]] NonGraded [[Developer tools]] Pick [[Possible Vindication]]" title="New Notes framework for developers" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210531201729655" host="Myke" modified="20210906181703982" pick="2.5" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexy iOS Pick" title="New notification management options" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531201729655" host="Myke" modified="20210922143856699" pick="2.5" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexie iOS Pick" title="New notification management options" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210420011804353" host="Myke" modified="20210906190215924" pick="3.2" pick-conditions="2" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded Accessories iPad Pick" title="New pencil and keyboard" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13537,7 +13537,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210428010757022" host="Stephen" modified="20210906181704021" pick="1.2" pick-conditions="1" score="1" tags="[[2020 Summer Rickies]] NonGraded Services Stagecraft Pick Buzzkill" title="No Apple Services bundle announced" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210907195839648" host="Federico" modified="20210914195638402" pick="3.03" pick-conditions="1" score="1" tags="[[2021 September Rickies]] Pick Flexy Mac macOS Buzzkill" title="No date is provided for macOS Monterey" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210907195839648" host="Federico" modified="20210922143856705" pick="3.03" pick-conditions="1" score="1" tags="[[2021 September Rickies]] Pick Flexie Mac macOS Buzzkill" title="No date is provided for macOS Monterey" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210428175202955" creator="jbiatek" host="Stephen" modified="20210906181704035" modifier="jbiatek" pick="2.2" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Regular Stagecraft Pick" title="No in-person WWDC 2021" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13546,7 +13546,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210420011144454" host="Stephen" modified="20210906190205197" pick="2.1" pick-conditions="3" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone [[Apple Watch]] iPad Pick Buzzkill" title="No iPads, iPhone and Apple Watch only" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210428180214242" creator="jbiatek" host="Stephen" modified="20210906181704059" modifier="jbiatek" pick="3.5" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexy Mac Pick Buzzkill" title="No Mac gets a cellular data option" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428180214242" creator="jbiatek" host="Stephen" modified="20210922143856711" modifier="jbiatek" pick="3.5" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexie Mac Pick Buzzkill" title="No Mac gets a cellular data option" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210429062110326" creator="jbiatek" host="Stephen" modified="20210906190153223" modifier="jbiatek" pick="2.2" pick-conditions="2" score="0" tags="[[2019 Fall Rickies]] Regular Mac Stagecraft iPad Pick Buzzkill" title="No Mac or iPad hardware in the keynote" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13555,10 +13555,10 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210420011215758" host="Stephen" modified="20210906181704085" pick="2.2" pick-conditions="1" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded Mac Pick Buzzkill" title="No Macs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420212450245" host="Stephen" modified="20210906181704095" pick="1.4" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexy Stagecraft Accessories Pick Buzzkill" title="No mention of AirTags" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420212450245" host="Stephen" modified="20210922143856715" pick="1.4" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie Stagecraft Accessories Pick Buzzkill" title="No mention of AirTags" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210423054532435" host="Stephen" modified="20210906181704104" pick="1.4" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexy Mac Stagecraft Pick Buzzkill" title="No mention of cellular Macs" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210423054532435" host="Stephen" modified="20210922143856721" pick="1.4" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexie Mac Stagecraft Pick Buzzkill" title="No mention of cellular Macs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210429064207495" creator="jbiatek" host="Stephen" modified="20210906190141501" modifier="jbiatek" pick="2.2" pick-conditions="2" score="1" tags="[[2019 Fall Rickies]] NonGraded Stagecraft Pick" title="No mention or word from Jony Ive" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13570,10 +13570,10 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210421060817243" host="Stephen" modified="20210906181704132" pick="2.2" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Regular Mac Pick Buzzkill" title="No new Mac announced will have a touchscreen" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210531201752425" host="Stephen" modified="20210906181704146" pick="3.2" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexy Mac Buzzkill Pick" title="No new Mac notebooks are announced" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531201752425" host="Stephen" modified="20210922143856727" pick="3.2" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexie Mac Buzzkill Pick" title="No new Mac notebooks are announced" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210426173800358" host="Myke" modified="20210906181704158" pick="2.2" pick-conditions="1" score="1" tags="[[2020 October Rickies]] Flexy Mac Stagecraft Pick Buzzkill" title="No new Macs announced" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210426173800358" host="Myke" modified="20210922143856733" pick="2.2" pick-conditions="1" score="1" tags="[[2020 October Rickies]] Flexie Mac Stagecraft Pick Buzzkill" title="No new Macs announced" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210531201319517" host="Myke" modified="20210906181704176" pick="1.2" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Regular [[Augmented Reality]] Buzzkill Pick" title="No preview of AR/VR/MR-focused hardware" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13582,10 +13582,10 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210429062654206" creator="jbiatek" host="Stephen" modified="20210906190117219" modifier="jbiatek" pick="2" pick-conditions="3" score="2" tags="[[2019 Fall Rickies]] Ricky Services Stagecraft Pick Buzzkill" title="No service bundle announced" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;“including any service being free with another, or some sort of content being added to the iPhone upgrade program”&lt;/li&gt;&lt;li&gt;Apple TV+ was announced as a free trial, but not as a bundle. And it doesn’t really come with the upgrade program as such. Stephen threads the needle with this pick.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210427205231403" host="Myke" modified="20210906181704195" pick="1.5" pick-conditions="1" score="0" tags="Flexy [[2020 September Rickies]] iOS Pick" title="No specific date for iOS 14's release" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210427205231403" host="Myke" modified="20210922143856739" pick="1.5" pick-conditions="1" score="0" tags="Flexie [[2020 September Rickies]] iOS Pick" title="No specific date for iOS 14's release" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210907195712684" host="Stephen" modified="20210914195535246" pick="2.05" pick-conditions="1" score="1" tags="[[2021 September Rickies]] Pick Flexy [[Apple Watch]]" title="No specific preorder date is set for the Apple Watch" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210907195712684" host="Stephen" modified="20210922143856745" pick="2.05" pick-conditions="1" score="1" tags="[[2021 September Rickies]] Pick Flexie [[Apple Watch]]" title="No specific preorder date is set for the Apple Watch" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210531201402059" host="Stephen" modified="20210906181704210" pick="2.3" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Regular Mac Buzzkill Pick" title="No word on an Apple Silicon Mac Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13612,7 +13612,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210426170434012" host="Federico" modified="20210906185949763" pick="1" pick-conditions="2" score="2" tags="[[2020 October Rickies]] Ricky iPhone [[Augmented Reality]] Pick" title="One of the new iPhones with LIDAR has a new portrait feature thanks to new sensors" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210423055208566" host="Federico" modified="20210906181704320" pick="3.3" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexy Mac Pick" title="One of the new Mac models supports WiFi 6" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210423055208566" host="Federico" modified="20210922143856751" pick="3.3" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexie Mac Pick" title="One of the new Mac models supports WiFi 6" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210420205918730" host="Federico" modified="20210906185934746" pick="2.3" pick-conditions="2" score="1" tags="[[2021 April Rickies]] Regular iPad Pick" title="Only the big iPad Pro gets the new display technology" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13621,13 +13621,13 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div color="#ff6251" created="20210530222754497" modified="20210530222754535" title="Other" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210426173845767" host="Myke" modified="20210906185922985" pick="2.5" pick-conditions="2" score="0" tags="[[2020 October Rickies]] Flexy Accessories AirPods Pick [[Possible Vindication]]" title="Over-ear AirPods are offered with multiple material options" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210426173845767" host="Myke" modified="20210922143856759" pick="2.5" pick-conditions="2" score="0" tags="[[2020 October Rickies]] Flexie Accessories AirPods Pick [[Possible Vindication]]" title="Over-ear AirPods are offered with multiple material options" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210416203801303" host="Myke" modified="20210906181704367" pick="1.3" pick-conditions="1" score="0" tags="[[2019 Annual Predictions]] NonGraded Accessories AirPods Pick [[Ahead of Its Time]]" title="Over-ear headphones (i.e. HeadPods)" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Myke was a year off, as AirPods Max came out at the end of 2020.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210423054343481" host="Stephen" modified="20210906181704382" pick="1.1" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexy Stagecraft Pick" title="Phil Schiller is nowhere to be seen" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210423054343481" host="Stephen" modified="20210922143856765" pick="1.1" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexie Stagecraft Pick" title="Phil Schiller is nowhere to be seen" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div color="#00a3d7" created="20210530222823806" modified="20210906182351968" title="Pick" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13638,10 +13638,10 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 
 {{||$:/TopicDetailTemplate}}</pre>
 </div>
-<div created="20210427205651650" host="Stephen" modified="20210906181704403" pick="2.5" pick-conditions="1" score="0" tags="Flexy [[2020 September Rickies]] Services [[Apple TV+]] Stagecraft Pick" title="Preview of fall Apple TV+ content" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210427205651650" host="Stephen" modified="20210922143856772" pick="2.5" pick-conditions="1" score="0" tags="Flexie [[2020 September Rickies]] Services [[Apple TV+]] Stagecraft Pick" title="Preview of fall Apple TV+ content" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210531201716090" host="Myke" modified="20210906181704416" pick="2.2" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexy Mac Pick" title="Preview of the new Apple Silicon Mac Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531201716090" host="Myke" modified="20210922143856777" pick="2.2" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexie Mac Pick" title="Preview of the new Apple Silicon Mac Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210426164357461" host="Stephen" modified="20210906181704428" pick="1.3" pick-conditions="1" score="1" tags="[[2020 October Rickies]] Regular iPhone Pick Buzzkill" title="ProMotion does not come to new iPhones" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13653,7 +13653,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div color="#008cb4" created="20210530222828573" modified="20210530222907974" title="Regular" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210907195600225" host="Myke" modified="20210914194449558" pick="1.05" pick-conditions="2" score="1" tags="[[2021 September Rickies]] Pick Flexy iOS" title="Release date for iOS 15 is announced and it's later than 24 hours away" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210907195600225" host="Myke" modified="20210922143856784" pick="1.05" pick-conditions="2" score="1" tags="[[2021 September Rickies]] Pick Flexie iOS" title="Release date for iOS 15 is announced and it's later than 24 hours away" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210416201838906" host="Federico" modified="20210906181704461" pick="1" pick-conditions="1" score="2" tags="[[2019 Annual Predictions]] Ricky Pick [[Apple Apps]]" title="Reminders gets a major update" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13665,7 +13665,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div color="#94e3fe" created="20210530222835359" modified="20210906182343404" title="Ricky" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div color="#616261" created="20210419224220858" creator="jbiatek" modified="20210907152900435" modifier="jbiatek" tags="Contents" title="Scores and Stats" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div color="#616261" created="20210419224220858" creator="jbiatek" modified="20210922145343281" modifier="jbiatek" tags="Contents" title="Scores and Stats" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>! Victories
 
 !! Annual Rickies:
@@ -13761,19 +13761,19 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 
 (includes -1 for incorrect Risky Picks)
 
-* Stephen: &lt;$text text={{{ [!tag[Flexy]!tag[NonGraded]host[Stephen]get[score]sum[]] }}}/&gt; points
+* Stephen: &lt;$text text={{{ [!tag[Flexie]!tag[NonGraded]host[Stephen]get[score]sum[]] }}}/&gt; points
 
-* Myke: &lt;$text text={{{ [!tag[Flexy]!tag[NonGraded]host[Myke]get[score]sum[]] }}}/&gt; points
+* Myke: &lt;$text text={{{ [!tag[Flexie]!tag[NonGraded]host[Myke]get[score]sum[]] }}}/&gt; points
 
-* Federico: &lt;$text text={{{ [!tag[Flexy]!tag[NonGraded]host[Federico]get[score]sum[]] }}}/&gt; points
+* Federico: &lt;$text text={{{ [!tag[Flexie]!tag[NonGraded]host[Federico]get[score]sum[]] }}}/&gt; points
 
 ! Flexies
 
-!! Total scores for all Flexy picks
+!! Total scores for all Flexie picks
 
-(This only includes Flexy picks made after they started to require a donation to charity from the loser.)
+(This only includes Flexie picks made after they started to require a donation to charity from the loser.)
 
-&lt;&lt;percent-correct [tag[Flexy]]&gt;&gt;
+&lt;&lt;percent-correct [tag[Flexie]]&gt;&gt;
 
 !! Total donations to charity
 
@@ -13785,7 +13785,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 
 !! Total scores for all non-graded picks
 
-(This only includes &quot;non-graded&quot; or &quot;Flexy&quot; picks made when they were purely for bragging rights or buying a round of drinks.)
+(This only includes &quot;non-graded&quot; or &quot;Flexie&quot; picks made when they were purely for bragging rights or buying a round of drinks.)
 
 * Stephen: &lt;$text text={{{ [tag[NonGraded]host[Stephen]get[score]sum[]] }}}/&gt; out of &lt;$text text={{{ [tag[NonGraded]host[Stephen]count[]] }}}/&gt;
 
@@ -13818,10 +13818,10 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210428022613280" host="Federico" modified="20210906181704528" pick="3.4" pick-conditions="1" score="1" tags="[[2020 Summer Rickies]] NonGraded Pick [[Apple Apps]]" title="Shortcuts gets folders" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420213200329" host="Federico" modified="20210906181704547" pick="3.3" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexy iOS Pick [[Apple Apps]] [[Possible Vindication]]" title="Shortcuts gets new actions or triggers for USB connections" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420213200329" host="Federico" modified="20210922143856796" pick="3.3" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie iOS Pick [[Apple Apps]] [[Possible Vindication]]" title="Shortcuts gets new actions or triggers for USB connections" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210531201646435" host="Federico" modified="20210906181704562" pick="1.03" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexy Pick [[Apple Apps]]" title="Shortcuts gets new Files actions" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531201646435" host="Federico" modified="20210922143856805" pick="1.03" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexie Pick [[Apple Apps]]" title="Shortcuts gets new Files actions" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210428022641795" host="Federico" modified="20210906185739732" pick="3.5" pick-conditions="2" score="0" tags="[[2020 Summer Rickies]] NonGraded Pick [[Apple Apps]] [[Possible Vindication]]" title="Shortcuts gets new Files integration, ability to run bookmarks in 3rd party actions" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13845,7 +13845,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210416203707564" host="Stephen" modified="20210906181704650" pick="1.2" pick-conditions="1" score="1" tags="[[2019 Annual Predictions]] NonGraded [[Apple management]] Pick" title="Someone on Apple's executive website will leave or be fired" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Above or below &quot;the line&quot;, but in the end people from both sections did leave.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210427205122707" host="Myke" modified="20210906181704678" pick="1.2" pick-conditions="1" score="0" tags="Flexy [[2020 September Rickies]] Stagecraft Pick" title="Someone washes their hands during the presentation" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210427205122707" host="Myke" modified="20210922143856811" pick="1.2" pick-conditions="1" score="0" tags="Flexie [[2020 September Rickies]] Stagecraft Pick" title="Someone washes their hands during the presentation" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210428005558115" host="Stephen" modified="20210906181704694" pick="1" pick-conditions="1" score="2" tags="[[2020 Summer Rickies]] Ricky macOS Mac Pick [[Apple Apps]]" title="Something in the default Dock of Catalina becomes a Catalyst app" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13935,7 +13935,7 @@ Note that the additional conditions may be in the notes of the pick.
 <div created="20210420190653660" host="Myke" modified="20210906181704710" pick="1.2" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Regular iPad Pick" title="The 12.9&quot; iPad Pro ships later than the 11&quot; iPad Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210423054622650" host="Stephen" modified="20210906181704726" pick="1.6" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexy Mac Pick Buzzkill" title="The 12&quot; MacBook does not return" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210423054622650" host="Stephen" modified="20210922143856816" pick="1.6" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexie Mac Pick Buzzkill" title="The 12&quot; MacBook does not return" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210416152010360" host="Stephen" modified="20210906181704742" pick="1.3" pick-conditions="1" score="0" tags="[[2020 Annual Rickies]] Regular Mac Pick [[Possible Vindication]]" title="The 13 inch MacBook Pro will gain a larger screen" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13944,7 +13944,7 @@ Note that the additional conditions may be in the notes of the pick.
 <div created="20210416151748683" host="Myke" modified="20210915165919043" pick="1.2" pick-conditions="1" score="1" tags="[[2020 Annual Rickies]] Regular iPhone Pick" title="The 2020 iPhone line will feature at least one 5G phone" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;Stephen is highly skeptical,&quot; Stephen jokingly predicts it will be called &quot;iPhone 11S Pro Max 5G&quot;&lt;/li&gt;&lt;li&gt;Before the prediction episode has even finished, &lt;a href=&quot;https://twitter.com/MemphisFlyer/status/1207782895479336961&quot; target=&quot;_blank&quot;&gt;news breaks&lt;/a&gt; that 5G service is coming to //Stephen's own neighborhood//.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210907195834665" host="Federico" modified="20210914201913765" pick="3.02" pick-conditions="2" score="0" tags="[[2021 September Rickies]] Pick Flexy iPad [[Possible Vindication]]" title="The 9th generation iPad is introduced with a USB-C connector" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210907195834665" host="Federico" modified="20210922143856821" pick="3.02" pick-conditions="2" score="0" tags="[[2021 September Rickies]] Pick Flexie iPad [[Possible Vindication]]" title="The 9th generation iPad is introduced with a USB-C connector" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210430041452512" creator="jbiatek" host="Federico" modified="20210906185531375" modifier="jbiatek" pick="3" pick-conditions="2" score="0" tags="[[Audio Predictions]] Regular Accessories AirPods Pick [[Possible Vindication]]" title="The AirPods line is split in two, and the lower end version gets a price drop" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13960,7 +13960,7 @@ Myke wants to know: when is AirPower going to come out? Before the 2018 iPhone e
 As it turns out, it didn't come out at all. At the beginning of 2019, Federico still held out 80% hope that AirPower still would come out... eventually.
 </pre>
 </div>
-<div created="20210907195654936" host="Stephen" modified="20210914201934410" pick="2.02" pick-conditions="1" score="0" tags="[[2021 September Rickies]] Pick Flexy [[Apple Watch]] [[Possible Vindication]]" title="The Apple Watch moves to 5G networking" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210907195654936" host="Stephen" modified="20210922143856826" pick="2.02" pick-conditions="1" score="0" tags="[[2021 September Rickies]] Pick Flexie [[Apple Watch]] [[Possible Vindication]]" title="The Apple Watch moves to 5G networking" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210907195251053" host="Stephen" modified="20210914193826659" pick="2.3" pick-conditions="1" score="0" tags="[[2021 September Rickies]] Pick Regular [[Apple Watch]] [[Possible Vindication]]" title="The Apple Watch SE gets a price cut" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14019,19 +14019,19 @@ To see each iteration of the Bill as it existed over time, check out the incredi
 &lt;/$list&gt;
 &lt;/ul&gt;</pre>
 </div>
-<div created="20210420212915809" host="Myke" modified="20210906181704856" pick="2.6" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexy iPad Pick [[Possible Vindication]]" title="The camera on the iPad Pro moves to the long side" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420212915809" host="Myke" modified="20210922143856831" pick="2.6" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie iPad Pick [[Possible Vindication]]" title="The camera on the iPad Pro moves to the long side" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210420011923346" host="Myke" modified="20210906181704866" pick="3.4" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="The cheaper iPhone will be called iPhone 9" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210531201641148" host="Federico" modified="20210906181704885" pick="1.02" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexy Pick [[Apple Apps]]" title="The Files app gets new features" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531201641148" host="Federico" modified="20210922143856837" pick="1.02" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexie Pick [[Apple Apps]]" title="The Files app gets new features" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210421060401088" creator="jbiatek" host="Federico" modified="20210906181704896" modifier="jbiatek" pick="2.1" pick-conditions="1" score="0" tags="[[2020 November Rickies]] Regular Mac Pick" title="The first Apple Silicon chip is a variant of the A14 family" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;The M1 could be related, but Apple never said so, and instead say that it was built specifically for the Mac.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210531201719710" host="Myke" modified="20210906181704912" pick="2.3" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexy Pick [[Apple Apps]]" title="The Home app gets redesigned" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531201719710" host="Myke" modified="20210922143856844" pick="2.3" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexie Pick [[Apple Apps]]" title="The Home app gets redesigned" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;The //watch// version of Home did get redesigned, so this pick is deemed technically correct. Myke made the same pick in the &lt;a href=&quot;https://upgrade.cards/card/apple062021&quot; target=&quot;_blank&quot;&gt;Upgrade Draft&lt;/a&gt;, but didn't get credit there as it was in the iOS and iPadOS section.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210429190157472" creator="jbiatek" host="Stephen" modified="20210906185310955" modifier="jbiatek" pick="2" pick-conditions="2" score="2" tags="[[2019 WWDC Predictions]] Ricky Accessories Pick" title="The HomePod will gain multiple user support via voice detection" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14068,7 +14068,7 @@ To see each iteration of the Bill as it existed over time, check out the incredi
 <div created="20210419173319734" creator="jbiatek" host="Stephen" modified="20210906181705093" modifier="jbiatek" pick="1.2" pick-conditions="1" score="1" tags="[[2017 Annual Predictions]] Regular iPhone Pick" title="The iPhone 7S and 7S+ will look like the 7 and 7+, not this edge to edge unicorn phone that has been rumored" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;This was deemed correct during grading, allowing for the &quot;7S&quot; actually being named the 8.&lt;/li&gt;&lt;li&gt;During grading, Myke wondered if Stephen had been thinking that there would be //a// phone with the traditional design, or if he was thinking that there would be no &quot;unicorn&quot; phone at all. Of course, it is impossible to read his mind, but in the original pick, Stephen seems to imply that it will just be the &quot;7S&quot;.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210907195512753" host="Stephen" modified="20210914201954938" pick="2.01" pick-conditions="1" score="0" tags="[[2021 September Rickies]] Pick Flexy iPhone [[Possible Vindication]]" title="The iPhone Pro comes in 5 colors/finishes, not the traditional 4" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210907195512753" host="Stephen" modified="20210922143856850" pick="2.01" pick-conditions="1" score="0" tags="[[2021 September Rickies]] Pick Flexie iPhone [[Possible Vindication]]" title="The iPhone Pro comes in 5 colors/finishes, not the traditional 4" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210426172210030" host="Stephen" modified="20210906181705107" pick="3" pick-conditions="1" score="-1" tags="[[2020 October Rickies]] Ricky iPhone Pick [[Possible Vindication]]" title="The iPhone Pro moves to USB-C" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14080,10 +14080,10 @@ To see each iteration of the Bill as it existed over time, check out the incredi
 <div created="20210429061445510" creator="jbiatek" host="Stephen" modified="20210906181705138" modifier="jbiatek" pick="1.2" pick-conditions="1" score="1" tags="[[2019 Fall Rickies]] Regular iPhone Pick" title="The iPhone XR will become the iPhone 11" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420212259379" host="Stephen" modified="20210906181705163" pick="1.1" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexy [[iPod Touch]] Pick Buzzkill [[Possible Vindication]]" title="The iPod Touch is taken down from sale in the wake of the event" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420212259379" host="Stephen" modified="20210922143856855" pick="1.1" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie [[iPod Touch]] Pick Buzzkill [[Possible Vindication]]" title="The iPod Touch is taken down from sale in the wake of the event" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210428180224753" creator="jbiatek" host="Stephen" modified="20210906181705180" modifier="jbiatek" pick="3.6" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexy [[iPod Touch]] Pick Buzzkill" title="The iPod Touch will be cancelled" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428180224753" creator="jbiatek" host="Stephen" modified="20210922143856863" modifier="jbiatek" pick="3.6" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexie [[iPod Touch]] Pick Buzzkill" title="The iPod Touch will be cancelled" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;The other hosts question the word &quot;cancelled&quot; here.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210428022309119" host="Federico" modified="20210906181705197" pick="3.1" pick-conditions="1" score="0" tags="[[2020 Summer Rickies]] NonGraded Stagecraft Pick" title="The keynote is held outside on the stage Apple uses for concerts at Apple Park" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14104,22 +14104,22 @@ To see each iteration of the Bill as it existed over time, check out the incredi
 <div created="20210416201609832" host="Stephen" modified="20210906181705296" pick="2.2" pick-conditions="1" score="1" tags="[[2019 Annual Predictions]] Regular Mac Pick Buzzkill" title="The MacBook Escape will go away" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420212409898" host="Stephen" modified="20210906181705310" pick="1.3" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexy Accessories iPad Pick" title="The Magic Keyboard for iPad goes unchanged" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420212409898" host="Stephen" modified="20210922143856869" pick="1.3" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie Accessories iPad Pick" title="The Magic Keyboard for iPad goes unchanged" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Ungraded: what if it got a camera on the long edge? That'd be incredible.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210907195008070" host="Myke" modified="20210914193552395" pick="2.1" pick-conditions="1" score="1" tags="[[2021 September Rickies]] Pick Regular Mac Buzzkill" title="The new Apple Silicon MacBook Pro will not be announced at this event" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;This was originally going to be &quot;[[No Macs]]&quot;, but at this point everyone was on the lookout for reused picks and [[this|No Mac or iPad hardware in the keynote]] one [[has|No new Mac notebooks are announced]] come [[up a|Nothing about the Mac]] few [[times|The Mac is not mentioned]].&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210427205947818" host="Federico" modified="20210906185002250" pick="3.1" pick-conditions="1" score="1" tags="Flexy [[2020 September Rickies]] Accessories iPad Pick" title="The new iPad Air supports the Magic Keyboard" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210427205947818" host="Federico" modified="20210922143856875" pick="3.1" pick-conditions="1" score="1" tags="Flexie [[2020 September Rickies]] Accessories iPad Pick" title="The new iPad Air supports the Magic Keyboard" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420213540621" host="Federico" modified="20210906181705341" pick="3.6" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexy iPad Accessories Pick [[Possible Vindication]]" title="The new iPad Pro comes with a fancy new GaN charger" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420213540621" host="Federico" modified="20210922143856884" pick="3.6" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie iPad Accessories Pick [[Possible Vindication]]" title="The new iPad Pro comes with a fancy new GaN charger" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210907195519998" host="Myke" modified="20210914194429546" pick="1.03" pick-conditions="1" score="1" tags="[[2021 September Rickies]] Pick Flexy iPhone" title="The new iPhone colour will be a new version of a colour they've already used" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210907195519998" host="Myke" modified="20210922143856892" pick="1.03" pick-conditions="1" score="1" tags="[[2021 September Rickies]] Pick Flexie iPhone" title="The new iPhone colour will be a new version of a colour they've already used" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;e.g. a new shade of blue, green, gold, black, etc.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210428180147228" creator="jbiatek" host="Stephen" modified="20210906181705353" modifier="jbiatek" pick="3.3" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexy iPhone Pick" title="The new iPhone will be the 12S, not the 13" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428180147228" creator="jbiatek" host="Stephen" modified="20210922143856900" modifier="jbiatek" pick="3.3" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexie iPhone Pick" title="The new iPhone will be the 12S, not the 13" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210426170601812" host="Myke" modified="20210906181705362" pick="2" pick-conditions="1" score="-1" tags="[[2020 October Rickies]] Ricky iPhone Pick [[Possible Vindication]]" title="The new iPhone will have a Touch ID sensor" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14137,10 +14137,10 @@ To see each iteration of the Bill as it existed over time, check out the incredi
 <div created="20210430041745877" creator="jbiatek" host="Myke" modified="20210906181705405" modifier="jbiatek" pick="4" pick-conditions="1" score="0" tags="[[Audio Predictions]] Regular Accessories Pick [[Ahead of Its Time]]" title="The next HomePod is a mini HomePod" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;True, but too late. The HomePod mini wasn't released until 2020.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210531214744693" host="Federico" modified="20210906183511394" pick="1.09" pick-conditions="3" score="0" tags="[[2021 WWDC Rickies]] Flexy iOS Pick [[Possible Vindication]]" title="The next version of iOS lets you change icons for apps natively" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531214744693" host="Federico" modified="20210922143856905" pick="1.09" pick-conditions="3" score="0" tags="[[2021 WWDC Rickies]] Flexie iOS Pick [[Possible Vindication]]" title="The next version of iOS lets you change icons for apps natively" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;Without Shortcuts or custom profiles.&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210531201756172" host="Stephen" modified="20210906181705427" pick="3.3" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexy macOS Mac Pick [[Possible Vindication]]" title="The next version of macOS comes with a redesigned Today view" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531201756172" host="Stephen" modified="20210922143856910" pick="3.3" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexie macOS Mac Pick [[Possible Vindication]]" title="The next version of macOS comes with a redesigned Today view" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210416152630691" host="Myke" modified="20210915170021255" pick="2" pick-conditions="1" score="2" tags="[[2020 Annual Rickies]] Ricky iPhone Pick" title="The notch on the iPhone will get physically smaller in at least one of the 2020 iPhones" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14150,13 +14150,13 @@ To see each iteration of the Bill as it existed over time, check out the incredi
 <div created="20210420011943939" host="Myke" modified="20210906181705442" pick="3.5" pick-conditions="1" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded Stagecraft iPhone Pick" title="The only iPhones seen on stage will be the ones we already know about" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210531214555952" host="Federico" modified="20210906181705453" pick="1.06" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexy iOS Pick [[Apple Apps]] [[Possible Vindication]]" title="The Passwords feature of Settings becomes a standalone app" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531214555952" host="Federico" modified="20210922143856915" pick="1.06" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexie iOS Pick [[Apple Apps]] [[Possible Vindication]]" title="The Passwords feature of Settings becomes a standalone app" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210907195235466" host="Stephen" modified="20210914193516614" pick="1.3" pick-conditions="1" score="1" tags="[[2021 September Rickies]] Pick Regular iPhone Buzzkill" title="The Pro iPhone gets a new camera feature the regular iPhone doesn't get" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210427205616219" host="Stephen" modified="20210906181705462" pick="2.4" pick-conditions="1" score="0" tags="Flexy [[2020 September Rickies]] [[Apple Watch]] Stagecraft Pick" title="The removal of Force Touch on watchOS is framed as the inclusion of Haptic Touch" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210427205616219" host="Stephen" modified="20210922143856921" pick="2.4" pick-conditions="1" score="0" tags="Flexie [[2020 September Rickies]] [[Apple Watch]] Stagecraft Pick" title="The removal of Force Touch on watchOS is framed as the inclusion of Haptic Touch" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210430024736840" creator="jbiatek" host="Stephen" modified="20210906181705473" modifier="jbiatek" pick="1.3" pick-conditions="1" score="1" tags="[[2019 Media Event Predictions]] Regular Services [[Apple TV+]] Pick" title="The video streaming service does not launch until at least May 1" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14165,10 +14165,10 @@ To see each iteration of the Bill as it existed over time, check out the incredi
 <div created="20210430033740388" creator="jbiatek" host="Myke" modified="20210906183334541" modifier="jbiatek" pick="2.1" pick-conditions="2" score="1" tags="[[2019 Media Event Predictions]] NonGraded Services [[Apple TV+]] Pick" title="The video streaming service will come to Roku and Fire TV products" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210531201621831" host="Federico" modified="20210906181705497" pick="1.01" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexy iPad Pick [[Apple Apps]] [[Possible Vindication]]" title="The Weather app comes to iPad" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531201621831" host="Federico" modified="20210922143856928" pick="1.01" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexie iPad Pick [[Apple Apps]] [[Possible Vindication]]" title="The Weather app comes to iPad" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210907195737181" host="Myke" modified="20210914194353587" pick="1.02" pick-conditions="1" score="0" tags="[[2021 September Rickies]] Pick Flexy [[Apple Watch]] [[Possible Vindication]]" title="There is a ceramic Apple Watch" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210907195737181" host="Myke" modified="20210922143856933" pick="1.02" pick-conditions="1" score="0" tags="[[2021 September Rickies]] Pick Flexie [[Apple Watch]] [[Possible Vindication]]" title="There is a ceramic Apple Watch" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210429061807261" creator="jbiatek" host="Myke" modified="20210906181705508" modifier="jbiatek" pick="2.1" pick-conditions="1" score="1" tags="[[2019 Fall Rickies]] Regular iPhone Pick" title="There will be 3 cameras on the high end phones" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14177,7 +14177,7 @@ To see each iteration of the Bill as it existed over time, check out the incredi
 <div created="20210417061814777" creator="jbiatek" host="Myke" modified="20210906183244346" modifier="jbiatek" pick="1.2" pick-conditions="2" score="1" tags="[[2018 Annual Predictions]] Regular iPhone Pick" title="There will be a bigger iPhone X style phone, but it will not have an OLED screen" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;The iPhone XR saved Myke here, as the XS Max was OLED which he didn’t think would be possible for such a big display.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210428180129369" creator="jbiatek" host="Stephen" modified="20210906181705535" modifier="jbiatek" pick="3.2" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexy Mac Pick" title="There will be a chip named M1 followed by a letter" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428180129369" creator="jbiatek" host="Stephen" modified="20210922143856939" modifier="jbiatek" pick="3.2" pick-conditions="1" score="" tags="[[2021 Annual Rickies]] Flexie Mac Pick" title="There will be a chip named M1 followed by a letter" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210416200554453" host="Federico" modified="20210906183221835" pick="1.1" pick-conditions="2" score="1" tags="[[2019 Annual Predictions]] Regular Services Pick" title="There will be a new Apple news subscription service for content from select publications" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14239,7 +14239,7 @@ June, 2021
 <div created="20210429062356762" creator="jbiatek" host="Myke" modified="20210906183135020" modifier="jbiatek" pick="1" pick-conditions="3" score="-1" tags="[[2019 Fall Rickies]] Ricky Stagecraft Pick" title="Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210531215806623" host="Myke" modified="20210915170048859" pick="2.6" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexy [[Developer tools]] iOS Pick" title="Tools for developers to make smoother or faster animations in iOS" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531215806623" host="Myke" modified="20210922143856945" pick="2.6" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexie [[Developer tools]] iOS Pick" title="Tools for developers to make smoother or faster animations in iOS" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;As seen &lt;a href=&quot;https://developer.apple.com/videos/play/wwdc2021/10147/&quot; target=&quot;_blank&quot;&gt;in this WWDC session&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div color="#4f7a28" created="20210530153044806" list="iPhone iOS iPad Mac macOS" modified="20210911145053702" tags="Contents" title="Topics" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14255,10 +14255,10 @@ June, 2021
 <div created="20210416151432962" host="Federico" modified="20210906181705620" pick="1.1" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPad Pick" title="Two new iPad Pros" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;Maybe more of a hope&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210426173236878" host="Myke" modified="20210906181705637" pick="2.1" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexy [[Apple TV]] Pick" title="Updated Apple TV" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210426173236878" host="Myke" modified="20210922143856950" pick="2.1" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexie [[Apple TV]] Pick" title="Updated Apple TV" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210427205207569" host="Myke" modified="20210906181705651" pick="1.4" pick-conditions="1" score="1" tags="Flexy [[2020 September Rickies]] [[Apple Watch]] Pick" title="watchOS 7 gets a software feature we haven't seen yet" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210427205207569" host="Myke" modified="20210922143856956" pick="1.4" pick-conditions="1" score="1" tags="Flexie [[2020 September Rickies]] [[Apple Watch]] Pick" title="watchOS 7 gets a software feature we haven't seen yet" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210428022525733" host="Federico" modified="20210915142912086" pick="3.3" pick-conditions="1" score="0" tags="[[2020 Summer Rickies]] NonGraded [[Apple Watch]] Pick [[Ahead of Its Time]]" title="watchOS 7 will feature mental health features" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14267,16 +14267,16 @@ June, 2021
 <div created="20210428005426782" host="Federico" modified="20210906181705682" pick="2.3" pick-conditions="1" score="1" tags="[[2020 Summer Rickies]] Regular [[Apple Watch]] Pick" title="watchOS gets new sleep tracking features" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210531201759473" host="Stephen" modified="20210906181705691" pick="3.4" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexy Pick Stagecraft" title="We get some happy messaging from Apple about how much they value developers" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210531201759473" host="Stephen" modified="20210922143856962" pick="3.4" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexie Pick Stagecraft" title="We get some happy messaging from Apple about how much they value developers" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210423054423300" host="Stephen" modified="20210906181705705" pick="1.2" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexy Stagecraft macOS Mac Pick" title="We see a Big Sur feature recap" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210423054423300" host="Stephen" modified="20210922143856968" pick="1.2" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexie Stagecraft macOS Mac Pick" title="We see a Big Sur feature recap" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210423054443663" host="Stephen" modified="20210906181705723" pick="1.3" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexy Stagecraft Pick" title="We see Johny Srouji again" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210423054443663" host="Stephen" modified="20210922143856973" pick="1.3" pick-conditions="1" score="1" tags="[[2020 November Rickies]] Flexie Stagecraft Pick" title="We see Johny Srouji again" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420212340448" host="Stephen" modified="20210906181705734" pick="1.2" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexy Stagecraft Pick" title="We see Joz introduce something" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420212340448" host="Stephen" modified="20210922143856979" pick="1.2" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie Stagecraft Pick" title="We see Joz introduce something" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210420213953579" creator="jbiatek" modified="20210915170103839" modifier="jbiatek" tags="Contents" title="Welcome" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14314,7 +14314,7 @@ The annual Rickies will see plenty of action as Apple enters the busy product an
 <div created="20210531201348708" host="Federico" modified="20210906181705746" pick="2.1" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Regular [[Developer tools]] Pick [[Possible Vindication]]" title="WidgetKit gains new interactivity features that allow you to perform actions inside widgets without launching the associated app" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210428180022141" creator="jbiatek" host="Federico" modified="20210906183026061" modifier="jbiatek" pick="2.5" pick-conditions="2" score="" tags="[[2021 Annual Rickies]] Flexy iOS [[Developer tools]] Pick" title="WidgetKit will support new widget sizes and more interactivity" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210428180022141" creator="jbiatek" host="Federico" modified="20210922143856985" modifier="jbiatek" pick="2.5" pick-conditions="2" score="" tags="[[2021 Annual Rickies]] Flexie iOS [[Developer tools]] Pick" title="WidgetKit will support new widget sizes and more interactivity" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210417062725200" host="Federico" modified="20210906183040620" pick="1" pick-conditions="3" score="2" tags="[[2018 Annual Predictions]] Ricky iOS Pick [[Apple Apps]]" title="Workflow 2 will appear as a system feature or app" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14351,7 +14351,7 @@ This will be the first WWDC event where the loser of the Flexies is not penalize
 <div created="20210416204223310" host="Stephen" modified="20210906183059513" pick="2.2" pick-conditions="2" score="1" tags="[[2019 Annual Predictions]] NonGraded iOS macOS Mac Pick" title="WWDC will introduce a multi-year plan to move macOS and iOS closer" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Mac Catalyst and SwiftUI deemed to fulfill this&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210420212856008" host="Myke" modified="20210906181705813" pick="2.5" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexy Accessories Pick [[Possible Vindication]]" title="You can buy AirTags in a 3-pack" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420212856008" host="Myke" modified="20210922143856991" pick="2.5" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie Accessories Pick [[Possible Vindication]]" title="You can buy AirTags in a 3-pack" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;It was a 4 pack instead.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 

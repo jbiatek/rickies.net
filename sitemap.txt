@@ -220,7 +220,7 @@ https://rickies.net/static/DriverKit%2520comes%2520to%2520iPadOS%2520to%2520let%
 https://rickies.net/static/Event%2520looks%2520mostly%2520like%2520WWDC.html
 https://rickies.net/static/External%2520storage%2520support%2520on%2520iOS.html
 https://rickies.net/static/First%2520ARM%2520Mac%2520ships.html
-https://rickies.net/static/Flexy.html
+https://rickies.net/static/Flexie.html
 https://rickies.net/static/Game.html
 https://rickies.net/static/HeadPods%2520will%2520be%2520wireless%2520only%2520and%2520they%2520will%2520have%2520no%2520headphone%2520jack%2520and%2520will%2520charge%2520via%2520Lightning%2520or%2520USB-C.html
 https://rickies.net/static/HomePod%2520price%2520drop.html
