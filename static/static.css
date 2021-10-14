@@ -2859,7 +2859,7 @@ linear-gradient(to bottom, transparent, transparent, transparent, transparent, t
 .halfcorrect {
     background-color: lemonchiffon;
 }
-.ungraded {
+.ungraded button {
     color: #dddddd;
 }
 .picktable .forecast {

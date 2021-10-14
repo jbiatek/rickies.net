@@ -10634,7 +10634,7 @@ very-muted-foreground: #888888</pre>
 \end
 &lt;&lt;searchResults&gt;&gt;</pre>
 </div>
-<div created="20210527212654514" modified="20210922144437084" tags="$:/Infrastructure" title="$:/PickTableRowTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210527212654514" modified="20211014203337541" tags="$:/Infrastructure" title="$:/PickTableRowTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;tr class=&quot;pickrow&quot;&gt;
 &lt;td class={{!!host}}&gt;{{!!host}}&lt;/td&gt;
 &lt;td class=&quot;picktype&quot;&gt;
@@ -10653,12 +10653,14 @@ very-muted-foreground: #888888</pre>
 &lt;$reveal type=&quot;gteq&quot; state=&quot;!!score&quot; text=&quot;1&quot;&gt;&lt;td class=&quot;score correct&quot;&gt;&lt;strong&gt;{{!!score}}&lt;/strong&gt;&lt;/td&gt;&lt;/$reveal&gt;
 &lt;/$list&gt;
 
-&lt;$list filter=&quot;[is[current]score[]]&quot;&gt;&lt;td class=&quot;score ungraded&quot;&gt;TBD&lt;/td&gt;&lt;/$list&gt;
+&lt;$list filter=&quot;[is[current]score[]addprefix[$:/temp/scorecard/]]&quot;&gt;
+&lt;td class={{{ [&lt;currentTiddler&gt;get[text]else[ungraded]addprefix[score ]] }}}&gt;&lt;$button class=&quot;tc-btn-invisible&quot; set=&lt;&lt;currentTiddler&gt;&gt; setTo={{{ [&lt;currentTiddler&gt;get[text]cycle[correct incorrect halfcorrect ungraded]] }}} &gt;TBD&lt;/$button&gt;&lt;/td&gt;
+&lt;/$list&gt;
 
 &lt;/tr&gt;
 &lt;$list filter=&quot;[is[current]!text[]]&quot;&gt;&lt;tr&gt;&lt;td class=&quot;notes-spacer&quot;&gt;&lt;/td&gt;&lt;td colspan=&quot;2&quot; class=&quot;notes&quot;&gt;{{!!text}}&lt;/td&gt;&lt;/tr&gt;&lt;/$list&gt;</pre>
 </div>
-<div created="20210528064944192" modified="20210911145053296" tags="$:/tags/Stylesheet $:/Infrastructure" title="$:/PickTableStyling" type="text/plain" revision="0" bag="default">
+<div created="20210528064944192" modified="20211014201923797" tags="$:/tags/Stylesheet $:/Infrastructure" title="$:/PickTableStyling" type="text/plain" revision="0" bag="default">
 <pre>td ul {
     margin: 5px;
     padding-left: 0px;
@@ -10721,7 +10723,7 @@ linear-gradient(to bottom, transparent, transparent, transparent, transparent, t
 .halfcorrect {
     background-color: lemonchiffon;
 }
-.ungraded {
+.ungraded button {
     color: #dddddd;
 }
 .picktable .forecast {
@@ -13316,7 +13318,7 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 &lt;/$list&gt;
 &lt;/$set&gt;</pre>
 </div>
-<div created="20211013204952910" icon="$:/core/images/cancel-button" modified="20211013232014213" tags="[[The Bill of Rickies]]" title="Ineligible Picks" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20211013204952910" modified="20211014203231473" tags="[[The Bill of Rickies]]" title="Ineligible Picks" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>The following picks are currently not available for reuse, as per [[The Bill of Rickies]] specification of 365 days (established in [[episode 367|Connected #367: The Rickies (October 2021)]]).
 
 Filter: &lt;$edit-text tiddler=&quot;$:/temp/IneligiblePickSearch&quot; field=&quot;text&quot; tag=&quot;input&quot; default=&quot;&quot; placeholder=&quot;Search this list...&quot;/&gt; &lt;$button set=&quot;$:/temp/IneligiblePickSearch!!text&quot; setTo=&quot;&quot;&gt;Clear&lt;/$button&gt;
@@ -13461,10 +13463,10 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210420011316269" host="Stephen" modified="20210906190541446" pick="2.4" pick-conditions="7" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="Line will be XS, 9, 8+, 8, 7+, 7, SE" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210526194847527" modified="20211012164517483" tags="Contents" title="Links &amp; Shout Outs" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210526194847527" modified="20211014203050259" tags="Contents" title="Links &amp; Shout Outs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>* The &lt;a href=&quot;https://www.relay.fm/connected&quot; target=&quot;_blank&quot;&gt;Connected&lt;/a&gt; podcast, obviously.
 * Majd Koshakji's Connected &lt;a href=&quot;https://www.notion.so/Connected-262725156a0041bd9b0248c172862cb0&quot; target=&quot;_blank&quot;&gt;Notion database&lt;/a&gt;, which predates Rickipedia and was an inspiration for putting all this together.
-* &lt;a href=&quot;https://rickies.co&quot; target=&quot;_blank&quot;&gt;Rickies.co&lt;/a&gt;, another database of The Rickies by Lex Postma with endless little touches and delightful flourishes. When you're done appreciating it, &lt;a href=&quot;https://github.com/lexpostma/Rickies/blob/main/Details.md&quot; target=&quot;_blank&quot;&gt;check this list&lt;/a&gt; and see what you missed.</pre>
+* &lt;a href=&quot;https://rickies.co&quot; target=&quot;_blank&quot;&gt;Rickies.co&lt;/a&gt;, another database of The Rickies by Lex Postma with endless little touches and delightful flourishes. When you're done appreciating it, &lt;a href=&quot;https://github.com/lexpostma/Rickies/blob/main/Details.md&quot; target=&quot;_blank&quot;&gt;check this list&lt;/a&gt; and see what you missed. Full credit to Lex for inspiring me to make Rickipedia look a little nicer than its old, bulleted-list-heavy style, and also for coming up with the idea to turn unfinished games into scorecards. I ~~ripped off~~ adopted a very basic version of that here, but his is the original and has more features.</pre>
 </div>
 <div color="#77bb41" created="20210530160636760" modified="20210911145053642" tags="Topics" title="Mac" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||$:/TopicDetailTemplate}}</pre>
