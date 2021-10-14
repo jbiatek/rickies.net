@@ -10237,9 +10237,8 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 <div created="20210428223355287" creator="jbiatek" modified="20210911145053271" modifier="jbiatek" tags="$:/tags/Stylesheet $:/Infrastructure" title="$:/HideAuthorAndDate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>.tc-subtitle {display:none;}</pre>
 </div>
-<div created="20210622161731919" modified="20211013142520319" tags="$:/Infrastructure $:/tags/Stylesheet" title="$:/HideEditControlsOnLiveSite" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>&lt;$list filter=&quot;[[$:/info/url/host]get[text]match[rickies.net]]&quot;&gt;
-.tc-drop-down button[aria-label=&quot;info&quot;],
+<div created="20210622161731919" modified="20211014142155113" tags="$:/Infrastructure $:/tags/Stylesheet" title="$:/HideEditControlsOnLiveSite" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>.tc-drop-down button[aria-label=&quot;info&quot;],
 .tc-drop-down button[aria-label=&quot;new here&quot;],
 .tc-drop-down button[aria-label=&quot;new journal here&quot;],
 .tc-drop-down button[aria-label=&quot;edit&quot;],
@@ -10258,9 +10257,14 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 .tc-sidebar-search,
 .tc-sidebar-tabs
 {
+&lt;$list filter=&quot;[[$:/info/url/host]get[text]match[rickies.net]]&quot;&gt;
     display: none;
+&lt;/$list&gt;
+&lt;$list filter=&quot;[[$:/info/url/host]get[text]!match[rickies.net]]&quot;&gt;
+    background: rgba(255,185,0,0.2);
+&lt;/$list&gt;
 }
-&lt;/$list&gt;</pre>
+</pre>
 </div>
 <div created="20210911144629153" modified="20210911144629153" status="complete" title="$:/Import" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>The following tiddlers were imported:
@@ -10288,8 +10292,11 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 &lt;/$list&gt;
 \end</pre>
 </div>
-<div created="20210601060941113" modified="20211013210749813" tags="$:/Infrastructure $:/tags/Macro" title="$:/MultiEventPickTableMacro" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210601060941113" modified="20211014143822462" tags="$:/Infrastructure $:/tags/Macro" title="$:/MultiEventPickTableMacro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>\define multi-event-nohost(mySubfilter:&quot;[tag[Ricky]]&quot;)
+&lt;$list filter=&quot;[subfilter&lt;__mySubfilter__&gt;tag[Pick]else[WasAnEmptyList]match[WasAnEmptyList]]&quot;&gt;
+No matches found
+&lt;/$list&gt;
 &lt;table class=&quot;picktable nonotes nohost&quot;&gt;
 &lt;$list filter=&quot;[tag[Keynote Games]] [tag[Annual Games]] [tag[Other Games]] +[sort[picked]]&quot; variable=&quot;currentEvent&quot;&gt;
 &lt;$list filter=&quot;[subfilter&lt;__mySubfilter__&gt;tag&lt;currentEvent&gt;limit[1]]&quot; variable=&quot;dontcare&quot;&gt;
@@ -10314,6 +10321,9 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 
 
 \define multi-event(mySubfilter:&quot;[tag[Ricky]]&quot;)
+&lt;$list filter=&quot;[subfilter&lt;__mySubfilter__&gt;tag[Pick]else[WasAnEmptyList]match[WasAnEmptyList]]&quot;&gt;
+No matches found
+&lt;/$list&gt;
 &lt;table class=&quot;picktable nonotes&quot;&gt;
 &lt;$list filter=&quot;[tag[Game]sort[picked]]&quot; variable=&quot;currentEvent&quot;&gt;
 &lt;$list filter=&quot;[tag&lt;currentEvent&gt;subfilter&lt;__mySubfilter__&gt;limit[1]]&quot; variable=&quot;dontcare&quot;&gt;
@@ -11907,6 +11917,20 @@ Contents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
 </div>
 <div list="Welcome About" title="$:/StoryList" revision="1" bag="default">
 <pre></pre>
+</div>
+<div caption="Super Secret" created="20210526181659214" label="Rickipedia" modified="20211014141613924" tags="$:/Infrastructure $:/tags/ControlPanel" title="$:/SuperSecretEditingInterface" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;$list filter=&quot;$:/config/DragAndDrop/Enable&quot;&gt;
+&lt;$checkbox checked=&quot;yes&quot; unchecked=&quot;no&quot; field=&quot;text&quot;&gt; &lt;$link/&gt;&lt;br&gt;&lt;/$checkbox&gt;
+&lt;/$list&gt;
+
+&lt;$list filter=&quot;$:/config/SideBarSegments/Visibility/$:/SimpleSidebar $:/config/SideBarSegments/Visibility/$:/core/ui/SideBarSegments/tabs $:/config/SideBarSegments/Visibility/$:/core/ui/SideBarSegments/search&quot;&gt;
+&lt;$checkbox checked=&quot;show&quot; unchecked=&quot;hide&quot; field=&quot;text&quot;&gt; &lt;$link/&gt;&lt;br&gt;&lt;/$checkbox&gt;
+&lt;/$list&gt;
+
+&lt;$list filter=&quot;$:/HideEditControlsOnLiveSite&quot;&gt;
+&lt;$checkbox tag=&quot;$:/tags/Stylesheet&quot;&gt; &lt;$link/&gt;&lt;br&gt;&lt;/$checkbox&gt;
+&lt;/$list&gt;
+</pre>
 </div>
 <div created="20210529154248621" modified="20210911145053351" tags="$:/Infrastructure $:/tags/Stylesheet" title="$:/TagPillTweakForFieldPills" type="text/css" revision="0" bag="default">
 <pre>.tc-tags-wrapper {
@@ -13936,20 +13960,6 @@ Note that the additional conditions may be in the notes of the pick.
 
 &lt;&lt;multi-event &quot;[tag[Pick]pick-conditions&lt;currentComplexity&gt;]&quot;&gt;&gt;
 
-&lt;/$list&gt;
-</pre>
-</div>
-<div created="20210526181659214" modified="20211013141150633" tags="$:/Infrastructure" title="Super Secret Editing Interface" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>&lt;$list filter=&quot;$:/config/DragAndDrop/Enable&quot;&gt;
-&lt;$checkbox checked=&quot;yes&quot; unchecked=&quot;no&quot; field=&quot;text&quot;&gt; &lt;$link/&gt;&lt;br&gt;&lt;/$checkbox&gt;
-&lt;/$list&gt;
-
-&lt;$list filter=&quot;$:/config/SideBarSegments/Visibility/$:/SimpleSidebar $:/config/SideBarSegments/Visibility/$:/core/ui/SideBarSegments/tabs $:/config/SideBarSegments/Visibility/$:/core/ui/SideBarSegments/search&quot;&gt;
-&lt;$checkbox checked=&quot;show&quot; unchecked=&quot;hide&quot; field=&quot;text&quot;&gt; &lt;$link/&gt;&lt;br&gt;&lt;/$checkbox&gt;
-&lt;/$list&gt;
-
-&lt;$list filter=&quot;$:/HideEditControlsOnLiveSite&quot;&gt;
-&lt;$checkbox tag=&quot;$:/tags/Stylesheet&quot;&gt; &lt;$link/&gt;&lt;br&gt;&lt;/$checkbox&gt;
 &lt;/$list&gt;
 </pre>
 </div>
