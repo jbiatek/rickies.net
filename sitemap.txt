@@ -43,7 +43,7 @@ https://rickies.net/static/A%2520new%2520AirPods%2520product%2520is%2520announce
 https://rickies.net/static/A%2520new%2520Apple%2520Display.html
 https://rickies.net/static/A%2520new%2520Apple%2520Pencil%2520with%2520a%2520button%2520of%2520some%2520kind.html
 https://rickies.net/static/A%2520new%2520Apple%2520Watch%2520has%2520at%2520least%2520one%2520new%2520built-in%2520app%2520because%2520of%2520an%2520exclusive%2520feature%2520not%2520found%2520on%2520existing%2520watches.html
-https://rickies.net/static/A%2520new%2520MacBook%2520comes%2520with%2520at%2520least%2520one%2520new%2520non-USB-C%2520port%2520on%2520the%2520laptop%2520itself.html
+https://rickies.net/static/A%2520new%2520MacBook%2520comes%2520with%2520at%2520least%2520one%2520new%2520non-USB-C%252FThunderbolt%2520port%2520on%2520the%2520laptop%2520itself.html
 https://rickies.net/static/A%2520new%2520Smart%2520Keyboard.html
 https://rickies.net/static/A%2520new%2520iMac%2520has%2520adjustability%2520that%2520is%2520reminiscent%2520of%2520the%2520Pro%2520Display%2520XDR.html
 https://rickies.net/static/A%2520new%2520iMac%2520is%2520announced%2520with%2520Intel%2520CPUs.html
@@ -96,7 +96,7 @@ https://rickies.net/static/Apple%2520announces%2520Apple%2520TV%2520and%2520game
 https://rickies.net/static/Apple%2520announces%2520Windows%2520for%2520ARM%2520coming%2520via%2520virtualization%2520in%2520the%2520future.html
 https://rickies.net/static/Apple%2520announces%2520a%2520Mac%2520mini%2520that%2520is%2520more%2520performant%2520than%2520the%2520original%2520M1%2520model.html
 https://rickies.net/static/Apple%2520announces%2520a%2520new%2520Mac%2520Pro%2520powered%2520by%2520Apple%2520Silicon.html
-https://rickies.net/static/Apple%2520announces%2520a%2520new%2520display%2520that%2520is%2520not%2520the%2520Pro%2520XDR%252C%2520launching%2520by%2520the%2520end%2520of%25202021.html
+https://rickies.net/static/Apple%2520announces%2520a%2520new%2520display%2520that%2520is%2520not%2520the%2520Pro%2520XDR%252C%2520launching%2520by%2520the%2520end%2520of%25202021%2520somewhere.html
 https://rickies.net/static/Apple%2520announces%2520a%2520video%2520game%2520subscription%2520service.html
 https://rickies.net/static/Apple%2520announces%2520new%2520environmental%2520efforts%252C%2520such%2520as%2520a%2520new%2520recycling%2520robot.html
 https://rickies.net/static/Apple%2520announces%2520original%2520podcast%2520content.html
@@ -223,6 +223,7 @@ https://rickies.net/static/Connected%2520%2523349%253A%2520If%2520Robots%2520Hap
 https://rickies.net/static/Connected%2520%2523362%253A%2520The%2520Rickies%2520(September%25202021).html
 https://rickies.net/static/Connected%2520%2523363%253A%2520FaceIDSensorThatSupportsPartiallyOccludedFaces.html
 https://rickies.net/static/Connected%2520%2523367%253A%2520The%2520Rickies%2520(October%25202021).html
+https://rickies.net/static/Connected%2520%2523368.html
 https://rickies.net/static/Contents.html
 https://rickies.net/static/Craig%2520demos%2520Big%2520Sur%2520features.html
 https://rickies.net/static/Cursor%2520support%2520for%2520iOS.html
