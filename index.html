@@ -11869,7 +11869,7 @@ See also: [[a tool for seeing picks that are currently ineligible for reuse|Inel
     width: 75%;
 }</pre>
 </div>
-<div created="20210518204925103" list-before="$:/core/ui/SideBarSegments/site-title" modified="20211119223132515" tags="$:/tags/SideBarSegment $:/Infrastructure" title="$:/SidebarLogo" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210518204925103" list-before="$:/core/ui/SideBarSegments/site-title" modified="20211123171208697" tags="$:/tags/SideBarSegment $:/Infrastructure" title="$:/SidebarLogo" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>\define clickactions()
 &lt;$action-setfield $tiddler=&quot;$:/temp/SidebarLogoState&quot; text={{{ [[$:/temp/SidebarLogoState]get[text]cycle[tricky logo]] }}} /&gt;
 \end
@@ -11877,11 +11877,11 @@ See also: [[a tool for seeing picks that are currently ineligible for reuse|Inel
 &lt;$eventcatcher selector=&quot;.logoclickzone&quot; events=&quot;click&quot; actions-click=&lt;&lt;clickactions&gt;&gt; tag=&quot;div&quot;&gt;
 &lt;div class=&quot;logoclickzone&quot;&gt;
 &lt;$reveal type=&quot;nomatch&quot; text=&quot;tricky&quot; stateTitle=&quot;$:/temp/SidebarLogoState&quot;&gt;
-&lt;img src=&quot;https://rickies.net/images/logo.png&quot; alt=&quot;The Rickipedia Logo&quot; style=&quot;  width: 90%; height: 90%;&quot; /&gt;
+&lt;img class=&quot;sidebar-logo&quot; src=&quot;https://rickies.net/images/logo.png&quot; alt=&quot;The Rickipedia Logo&quot; style=&quot;  width: 90%; height: 90%;&quot; /&gt;
 &lt;/$reveal&gt;
 
 &lt;$reveal type=&quot;match&quot; text=&quot;tricky&quot; stateTitle=&quot;$:/temp/SidebarLogoState&quot;&gt;
-{{The Tricky}}
+{{$:/TheTricky}}
 &lt;/$reveal&gt;
 &lt;/div&gt;
 &lt;/$eventcatcher&gt;
@@ -12071,6 +12071,21 @@ Contents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
 </div>
 <div created="20210601065021380" modified="20210627054230757" title="$:/themes/tiddlywiki/vanilla/options/sidebarlayout" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>fluid-fixed</pre>
+</div>
+<div created="20211123165952209" modified="20211123171229405" tags="" title="$:/TheTricky" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;$set name=&quot;annualWinner&quot; filter=&quot;[!episode[]!sort[episode]tags[]tag[Annual Games]!winner[TBD]limit[1]get[winner]]&quot;&gt;
+&lt;$set name=&quot;keynoteWinner&quot; filter=&quot;[!episode[]!sort[episode]tags[]tag[Keynote Games]!winner[TBD]limit[1]get[winner]]&quot;&gt;
+&lt;img class=&quot;sidebar-logo&quot; src={{{ [&lt;annualWinner&gt;addprefix[https://rickies.net/images/tricky/]addsuffix&lt;keynoteWinner&gt;addsuffix[.png]] }}} alt=&quot;An image showing the current correct state of The Tricky, official trophy of The Rickies.&quot;/&gt;
+&lt;/$set&gt;
+&lt;/$set&gt;</pre>
+</div>
+<div created="20211123170747463" modified="20211123171154665" tags="$:/Infrastructure $:/tags/Stylesheet" title="$:/TheTrickyLogoStyle" type="text/css" revision="0" bag="default">
+<pre>[data-tiddler-title=&quot;The Tricky&quot;] img {
+box-shadow: 0px 0px 10px black; margin-top: 10px;
+}
+.sidebar-logo {
+width: 90%; height: 90%;
+}</pre>
 </div>
 <div created="20210627153216329" modified="20210911145053358" tags="$:/Infrastructure $:/tags/Stylesheet" title="$:/ThoughtsOnFlexiesStyle" type="text/css" revision="0" bag="default">
 <pre>[data-tiddler-title=&quot;Thoughts on Flexies&quot;] {
@@ -14224,14 +14239,14 @@ A tie in either the regular picks or the Flexies is to be broken by coin toss. A
 <div created="20210427205616219" host="Stephen" modified="20210922143856921" pick="2.4" pick-conditions="1" score="0" tags="Flexie [[2020 September Rickies]] [[Apple Watch]] Stagecraft Pick" title="The removal of Force Touch on watchOS is framed as the inclusion of Haptic Touch" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20211119202824480" modified="20211122173121146" tags="[[The Bill of Rickies]]" title="The Tricky" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20211119202824480" modified="20211123170538877" tags="[[The Bill of Rickies]]" title="The Tricky" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;$list variable=&quot;lastAnnualGame&quot; filter=&quot;[!episode[]!sort[episode]tags[]tag[Annual Games]!winner[TBD]limit[1]]&quot;&gt;
 &lt;$list variable=&quot;lastKeynoteGame&quot; filter=&quot;[!episode[]!sort[episode]tags[]tag[Keynote Games]!winner[TBD]limit[1]]&quot;&gt;
 &lt;$set name=&quot;annualWinner&quot; filter=&quot;[&lt;lastAnnualGame&gt;get[winner]]&quot;&gt;
 &lt;$set name=&quot;keynoteWinner&quot; filter=&quot;[&lt;lastKeynoteGame&gt;get[winner]]&quot;&gt;
 Annual Chairman: &lt;$link to=&lt;&lt;lastAnnualGame&gt;&gt;&gt;&lt;$text text=&lt;&lt;annualWinner&gt;&gt;/&gt;&lt;/$link&gt;&lt;br&gt;
 Keynote Chairman: &lt;$link to=&lt;&lt;lastKeynoteGame&gt;&gt;&gt;&lt;$text text=&lt;&lt;keynoteWinner&gt;&gt;/&gt;&lt;/$link&gt;
-&lt;img src={{{ [&lt;annualWinner&gt;addprefix[https://rickies.net/images/tricky/]addsuffix&lt;keynoteWinner&gt;addsuffix[.png]] }}} alt=&quot;An image showing the current correct state of The Tricky, official trophy of The Rickies.&quot; style=&quot;width: 90%; height: 90%; box-shadow: 0px 0px 10px black; margin-top: 10px;&quot;/&gt;&lt;br&gt;
+{{$:/TheTricky}}
 &lt;/$set&gt;
 &lt;/$set&gt;
 &lt;/$list&gt;
