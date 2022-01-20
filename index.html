@@ -10770,12 +10770,14 @@ display: none;
     border-top: 1px solid #dddddd;
 }</pre>
 </div>
-<div created="20220109044456758" list-after="$:/core/ui/ViewTemplate/body" modified="20220116163007482" tags="$:/tags/ViewTemplate $:/Infrastructure" title="$:/PickTimestampView" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20220109044456758" list-after="$:/core/ui/ViewTemplate/body" modified="20220120221701389" tags="$:/tags/ViewTemplate $:/Infrastructure" title="$:/PickTimestampView" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;$list filter=&quot;[is[current]!overcast-picked[]]&quot;&gt;
 &lt;p&gt;&lt;a href={{{ [is[current]get[overcast-picked]] }}} target=&quot;_blank&quot;&gt;🔊 Pick selection&lt;/a&gt;&lt;/p&gt;
 &lt;/$list&gt;
-&lt;$list filter=&quot;[is[current]!overcast-graded[]]&quot;&gt;
-&lt;p&gt;&lt;a href={{{ [is[current]get[overcast-graded]] }}} target=&quot;_blank&quot;&gt;🔊 Grading&lt;/a&gt;&lt;/p&gt;
+&lt;$list filter=&quot;[is[current]!overcast-graded[]!overcast-graded[N/A]]&quot;&gt;
+&lt;p&gt;&lt;a href={{{ [is[current]get[overcast-graded]] }}} target=&quot;_blank&quot;&gt;🔊 Grading&lt;/a&gt;&lt;/p&gt;&lt;/$list&gt;
+&lt;$list filter=&quot;[is[current]overcast-graded[N/A]]&quot;&gt;
+&lt;p&gt;🔇 Never graded on-air&lt;/p&gt;
 &lt;/$list&gt;
 &lt;$list filter=&quot;[is[current]!overcast-link[]]&quot;&gt;
 &lt;p&gt;&lt;a href={{{ [is[current]get[overcast-link]] }}} target=&quot;_blank&quot;&gt;🔊 Listen&lt;/a&gt;&lt;/p&gt;
@@ -12797,7 +12799,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210420212838028" host="Myke" modified="20220117071952907" overcast-graded="https://overcast.fm/+FXx6J60tU/1:26:18" overcast-picked="https://overcast.fm/+FXx5oC3S0/1:25:59" pick="2.4" pick-conditions="1" score="1" tags="[[2021 April Rickies]] Flexie Accessories Pick" title="AirTags unveiled" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210430033951741" creator="jbiatek" host="Myke" modified="20210906193320268" modifier="jbiatek" pick="2.2" pick-conditions="2" score="1" tags="[[2019 Media Event Predictions]] NonGraded Stagecraft Pick" title="All the celebrities will come out at the end and take a picture together" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430033951741" creator="jbiatek" host="Myke" modified="20220120220907563" modifier="jbiatek" overcast-graded="N/A" overcast-picked="https://overcast.fm/+FXx4SLgn4/1:32:47" pick="2.2" pick-conditions="2" score="1" tags="[[2019 Media Event Predictions]] NonGraded Stagecraft Pick" title="All the celebrities will come out at the end and take a picture together" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210421060647810" host="Myke" modified="20220118162600443" overcast-graded="https://overcast.fm/+FXx61X3jI/32:26" overcast-picked="https://overcast.fm/+FXx4inpiI/56:39" pick="1.3" pick-conditions="2" score="1" tags="[[2020 November Rickies]] Regular Mac Pick" title="An Apple Silicon Mac is available to order in November 2020" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12865,7 +12867,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20220107055011844" creator="jbiatek" host="Stephen" modified="20220109062709415" modifier="jbiatek" overcast-picked="https://overcast.fm/+FXx6bXcOY/1:37:25" pick="2.02" pick-conditions="1" score="" tags="Pick [[2022 Annual Rickies]] Flexie Services" title="Apple announces a new paid service" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210430025708908" creator="jbiatek" host="Myke" modified="20210906181702669" modifier="jbiatek" pick="2" pick-conditions="1" score="2" tags="[[2019 Media Event Predictions]] Ricky Services Pick" title="Apple announces a video game subscription service" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430025708908" creator="jbiatek" host="Myke" modified="20220120220827295" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx75P5Bg/35:59" overcast-picked="https://overcast.fm/+FXx4SLgn4/1:21:31" pick="2" pick-conditions="1" score="2" tags="[[2019 Media Event Predictions]] Ricky Services Pick" title="Apple announces a video game subscription service" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210429063152168" creator="jbiatek" host="Federico" modified="20220120040857530" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx61sqT4/53:36" overcast-picked="https://overcast.fm/+FXx5bRzKc/1:19:33" pick="3" pick-conditions="1" score="-1" tags="[[2019 Fall Rickies]] Ricky [[Apple TV]] Pick [[Possible Vindication]]" title="Apple announces Apple TV and game controller bundle" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12904,7 +12906,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210429194247877" creator="jbiatek" host="Myke" modified="20220120044547896" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx4xqI14/37:26" overcast-picked="https://overcast.fm/+FXx6h7YDQ/1:02:32" pick="1.1" pick-conditions="2" score="1" tags="[[2019 WWDC Predictions]] NonGraded iOS Pick" title="Apple does some new stuff with Animoji to make it more like Bitmoji" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210430033705641" creator="jbiatek" host="Federico" modified="20210906181702769" modifier="jbiatek" pick="1.3" pick-conditions="1" score="0" tags="[[2019 Media Event Predictions]] NonGraded Stagecraft Pick" title="Apple gives a quick tour of improvements to next round of software updates" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430033705641" creator="jbiatek" host="Federico" modified="20220120220857894" modifier="jbiatek" overcast-graded="N/A" overcast-picked="https://overcast.fm/+FXx4SLgn4/1:30:13" pick="1.3" pick-conditions="1" score="0" tags="[[2019 Media Event Predictions]] NonGraded Stagecraft Pick" title="Apple gives a quick tour of improvements to next round of software updates" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210429064302771" creator="jbiatek" host="Federico" modified="20220120041316693" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx61sqT4/1:01:33" overcast-picked="https://overcast.fm/+FXx5bRzKc/1:28:50" pick="3.1" pick-conditions="2" score="0" tags="[[2019 Fall Rickies]] NonGraded Stagecraft iOS Pick" title="Apple gives a release date for iOS 13.1 and mentions the update on stage" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12949,10 +12951,10 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210419174354872" host="Federico" modified="20220114212912708" overcast-graded="https://overcast.fm/+FXx75_MJc/07:40" overcast-picked="https://overcast.fm/+FXx7nikbQ/39:07" pick="2.3" pick-conditions="4" score="0" tags="[[2017 Annual Predictions]] Regular Services Pick [[Ahead of Its Time]]" title="Apple Music will be redesigned again" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;Will gain more Spotify-like algorithmic features&quot;&lt;/li&gt;&lt;li&gt;&quot;An Apple version of the Daily Mix and a way to discover back catalog songs from artists you don't know (Discover Weekly?)&quot;&lt;/li&gt;&lt;li&gt;The &lt;a href=&quot;https://www.engadget.com/2019-08-23-apple-music-new-music-daily.html&quot; target=&quot;_blank&quot;&gt;New Music Daily&lt;/a&gt; feature would eventually come in 2019.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210430024210996" creator="jbiatek" host="Federico" modified="20210906181702931" modifier="jbiatek" pick="1.1" pick-conditions="1" score="1" tags="[[2019 Media Event Predictions]] Regular Services Pick" title="Apple News service for magazines" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430024210996" creator="jbiatek" host="Federico" modified="20220120220200486" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx75P5Bg/21:46" overcast-picked="https://overcast.fm/+FXx4SLgn4/1:02:02" pick="1.1" pick-conditions="1" score="1" tags="[[2019 Media Event Predictions]] Regular Services Pick" title="Apple News service for magazines" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210430033449946" creator="jbiatek" host="Federico" modified="20210906181702943" modifier="jbiatek" pick="1.1" pick-conditions="1" score="0" tags="[[2019 Media Event Predictions]] NonGraded Services Pick [[Ahead of Its Time]]" title="Apple News will expand internationally" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430033449946" creator="jbiatek" host="Federico" modified="20220120215701304" modifier="jbiatek" overcast-graded="N/A" overcast-picked="https://overcast.fm/+FXx4SLgn4/1:29:32" pick="1.1" pick-conditions="1" score="0" tags="[[2019 Media Event Predictions]] NonGraded Services Pick [[Ahead of Its Time]]" title="Apple News will expand internationally" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;This came true a few months later as &lt;a href=&quot;https://support.apple.com/en-us/HT209084#122&quot; target=&quot;_blank&quot;&gt;Apple News expanded to Canada&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20220107055622781" creator="jbiatek" host="Federico" modified="20220109063243697" modifier="jbiatek" overcast-picked="https://overcast.fm/+FXx6bXcOY/1:45:53" pick="3.03" pick-conditions="1" score="" tags="Pick [[2022 Annual Rickies]] Flexie [[Apple Apps]]" title="Apple Notes will borrow some features from the modern generation of note-taking apps" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13015,10 +13017,10 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div color="#77bb41" created="20210530173105055" modified="20210911145053541" tags="Topics" title="Apple TV" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||$:/TopicDetailTemplate}}</pre>
 </div>
-<div created="20210430025805436" creator="jbiatek" host="Stephen" modified="20210906181703147" modifier="jbiatek" pick="3" pick-conditions="1" score="2" tags="[[2019 Media Event Predictions]] Ricky [[Apple TV]] Pick [[Apple Apps]]" title="Apple TV app will receive a refreshed design" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430025805436" creator="jbiatek" host="Stephen" modified="20220120220843406" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx75P5Bg/36:40" overcast-picked="https://overcast.fm/+FXx4SLgn4/1:24:48" pick="3" pick-conditions="1" score="2" tags="[[2019 Media Event Predictions]] Ricky [[Apple TV]] Pick [[Apple Apps]]" title="Apple TV app will receive a refreshed design" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210430033652595" creator="jbiatek" host="Federico" modified="20210906181703153" modifier="jbiatek" pick="1.2" pick-conditions="1" score="0" tags="[[2019 Media Event Predictions]] NonGraded [[Apple TV]] Pick [[Possible Vindication]]" title="Apple TV box gets a price cut" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430033652595" creator="jbiatek" host="Federico" modified="20220120220852937" modifier="jbiatek" overcast-graded="N/A" overcast-picked="https://overcast.fm/+FXx4SLgn4/1:29:58" pick="1.2" pick-conditions="1" score="0" tags="[[2019 Media Event Predictions]] NonGraded [[Apple TV]] Pick [[Possible Vindication]]" title="Apple TV box gets a price cut" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div color="#77bb41" created="20210530180041093" modified="20210911145053548" tags="Topics" title="Apple TV+" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13066,13 +13068,13 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210417062410302" host="Myke" modified="20220114184919158" overcast-graded="https://overcast.fm/+FXx495ZrA/05:03" overcast-picked="https://overcast.fm/+FXx5giTnQ/35:08" pick="2.1" pick-conditions="1" score="0" tags="[[2018 Annual Predictions]] Regular [[Apple Watch]] Pick [[Ahead of Its Time]]" title="Apple Watch with an always-on display" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;The Series 5 watch added this feature in 2019.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210430024826608" creator="jbiatek" host="Federico" modified="20210906181703230" modifier="jbiatek" pick="2.1" pick-conditions="1" score="0" tags="[[2019 Media Event Predictions]] Regular Services Pick [[Ahead of Its Time]]" title="Apple will also announce a service bundle to get multiple services for one integrated fee" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430024826608" creator="jbiatek" host="Federico" modified="20220120220429666" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx75P5Bg/25:36" overcast-picked="https://overcast.fm/+FXx4SLgn4/1:11:45" pick="2.1" pick-conditions="1" score="0" tags="[[2019 Media Event Predictions]] Regular Services Pick [[Ahead of Its Time]]" title="Apple will also announce a service bundle to get multiple services for one integrated fee" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Ironically, this was deemed insufficiently risky to be a Risky Pick.&lt;/li&gt;&lt;li&gt;Federico was a year early on this pick, as Apple One was introduced in October 2020.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210416194007474" host="Myke" modified="20220114010712899" overcast-graded="https://overcast.fm/+FXx4vzIxY/52:03" overcast-picked="https://overcast.fm/+FXx7hS2kY/1:21:16" pick="1.2" pick-conditions="1" score="1" tags="[[2020 Annual Rickies]] NonGraded Services Pick" title="Apple will announce a new services bundle" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210430024513201" creator="jbiatek" host="Myke" modified="20210906191556995" modifier="jbiatek" pick="1.2" pick-conditions="3" score="1" tags="[[2019 Media Event Predictions]] Regular Services [[Apple TV+]] Pick" title="Apple will announce a video streaming service" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430024513201" creator="jbiatek" host="Myke" modified="20220120220246605" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx75P5Bg/23:34" overcast-picked="https://overcast.fm/+FXx4SLgn4/1:05:16" pick="1.2" pick-conditions="3" score="1" tags="[[2019 Media Event Predictions]] Regular Services [[Apple TV+]] Pick" title="Apple will announce a video streaming service" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;...which includes content from other providers, this will either be free content or paying for a subscription from within the app&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210907195847262" host="Federico" modified="20220115071321648" overcast-graded="https://overcast.fm/+FXx6z4vdc/1:13:09" overcast-picked="https://overcast.fm/+FXx5Crqo4/1:21:12" pick="3.05" pick-conditions="2" score="1" tags="[[2021 September Rickies]] Pick Flexie iOS" title="Apple will announce at least 1 new feature that will be coming later in the iOS 15 cycle" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13096,7 +13098,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210429184712706" creator="jbiatek" host="Myke" modified="20220120043830213" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx4xqI14/21:29" overcast-picked="https://overcast.fm/+FXx6h7YDQ/31:55" pick="2.1" pick-conditions="1" score="1" tags="[[2019 WWDC Predictions]] Regular Stagecraft Services Pick" title="Apple will mention Apple Arcade during the keynote" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210430025619440" creator="jbiatek" host="Federico" modified="20210906191427782" modifier="jbiatek" pick="1" pick-conditions="2" score="-1" tags="[[2019 Media Event Predictions]] Ricky Stagecraft Accessories Pick" title="Apple will mention at least one new feature coming to the HomePod" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430025619440" creator="jbiatek" host="Federico" modified="20220120220736203" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx75P5Bg/34:42" overcast-picked="https://overcast.fm/+FXx4SLgn4/1:18:56" pick="1" pick-conditions="2" score="-1" tags="[[2019 Media Event Predictions]] Ricky Stagecraft Accessories Pick" title="Apple will mention at least one new feature coming to the HomePod" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;HomePod&quot; needs to be mentioned by name.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210416151233864" host="Federico" modified="20220114005232695" overcast-graded="https://overcast.fm/+FXx4vzIxY/28:44" overcast-picked="https://overcast.fm/+FXx7hS2kY/37:12" pick="1.1" pick-conditions="1" score="0" tags="[[2020 Annual Rickies]] Regular [[Apple management]] Pick [[Ahead of Its Time]]" title="Apple will name a successor to Steve Dowling, former head of public relations at Apple" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13117,7 +13119,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210416152520248" host="Federico" modified="20220114010033319" overcast-graded="https://overcast.fm/+FXx4vzIxY/39:53" overcast-picked="https://overcast.fm/+FXx7hS2kY/1:04:05" pick="1" pick-conditions="1" score="-1" tags="[[2020 Annual Rickies]] Ricky iPad Pick [[Apple Apps]] [[Possible Vindication]]" title="Apple will release at least 1 new pro app for iPad that we haven't previously seen on iPad" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;(The app can be universal.)&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210430024914022" creator="jbiatek" host="Myke" modified="20210906191301706" modifier="jbiatek" pick="2.2" pick-conditions="3" score="1" tags="[[2019 Media Event Predictions]] Regular Services [[Apple TV+]] Pick" title="Apple's original content will premiere after the service itself launches" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430024914022" creator="jbiatek" host="Myke" modified="20220120220524501" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx75P5Bg/28:40" overcast-picked="https://overcast.fm/+FXx4SLgn4/1:14:07" pick="2.2" pick-conditions="3" score="1" tags="[[2019 Media Event Predictions]] Regular Services [[Apple TV+]] Pick" title="Apple's original content will premiere after the service itself launches" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;non original content will come first, excluding existing programs&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div color="#606060" created="20210601153310430" modified="20211012164516961" tags="Contents" title="Articles and Commentaries" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13636,7 +13638,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210429194335808" creator="jbiatek" host="Stephen" modified="20220120044612578" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx4xqI14/37:49" overcast-picked="https://overcast.fm/+FXx6h7YDQ/1:03:40" pick="1.2" pick-conditions="1" score="0.5" tags="[[2019 WWDC Predictions]] NonGraded Pick [[Apple Apps]]" title="Mail.app will get modern features like snoozing" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Threads can be muted, which isn't what he was talking about, really.&lt;/li&gt;&lt;li&gt;As these are &quot;ungraded picks&quot; being, uh, graded, Stephen is given a half point because why not.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210430034100528" creator="jbiatek" host="Stephen" modified="20210906181703781" modifier="jbiatek" pick="3.1" pick-conditions="1" score="1" tags="[[2019 Media Event Predictions]] NonGraded Services Pick Buzzkill" title="Major publications noticeably absent from News+" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430034100528" creator="jbiatek" host="Stephen" modified="20220120220912817" modifier="jbiatek" overcast-graded="N/A" overcast-picked="https://overcast.fm/+FXx4SLgn4/1:33:40" pick="3.1" pick-conditions="1" score="1" tags="[[2019 Media Event Predictions]] NonGraded Services Pick Buzzkill" title="Major publications noticeably absent from News+" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210428005732637" host="Myke" modified="20220119170851415" overcast-graded="https://overcast.fm/+FXx7KvDUI/37:21" overcast-picked="https://overcast.fm/+FXx7FoU8U/1:02:44" pick="2" pick-conditions="1" score="2" tags="[[2020 Summer Rickies]] Ricky iOS Pick" title="Memoji will get updated to include face coverings" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14390,10 +14392,10 @@ Keynote Chairman: &lt;$link to=&lt;&lt;lastKeynoteGame&gt;&gt;&gt;&lt;$text text
 
 This image of The Tricky can also be found quickly by clicking or tapping on the Rickipedia logo.</pre>
 </div>
-<div created="20210430024736840" creator="jbiatek" host="Stephen" modified="20210906181705473" modifier="jbiatek" pick="1.3" pick-conditions="1" score="1" tags="[[2019 Media Event Predictions]] Regular Services [[Apple TV+]] Pick" title="The video streaming service does not launch until at least May 1" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430024736840" creator="jbiatek" host="Stephen" modified="20220120220332407" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx75P5Bg/24:33" overcast-picked="https://overcast.fm/+FXx4SLgn4/1:07:34" pick="1.3" pick-conditions="1" score="1" tags="[[2019 Media Event Predictions]] Regular Services [[Apple TV+]] Pick" title="The video streaming service does not launch until at least May 1" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210430033740388" creator="jbiatek" host="Myke" modified="20210906183334541" modifier="jbiatek" pick="2.1" pick-conditions="2" score="1" tags="[[2019 Media Event Predictions]] NonGraded Services [[Apple TV+]] Pick" title="The video streaming service will come to Roku and Fire TV products" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430033740388" creator="jbiatek" host="Myke" modified="20220120221018317" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx75P5Bg/37:44" overcast-picked="https://overcast.fm/+FXx4SLgn4/1:31:16" pick="2.1" pick-conditions="2" score="1" tags="[[2019 Media Event Predictions]] NonGraded Services [[Apple TV+]] Pick" title="The video streaming service will come to Roku and Fire TV products" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210531201621831" host="Federico" modified="20220116163640103" overcast-graded="https://overcast.fm/+FXx70G0aw/1:16:00" overcast-picked="https://overcast.fm/+FXx4EWu_4/1:32:43" pick="1.01" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexie iPad Pick [[Apple Apps]] [[Possible Vindication]]" title="The Weather app comes to iPad" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14473,7 +14475,7 @@ Jason Biatek&lt;br&gt;
 June, 2021
 &lt;/p&gt;</pre>
 </div>
-<div created="20210430025237389" creator="jbiatek" host="Stephen" modified="20210906181705579" modifier="jbiatek" pick="2.3" pick-conditions="1" score="1" tags="[[2019 Media Event Predictions]] Regular Stagecraft Pick" title="Tim Cook interacts with a celebrity" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430025237389" creator="jbiatek" host="Stephen" modified="20220120220625901" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx75P5Bg/33:14" overcast-picked="https://overcast.fm/+FXx4SLgn4/1:16:30" pick="2.3" pick-conditions="1" score="1" tags="[[2019 Media Event Predictions]] Regular Stagecraft Pick" title="Tim Cook interacts with a celebrity" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20220107053945380" creator="jbiatek" host="Myke" modified="20220109062049449" modifier="jbiatek" overcast-picked="https://overcast.fm/+FXx6bXcOY/1:33:19" pick="1.01" pick-conditions="1" score="" tags="Pick [[2022 Annual Rickies]] Flexie Stagecraft" title="Tim Cook says &quot;metaverse&quot;" type="text/vnd.tiddlywiki" revision="0" bag="default">
