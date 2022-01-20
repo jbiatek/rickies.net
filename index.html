@@ -10770,9 +10770,12 @@ display: none;
     border-top: 1px solid #dddddd;
 }</pre>
 </div>
-<div created="20220109044456758" list-after="$:/core/ui/ViewTemplate/body" modified="20220120221701389" tags="$:/tags/ViewTemplate $:/Infrastructure" title="$:/PickTimestampView" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>&lt;$list filter=&quot;[is[current]!overcast-picked[]]&quot;&gt;
+<div created="20220109044456758" list-after="$:/core/ui/ViewTemplate/body" modified="20220120225449622" tags="$:/tags/ViewTemplate $:/Infrastructure" title="$:/PickTimestampView" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;$list filter=&quot;[is[current]!overcast-picked[]!overcast-picked[N/A]]&quot;&gt;
 &lt;p&gt;&lt;a href={{{ [is[current]get[overcast-picked]] }}} target=&quot;_blank&quot;&gt;🔊 Pick selection&lt;/a&gt;&lt;/p&gt;
+&lt;/$list&gt;
+&lt;$list filter=&quot;[is[current]overcast-picked[N/A]]&quot;&gt;
+&lt;p&gt;🔇 Not picked on-air&lt;/p&gt;
 &lt;/$list&gt;
 &lt;$list filter=&quot;[is[current]!overcast-graded[]!overcast-graded[N/A]]&quot;&gt;
 &lt;p&gt;&lt;a href={{{ [is[current]get[overcast-graded]] }}} target=&quot;_blank&quot;&gt;🔊 Grading&lt;/a&gt;&lt;/p&gt;&lt;/$list&gt;
@@ -12229,7 +12232,7 @@ As far as I know, there was no tiebreaker for second place, but Stephen went sec
 {{||$:/NonGradedPickTemplate}}
 </pre>
 </div>
-<div created="20210420005450162" creator="jbiatek" modified="20211012164919239" modifier="jbiatek" picked="20180905" tags="[[Other Games]] Game [[iPhone Event]]" title="2018 iPhone Event Predictions" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
+<div created="20210420005450162" creator="jbiatek" modified="20220120222553608" modifier="jbiatek" picked="20180905" tags="[[Other Games]] Game [[iPhone Event]]" title="2018 iPhone Event Predictions" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 This starts out as &quot;no prizes&quot; for these predictions, just saying stuff and seeing what happens. 
@@ -12244,9 +12247,9 @@ But after the event, when some are right and some are wrong, there is suddenly a
 
 * Federico: 60% (not a typo)
 
-* Myke: 40%
+* Myke: 40% (also not a typo)
 
-As this wasn't expected to be strictly graded at first, there is some contention about how to grade the results. Federico advocates for weighing based on importance. Stephen argues for percentages. It is widely agreed that Myke has lost. Myke insists that as the loser, he picks the winner, and picks Stephen. Federico deems this a conspiracy. After some bickering, Myke declares that the scores are as above, and the issue is settled.</pre>
+As this wasn't expected to be strictly graded at first, there is some contention about how to grade the results. Federico advocates for weighing based on importance. Stephen argues for percentages. It is widely agreed that Myke has lost. Myke insists that as the loser, he picks the winner, and picks Stephen. Federico deems this a conspiracy. After some bickering, Myke declares that the scores are as above (the exact math seems to have been some combination of rounding and placating), and the issue is settled.</pre>
 </div>
 <div created="20210416195305323" creator="jbiatek" modified="20211012164852285" modifier="jbiatek" picked="20190109" score-sort="Federico Myke Stephen" tags="[[Annual Games]] Game" title="2019 Annual Predictions" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
@@ -12743,7 +12746,7 @@ And, in case you didn't notice, the whole thing is also a big reference to &lt;a
 <div created="20211012163240391" host="Stephen" modified="20220114223813595" overcast-graded="https://overcast.fm/+FXx5nWhwg/1:20:16" overcast-picked="https://overcast.fm/+FXx6Hkxs4/1:22:45" pick="2.04" pick-conditions="2" score="1" tags="Pick [[2021 October Rickies]] Flexie Mac" title="A new MacBook comes with at least one new non-USB-C/Thunderbolt port on the laptop itself" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420010616934" host="Federico" modified="20210906181702459" pick="1.2" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded Accessories Pick [[Possible Vindication]]" title="A new Smart Keyboard" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420010616934" host="Federico" modified="20220120225913637" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:24:18" overcast-picked="https://overcast.fm/+FXx4E3x_I/41:50" pick="1.2" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded Accessories Pick [[Possible Vindication]]" title="A new Smart Keyboard" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210417221408674" host="Federico" modified="20220114185959857" overcast-graded="https://overcast.fm/+FXx495ZrA/11:57" overcast-picked="https://overcast.fm/+FXx5giTnQ/1:03:52" pick="4" pick-conditions="4" score="0" tags="[[2018 Annual Predictions]] NonGraded Accessories Pick [[Ahead of Its Time]]" title="A new smart keyboard: new material, backlit keys, a dedicated Siri key" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12752,7 +12755,7 @@ And, in case you didn't notice, the whole thing is also a big reference to &lt;a
 <div created="20210531214750715" host="Federico" modified="20220116164614947" overcast-graded="https://overcast.fm/+FXx70G0aw/1:23:34" overcast-picked="https://overcast.fm/+FXx4EWu_4/1:42:34" pick="1.10" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexie iOS Pick [[Apple Apps]] [[Possible Vindication]]" title="A new way to turn off confirmation banners in Shortcuts" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420012123223" host="Myke" modified="20210906181702482" pick="3.8" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Accessories Pick" title="A new, unique case" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420012123223" host="Myke" modified="20220120230940435" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:28:13" overcast-picked="https://overcast.fm/+FXx4E3x_I/55:37" pick="3.8" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Accessories Pick" title="A new, unique case" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210427202828736" host="Myke" modified="20220120012238548" overcast-graded="https://overcast.fm/+FXx5peDck/48:17" overcast-picked="https://overcast.fm/+FXx5XgcdI/1:11:17" pick="1" pick-conditions="2" score="-1" tags="[[2020 September Rickies]] Ricky iPad [[Augmented Reality]] Pick [[Possible Vindication]]" title="A non-Pro iPad gets a LIDAR sensor" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13219,7 +13222,7 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div created="20210429064542763" creator="jbiatek" host="Federico" modified="20220120041438165" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx61sqT4/1:02:43" overcast-picked="https://overcast.fm/+FXx5bRzKc/1:29:50" pick="3.3" pick-conditions="1" score="0" tags="[[2019 Fall Rickies]] NonGraded macOS Mac Pick" title="Catalina gets a release date" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420010832094" host="Federico" modified="20210906181703460" pick="1.4" pick-conditions="1" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="Cheaper phone is not called &quot;iPhone 9&quot;" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420010832094" host="Federico" modified="20220120230005438" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:24:39" overcast-picked="https://overcast.fm/+FXx4E3x_I/43:19" pick="1.4" pick-conditions="1" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="Cheaper phone is not called &quot;iPhone 9&quot;" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div color="#a96800" created="20210601152432622" modified="20210601152440852" title="Coin flip" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13261,7 +13264,7 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div created="20210605223937456" episode="206" modified="20210605225355598" tags="[[The AirPower Game]]" title="Connected #206: A High Appreciation for Winning" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210605181116343" episode="208" modified="20210605225403803" tags="[[Audio Predictions]] [[2018 iPhone Event Predictions]]" title="Connected #208: It’s Ugly and I Want It" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210605181116343" episode="208" modified="20220120225259821" tags="[[Audio Predictions]] [[2018 iPhone Event Predictions]] [[2018 Annual Predictions]] [[The AirPower Game]]" title="Connected #208: It’s Ugly and I Want It" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210605224054498" episode="209" modified="20210605225413643" tags="[[The AirPower Game]] [[2018 iPhone Event Predictions]]" title="Connected #209: Secret NBA Training" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13543,7 +13546,7 @@ Filter: &lt;$edit-text tiddler=&quot;$:/temp/IneligiblePickSearch&quot; field=&q
 <div color="#77bb41" created="20210530165322764" modified="20210911145053619" tags="Topics" title="iPhone" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||$:/TopicDetailTemplate}}</pre>
 </div>
-<div created="20210420011358184" host="Stephen" modified="20210906181703711" pick="2.5" pick-conditions="1" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="iPhone 9 will come in colors" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420011358184" host="Stephen" modified="20220120230336203" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:26:06" overcast-picked="https://overcast.fm/+FXx4E3x_I/59:01" pick="2.5" pick-conditions="1" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="iPhone 9 will come in colors" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210806184008943" modified="20210911145053626" tags="[[Articles and Commentaries]]" title="iPhone Event Retrospective (2021)" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13580,7 +13583,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210417063543149" host="Stephen" modified="20220114185302091" overcast-graded="https://overcast.fm/+FXx495ZrA/08:12" overcast-picked="https://overcast.fm/+FXx5giTnQ/51:14" pick="2" pick-conditions="1" score="-1" tags="[[2018 Annual Predictions]] Ricky macOS Mac Pick [[Apple Apps]] [[Ahead of Its Time]]" title="iTunes rewrite or replacement for Mac OS" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;iTunes was eventually split up in 2019.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210420010753038" host="Federico" modified="20210906181703728" pick="1.3" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iOS Pick [[Apple Apps]]" title="iWork updates for iOS 12" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420010753038" host="Federico" modified="20220120225935613" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:24:25" overcast-picked="https://overcast.fm/+FXx4E3x_I/42:39" pick="1.3" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iOS Pick [[Apple Apps]]" title="iWork updates for iOS 12" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210429064113854" creator="jbiatek" host="Stephen" modified="20220120041135797" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx61sqT4/1:00:05" overcast-picked="https://overcast.fm/+FXx5bRzKc/1:26:48" pick="2.1" pick-conditions="2" score="0" tags="[[2019 Fall Rickies]] NonGraded Stagecraft Pick" title="Jeff Williams will take a greater role in the keynote" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13606,8 +13609,8 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210531201409962" host="Federico" modified="20220116163252157" overcast-graded="https://overcast.fm/+FXx70G0aw/1:01:53" overcast-picked="https://overcast.fm/+FXx4EWu_4/1:09:19" pick="1" pick-conditions="2" score="-1" tags="[[2021 WWDC Rickies]] Ricky iOS Pick [[Possible Vindication]]" title="Legacy widgets are completely removed from the system, and there is no longer a place to put widgets to the left of the main home screen" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420011316269" host="Stephen" modified="20210906190541446" pick="2.4" pick-conditions="7" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="Line will be XS, 9, 8+, 8, 7+, 7, SE" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre></pre>
+<div created="20210420011316269" host="Stephen" modified="20220120230316660" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:25:40" overcast-picked="https://overcast.fm/+FXx4E3x_I/57:57" pick="2.4" pick-conditions="7" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="Line will be XS, 9, 8+, 8, 7+, 7, SE" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;ul&gt;&lt;li&gt;Exact names weren't the main goal of this pick. The pick intended to convey that the existing iPhone X would drop from the lineup, but both sizes of 8 and 7 would stick around.&lt;/li&gt;&lt;li&gt;The SE being dropped as well wasn't enough to make the pick wrong, apparently.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210526194847527" modified="20211014203050259" tags="Contents" title="Links &amp; Shout Outs" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>* The &lt;a href=&quot;https://www.relay.fm/connected&quot; target=&quot;_blank&quot;&gt;Connected&lt;/a&gt; podcast, obviously.
@@ -13647,7 +13650,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210419175404436" host="Stephen" modified="20220114214951500" overcast-graded="https://overcast.fm/+FXx75_MJc/11:47" overcast-picked="https://overcast.fm/+FXx7nikbQ/48:46" pick="3" pick-conditions="1" score="0" tags="[[2017 Annual Predictions]] NonGraded iPad Pick [[Possible Vindication]]" title="Multi-user on iPad support for the masses" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420011235788" host="Stephen" modified="20210906190401928" pick="2.3" pick-conditions="2" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="Names will be XC and XS" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420011235788" host="Stephen" modified="20220120230218762" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:25:34" overcast-picked="https://overcast.fm/+FXx4E3x_I/57:13" pick="2.3" pick-conditions="2" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="Names will be XC and XS" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20211012162620397" host="Myke" modified="20220114224104895" overcast-graded="https://overcast.fm/+FXx5nWhwg/1:22:55" overcast-picked="https://overcast.fm/+FXx6Hkxs4/1:24:16" pick="3.01" pick-conditions="1" score="1" tags="Pick [[2021 October Rickies]] Flexie AirPods Accessories" title="New AirPods" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13662,7 +13665,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210423054821205" host="Myke" modified="20220118163657857" overcast-graded="https://overcast.fm/+FXx61X3jI/1:07:34" overcast-picked="https://overcast.fm/+FXx4inpiI/1:37:06" pick="2.3" pick-conditions="1" score="0" tags="[[2020 November Rickies]] Flexie Accessories AirPods Pick" title="New AirPods or AirPods Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420012049367" host="Myke" modified="20210906190351069" pick="3.7" pick-conditions="2" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="New and faster FaceID" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420012049367" host="Myke" modified="20220120230919371" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:27:54" overcast-picked="https://overcast.fm/+FXx4E3x_I/55:20" pick="3.7" pick-conditions="2" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="New and faster FaceID" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210429184559047" creator="jbiatek" host="Federico" modified="20220120043657546" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx4xqI14/19:46" overcast-picked="https://overcast.fm/+FXx6h7YDQ/27:22" pick="1.3" pick-conditions="1" score="1" tags="[[2019 WWDC Predictions]] Regular iOS Pick" title="New Animoji in iOS 13" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13695,7 +13698,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210420212712647" host="Myke" modified="20220117071801113" overcast-graded="https://overcast.fm/+FXx6J60tU/1:24:48" overcast-picked="https://overcast.fm/+FXx5oC3S0/1:24:53" pick="2.2" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie Accessories iPad Pick" title="New iPad Pro accessory" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;Something we haven't seen before, or is redesigned significantly, e.g. Apple Pencil 1 to 2.&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210420011447830" host="Myke" modified="20210906181703904" pick="3.1" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPad Pick" title="New iPads" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420011447830" host="Myke" modified="20220120230500200" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:27:14" overcast-picked="https://overcast.fm/+FXx4E3x_I/51:35" pick="3.1" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPad Pick" title="New iPads" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210531201702799" host="Myke" modified="20220116164800078" overcast-graded="https://overcast.fm/+FXx70G0aw/1:25:43" overcast-picked="https://overcast.fm/+FXx4EWu_4/1:43:43" pick="2.1" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexie Mac Pick" title="New MacBook Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13719,10 +13722,10 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210531201729655" host="Myke" modified="20220116165025653" overcast-graded="https://overcast.fm/+FXx70G0aw/1:27:04" overcast-picked="https://overcast.fm/+FXx4EWu_4/1:44:55" pick="2.5" pick-conditions="1" score="1" tags="[[2021 WWDC Rickies]] Flexie iOS Pick" title="New notification management options" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420011804353" host="Myke" modified="20210906190215924" pick="3.2" pick-conditions="2" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded Accessories iPad Pick" title="New pencil and keyboard" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420011804353" host="Myke" modified="20220120230443762" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:27:17" overcast-picked="https://overcast.fm/+FXx4E3x_I/52:28" pick="3.2" pick-conditions="2" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded Accessories iPad Pick" title="New pencil and keyboard" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420010936502" host="Federico" modified="20210906181704009" pick="1.5" pick-conditions="1" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded [[Apple Watch]] Pick" title="New watch bands" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420010936502" host="Federico" modified="20220120230024860" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:24:46" overcast-picked="https://overcast.fm/+FXx4E3x_I/46:18" pick="1.5" pick-conditions="1" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded [[Apple Watch]] Pick" title="New watch bands" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210428010757022" host="Stephen" modified="20220119171314039" overcast-graded="https://overcast.fm/+FXx7KvDUI/44:23" overcast-picked="https://overcast.fm/+FXx7FoU8U/1:15:51" pick="1.3" pick-conditions="1" score="1" tags="[[2020 Summer Rickies]] NonGraded Services Stagecraft Pick Buzzkill" title="No Apple Services bundle announced" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13734,7 +13737,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210428175202955" creator="jbiatek" host="Stephen" modified="20220113230127385" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx6bXcOY/31:33" overcast-picked="https://overcast.fm/+FXx4vzIxY/1:03:40" pick="2.2" pick-conditions="1" score="1" tags="[[2021 Annual Rickies]] Regular Stagecraft Pick" title="No in-person WWDC 2021" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420011144454" host="Stephen" modified="20210906190205197" pick="2.1" pick-conditions="3" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone [[Apple Watch]] iPad Pick Buzzkill" title="No iPads, iPhone and Apple Watch only" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420011144454" host="Stephen" modified="20220120230142774" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:25:29" overcast-picked="https://overcast.fm/+FXx4E3x_I/55:57" pick="2.1" pick-conditions="3" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone [[Apple Watch]] iPad Pick Buzzkill" title="No iPads, iPhone and Apple Watch only" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210428180214242" creator="jbiatek" host="Stephen" modified="20220113231801983" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx6bXcOY/58:08" overcast-picked="https://overcast.fm/+FXx4vzIxY/1:35:22" pick="3.5" pick-conditions="1" score="1" tags="[[2021 Annual Rickies]] Flexie Mac Pick Buzzkill" title="No Mac gets a cellular data option" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13743,8 +13746,8 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210429062110326" creator="jbiatek" host="Stephen" modified="20220120040509438" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx61sqT4/42:47" overcast-picked="https://overcast.fm/+FXx5bRzKc/1:03:04" pick="2.2" pick-conditions="2" score="0" tags="[[2019 Fall Rickies]] Regular Mac Stagecraft iPad Pick Buzzkill" title="No Mac or iPad hardware in the keynote" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;10.2” iPad was announced&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210420011215758" host="Stephen" modified="20210906181704085" pick="2.2" pick-conditions="1" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded Mac Pick Buzzkill" title="No Macs" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre></pre>
+<div created="20210420011215758" host="Stephen" modified="20220120231240338" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:25:32" overcast-picked="https://overcast.fm/+FXx4E3x_I/56:27" pick="2.2" pick-conditions="1" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded Mac Pick Buzzkill" title="No Macs" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;ul&gt;&lt;li&gt;Based on &lt;a href=&quot;https://overcast.fm/+FXx5Kx09c/1:27:39&quot; target=&quot;_blank&quot;&gt;comments in the grading episode&lt;/a&gt;, this might have originally been a sub-bullet point of [[the previous pick|No iPads, iPhone and Apple Watch only]].&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210420212450245" host="Stephen" modified="20220117071553904" overcast-graded="https://overcast.fm/+FXx6J60tU/1:24:13" overcast-picked="https://overcast.fm/+FXx5oC3S0/1:22:47" pick="1.4" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie Stagecraft Accessories Pick Buzzkill" title="No mention of AirTags" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
@@ -13785,7 +13788,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div color="#004d65" created="20210530222853104" modified="20210530222853155" title="NonGraded" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420011823746" host="Myke" modified="20210906181704222" pick="3.3" pick-conditions="1" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded Mac Stagecraft Pick Buzzkill" title="Nothing about the Mac" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420011823746" host="Myke" modified="20220120230536080" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:27:18" overcast-picked="https://overcast.fm/+FXx4E3x_I/52:56" pick="3.3" pick-conditions="1" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded Mac Stagecraft Pick Buzzkill" title="Nothing about the Mac" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;The mention of Mojave's release is deemed insufficient to make this wrong.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210417221521839" host="Myke" modified="20220114190042047" overcast-graded="https://overcast.fm/+FXx495ZrA/12:25" overcast-picked="https://overcast.fm/+FXx5giTnQ/1:06:04" pick="6" pick-conditions="1" score="0" tags="[[2018 Annual Predictions]] NonGraded iOS Pick [[Ahead of Its Time]]" title="On iOS 12, the home screen features more than just app icons" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14002,7 +14005,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210627155822160" modified="20210627155924731" tags="" title="Search Error" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>The static version of Rickipedia doesn't support search. Please enable JavaScript and go to the main page at https://rickies.net for search functionality.</pre>
 </div>
-<div created="20210420010948826" host="Federico" modified="20210906185829481" pick="1.6" pick-conditions="2" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded [[Apple Watch]] Pick" title="Series 4 has multiple changes to watch faces" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420010948826" host="Federico" modified="20220120230041201" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:24:49" overcast-picked="https://overcast.fm/+FXx4E3x_I/46:42" pick="1.6" pick-conditions="2" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded [[Apple Watch]] Pick" title="Series 4 has multiple changes to watch faces" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;(beyond the leaked ones we have already seen)&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div color="#77bb41" created="20210530163634951" modified="20210911145053667" tags="Topics" title="Services" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14214,7 +14217,7 @@ Each host has chosen a title for themselves when they are the current Flexie cha
 <div created="20210420212915809" host="Myke" modified="20220117072139975" overcast-graded="https://overcast.fm/+FXx6J60tU/1:26:44" overcast-picked="https://overcast.fm/+FXx5oC3S0/1:26:16" pick="2.6" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie iPad Pick [[Possible Vindication]]" title="The camera on the iPad Pro moves to the long side" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420011923346" host="Myke" modified="20210906181704866" pick="3.4" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="The cheaper iPhone will be called iPhone 9" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420011923346" host="Myke" modified="20220120230603645" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:27:31" overcast-picked="https://overcast.fm/+FXx4E3x_I/53:39" pick="3.4" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="The cheaper iPhone will be called iPhone 9" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20211012163235614" host="Stephen" modified="20220114223750242" overcast-graded="https://overcast.fm/+FXx5nWhwg/1:20:09" overcast-picked="https://overcast.fm/+FXx6Hkxs4/1:22:42" pick="2.03" pick-conditions="1" score="0" tags="Pick [[2021 October Rickies]] Flexie Mac" title="The chip is called the M1X" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14293,7 +14296,7 @@ Each host has chosen a title for themselves when they are the current Flexie cha
 <div created="20211012163010125" host="Myke" modified="20220114224240654" overcast-graded="https://overcast.fm/+FXx5nWhwg/1:23:34" overcast-picked="https://overcast.fm/+FXx6Hkxs4/1:26:26" pick="3.05" pick-conditions="1" score="1" tags="Pick [[2021 October Rickies]] Flexie Mac" title="The laptops will be thicker than the models they replace" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420012023768" host="Myke" modified="20210906181705210" pick="3.6" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="The larger iPhone will be called XS+" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420012023768" host="Myke" modified="20220120230850310" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:27:46" overcast-picked="https://overcast.fm/+FXx4E3x_I/54:58" pick="3.6" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPhone Pick" title="The larger iPhone will be called XS+" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210429063932110" creator="jbiatek" host="Myke" modified="20220120041038322" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx61sqT4/59:49" overcast-picked="https://overcast.fm/+FXx5bRzKc/1:26:14" pick="1.2" pick-conditions="1" score="1" tags="[[2019 Fall Rickies]] NonGraded Mac Stagecraft Pick Buzzkill" title="The Mac is not mentioned" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14360,8 +14363,8 @@ Each host has chosen a title for themselves when they are the current Flexie cha
 <pre>&lt;ul&gt;&lt;li&gt; Grading for this was tricky, but Stephen discovered that the &lt;a href=&quot;https://developer.apple.com/accessories/Accessory-Design-Guidelines.pdf&quot; target=&quot;_blank&quot;&gt;Apple Accessory Design Guidelines&lt;/a&gt; indicate that the notch got //very// slightly smaller, by millimeters, mostly due to the switch from LCD to OLED in the iPhone 12. The consensus is that it's a technical victory but not an honorable one.
 &lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210420011943939" host="Myke" modified="20210906181705442" pick="3.5" pick-conditions="1" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded Stagecraft iPhone Pick" title="The only iPhones seen on stage will be the ones we already know about" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre></pre>
+<div created="20210420011943939" host="Myke" modified="20220120231528773" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:27:34" overcast-picked="N/A" pick="3.5" pick-conditions="1" score="1" tags="[[2018 iPhone Event Predictions]] NonGraded Stagecraft iPhone Pick" title="The only iPhones seen on stage will be the ones we already know about" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;ul&gt;&lt;li&gt;This seems to have been a sub-bullet point to [[the previous pick|The cheaper iPhone will be called iPhone 9]] originally, but was forcibly upgraded to a full pick by Myke during grading. (Again, this &quot;game&quot; wasn't even supposed to be a competition originally.)&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210531214555952" host="Federico" modified="20220116164018433" overcast-graded="https://overcast.fm/+FXx70G0aw/1:17:41" overcast-picked="https://overcast.fm/+FXx4EWu_4/1:37:27" pick="1.06" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexie iOS Pick [[Apple Apps]] [[Possible Vindication]]" title="The Passwords feature of Settings becomes a standalone app" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
@@ -14497,7 +14500,7 @@ June, 2021
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;/$list&gt;</pre>
 </div>
-<div created="20210416151432962" host="Federico" modified="20210906181705620" pick="1.1" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPad Pick" title="Two new iPad Pros" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210416151432962" host="Federico" modified="20220120225844652" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:24:13" overcast-picked="https://overcast.fm/+FXx4E3x_I/40:44" pick="1.1" pick-conditions="1" score="0" tags="[[2018 iPhone Event Predictions]] NonGraded iPad Pick" title="Two new iPad Pros" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;Maybe more of a hope&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210426173236878" host="Myke" modified="20220118231557995" overcast-graded="https://overcast.fm/+FXx7YIi-0/1:13:40" overcast-picked="https://overcast.fm/+FXx5SWQQA/1:22:16" pick="2.1" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexie [[Apple TV]] Pick" title="Updated Apple TV" type="text/vnd.tiddlywiki" revision="0" bag="default">
