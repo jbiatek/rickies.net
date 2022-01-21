@@ -10176,7 +10176,7 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 &lt;meta name=&quot;theme-color&quot; content=&quot;#000000&quot;&gt;
 </pre>
 </div>
-<div created="20210415203535992" modified="20220109073143414" tags="$:/Infrastructure" title="$:/FieldChecker" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210415203535992" modified="20220121001429023" tags="$:/Infrastructure" title="$:/FieldChecker" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>! unexpected hosts: 
 &lt;$list filter=&quot;[each[host]has[host]!host[Stephen]!host[Myke]!host[Federico]]&quot;&gt; {{!!host}} &lt;/$list&gt;
 
@@ -10211,17 +10211,13 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 ! AirPods without Accessories: 
 &lt;$list filter=&quot;[tag[Pick]!tag[Accessories]tag[AirPods]]&quot;&gt;&lt;$link/&gt;&lt;br&gt;&lt;/$list&gt;
 
-! incomplete overcast links for picking
+! missing overcast-picked link
 
-Once these are more complete, chop off the first and last two filters to see individual picks that need overcast links
+&lt;$list filter=&quot;[tag[Pick]overcast-picked[]]&quot;&gt;&lt;$link/&gt;&lt;br&gt;&lt;/$list&gt; 
 
-&lt;$list filter=&quot;[tag[Game]tagging[]tag[Pick]overcast-picked[]tags[]tag[Game]]&quot;&gt;&lt;$link/&gt;&lt;br&gt;&lt;/$list&gt; 
+! missing overcast-graded link
 
-! incomplete overcast links for grading
-
-Ditto here basically
-
-&lt;$list filter=&quot;[tag[Game]!winner[TBD]tagging[]tag[Pick]overcast-graded[]tags[]tag[Game]]&quot;&gt;&lt;$link/&gt;&lt;br&gt;&lt;/$list&gt; 
+&lt;$list filter=&quot;[tag[Pick]overcast-graded[]] -[tag[Game]winner[TBD]tagging[]]&quot;&gt;&lt;$link/&gt;&lt;br&gt;&lt;/$list&gt; 
 
 
 ! zero Possible Vindication tags
@@ -10618,7 +10614,7 @@ very-muted-foreground: #888888</pre>
 &lt;/table&gt;
 \end</pre>
 </div>
-<div created="20210420185756451" host="" modified="20210911145253620" pick="" pick-conditions="" score="" tags="$:/Infrastructure" title="$:/Pick Prototype" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420185756451" host="" modified="20220121001459819" overcast-graded="" overcast-picked="" pick="" pick-conditions="" score="" tags="$:/Infrastructure" title="$:/Pick Prototype" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div caption="All Picks" created="20210601154854808" first-search-filter="[!is[system]tag[Pick]search&lt;userInput&gt;]" list-before="$:/core/ui/DefaultSearchResultList" modified="20210922144400600" tags="$:/tags/SearchResults $:/Infrastructure" title="$:/PicksSearch" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12784,20 +12780,20 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div color="#77bb41" created="20210530165852837" modified="20210911145053512" tags="Topics" title="AirPods" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||$:/TopicDetailTemplate}}</pre>
 </div>
-<div created="20210430041303907" creator="jbiatek" host="Myke" modified="20210906193448142" modifier="jbiatek" pick="1" pick-conditions="2" score="1" tags="[[Audio Predictions]] Regular Accessories AirPods Pick" title="AirPods to gain more controls via touch actions" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430041303907" creator="jbiatek" host="Myke" modified="20220120233849210" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx7iyi9k/18:38" overcast-picked="https://overcast.fm/+FXx7rqIoM/1:18:17" pick="1" pick-conditions="2" score="1" tags="[[Audio Predictions]] Regular Accessories AirPods Pick" title="AirPods to gain more controls via touch actions" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210416203535844" host="Federico" modified="20220114073357906" overcast-graded="https://overcast.fm/+FXx7hS2kY/27:06" overcast-picked="https://overcast.fm/+FXx5i5-3Y/57:37" pick="1.1" pick-conditions="2" score="0" tags="[[2019 Annual Predictions]] NonGraded Accessories AirPods Pick [[Possible Vindication]]" title="AirPower is released and new AirPods are released" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210421053141558" host="Myke" modified="20210906181702533" pick="3" pick-conditions="1" score="0" tags="[[The AirPower Game]] NonGraded Accessories Pick [[Possible Vindication]]" title="AirPower will come out after the 2018 iPhone event" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210421053141558" host="Myke" modified="20220120235722654" overcast-graded="https://overcast.fm/+FXx5i5-3Y/04:46" overcast-picked="https://overcast.fm/+FXx56vlEY/44:04" pick="3" pick-conditions="1" score="0" tags="[[The AirPower Game]] NonGraded Accessories Pick [[Possible Vindication]]" title="AirPower will come out after the 2018 iPhone event" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210421052747432" host="Federico" modified="20210906181702549" pick="1" pick-conditions="1" score="0" tags="[[The AirPower Game]] NonGraded Accessories Pick" title="AirPower will come out before the 2018 iPhone event" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210421052747432" host="Federico" modified="20220120235617573" overcast-graded="https://overcast.fm/+FXx5Kx09c/1:28:27" overcast-picked="https://overcast.fm/+FXx56vlEY/43:00" pick="1" pick-conditions="1" score="0" tags="[[The AirPower Game]] NonGraded Accessories Pick" title="AirPower will come out before the 2018 iPhone event" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Confidence remained high even days before the event in episode 208.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210421053023897" host="Stephen" modified="20210906193355667" pick="2" pick-conditions="4" score="0" tags="[[The AirPower Game]] NonGraded Accessories Pick" title="AirPower will come out the first week of December 2018" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>&lt;ul&gt;&lt;li&gt;This wasn't actually an option, but Stephen felt confident.&lt;/li&gt;&lt;/ul&gt;</pre>
+<div created="20210421053023897" host="Stephen" modified="20220121001346527" overcast-graded="https://overcast.fm/+FXx5i5-3Y/04:46" overcast-picked="https://overcast.fm/+FXx56vlEY/43:46" pick="2" pick-conditions="4" score="0" tags="[[The AirPower Game]] NonGraded Accessories Pick" title="AirPower will come out the first week of December 2018" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;ul&gt;&lt;li&gt;This wasn't actually an option, but Stephen felt confident. (Really, he changed it to just be &quot;after the 2018 iPhone event&quot; as well, but that's not as fun.)&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210420212838028" host="Myke" modified="20220117071952907" overcast-graded="https://overcast.fm/+FXx6J60tU/1:26:18" overcast-picked="https://overcast.fm/+FXx5oC3S0/1:25:59" pick="2.4" pick-conditions="1" score="1" tags="[[2021 April Rickies]] Flexie Accessories Pick" title="AirTags unveiled" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
@@ -13086,7 +13082,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210429190452552" creator="jbiatek" host="Federico" modified="20220120044310121" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx4xqI14/34:07" overcast-picked="https://overcast.fm/+FXx6h7YDQ/54:23" pick="3" pick-conditions="1" score="2" tags="[[2019 WWDC Predictions]] Ricky iPad Pick" title="Apple will bring back some kind of &quot;app list/launcher&quot; UI element on iPad" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Federico cites parts of Slide Over's new multitasking interface, and when that doesn't seem to be working, says &quot;If you don't give me this point, I will call the police.&quot; It escalates to the point of typing 911 into his phone.&lt;/li&gt;&lt;li&gt;&quot;Some kind of&quot; is vague enough to count this, and it definitely is not because of the threat.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210430042128051" creator="jbiatek" host="Myke" modified="20220109051313121" modifier="jbiatek" pick="7" pick-conditions="1" score="1" tags="[[Audio Predictions]] Regular AirPods Pick Accessories" title="Apple will create some new noise-cancelling technology" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430042128051" creator="jbiatek" host="Myke" modified="20220120234311554" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx7iyi9k/22:49" overcast-picked="https://overcast.fm/+FXx7rqIoM/1:24:18" pick="7" pick-conditions="1" score="1" tags="[[Audio Predictions]] Regular AirPods Pick Accessories" title="Apple will create some new noise-cancelling technology" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;Some sort of thing that they put into an AirPod or something that they tout as invented by Apple, is how it was clarified during predictions.&lt;/li&gt;&lt;li&gt;Myke, //in absentia//, gets the benefit of the doubt as to how new the AirPods Pro tech is.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210416194122450" host="Myke" modified="20220114011036054" overcast-graded="https://overcast.fm/+FXx4vzIxY/53:50" overcast-picked="https://overcast.fm/+FXx7hS2kY/1:29:03" pick="2.2" pick-conditions="2" score="0" tags="[[2020 Annual Rickies]] NonGraded Mac Pick [[Possible Vindication]]" title="Apple will introduce a new iMac design with an accompanying external display" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13133,7 +13129,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 &lt;/div&gt;
 </pre>
 </div>
-<div created="20210430041426643" creator="jbiatek" host="Stephen" modified="20210906181703347" modifier="jbiatek" pick="2" pick-conditions="1" score="0" tags="[[Audio Predictions]] Regular Accessories AirPods Pick [[Possible Vindication]]" title="At least 1 more color option comes to AirPods" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430041426643" creator="jbiatek" host="Stephen" modified="20220120233903664" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx7iyi9k/18:57" overcast-picked="https://overcast.fm/+FXx7rqIoM/1:19:13" pick="2" pick-conditions="1" score="0" tags="[[Audio Predictions]] Regular Accessories AirPods Pick [[Possible Vindication]]" title="At least 1 more color option comes to AirPods" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20211012162745484" host="Stephen" modified="20220114222451287" overcast-graded="https://overcast.fm/+FXx5nWhwg/38:05" overcast-picked="https://overcast.fm/+FXx6Hkxs4/36:37" pick="1.3" pick-conditions="1" score="0" tags="Pick Regular [[2021 October Rickies]] Mac" title="At least 1 new Mac model announced ships in November" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13192,7 +13188,7 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div created="20210531201649894" host="Federico" modified="20220116163741540" overcast-graded="https://overcast.fm/+FXx70G0aw/1:16:36" overcast-picked="https://overcast.fm/+FXx4EWu_4/1:35:41" pick="1.04" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Flexie iPad Pick iPadOS [[Possible Vindication]]" title="Better external display support on iPad" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210430042253097" creator="jbiatek" host="Stephen" modified="20210906181703420" modifier="jbiatek" pick="8" pick-conditions="1" score="0" tags="[[Audio Predictions]] Regular Services Pick [[Ahead of Its Time]]" title="Better incorporation of Apple News into the audio ecosystem" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430042253097" creator="jbiatek" host="Stephen" modified="20220120234353019" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx7iyi9k/23:34" overcast-picked="https://overcast.fm/+FXx7rqIoM/1:25:59" pick="8" pick-conditions="1" score="0" tags="[[Audio Predictions]] Regular Services Pick [[Ahead of Its Time]]" title="Better incorporation of Apple News into the audio ecosystem" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;For example, asking Siri for the news on a HomePod&lt;/li&gt;&lt;li&gt;This did eventually happen, but in 2020.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210426174106127" host="Stephen" modified="20220118232041214" overcast-graded="https://overcast.fm/+FXx7YIi-0/1:15:21" overcast-picked="https://overcast.fm/+FXx5SWQQA/1:25:54" pick="3.3" pick-conditions="1" score="0" tags="[[2020 October Rickies]] Flexie macOS Mac Pick" title="Big Sur gets a release date" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13276,7 +13272,7 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 &lt;li&gt;&quot;Everything written down must come true&quot; added.&lt;/li&gt;
 &lt;/ul&gt;</pre>
 </div>
-<div created="20210605225705984" episode="225" modified="20210605225850688" tags="[[2019 Annual Predictions]]" title="Connected #225: The Bear Will Charge You" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210605225705984" episode="225" modified="20220120235201682" tags="[[2019 Annual Predictions]] [[The AirPower Game]]" title="Connected #225: The Bear Will Charge You" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210605230005514" episode="235" modified="20210605230056952" tags="[[2019 Media Event Predictions]]" title="Connected #235: Stephen’s Hellish Nightmare of Dates" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -13423,10 +13419,10 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div created="20211012163124677" host="Federico" modified="20220114223112926" overcast-graded="https://overcast.fm/+FXx5nWhwg/1:17:10" overcast-picked="https://overcast.fm/+FXx6Hkxs4/1:14:19" pick="1.01" pick-conditions="2" score="1" tags="Pick [[2021 October Rickies]] Flexie Mac" title="HDMI and SD Card reader are back on the MacBook Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210430042545694" creator="jbiatek" host="Federico" modified="20210906191014897" modifier="jbiatek" pick="9" pick-conditions="3" score="0" tags="[[Audio Predictions]] Regular Accessories AirPods Pick" title="HeadPods will be wireless only and they will have no headphone jack and will charge via Lightning or USB-C" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430042545694" creator="jbiatek" host="Federico" modified="20220120234423944" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx7iyi9k/24:13" overcast-picked="https://overcast.fm/+FXx7rqIoM/1:28:27" pick="9" pick-conditions="3" score="0" tags="[[Audio Predictions]] Regular Accessories AirPods Pick" title="HeadPods will be wireless only and they will have no headphone jack and will charge via Lightning or USB-C" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210430041950778" creator="jbiatek" host="Stephen" modified="20210906181703545" modifier="jbiatek" pick="5" pick-conditions="1" score="1" tags="[[Audio Predictions]] Regular Accessories Pick" title="HomePod price drop" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430041950778" creator="jbiatek" host="Stephen" modified="20220120234128396" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx7iyi9k/21:22" overcast-picked="https://overcast.fm/+FXx7rqIoM/1:22:29" pick="5" pick-conditions="1" score="1" tags="[[Audio Predictions]] Regular Accessories Pick" title="HomePod price drop" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;In April, they were cut from $349 to $299.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210420213309619" host="Federico" modified="20220117072327002" overcast-graded="https://overcast.fm/+FXx6J60tU/1:27:52" overcast-picked="https://overcast.fm/+FXx5oC3S0/1:30:47" pick="3.4" pick-conditions="1" score="0" tags="[[2021 April Rickies]] Flexie iPad Pick iPadOS [[Possible Vindication]]" title="Hypervisor comes to iPad" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14032,7 +14028,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div created="20210416193659312" host="Federico" modified="20220114010505495" overcast-graded="https://overcast.fm/+FXx4vzIxY/51:19" overcast-picked="https://overcast.fm/+FXx7hS2kY/1:16:26" pick="1.1" pick-conditions="1" score="1" tags="[[2020 Annual Rickies]] NonGraded Pick [[Apple Apps]]" title="Shortcuts will gain folders and/or new ways to run Shortcuts" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210430042028478" creator="jbiatek" host="Federico" modified="20210906181704603" modifier="jbiatek" pick="6" pick-conditions="1" score="1" tags="[[Audio Predictions]] Regular Accessories Pick [[Apple Apps]]" title="Shortcuts will gain new HomePod/AirPlay 2 actions to play audio on HomePod more quickly" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430042028478" creator="jbiatek" host="Federico" modified="20220120234215954" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx7iyi9k/22:09" overcast-picked="https://overcast.fm/+FXx7rqIoM/1:23:20" pick="6" pick-conditions="1" score="1" tags="[[Audio Predictions]] Regular Accessories Pick [[Apple Apps]]" title="Shortcuts will gain new HomePod/AirPlay 2 actions to play audio on HomePod more quickly" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
 <div created="20210419173049368" host="Federico" modified="20220114212319005" overcast-graded="https://overcast.fm/+FXx75_MJc/01:44" overcast-picked="https://overcast.fm/+FXx7nikbQ/28:13" pick="1.1" pick-conditions="4" score="0.5" tags="[[2017 Annual Predictions]] Regular iOS Pick" title="Siri on iOS will gain more verbal responses, speak more than it does now when activated with your voice" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -14141,18 +14137,17 @@ Note that the additional conditions may be in the notes of the pick.
 <div created="20210907195834665" host="Federico" modified="20220115071135408" overcast-graded="https://overcast.fm/+FXx6z4vdc/1:11:29" overcast-picked="https://overcast.fm/+FXx5Crqo4/1:19:37" pick="3.02" pick-conditions="2" score="0" tags="[[2021 September Rickies]] Pick Flexie iPad [[Possible Vindication]]" title="The 9th generation iPad is introduced with a USB-C connector" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210430041452512" creator="jbiatek" host="Federico" modified="20210906185531375" modifier="jbiatek" pick="3" pick-conditions="2" score="0" tags="[[Audio Predictions]] Regular Accessories AirPods Pick [[Possible Vindication]]" title="The AirPods line is split in two, and the lower end version gets a price drop" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430041452512" creator="jbiatek" host="Federico" modified="20220120233945773" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx7iyi9k/19:37" overcast-picked="https://overcast.fm/+FXx7rqIoM/1:20:02" pick="3" pick-conditions="2" score="0" tags="[[Audio Predictions]] Regular Accessories AirPods Pick [[Possible Vindication]]" title="The AirPods line is split in two, and the lower end version gets a price drop" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;The additional condition is an intentionally risky choice by Federico&lt;/li&gt;&lt;li&gt;Ultimately this is in fact his undoing, AirPods never officially get cut from their original $159 price.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210421052424698" creator="jbiatek" modified="20211012164919282" modifier="jbiatek" picked="20180822" tags="[[Other Games]] Game" title="The AirPower Game" type="text/vnd.tiddlywiki" winner="Nobody" revision="0" bag="default">
+<div created="20210421052424698" creator="jbiatek" modified="20220121000756658" modifier="jbiatek" picked="20180822" tags="[[Other Games]] Game" title="The AirPower Game" type="text/vnd.tiddlywiki" winner="Nobody" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
-Myke wants to know: when is AirPower going to come out? Before the 2018 iPhone event, during, or after? (The idea that it wouldn't come out at all apparently never occurred to him.) Federico wants to play for prizes, not just bragging rights, so Myke promises to come up with a prize. I don’t think that ever happens.
+Myke wants to know: when is AirPower going to come out? Before the 2018 iPhone event, during, or after? (The idea that it wouldn't come out at all apparently never occurred to him, or anyone else for that matter.) Federico wants to play for prizes, not just bragging rights, so Myke promises to come up with a prize, but that doesn't ever happen.
 
 {{||$:/NonGradedPickTemplate}}
 
-As it turns out, it didn't come out at all. At the beginning of 2019, Federico still held out 80% hope that AirPower still would come out... eventually.
-</pre>
+At the beginning of 2019 in [[episode 225|Connected #225: The Bear Will Charge You]], Stephen and Myke had finally accepted its fate, but Federico still held out 80% hope that AirPower still would come out eventually. Since this was listed in the document as a 2018 game, Myke declares that the clock has run out with no winner. &lt;a href=&quot;https://techcrunch.com/2019/03/29/apple-cancels-airpower-product-citing-inability-to-meet-its-high-standards-for-hardware/&quot; target=&quot;_blank&quot;&gt;Apple made it official at the end of March that year&lt;/a&gt;.</pre>
 </div>
 <div created="20210907195654936" host="Stephen" modified="20220115070823814" overcast-graded="https://overcast.fm/+FXx6z4vdc/1:10:00" overcast-picked="https://overcast.fm/+FXx5Crqo4/1:14:43" pick="2.02" pick-conditions="1" score="0" tags="[[2021 September Rickies]] Pick Flexie [[Apple Watch]] [[Possible Vindication]]" title="The Apple Watch moves to 5G networking" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
@@ -14350,7 +14345,7 @@ Each host has chosen a title for themselves when they are the current Flexie cha
 <div created="20220107051626485" creator="jbiatek" host="Federico" modified="20220109061607042" modifier="jbiatek" overcast-picked="https://overcast.fm/+FXx6bXcOY/1:16:54" pick="2.2" pick-conditions="1" score="" tags="Regular Pick [[2022 Annual Rickies]] [[Apple Watch]]" title="The next generation Apple Watch will have some kind of body temperature sensor" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210430041745877" creator="jbiatek" host="Myke" modified="20210906181705405" modifier="jbiatek" pick="4" pick-conditions="1" score="0" tags="[[Audio Predictions]] Regular Accessories Pick [[Ahead of Its Time]]" title="The next HomePod is a mini HomePod" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210430041745877" creator="jbiatek" host="Myke" modified="20220120234053108" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx7iyi9k/20:55" overcast-picked="https://overcast.fm/+FXx7rqIoM/1:20:41" pick="4" pick-conditions="1" score="0" tags="[[Audio Predictions]] Regular Accessories Pick [[Ahead of Its Time]]" title="The next HomePod is a mini HomePod" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;True, but too late. The HomePod mini wasn't released until 2020.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
 <div created="20210531214744693" host="Federico" modified="20220116164520427" overcast-graded="https://overcast.fm/+FXx70G0aw/1:23:20" overcast-picked="https://overcast.fm/+FXx4EWu_4/1:40:58" pick="1.09" pick-conditions="3" score="0" tags="[[2021 WWDC Rickies]] Flexie iOS Pick [[Possible Vindication]]" title="The next version of iOS lets you change icons for apps natively" type="text/vnd.tiddlywiki" revision="0" bag="default">
