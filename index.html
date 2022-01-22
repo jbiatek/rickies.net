@@ -10141,9 +10141,9 @@ To use in other wikis, drag and drop this link to those wikis: [[Kookma Plugin L
 <pre>&lt;!-- For Google, and people without JavaScript --&gt;
 JavaScript appears to be disabled. A version of this site that doesn't require JavaScript can be found at: https://rickies.net/static/</pre>
 </div>
-<div created="20210528212115861" list-after="$:/core/ui/ViewTemplate/tags" modified="20210911145053232" tags="$:/tags/ViewTemplate $:/Infrastructure" title="$:/CustomFieldView" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210528212115861" list-after="$:/core/ui/ViewTemplate/tags" modified="20220121182554683" tags="$:/tags/ViewTemplate $:/Infrastructure" title="$:/CustomFieldView" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;$reveal type=&quot;nomatch&quot; stateTitle=&lt;&lt;folded-state&gt;&gt; text=&quot;hide&quot; tag=&quot;div&quot; retain=&quot;yes&quot; animate=&quot;yes&quot;&gt;
-&lt;div class=&quot;custom-field-wrapper&quot;&gt;&lt;$list filter=&quot;[all[current]fields:include[host pick score winner loser result donator donation flexies-winner episode pick-conditions]]&quot; variable=&quot;theField&quot; template=&quot;$:/FieldPillTemplate&quot; storyview=&quot;pop&quot;/&gt;&lt;/div&gt;
+&lt;div class=&quot;custom-field-wrapper&quot;&gt;&lt;$list filter=&quot;[all[current]fields:include[host pick score caller called flip-method winner loser result donator donation flexies-winner episode pick-conditions]]&quot; variable=&quot;theField&quot; template=&quot;$:/FieldPillTemplate&quot; storyview=&quot;pop&quot;/&gt;&lt;/div&gt;
 &lt;/$reveal&gt;</pre>
 </div>
 <div created="20210420002151655" creator="jbiatek" modified="20210502220433685" modifier="jbiatek" title="$:/DefaultTiddlers" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -10176,12 +10176,21 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 &lt;meta name=&quot;theme-color&quot; content=&quot;#000000&quot;&gt;
 </pre>
 </div>
-<div created="20210415203535992" modified="20220121001429023" tags="$:/Infrastructure" title="$:/FieldChecker" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210415203535992" modified="20220121225748077" tags="$:/Infrastructure" title="$:/FieldChecker" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>! unexpected hosts: 
 &lt;$list filter=&quot;[each[host]has[host]!host[Stephen]!host[Myke]!host[Federico]]&quot;&gt; {{!!host}} &lt;/$list&gt;
 
 ! missing winner:
 &lt;$list filter=&quot;[tag[Annual Games]] [tag[Keynote Games]] +[field:winner[]]&quot;/&gt;
+
+! missing picked:
+&lt;$list filter=&quot;[tag[Game]picked[]]&quot;/&gt;
+
+! missing graded:
+&lt;$list filter=&quot;[tag[Game]graded[]!winner[TBD]]&quot;/&gt;
+
+! missing charity name or url
+&lt;$list filter=&quot;[!donation[]charity-name[]] [!donation[]charity-url[]]&quot;/&gt;
 
 ! illegal score:
 &lt;$list filter=&quot;[tag[Ricky]!score[-1]!score[2]!score[]]&quot;/&gt;
@@ -10307,11 +10316,12 @@ if (window.location.hostname.includes(&quot;rickies.net&quot;)) {
 &lt;/$list&gt;
 \end</pre>
 </div>
-<div created="20210601060941113" modified="20211014143822462" tags="$:/Infrastructure $:/tags/Macro" title="$:/MultiEventPickTableMacro" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210601060941113" modified="20220122161947794" tags="$:/Infrastructure $:/tags/Macro" title="$:/MultiEventPickTableMacro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>\define multi-event-nohost(mySubfilter:&quot;[tag[Ricky]]&quot;)
 &lt;$list filter=&quot;[subfilter&lt;__mySubfilter__&gt;tag[Pick]else[WasAnEmptyList]match[WasAnEmptyList]]&quot;&gt;
 No matches found
 &lt;/$list&gt;
+&lt;div style=&quot;overflow-x: scroll;&quot;&gt;
 &lt;table class=&quot;picktable nonotes nohost&quot;&gt;
 &lt;$list filter=&quot;[tag[Keynote Games]] [tag[Annual Games]] [tag[Other Games]] +[sort[picked]]&quot; variable=&quot;currentEvent&quot;&gt;
 &lt;$list filter=&quot;[subfilter&lt;__mySubfilter__&gt;tag&lt;currentEvent&gt;limit[1]]&quot; variable=&quot;dontcare&quot;&gt;
@@ -10331,6 +10341,7 @@ No matches found
 &lt;/$list&gt;
 &lt;/$list&gt;
 &lt;/table&gt;
+&lt;/div&gt;
 \end
 
 
@@ -10339,6 +10350,7 @@ No matches found
 &lt;$list filter=&quot;[subfilter&lt;__mySubfilter__&gt;tag[Pick]else[WasAnEmptyList]match[WasAnEmptyList]]&quot;&gt;
 No matches found
 &lt;/$list&gt;
+&lt;div style=&quot;overflow-x: scroll;&quot;&gt;
 &lt;table class=&quot;picktable nonotes&quot;&gt;
 &lt;$list filter=&quot;[tag[Game]sort[picked]]&quot; variable=&quot;currentEvent&quot;&gt;
 &lt;$list filter=&quot;[tag&lt;currentEvent&gt;subfilter&lt;__mySubfilter__&gt;limit[1]]&quot; variable=&quot;dontcare&quot;&gt;
@@ -10358,6 +10370,7 @@ No matches found
 &lt;/$list&gt;
 &lt;/$list&gt;
 &lt;/table&gt;
+&lt;/div&gt;
 \end</pre>
 </div>
 <div created="20210507220150575" modified="20210911145253604" tags="$:/Infrastructure" title="$:/NonGradedPickTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -10592,8 +10605,9 @@ toolbar-done-button:
 untagged-background: #999999
 very-muted-foreground: #888888</pre>
 </div>
-<div created="20210530224817515" modified="20210911145053732" tags="$:/Infrastructure $:/tags/Macro" title="$:/PercentCorrectBreakdownMacro" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210530224817515" modified="20220122161940903" tags="$:/Infrastructure $:/tags/Macro" title="$:/PercentCorrectBreakdownMacro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>\define percent-correct(mySubfilter:&quot;[tag[Pick]]&quot;)
+&lt;div style=&quot;overflow-x: scroll;&quot;&gt;
 &lt;table&gt;
 &lt;$list filter=&quot;Stephen Myke Federico&quot; variable=&quot;currentHost&quot;&gt;
 &lt;tr&gt;
@@ -10612,6 +10626,7 @@ very-muted-foreground: #888888</pre>
 &lt;/$set&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
+&lt;/div&gt;
 \end</pre>
 </div>
 <div created="20210420185756451" host="" modified="20220121001459819" overcast-graded="" overcast-picked="" pick="" pick-conditions="" score="" tags="$:/Infrastructure" title="$:/Pick Prototype" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -11788,12 +11803,12 @@ display: none;
 <div created="20210627054433506" modified="20210911145053310" tags="$:/tags/Image $:/Infrastructure" title="$:/RegularSearchImage" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;svg width=&quot;22pt&quot; height=&quot;22pt&quot; class=&quot;tc-image-advanced-search-button tc-image-button&quot; viewBox=&quot;0 0 128 128&quot;&gt;&lt;g fill-rule=&quot;evenodd&quot;&gt;&lt;path d=&quot;M74.565 87.985A47.776 47.776 0 0148 96C21.49 96 0 74.51 0 48S21.49 0 48 0s48 21.49 48 48c0 9.854-2.97 19.015-8.062 26.636l34.347 34.347a9.443 9.443 0 010 13.36 9.446 9.446 0 01-13.36 0l-34.36-34.358zM48 80c17.673 0 32-14.327 32-32 0-17.673-14.327-32-32-32-17.673 0-32 14.327-32 32 0 17.673 14.327 32 32 32z&quot;/&gt;&lt;/g&gt;&lt;/svg&gt;</pre>
 </div>
-<div created="20210605174317960" modified="20210911145253662" tags="$:/Infrastructure" title="$:/RelevantEpisodeTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210605174317960" modified="20220121213149011" tags="$:/Infrastructure" title="$:/RelevantEpisodeTemplate" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! ▶️ Episodes
 
 &lt;ul&gt;
 &lt;$list filter=&quot;[tag{!!title}!episode[]sort[episode]]&quot;&gt;
-&lt;li&gt;&lt;$link/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;$link/&gt; (&lt;a href={{{ [is[current]get[episode]addprefix[https://relay.fm/connected/]] }}} target=&quot;_blank&quot;&gt;show notes&lt;/a&gt;)&lt;/li&gt;
 &lt;/$list&gt;
 &lt;/ul&gt;</pre>
 </div>
@@ -11940,12 +11955,14 @@ Contents&quot; &quot;$:/core/ui/SideBar/Open&quot;&gt;&gt;
 <div created="20210415165711108" creator="jbiatek" modified="20210502215800357" modifier="jbiatek" title="$:/SiteTitle" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Rickipedia</pre>
 </div>
-<div created="20210601064359790" modified="20210911145053737" tags="$:/Infrastructure $:/tags/Macro" title="$:/StandardPickTableMacro" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210601064359790" modified="20220122161951475" tags="$:/Infrastructure $:/tags/Macro" title="$:/StandardPickTableMacro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>\define pick-table(mySubfilter:&quot;[tag[Ricky]]&quot;)
+&lt;div style=&quot;overflow-x: scroll;&quot;&gt;
 &lt;table class=&quot;picktable nopicktype&quot;&gt;
 &lt;tr&gt;&lt;th&gt;Host&lt;/th&gt;&lt;th&gt;Pick&lt;/th&gt;&lt;th&gt;Score&lt;/th&gt;&lt;/tr&gt;
 &lt;$list filter=&quot;[subfilter&lt;__mySubfilter__&gt;sort[pick]]&quot; template=&quot;$:/PickTableRowTemplate&quot; /&gt;
 &lt;/table&gt;
+&lt;/div&gt;
 \end</pre>
 </div>
 <div created="20210627043012430" modified="20210911145053343" tags="$:/Infrastructure" title="$:/StaticBanner" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -12199,7 +12216,7 @@ width: 90%; height: 90%;
 <div created="20210420210733834" host="Myke" modified="20220117070715635" overcast-graded="https://overcast.fm/+FXx6J60tU/1:06:40" overcast-picked="https://overcast.fm/+FXx5oC3S0/1:01:44" pick="2" pick-conditions="1" score="-1" tags="[[2021 April Rickies]] Ricky Mac Pick" title="2 sizes of iMac announced" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210419172505280" creator="jbiatek" modified="20211012164852271" modifier="jbiatek" picked="20170104" tags="[[Annual Games]] Game" title="2017 Annual Predictions" type="text/vnd.tiddlywiki" winner="Tie - Myke and Stephen" revision="0" bag="default">
+<div created="20210419172505280" creator="jbiatek" graded="20180102" modified="20220121213339843" modifier="jbiatek" picked="20170104" tags="[[Annual Games]] Game" title="2017 Annual Predictions" type="text/vnd.tiddlywiki" winner="Tie - Myke and Stephen" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12214,7 +12231,7 @@ They don't seem to have actually crowned a winner, as Stephen and Myke tied and 
 <div created="20210419173632433" creator="jbiatek" host="Myke" modified="20220114212534621" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx75_MJc/03:37" overcast-picked="https://overcast.fm/+FXx7nikbQ/32:08" pick="1.3" pick-conditions="5" score="0.5" tags="[[2017 Annual Predictions]] Regular Mac Pick" title="2017 will see a more powerful iMac at the top of the line that rivals and replaces the Mac Pro" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;&quot;The Mac Pro will go away, the Mac Mini also goes away, by the end of 2017 the iMac is all that remains&quot;&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210416223559072" modified="20211012164852279" picked="20180109" score-sort="Federico Stephen Myke" tags="[[Annual Games]] Game" title="2018 Annual Predictions" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
+<div created="20210416223559072" graded="20181226" modified="20220121213406060" picked="20180109" score-sort="Federico Stephen Myke" tags="[[Annual Games]] Game" title="2018 Annual Predictions" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12228,7 +12245,7 @@ As far as I know, there was no tiebreaker for second place, but Stephen went sec
 {{||$:/NonGradedPickTemplate}}
 </pre>
 </div>
-<div created="20210420005450162" creator="jbiatek" modified="20220120222553608" modifier="jbiatek" picked="20180905" tags="[[Other Games]] Game [[iPhone Event]]" title="2018 iPhone Event Predictions" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
+<div created="20210420005450162" creator="jbiatek" graded="20180913" modified="20220121213438358" modifier="jbiatek" picked="20180905" tags="[[Other Games]] Game [[iPhone Event]]" title="2018 iPhone Event Predictions" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 This starts out as &quot;no prizes&quot; for these predictions, just saying stuff and seeing what happens. 
@@ -12247,7 +12264,7 @@ But after the event, when some are right and some are wrong, there is suddenly a
 
 As this wasn't expected to be strictly graded at first, there is some contention about how to grade the results. Federico advocates for weighing based on importance. Stephen argues for percentages. It is widely agreed that Myke has lost. Myke insists that as the loser, he picks the winner, and picks Stephen. Federico deems this a conspiracy. After some bickering, Myke declares that the scores are as above (the exact math seems to have been some combination of rounding and placating), and the issue is settled.</pre>
 </div>
-<div created="20210416195305323" creator="jbiatek" modified="20211012164852285" modifier="jbiatek" picked="20190109" score-sort="Federico Myke Stephen" tags="[[Annual Games]] Game" title="2019 Annual Predictions" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
+<div created="20210416195305323" creator="jbiatek" graded="20200101" modified="20220121213506700" modifier="jbiatek" picked="20190109" score-sort="Federico Myke Stephen" tags="[[Annual Games]] Game" title="2019 Annual Predictions" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12260,10 +12277,10 @@ Myke wins [[the coin flip|2019 coin flip for second place]] for second place, en
 
 {{||$:/NonGradedPickTemplate}}</pre>
 </div>
-<div created="20210416203107830" loser="Stephen" modified="20210507181758687" result="Heads" tags="[[2019 Annual Predictions]] [[Coin flip]]" title="2019 coin flip for second place" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div called="Heads" caller="Myke" created="20210416203107830" flip-method="Siri" loser="Stephen" modified="20220121182532573" overcast-link="https://overcast.fm/+FXx7hS2kY/25:01" result="Heads" tags="[[2019 Annual Predictions]] [[Coin flip]]" title="2019 coin flip for second place" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210429060709186" creator="jbiatek" modified="20211012164906707" modifier="jbiatek" picked="20190904" score-sort="Stephen Myke Federico" tags="[[Keynote Games]] Game [[iPhone Event]]" title="2019 Fall Rickies" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
+<div created="20210429060709186" creator="jbiatek" graded="20190911" modified="20220121213526730" modifier="jbiatek" picked="20190904" score-sort="Stephen Myke Federico" tags="[[Keynote Games]] Game [[iPhone Event]]" title="2019 Fall Rickies" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12277,16 +12294,16 @@ Myke wins [[the coin flip|2019 coin flip for second place]] for second place, en
 <div created="20210416204317190" host="Myke" modified="20220114074414763" overcast-graded="https://overcast.fm/+FXx7hS2kY/30:48" overcast-picked="https://overcast.fm/+FXx5i5-3Y/1:12:34" pick="2.3" pick-conditions="1" score="1" tags="[[2019 Annual Predictions]] NonGraded iPhone Pick" title="2019 iPhones will start at a lower price than the 2018 iPhones" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210507181053679" creator="jbiatek" modified="20210507182038253" modifier="jbiatek" result="Heads" tags="[[Coin flip]] [[2019 Media Event Predictions]]" title="2019 Media Event best of 3 coin flip for first, flip 1" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210507181053679" creator="jbiatek" flip-method="Siri" modified="20220121182612972" modifier="jbiatek" overcast-link="https://overcast.fm/+FXx75P5Bg/45:38" result="Heads" tags="[[Coin flip]] [[2019 Media Event Predictions]]" title="2019 Media Event best of 3 coin flip for first, flip 1" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Myke was heads and Stephen was tails. The full results were heads, tails, heads.</pre>
 </div>
-<div created="20210507181344125" creator="jbiatek" modified="20210507182027003" modifier="jbiatek" result="Tails" tags="[[Coin flip]] [[2019 Media Event Predictions]]" title="2019 Media Event best of 3 coin flip for first, flip 2" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210507181344125" creator="jbiatek" flip-method="Siri" modified="20220121182622870" modifier="jbiatek" overcast-link="https://overcast.fm/+FXx75P5Bg/46:27" result="Tails" tags="[[Coin flip]] [[2019 Media Event Predictions]]" title="2019 Media Event best of 3 coin flip for first, flip 2" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Myke was heads and Stephen was tails. The full results were heads, tails, heads.</pre>
 </div>
-<div created="20210507181400990" creator="jbiatek" loser="Stephen" modified="20210507181557584" modifier="jbiatek" result="Heads" tags="[[Coin flip]] [[2019 Media Event Predictions]]" title="2019 Media Event best of 3 coin flip for first, flip 3" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div called="Heads" caller="Myke" created="20210507181400990" creator="jbiatek" flip-method="Siri" loser="Stephen" modified="20220121182636378" modifier="jbiatek" overcast-link="https://overcast.fm/+FXx75P5Bg/49:40" result="Heads" tags="[[Coin flip]] [[2019 Media Event Predictions]]" title="2019 Media Event best of 3 coin flip for first, flip 3" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre>Myke was heads and Stephen was tails. The full results were heads, tails, heads.</pre>
 </div>
-<div created="20210430024049703" creator="jbiatek" modified="20211012164906751" modifier="jbiatek" picked="20190319" score-sort="Myke Stephen Federico" tags="[[Keynote Games]] Game" title="2019 Media Event Predictions" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div created="20210430024049703" creator="jbiatek" graded="20190327" modified="20220121213547695" modifier="jbiatek" picked="20190319" score-sort="Myke Stephen Federico" tags="[[Keynote Games]] Game" title="2019 Media Event Predictions" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 The pick order was chosen randomly, but the results would go on to set the order for WWDC predictions, as announced in episode 234: a &quot;qualifying round&quot; using the rules of the annual predictions. That makes this the first of what we now call the Keynote Rickies.
@@ -12305,13 +12322,13 @@ Stephen proposes best of 3, Myke is heads. The results are [[heads|2019 Media Ev
 
 These were non-graded picks for bragging rights, and indeed weren't ever graded officially.</pre>
 </div>
-<div created="20210429201001696" creator="jbiatek" loser="Myke and Federico" modified="20210507181750870" modifier="jbiatek" result="Tails" tags="[[Coin flip]] [[2019 WWDC Predictions]]" title="2019 WWDC &quot;knockout&quot; flip for first place" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
+<div called="Heads" caller="Myke and Federico" created="20210429201001696" creator="jbiatek" flip-method="Siri" loser="Myke and Federico" modified="20220121182703026" modifier="jbiatek" overcast-link="https://overcast.fm/+FXx4xqI14/49:32" result="Tails" tags="[[Coin flip]] [[2019 WWDC Predictions]]" title="2019 WWDC &quot;knockout&quot; flip for first place" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
 <pre>All 3 chose heads or tails, and both Myke and Federico were wrong, leaving Stephen alone in first.</pre>
 </div>
-<div created="20210429201136116" creator="jbiatek" loser="Federico" modified="20210507181741819" modifier="jbiatek" result="Tails" tags="[[Coin flip]] [[2019 WWDC Predictions]]" title="2019 WWDC flip for second place" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div called="Heads" caller="Federico" created="20210429201136116" creator="jbiatek" flip-method="Siri" loser="Federico" modified="20220121182714175" modifier="jbiatek" overcast-link="https://overcast.fm/+FXx4xqI14/53:22" result="Tails" tags="[[Coin flip]] [[2019 WWDC Predictions]]" title="2019 WWDC flip for second place" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210429184248607" creator="jbiatek" flexie-score-sort="Myke Federico Stephen" modified="20211012164906764" modifier="jbiatek" picked="20190528" score-sort="Stephen Myke Federico" tags="[[Keynote Games]] Game WWDC" title="2019 WWDC Predictions" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
+<div created="20210429184248607" creator="jbiatek" flexie-score-sort="Myke Federico Stephen" graded="20190606" modified="20220121213615905" modifier="jbiatek" picked="20190528" score-sort="Stephen Myke Federico" tags="[[Keynote Games]] Game WWDC" title="2019 WWDC Predictions" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 In episode 245, Stephen mentions accidentally sending &quot;Ricky&quot; instead of &quot;risky&quot; in an iMessage, which ends up being a major shift in branding for the Connected predictions game.
@@ -12338,7 +12355,7 @@ The non-graded picks have mild stakes added: the loser must buy a round of drink
 
 Stephen owes drinks to the other two.</pre>
 </div>
-<div created="20210415174738530" modified="20211012164852293" picked="20200101" score-sort="Myke Stephen Federico" tags="[[Annual Games]] Game" title="2020 Annual Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div created="20210415174738530" graded="20210107" modified="20220121213654999" picked="20200101" score-sort="Myke Stephen Federico" tags="[[Annual Games]] Game" title="2020 Annual Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12353,7 +12370,7 @@ Stephen coins &quot;The Flexies&quot; in the 2020 prediction episode.
 
 In the year between making the picks and grading them, the Flexies became a game of their own with money on the line, but the new Flexie rules were //not// applied retroactively to this year's Flexie picks. &quot;That would just be silly&quot; and &quot;We're not savages&quot;, after all. As a result, these Flexies are just two rounds of predictions for bragging rights.</pre>
 </div>
-<div created="20210421055926555" creator="jbiatek" donation="75" donator="Federico" flexie-score-sort="Stephen Myke Federico" flexies-winner="Stephen" modified="20211012164906784" modifier="jbiatek" picked="20201104" score-sort="Stephen Myke Federico" tags="[[Keynote Games]] Game" title="2020 November Rickies" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
+<div charity-name="Eden's Run" charity-url="https://fundraise.operationbrokensilence.org/team/318824" created="20210421055926555" creator="jbiatek" donation="75" donator="Federico" flexie-score-sort="Stephen Myke Federico" flexies-winner="Stephen" graded="20201111" modified="20220121225857904" modifier="jbiatek" picked="20201104" score-sort="Stephen Myke Federico" tags="[[Keynote Games]] Game" title="2020 November Rickies" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12369,7 +12386,7 @@ In the year between making the picks and grading them, the Flexies became a game
 Federico donates $75 to &lt;a href=&quot;https://fundraise.operationbrokensilence.org/team/318824&quot; target=&quot;_blank&quot;&gt;Stephen's wife's 5K&lt;/a&gt; for &lt;a href=&quot;https://fundraise.operationbrokensilence.org/event/edens-run-2020-virtual-challenge/e291154&quot; target=&quot;_blank&quot;&gt;Eden's Run&lt;/a&gt;.
 </pre>
 </div>
-<div created="20210426162958246" creator="jbiatek" donation="100" donator="Federico" flexie-score-sort="Stephen Myke Federico" flexies-winner="Stephen" modified="20211013210958398" modifier="jbiatek" picked="20201007" score-sort="Federico Stephen Myke" tags="[[Keynote Games]] Game [[iPhone Event]]" title="2020 October Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
+<div charity-name="Forrest Spence Fund" charity-url="https://www.forrestspencefund.org/about-us/" created="20210426162958246" creator="jbiatek" donation="100" donator="Federico" flexie-score-sort="Stephen Myke Federico" flexies-winner="Stephen" graded="20201014" modified="20220121225824461" modifier="jbiatek" picked="20201007" score-sort="Federico Stephen Myke" tags="[[Keynote Games]] Game [[iPhone Event]]" title="2020 October Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12384,10 +12401,10 @@ Federico donates $75 to &lt;a href=&quot;https://fundraise.operationbrokensilenc
 
 Federico donates $100 to the &lt;a href=&quot;https://www.forrestspencefund.org/about-us/&quot; target=&quot;_blank&quot;&gt;Forrest Spence Fund&lt;/a&gt;, after some international transaction issues.</pre>
 </div>
-<div created="20210427203128743" loser="Stephen" modified="20210507181711002" result="Tails" tags="[[Coin flip]] [[2020 September Rickies]]" title="2020 September coin flip for second place" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div called="Heads" caller="Stephen" created="20210427203128743" flip-method="Siri" loser="Stephen" modified="20220121183115188" overcast-link="https://overcast.fm/+FXx5peDck/53:56" result="Tails" tags="[[Coin flip]] [[2020 September Rickies]]" title="2020 September coin flip for second place" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210427201228063" creator="jbiatek" donation="100" donator="Stephen" flexie-score-sort="Federico Myke Stephen" flexies-winner="Federico" modified="20211012164906889" modifier="jbiatek" picked="20200916" score-sort="Federico Myke Stephen" tags="[[Keynote Games]] Game" title="2020 September Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
+<div charity-name="Fur Kids" charity-url="https://furkids.org/" created="20210427201228063" creator="jbiatek" donation="100" donator="Stephen" flexie-score-sort="Federico Myke Stephen" flexies-winner="Federico" graded="20200916" modified="20220121225614484" modifier="jbiatek" picked="20200910" score-sort="Federico Myke Stephen" tags="[[Keynote Games]] Game" title="2020 September Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12407,10 +12424,10 @@ The rule about ties and ratios comes into play, dropping Stephen into last place
 This is the first Flexies with donations to charity. As such, Stephen donates $100 to &lt;a href=&quot;https://furkids.org/&quot; target=&quot;_blank&quot;&gt;Fur Kids&lt;/a&gt;.
 </pre>
 </div>
-<div created="20210428010023252" loser="Stephen" modified="20210507181014463" result="&quot;Little R&quot; on a Relay.FM challenge coin" tags="[[Coin flip]] [[2020 Summer Rickies]]" title="2020 Summer coin flip for the win" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div called="Tails" caller="Myke" created="20210428010023252" flip-method="Jason Snell, using a physical Relay.FM challenge coin" loser="Stephen" modified="20220121205508307" overcast-link="https://overcast.fm/+FXx7KvDUI/39:43" result="Tails" tags="[[Coin flip]] [[2020 Summer Rickies]]" title="2020 Summer coin flip for the win" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre>Jason Snell flips a Relay.FM challenge coin, and it lands on &quot;little R&quot;.</pre>
 </div>
-<div created="20210428003943648" flexie-score-sort="Stephen Myke Federico" modified="20211012164906915" picked="20200617" score-sort="Myke Stephen Federico" tags="[[Keynote Games]] Game WWDC" title="2020 Summer Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div created="20210428003943648" flexie-score-sort="Stephen Myke Federico" graded="20200624" modified="20220121213825078" picked="20200617" score-sort="Myke Stephen Federico" tags="[[Keynote Games]] Game WWDC" title="2020 Summer Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12428,10 +12445,10 @@ Myke wins [[a special Relay challenge coin flip by Jason Snell|2020 Summer coin 
 Federico loses due to the &quot;ratio&quot; tiebreaker, which is created in the moment, and thus owes drinks. But from the next Rickies on, the Flexies will include a substantial donation to charity from the loser.
 </pre>
 </div>
-<div created="20220105232430043" loser="Federico" modified="20220105233637755" result="Tails" tags="[[Coin flip]] [[2021 Annual Rickies]]" title="2021 Annual coin flip for first place" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
+<div called="Heads" caller="Federico" created="20220105232430043" flip-method="Dice by PCalc" loser="Federico" modified="20220121223405458" overcast-link="https://overcast.fm/+FXx6bXcOY/37:13" result="Tails" tags="[[Coin flip]] [[2021 Annual Rickies]]" title="2021 Annual coin flip for first place" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210416065847762" creator="jbiatek" donation="125" donator="Federico" flexie-score-sort="Myke Stephen Federico" flexies-winner="Myke" modified="20220105235056921" modifier="jbiatek" picked="20210107" score-sort="Stephen Federico Myke" tags="[[Annual Games]] Game" title="2021 Annual Rickies" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
+<div charity-name="Shelter" charity-url="https://www.shelter.org.uk/" created="20210416065847762" creator="jbiatek" donation="125" donator="Federico" flexie-score-sort="Myke Stephen Federico" flexies-winner="Myke" graded="20220106" modified="20220121230227838" modifier="jbiatek" picked="20210107" score-sort="Stephen Federico Myke" tags="[[Annual Games]] Game" title="2021 Annual Rickies" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
 <pre>The [[2021 Annual Rickies Halftime Report]] is also available, with analysis of the state of the game halfway through the year.
 
 {{||$:/RelevantEpisodeTemplate}}
@@ -12588,13 +12605,13 @@ Stephen has once again made an extra pick above the minimum, putting him at a di
 
 Federico made some very passionate picks, and that may be why he's a favorite to be donating to charity this year. Two of his picks would require some surprise new OS features to be announced as point releases before the end of the year, and a larger iPad and game controller were missing from the recent Spring Loaded event, which otherwise featured iPads and Apple TV.</pre>
 </div>
-<div created="20210426031404974" loser="Stephen" modified="20210507181704416" result="Heads" tags="[[2021 April Rickies]] [[Coin flip]]" title="2021 April coin flip for second place in the Flexies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div called="Heads" caller="Myke" created="20210426031404974" flip-method="Italian Alexa" loser="Stephen" modified="20220121183908027" overcast-link="https://overcast.fm/+FXx6J60tU/1:34:41" result="Heads" tags="[[2021 April Rickies]] [[Coin flip]]" title="2021 April coin flip for second place in the Flexies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210424010501429" loser="Stephen" modified="20210507181656867" result="Tails" tags="[[2021 April Rickies]] [[Coin flip]]" title="2021 April coin flip for second place in the Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div called="Heads" caller="Stephen" created="20210424010501429" flip-method="Italian Alexa" loser="Stephen" modified="20220121183916574" overcast-link="https://overcast.fm/+FXx6J60tU/1:19:25" result="Tails" tags="[[2021 April Rickies]] [[Coin flip]]" title="2021 April coin flip for second place in the Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210420185532450" creator="jbiatek" donation="125" donator="Stephen" flexie-score-sort="Federico Myke Stephen" flexies-winner="Federico" modified="20211012164906949" modifier="jbiatek" picked="20210414" score-sort="Federico Myke Stephen" tags="[[Keynote Games]] Game" title="2021 April Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
+<div charity-name="American Red Cross" charity-url="https://www.redcross.org/" created="20210420185532450" creator="jbiatek" donation="125" donator="Stephen" flexie-score-sort="Federico Myke Stephen" flexies-winner="Federico" graded="20210423" modified="20220121230056652" modifier="jbiatek" picked="20210414" score-sort="Federico Myke Stephen" tags="[[Keynote Games]] Game" title="2021 April Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12609,9 +12626,9 @@ Myke wins [[the coin flip|2021 April coin flip for second place in the Rickies]]
 
 {{||$:/FlexieScoreTemplate}}
 
-Myke again wins [[the coin flip|2021 April coin flip for second place in the Flexies]]. Stephen donates $125 to the Red Cross.</pre>
+Myke again wins [[the coin flip|2021 April coin flip for second place in the Flexies]]. Stephen donates $125 to &lt;a href=&quot;https://www.redcross.org/&quot; target=&quot;_blank&quot;&gt;the American Red Cross&lt;/a&gt;.</pre>
 </div>
-<div created="20211012162502028" donation="100" donator="Federico" flexie-score-sort="Myke Stephen Federico" flexies-winner="Myke" modified="20211021011158871" picked="20211013" score-sort="Federico Myke Stephen" tags="[[Keynote Games]] Game" title="2021 October Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
+<div charity-name="Mind" charity-url="https://www.mind.org.uk/" created="20211012162502028" donation="100" donator="Federico" flexie-score-sort="Myke Stephen Federico" flexies-winner="Myke" graded="20211020" modified="20220121230206746" picked="20211013" score-sort="Federico Myke Stephen" tags="[[Keynote Games]] Game" title="2021 October Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12628,13 +12645,13 @@ Myke crowns himself &quot;The Duke of Flexington&quot;, and directs Federico to 
 
 After the show, in a freely available &lt;a href=&quot;http://getconnectedpro.co&quot; target=&quot;_blank&quot;&gt;Connected Pro&lt;/a&gt; segment, the hosts suspect more shenanigans from James Thomson in PCalc and try it out since the competition itself required no coin flips. This time, the significant others of the Connected hosts have been snuck into the app.</pre>
 </div>
-<div created="20210914200949329" loser="Federico" modified="20210916213913860" result="Heads" tags="[[Coin flip]] [[2021 September Rickies]]" title="2021 September coin flip for Rickies winner" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div called="Tails" caller="Federico" created="20210914200949329" flip-method="Dice by PCalc" loser="Federico" modified="20220121223414957" overcast-link="https://overcast.fm/+FXx6z4vdc/53:54" result="Heads" tags="[[Coin flip]] [[2021 September Rickies]]" title="2021 September coin flip for Rickies winner" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;James Thomson secretly changed Dice by PCalc to use Jason Snell's voice during Connected's typical recording time, but this went unnoticed for this coin flip.&lt;/li&gt;&lt;ul&gt;</pre>
 </div>
-<div created="20210914200846673" loser="Myke" modified="20210916215426862" result="Tails" tags="[[Coin flip]] [[2021 September Rickies]]" title="2021 September coin flip for the Flexies loser" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
+<div called="Tails" caller="Stephen" created="20210914200846673" flip-method="Dice by PCalc" loser="Myke" modified="20220121223423378" overcast-link="https://overcast.fm/+FXx6z4vdc/1:14:10" result="Tails" tags="[[Coin flip]] [[2021 September Rickies]]" title="2021 September coin flip for the Flexies loser" type="text/vnd.tiddlywiki" winner="Stephen" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;This coin flip finally ended Myke's 6 coin flip winning streak and was his first ever solo coin flip loss. James Thomson's tricky insertion of Jason Snell into the Relay mode of Dice by PCalc was finally discovered.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210907193706332" donation="75" donator="Myke" flexie-score-sort="Federico Stephen Myke" flexies-winner="Federico" modified="20211012164906983" picked="20210908" score-sort="Myke Federico Stephen" tags="[[Keynote Games]] Game [[iPhone Event]]" title="2021 September Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div charity-name="St. Jude" charity-url="https://tiltify.com/@relay-fm/relay-st-jude-21" created="20210907193706332" donation="75" donator="Myke" flexie-score-sort="Federico Stephen Myke" flexies-winner="Federico" graded="20210916" modified="20220121230144311" picked="20210908" score-sort="Myke Federico Stephen" tags="[[Keynote Games]] Game [[iPhone Event]]" title="2021 September Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12653,10 +12670,10 @@ Federico decides that he is &quot;Prince Flexie&quot;, either due to his high do
 
 Myke [[finally tastes defeat in coin flips|2021 September coin flip for the Flexies loser]], and donates $75 to, of course, &lt;a href=&quot;https://tiltify.com/@relay-fm/relay-st-jude-21&quot; target=&quot;_blank&quot;&gt;St. Jude&lt;/a&gt;. James Thomson's tricky insertion of Jason Snell into the Relay coin flipper is finally discovered (deviously, this mode only turns on during Connected's typical recording time). As punishment, Jason and James are ordered to donate to St. Jude as well, and James is also banned from flipping coins.</pre>
 </div>
-<div created="20210609194717636" loser="Stephen" modified="20210609195021180" result="Tails" tags="[[Coin flip]] [[2021 WWDC Rickies]]" title="2021 WWDC coin flip for second place in the Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
+<div called="Tails" caller="Federico" created="20210609194717636" flip-method="Siri" loser="Stephen" modified="20220121202505787" overcast-link="https://overcast.fm/+FXx70G0aw/1:10:17" result="Tails" tags="[[Coin flip]] [[2021 WWDC Rickies]]" title="2021 WWDC coin flip for second place in the Rickies" type="text/vnd.tiddlywiki" winner="Federico" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210531181035036" donation="175" donator="Federico" flexie-score-sort="Myke Stephen Federico" flexies-winner="Myke" modified="20211012164907024" picked="20210531" score-sort="Myke Federico Stephen" tags="[[Keynote Games]] Game WWDC" title="2021 WWDC Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div charity-name="Stonewall" charity-url="https://www.stonewall.org.uk/" created="20210531181035036" donation="175" donator="Federico" flexie-score-sort="Myke Stephen Federico" flexies-winner="Myke" graded="20210610" modified="20220121230119543" picked="20210531" score-sort="Myke Federico Stephen" tags="[[Keynote Games]] Game WWDC" title="2021 WWDC Rickies" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -12673,7 +12690,7 @@ Federico wins [[the coin flip for second place|2021 WWDC coin flip for second pl
 
 The grading of Flexies was formally changed to be based on percentage correct, making Federico the loser. He donates $175 to &lt;a href=&quot;https://www.stonewall.org.uk&quot; target=&quot;_blank&quot;&gt;Stonewall&lt;/a&gt;.</pre>
 </div>
-<div created="20220107050038985" creator="jbiatek" flexies-winner="TBD" modified="20220107050129811" modifier="jbiatek" picked="20220105" tags="[[Annual Games]] Game" title="2022 Annual Rickies" type="text/vnd.tiddlywiki" winner="TBD" revision="0" bag="default">
+<div created="20220107050038985" creator="jbiatek" flexies-winner="TBD" graded="" modified="20220121213317194" modifier="jbiatek" picked="20220105" tags="[[Annual Games]] Game" title="2022 Annual Rickies" type="text/vnd.tiddlywiki" winner="TBD" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 {{||$:/RegularPickTemplate}}
@@ -13171,7 +13188,7 @@ As a single page wiki, the page URL doesn't change as items are opened. To link 
 <div created="20210420210602319" host="Stephen" modified="20220117070537180" overcast-graded="https://overcast.fm/+FXx6J60tU/1:05:31" overcast-picked="https://overcast.fm/+FXx5oC3S0/59:00" pick="1" pick-conditions="1" score="-1" tags="[[2021 April Rickies]] Ricky Stagecraft [[Augmented Reality]] Pick" title="At this event, we see some sort of AR-focused hardware" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210421053528029" creator="jbiatek" modified="20211012164919247" modifier="jbiatek" picked="20180626" score-sort="Myke Stephen Federico" tags="[[Other Games]] Game" title="Audio Predictions" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
+<div created="20210421053528029" creator="jbiatek" graded="20191106" modified="20220121214112916" modifier="jbiatek" picked="20180626" score-sort="Myke Stephen Federico" tags="[[Other Games]] Game" title="Audio Predictions" type="text/vnd.tiddlywiki" winner="Myke" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 Myke proposes an audio predictions game, to be graded at the end of 2019.
@@ -13224,26 +13241,61 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 <div color="#a96800" created="20210601152432622" modified="20210601152440852" title="Coin flip" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20210907151834486" modified="20211012165341862" tags="[[Scores and Stats]]" title="Coin Flips" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>&lt;table&gt;
-&lt;tr&gt;&lt;th&gt;Description&lt;/th&gt;&lt;th&gt;Winner&lt;/th&gt;&lt;th&gt;Loser&lt;/th&gt;&lt;/tr&gt;
-&lt;$list filter=&quot;[tag[Game]] +[sort[picked]]&quot; variable=&quot;contest&quot;&gt;
+<div created="20210907151834486" modified="20220122041220673" tags="[[Scores and Stats]]" title="Coin Flips" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>&lt;div style=&quot;overflow-x: scroll;&quot;&gt;
+&lt;table&gt;
+&lt;tr&gt;&lt;th&gt;Description&lt;/th&gt;&lt;th&gt;Result&lt;/th&gt;&lt;th&gt;Winner&lt;/th&gt;&lt;th&gt;Loser&lt;/th&gt;&lt;th&gt;Coin flip method&lt;/th&gt;&lt;/tr&gt;
+&lt;$list filter=&quot;[tag[Game]sort[graded]]&quot; variable=&quot;contest&quot;&gt;
 &lt;$list filter=&quot;[tag&lt;contest&gt;tag[Coin flip]sort[title]]&quot;&gt;
 &lt;tr&gt;
 &lt;th&gt;
 &lt;$link/&gt;
 &lt;/th&gt;
+&lt;td&gt;{{!!result}}&lt;/td&gt;
 &lt;td&gt;{{!!winner}}&lt;/td&gt;
 &lt;td&gt;{{!!loser}}&lt;/td&gt;
+&lt;td&gt;{{!!flip-method}}&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/$list&gt;
 &lt;/$list&gt;
 &lt;/table&gt;
+&lt;/div&gt;
 
-* Heads: &lt;$text text={{{ [result[Heads]count[]] }}}/&gt;
-* Tails: &lt;$text text={{{ [result[Tails]count[]] }}}/&gt;
-* Other: &lt;ul&gt;&lt;$list filter=&quot;[!result[Heads]!result[Tails]!result[]]&quot;&gt;&lt;li&gt;&lt;$link/&gt;: {{!!result}}&lt;/li&gt;&lt;/$list&gt;&lt;/ul&gt;
-</pre>
+!! Statistics &amp; Trivia
+
+The coin flip result has been &lt;$text text={{{ [result[Heads]count[]] }}}/&gt; heads,  &lt;$text text={{{ [result[Tails]count[]] }}}/&gt; tails. The host who gets to make the call has won &lt;$text text={{{ [contains:caller[Stephen]contains:winner[Stephen]] [contains:caller[Myke]contains:winner[Myke]] [contains:caller[Federico]contains:winner[Federico]] +[count[]] }}}/&gt; and lost &lt;$text text={{{ [contains:caller[Stephen]contains:loser[Stephen]] [contains:caller[Myke]contains:loser[Myke]] [contains:caller[Federico]contains:loser[Federico]] +[count[]] }}}/&gt;.
+
+Results by coin flip method:
+
+&lt;ul&gt;&lt;$list filter=&quot;[tag[Coin flip]each[flip-method]get[flip-method]]&quot; variable=&quot;flipMethod&quot;&gt;&lt;li&gt;&lt;$text text=&lt;&lt;flipMethod&gt;&gt;/&gt;: &lt;$text text={{{ [flip-method&lt;flipMethod&gt;result[Heads]count[]] }}}/&gt; heads, &lt;$text text={{{ [flip-method&lt;flipMethod&gt;result[Tails]count[]] }}}/&gt; tails&lt;/li&gt;&lt;/$list&gt;&lt;/ul&gt;
+
+
+
+
+
+
+
+&lt;$list filter=&quot;Stephen Myke Federico&quot; variable=&quot;currentHost&quot;&gt;
+&lt;h2&gt;&lt;$text text=&lt;&lt;currentHost&gt;&gt;/&gt;'s results&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;$text text=&lt;&lt;currentHost&gt;&gt; /&gt; has won &lt;$text text={{{ [tag[Coin flip]contains:winner&lt;currentHost&gt;count[]] }}} /&gt; and lost &lt;$text text={{{ [tag[Coin flip]contains:loser&lt;currentHost&gt;count[]] }}} /&gt;.&lt;/li&gt;
+
+&lt;li&gt;&lt;$text text=&lt;&lt;currentHost&gt;&gt; /&gt; has called &lt;$text text={{{ [tag[Coin flip]contains:caller&lt;currentHost&gt;called[Heads]count[]] }}} /&gt; heads (&lt;$text text={{{ [tag[Coin flip]contains:caller&lt;currentHost&gt;contains:winner&lt;currentHost&gt;called[Heads]count[]] }}} /&gt; successfully) and &lt;$text text={{{ [tag[Coin flip]contains:caller&lt;currentHost&gt;called[Tails]count[]] }}} /&gt; tails (&lt;$text text={{{ [tag[Coin flip]contains:caller&lt;currentHost&gt;contains:winner&lt;currentHost&gt;called[Tails]count[]] }}} /&gt; successfully).&lt;/li&gt;
+
+&lt;li&gt;When &lt;$text text=&lt;&lt;currentHost&gt;&gt;/&gt; has gotten to make the call, he has won &lt;$text text={{{ [tag[Coin flip]contains:caller&lt;currentHost&gt;contains:winner&lt;currentHost&gt;count[]] }}} /&gt; and lost &lt;$text text={{{ [tag[Coin flip]contains:caller&lt;currentHost&gt;contains:loser&lt;currentHost&gt;count[]] }}} /&gt;.&lt;/li&gt;
+
+&lt;li&gt;When the result is heads, &lt;$text text=&lt;&lt;currentHost&gt;&gt; /&gt; has won &lt;$text text={{{ [tag[Coin flip]contains:winner&lt;currentHost&gt;result[Heads]count[]] }}} /&gt; and lost &lt;$text text={{{ [tag[Coin flip]contains:loser&lt;currentHost&gt;result[Heads]count[]] }}} /&gt;.&lt;/li&gt;
+
+&lt;li&gt;When the result is tails, &lt;$text text=&lt;&lt;currentHost&gt;&gt; /&gt; has won &lt;$text text={{{ [tag[Coin flip]contains:winner&lt;currentHost&gt;result[Tails]count[]] }}} /&gt; and lost &lt;$text text={{{ [tag[Coin flip]contains:loser&lt;currentHost&gt;result[Tails]count[]] }}} /&gt;.&lt;/li&gt;
+
+&lt;li&gt;&lt;$text text=&lt;&lt;currentHost&gt;&gt; /&gt;'s success by coin flip method: &lt;ul&gt;&lt;$list filter=&quot;[tag[Coin flip]each[flip-method]get[flip-method]]&quot; variable=&quot;flipMethod&quot;&gt;&lt;li&gt;&lt;$text text=&lt;&lt;flipMethod&gt;&gt;/&gt;: won &lt;$text text={{{ [tag[Coin flip]contains:winner&lt;currentHost&gt;flip-method&lt;flipMethod&gt;count[]] }}} /&gt;, lost &lt;$text text={{{ [tag[Coin flip]contains:loser&lt;currentHost&gt;flip-method&lt;flipMethod&gt;count[]] }}} /&gt;&lt;/li&gt;&lt;/$list&gt;&lt;/ul&gt;&lt;/li&gt;
+
+&lt;$list filter=&quot;Stephen Myke Federico -[&lt;currentHost&gt;]&quot; variable=&quot;opponent&quot;&gt;&lt;li&gt;Against &lt;$text text=&lt;&lt;opponent&gt;&gt;/&gt;, &lt;$text text=&lt;&lt;currentHost&gt;&gt;/&gt; has won &lt;$text text={{{ [tag[Coin flip]contains:winner&lt;currentHost&gt;contains:loser&lt;opponent&gt;count[]] }}} /&gt; and lost &lt;$text text={{{ [tag[Coin flip]contains:loser&lt;currentHost&gt;contains:winner&lt;opponent&gt;count[]] }}} /&gt;.&lt;/li&gt;&lt;/$list&gt;
+
+&lt;/ul&gt;
+
+&lt;/$list&gt;</pre>
 </div>
 <div created="20210605064643088" episode="123" modified="20210605225217307" tags="[[2017 Annual Predictions]]" title="Connected #123: 2017 Apple Predictions" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>The first &quot;predictions draft&quot;, used &quot;round robin&quot; ordering in 3 rounds. Picks were not allowed to be too &quot;simple&quot;, like &quot;Apple will release an iPhone&quot;, they must be specific. Myke decides, apparently on the spot, that these predictions will be checked at the end of the year to pick a winner.</pre>
@@ -13454,8 +13506,8 @@ Myke proposes an audio predictions game, to be graded at the end of 2019.
 &lt;/$list&gt;
 &lt;/$set&gt;</pre>
 </div>
-<div created="20211013204952910" modified="20211014203231473" tags="[[The Bill of Rickies]]" title="Ineligible Picks" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>The following picks are currently not available for reuse, as per [[The Bill of Rickies]] specification of 365 days (established in [[episode 367|Connected #367: The Rickies (October 2021)]]).
+<div created="20211013204952910" modified="20220122165316980" tags="[[The Bill of Rickies]]" title="Ineligible Picks" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>The following picks are currently not allowed to be reused, as per [[The Bill of Rickies]] specification of 365 days (established in [[episode 367|Connected #367: The Rickies (October 2021)]]).
 
 Filter: &lt;$edit-text tiddler=&quot;$:/temp/IneligiblePickSearch&quot; field=&quot;text&quot; tag=&quot;input&quot; default=&quot;&quot; placeholder=&quot;Search this list...&quot;/&gt; &lt;$button set=&quot;$:/temp/IneligiblePickSearch!!text&quot; setTo=&quot;&quot;&gt;Clear&lt;/$button&gt;
 
@@ -13863,49 +13915,45 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div color="#94e3fe" created="20210530222835359" modified="20210906182343404" title="Ricky" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
 </div>
-<div color="#616261" created="20210419224220858" creator="jbiatek" modified="20211012164919273" modifier="jbiatek" tags="Contents" title="Scores and Stats" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>! Victories
+<div color="#616261" created="20210419224220858" creator="jbiatek" modified="20220122160902665" modifier="jbiatek" tags="Contents" title="Scores and Stats" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>!! Victories
 
-!! Annual Rickies:
-&lt;table&gt;
-&lt;tr&gt;&lt;th&gt;Name&lt;/th&gt;&lt;th&gt;Winner&lt;/th&gt;&lt;th&gt;Flexies Winner&lt;/th&gt;&lt;/tr&gt;
-&lt;$list filter=&quot;[tag[Annual Games]sort[picked]]&quot;&gt;
+&lt;div style=&quot;overflow-x: scroll;&quot;&gt;
+&lt;table style=&quot;text-align: center;&quot;&gt;
+&lt;tr&gt;&lt;th&gt;Name&lt;/th&gt;&lt;th&gt;Annual Chairman&lt;/th&gt;&lt;th&gt;Keynote Chairman&lt;/th&gt;&lt;th&gt;Flexies winner&lt;/th&gt;&lt;th&gt;Other results&lt;/th&gt;&lt;/tr&gt;
+&lt;$list filter=&quot;[tag[Game]!winner[TBD]sort[graded]]&quot;&gt;
 &lt;tr&gt;
-&lt;th&gt;
-&lt;$link/&gt;
-&lt;/th&gt;
-&lt;td&gt;{{!!winner}}&lt;/td&gt;
-&lt;td&gt;{{!!flexies-winner}}&lt;/td&gt;
+&lt;td&gt;&lt;$link/&gt;&lt;/td&gt;
+
+
+&lt;$list filter=&quot;[is[current]tag[Annual Games]]&quot;&gt;
+&lt;$set name=&quot;start-date&quot; value={{{ [is[current]get[graded]] }}}&gt;
+&lt;$set name=&quot;end-date&quot; value={{{ [tag[Annual Games]sort[graded]get[graded]compare:date:gt&lt;start-date&gt;first[]else[99999999]] }}} &gt;
+&lt;td class={{{ [is[current]winner[Stephen]] [is[current]winner[Myke]] [is[current]winner[Federico]] +[get[winner]else[]] }}} rowspan={{{ [tag[Game]!tag[Annual Games]get[graded]compare:date:gt&lt;start-date&gt;compare:date:lt&lt;end-date&gt;count[]add[1]] }}}&gt;{{!!winner}}&lt;/td&gt;
+&lt;/$set&gt;
+&lt;/$set&gt;
+&lt;/$list&gt;
+
+&lt;!-- manual buffer for first game --&gt;
+&lt;$list filter=&quot;[[2017 Annual Predictions]is[current]]&quot;&gt;
+&lt;td rowspan=&quot;4&quot; /&gt;
+&lt;/$list&gt;
+&lt;$list filter=&quot;[is[current]tag[Keynote Games]]&quot;&gt;
+&lt;$set name=&quot;start-date&quot; value={{{ [is[current]get[graded]] }}}&gt;
+&lt;$set name=&quot;end-date&quot; value={{{ [tag[Keynote Games]sort[graded]get[graded]compare:date:gt&lt;start-date&gt;first[]else[99999999]] }}} &gt;
+&lt;td class={{{ [is[current]winner[Stephen]] [is[current]winner[Myke]] [is[current]winner[Federico]] +[get[winner]else[]] }}} rowspan={{{ [tag[Game]!tag[Keynote Games]get[graded]compare:date:gt&lt;start-date&gt;compare:date:lt&lt;end-date&gt;count[]add[1]] }}}&gt;{{!!winner}}&lt;/td&gt;
+&lt;/$set&gt;
+&lt;/$set&gt;
+&lt;/$list&gt;
+
+&lt;td class={{{ [is[current]flexies-winner[Stephen]] [is[current]flexies-winner[Myke]] [is[current]flexies-winner[Federico]] +[get[flexies-winner]else[]] }}}&gt;{{!!flexies-winner}}&lt;/td&gt;
+
+&lt;td class={{{ [is[current]winner[Stephen]] [is[current]winner[Myke]] [is[current]winner[Federico]] +[is[current]tag[Other Games]get[winner]else[]] }}} &gt;&lt;$list filter=&quot;[is[current]tag[Other Games]]&quot;&gt;{{!!winner}}&lt;/$list&gt;&lt;/td&gt;
+
 &lt;/tr&gt;
 &lt;/$list&gt;
 &lt;/table&gt;
-
-!! Keynote Rickies:
-&lt;table&gt;
-&lt;tr&gt;&lt;th&gt;Name&lt;/th&gt;&lt;th&gt;Winner&lt;/th&gt;&lt;th&gt;Flexies Winner&lt;/th&gt;&lt;/tr&gt;
-&lt;$list filter=&quot;[tag[Keynote Games]sort[picked]]&quot;&gt;
-&lt;tr&gt;
-&lt;th&gt;
-&lt;$link/&gt;
-&lt;/th&gt;
-&lt;td&gt;{{!!winner}}&lt;/td&gt;
-&lt;td&gt;{{!!flexies-winner}}&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/$list&gt;
-&lt;/table&gt;
-
-!! Other:
-&lt;table&gt;
-&lt;tr&gt;&lt;th&gt;Name&lt;/th&gt;&lt;th&gt;Winner&lt;/th&gt;&lt;/tr&gt;
-&lt;$list filter=&quot;[tag[Other Games]sort[picked]]&quot;&gt;
-&lt;tr&gt;
-&lt;th&gt;
-&lt;$link/&gt;
-&lt;/th&gt;
-&lt;td&gt;{{!!winner}}&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/$list&gt;
-&lt;/table&gt;
+&lt;/div&gt;
 
 !! Victories — all
 
@@ -13967,23 +14015,34 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 
 ! Flexies
 
-!! Total scores for all Flexie picks
+Note: this wiki uses &quot;Non-graded&quot; to refer to picks made for bragging rights or buying a round of drinks, and &quot;Flexie&quot; to refer to picks made in games where a donation to charity was at stake. However, the word &quot;Flexie&quot; started to be used before the charity-based game existed, so some picks that were called &quot;Flexies&quot; at the time are not categorized as such here.
 
-(This only includes Flexie picks made after they started to require a donation to charity from the loser.)
+!! Total scores for all Flexie picks
 
 &lt;&lt;percent-correct [tag[Flexie]]&gt;&gt;
 
-!! Total donations to charity
+!! Donations to charity
 
-* Stephen: $&lt;$text text={{{ [donator[Stephen]get[donation]sum[]] }}}/&gt;
-
-* Myke: $&lt;$text text={{{ [donator[Myke]get[donation]sum[]] }}}/&gt;
-
-* Federico: $&lt;$text text={{{ [donator[Federico]get[donation]sum[]] }}}/&gt;
+&lt;div style=&quot;overflow-x: scroll;&quot;&gt;
+&lt;table style=&quot;text-align: center;&quot;&gt;&lt;tr&gt;&lt;th&gt;Game&lt;/th&gt;&lt;th&gt;🇺🇸 Stephen&lt;/th&gt;&lt;th&gt;🇬🇧 Myke&lt;/th&gt;&lt;th&gt;🇮🇹 Federico&lt;/th&gt;&lt;th&gt;Charity&lt;/th&gt;&lt;/tr&gt;
+&lt;$list filter=&quot;[tag[Game]!donation[]sort[graded]]&quot;&gt;
+&lt;tr&gt;&lt;td&gt;&lt;$link/&gt;&lt;/td&gt;
+&lt;td&gt;&lt;$list filter=&quot;[is[current]donator[Stephen]]&quot;&gt;$&lt;$text text={{{ [is[current]get[donation]] }}}/&gt;&lt;/$list&gt;&lt;/td&gt;
+&lt;td&gt;&lt;$list filter=&quot;[is[current]donator[Myke]]&quot;&gt;$&lt;$text text={{{ [is[current]get[donation]] }}}/&gt;&lt;/$list&gt;&lt;/td&gt;
+&lt;td&gt;&lt;$list filter=&quot;[is[current]donator[Federico]]&quot;&gt;$&lt;$text text={{{ [is[current]get[donation]] }}}/&gt;&lt;/$list&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href={{{ [is[current]get[charity-url]] }}} target=&quot;_blank&quot;&gt;&lt;$text text={{{ [is[current]get[charity-name]] }}}/&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/$list&gt;
+&lt;tr&gt;&lt;th&gt;Total&lt;/th&gt;
+  &lt;th&gt;$&lt;$text text={{{ [donator[Stephen]get[donation]sum[]] }}}/&gt;&lt;/th&gt;
+  &lt;th&gt;$&lt;$text text={{{ [donator[Myke]get[donation]sum[]] }}}/&gt;&lt;/th&gt;
+  &lt;th&gt;$&lt;$text text={{{ [donator[Federico]get[donation]sum[]] }}}/&gt;&lt;/th&gt;
+  &lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
 
 !! Total scores for all non-graded picks
-
-(This only includes &quot;non-graded&quot; or &quot;Flexie&quot; picks made when they were purely for bragging rights or buying a round of drinks.)
 
 * Stephen: &lt;$text text={{{ [tag[NonGraded]host[Stephen]get[score]sum[]] }}}/&gt; out of &lt;$text text={{{ [tag[NonGraded]host[Stephen]count[]] }}}/&gt;
 
@@ -14055,9 +14114,10 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 <div color="#77bb41" created="20210530164533652" modified="20210911145053678" tags="Topics" title="Stagecraft" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>{{||$:/TopicDetailTemplate}}</pre>
 </div>
-<div created="20210906194231386" modified="20210911144736788" tags="[[Scores and Stats]]" title="Success By Pick Complexity" type="text/vnd.tiddlywiki" revision="0" bag="default">
-<pre>This statistic groups picks together by how many conditions are set by a pick. For example, &quot;Apple will release a new iPhone&quot; is 1 condition, and &quot;The next version of Notes will have backlinks, macros, and will see a return to heavy skeuomorphism&quot; is 3 conditions.
+<div created="20210906194231386" modified="20220122161621232" tags="[[Scores and Stats]]" title="Success By Pick Complexity" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>This statistic groups picks together by how many conditions are set by a pick. For example, &quot;Apple will release a new iPhone&quot; is 1 condition, and &quot;The next version of Notes will have backlinks, macros, and will see a return to heavy skeuomorphism&quot; is 3 conditions. This can be a bit subjective, but the general methodology was to consider &quot;how many ways could this pick fail?&quot;
 
+&lt;div style=&quot;overflow-x: scroll;&quot;&gt;
 &lt;table&gt;
 &lt;tr&gt;&lt;th&gt;# Conditions&lt;/th&gt;&lt;th&gt;&lt;/th&gt;&lt;/tr&gt;
 &lt;$list variable=&quot;currentComplexity&quot; filter=&quot;[tag[Pick]get[pick-conditions]unique[]sort[]]&quot;&gt;
@@ -14066,6 +14126,7 @@ This year, Federico seeks to repeat his impressive performance in 2020. We will 
 &lt;/tr&gt;
 &lt;/$list&gt;
 &lt;/table&gt;
+&lt;/div&gt;
 
 !! The high-complexity picks
 
@@ -14140,7 +14201,7 @@ Note that the additional conditions may be in the notes of the pick.
 <div created="20210430041452512" creator="jbiatek" host="Federico" modified="20220120233945773" modifier="jbiatek" overcast-graded="https://overcast.fm/+FXx7iyi9k/19:37" overcast-picked="https://overcast.fm/+FXx7rqIoM/1:20:02" pick="3" pick-conditions="2" score="0" tags="[[Audio Predictions]] Regular Accessories AirPods Pick [[Possible Vindication]]" title="The AirPods line is split in two, and the lower end version gets a price drop" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;The additional condition is an intentionally risky choice by Federico&lt;/li&gt;&lt;li&gt;Ultimately this is in fact his undoing, AirPods never officially get cut from their original $159 price.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210421052424698" creator="jbiatek" modified="20220121000756658" modifier="jbiatek" picked="20180822" tags="[[Other Games]] Game" title="The AirPower Game" type="text/vnd.tiddlywiki" winner="Nobody" revision="0" bag="default">
+<div created="20210421052424698" creator="jbiatek" graded="20190109" modified="20220121214137130" modifier="jbiatek" picked="20180822" tags="[[Other Games]] Game" title="The AirPower Game" type="text/vnd.tiddlywiki" winner="Nobody" revision="0" bag="default">
 <pre>{{||$:/RelevantEpisodeTemplate}}
 
 Myke wants to know: when is AirPower going to come out? Before the 2018 iPhone event, during, or after? (The idea that it wouldn't come out at all apparently never occurred to him, or anyone else for that matter.) Federico wants to play for prizes, not just bragging rights, so Myke promises to come up with a prize, but that doesn't ever happen.
@@ -14531,7 +14592,7 @@ June, 2021
 <div created="20211012163004672" host="Myke" modified="20220114224207913" overcast-graded="https://overcast.fm/+FXx5nWhwg/1:23:07" overcast-picked="https://overcast.fm/+FXx6Hkxs4/1:26:21" pick="3.04" pick-conditions="1" score="0" tags="Pick [[2021 October Rickies]] Flexie Mac Stagecraft" title="Webcam will be called &quot;highest quality on a Mac&quot;" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>&lt;ul&gt;&lt;li&gt;It was &quot;Mac //notebook//&quot;.&lt;/li&gt;&lt;/ul&gt;</pre>
 </div>
-<div created="20210420213953579" creator="jbiatek" modified="20211119224219225" modifier="jbiatek" tags="Contents" title="Welcome" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20210420213953579" creator="jbiatek" modified="20220122165524865" modifier="jbiatek" tags="Contents" title="Welcome" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>This is Rickipedia, a comprehensive repository of information about the ever-evolving Apple prediction game played on &lt;a href=&quot;https://relay.fm/connected/&quot; target=&quot;_blank&quot;&gt;Connected&lt;/a&gt; by hosts Stephen Hackett, Myke Hurley, and Federico Viticci.
 
 
@@ -14544,13 +14605,13 @@ Browse the extensive selection of [[scores and stats|Scores and Stats]], a break
 
 !! ✨ What's new
 
+Big update! On the individual page for each pick, there are now Overcast timestamp links to jump right to both the creation and grading of the pick. [[Try this one for an example|Apple unveils a new high-end audio product]]. The [[Scores and Stats]] have also been revamped with a new view that shows how the Chairmanships line up over time and a nicer Flexies donation view, and the [[Coin Flips]] have much richer data (including Overcast links!) and an excessive amount of analysis.
+
 A digital version of [[The Tricky]] trophy is here to help you correctly set your &lt;a href=&quot;https://www.peerreviewed.io/blog/2021/10/20/scorekeeping-across-borders&quot;&gt;official trophy&lt;/a&gt; or your &lt;a href=&quot;https://www.magtricky.com&quot;&gt;MagTricky&lt;/a&gt;.
 
 There is now a tool for seeing and searching for [[Ineligible Picks]] as per the new [[rules|The Bill of Rickies]]. 
 
 All too often, predicting Apple's actions is less about knowing //what// they will do and more about knowing //when//. In the newest topic category, see each pick that was graded as incorrect not because it was wrong, just [[Ahead of Its Time]]. Also, see which host is most prone to be a [[Buzzkill]], predicting that Apple will disappoint some of its customers.
-
-Early on in The Rickies, Myke was famous for putting too many details into his picks. To approximate a measure of this, there is now a &quot;Pick conditions&quot; count for each pick in the database, and [[a page to give an overview|Success By Pick Complexity]]. This lets us see the differences in success between simple picks and complex ones. 
 
 !! 🏃 Active games
 
@@ -14560,10 +14621,9 @@ Early on in The Rickies, Myke was famous for putting too many details into his p
 
 &lt;ul&gt;&lt;$list filter=&quot;[!episode[]!sort[episode]tags[]tag[Game]!winner[TBD]limit[3]]&quot;&gt;&lt;li&gt;&lt;$link/&gt;&lt;/li&gt;&lt;/$list&gt;&lt;/ul&gt;
 
+!! 📚 Table of Contents
 
-!! 📚 Everything
-
-[[Open the full Table of Contents|Contents]]</pre>
+{{Contents}}</pre>
 </div>
 <div created="20210531201348708" host="Federico" modified="20220116162908220" overcast-graded="https://overcast.fm/+FXx70G0aw/48:38" overcast-picked="https://overcast.fm/+FXx4EWu_4/54:23" pick="2.1" pick-conditions="1" score="0" tags="[[2021 WWDC Rickies]] Regular [[Developer tools]] Pick [[Possible Vindication]]" title="WidgetKit gains new interactivity features that allow you to perform actions inside widgets without launching the associated app" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre></pre>
