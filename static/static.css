@@ -2874,14 +2874,15 @@ background-color: rgb(255, 252, 240);
 
 
 td ul {
-    margin: 5px;
-    padding-left: 0px;
-    list-style-type: none;
+	position: relative;
+	list-style: none;
+	margin-left: 0;
+	padding-left: 1.2em;
 }
-td ul > li:before {
-  content: "–"; /* en dash */
-  position: absolute;
-  margin-left: -1.1em; 
+td ul li:before {
+	content: "–"; /* an en dash */
+	position: absolute;
+	left: 0;
 }
 tr .tc-reveal {
     display: contents;
