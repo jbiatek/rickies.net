@@ -2826,6 +2826,15 @@ Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 }
 
 
+.filterbox fieldset {
+  display: inline-flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.filterbox .checkbox {
+  margin-right: 15px;
+}
+
 [data-tiddler-title="The Bill of Rickies"] .tc-title {
 font-family: "Snell Roundhand", "Georgia", "Times New Roman", -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
