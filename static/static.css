@@ -2966,6 +2966,10 @@ display: none;
 
 [data-tiddler-title="$:/Search"] input[type="search"] {
     width: 75%;
+    border-color: darkgrey;
+}
+input[type="search"] {
+    border-color: darkgrey;
 }
 
 .tc-tags-wrapper {
