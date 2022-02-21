@@ -2966,10 +2966,11 @@ display: none;
 
 [data-tiddler-title="$:/Search"] input[type="search"] {
     width: 75%;
-    border-color: darkgrey;
 }
 input[type="search"] {
-    border-color: darkgrey;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgrey;
 }
 
 .tc-tags-wrapper {
