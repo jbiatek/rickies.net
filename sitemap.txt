@@ -70,6 +70,7 @@ https://rickies.net/static/AirPower%2520will%2520come%2520out%2520before%2520the
 https://rickies.net/static/AirPower%2520will%2520come%2520out%2520the%2520first%2520week%2520of%2520December%25202018.html
 https://rickies.net/static/AirTags%2520unveiled.html
 https://rickies.net/static/All%2520the%2520celebrities%2520will%2520come%2520out%2520at%2520the%2520end%2520and%2520take%2520a%2520picture%2520together.html
+https://rickies.net/static/Alternate%2520Risky.html
 https://rickies.net/static/An%2520AR%2520demo%2520is%2520shown.html
 https://rickies.net/static/An%2520Apple%2520Silicon%2520Mac%2520is%2520available%2520to%2520order%2520in%2520November%25202020.html
 https://rickies.net/static/An%2520Apple%2520Silicon%2520Mac%2520is%2520cheaper%2520than%2520the%2520product%2520it%2520replaces.html
@@ -269,6 +270,7 @@ https://rickies.net/static/Keynote%2520Games.html
 https://rickies.net/static/Legacy%2520widgets%2520are%2520completely%2520removed%2520from%2520the%2520system%252C%2520and%2520there%2520is%2520no%2520longer%2520a%2520place%2520to%2520put%2520widgets%2520to%2520the%2520left%2520of%2520the%2520main%2520home%2520screen.html
 https://rickies.net/static/Line%2520will%2520be%2520XS%252C%25209%252C%25208%252B%252C%25208%252C%25207%252B%252C%25207%252C%2520SE.html
 https://rickies.net/static/Links%2520%2526%2520Shout%2520Outs.html
+https://rickies.net/static/Live%2520Edited.html
 https://rickies.net/static/Mac.html
 https://rickies.net/static/MacBook%2520Pro%2520colors%2520don't%2520include%2520anything%2520radically%2520new%2520for%2520the%2520line.html
 https://rickies.net/static/MacBook%2520Pro%2520has%2520a%2520mini-LED%2520screen.html
@@ -307,6 +309,7 @@ https://rickies.net/static/No%2520Apple%2520Services%2520bundle%2520announced.ht
 https://rickies.net/static/No%2520Mac%2520gets%2520a%2520cellular%2520data%2520option.html
 https://rickies.net/static/No%2520Mac%2520or%2520iPad%2520hardware%2520in%2520the%2520keynote.html
 https://rickies.net/static/No%2520Macs.html
+https://rickies.net/static/No%2520Passion.html
 https://rickies.net/static/No%2520date%2520is%2520provided%2520for%2520macOS%2520Monterey.html
 https://rickies.net/static/No%2520iPads%252C%2520iPhone%2520and%2520Apple%2520Watch%2520only.html
 https://rickies.net/static/No%2520in-person%2520WWDC%25202021.html
@@ -334,6 +337,7 @@ https://rickies.net/static/Only%2520the%2520big%2520iPad%2520Pro%2520gets%2520th
 https://rickies.net/static/Other%2520Games.html
 https://rickies.net/static/Over-ear%2520AirPods%2520are%2520offered%2520with%2520multiple%2520material%2520options.html
 https://rickies.net/static/Over-ear%2520headphones%2520(i.e.%2520HeadPods).html
+https://rickies.net/static/Passionate.html
 https://rickies.net/static/Phil%2520Schiller%2520is%2520nowhere%2520to%2520be%2520seen.html
 https://rickies.net/static/Pick.html
 https://rickies.net/static/Podcasts%2520will%2520gain%2520audio%2520effects%2520for%2520enhanced%2520sound%2520and%2520trim%2520silence.html
