@@ -50,7 +50,7 @@ https://rickies.net/static/A%2520new%2520Apple%2520Pencil%2520with%2520a%2520but
 https://rickies.net/static/A%2520new%2520Apple%2520Watch%2520has%2520at%2520least%2520one%2520new%2520built-in%2520app%2520because%2520of%2520an%2520exclusive%2520feature%2520not%2520found%2520on%2520existing%2520watches.html
 https://rickies.net/static/A%2520new%2520MacBook%2520comes%2520with%2520at%2520least%2520one%2520new%2520non-USB-C%252FThunderbolt%2520port%2520on%2520the%2520laptop%2520itself.html
 https://rickies.net/static/A%2520new%2520Smart%2520Keyboard.html
-https://rickies.net/static/A%2520new%2520base%2520model%2520Mac%2520mini%2520is%2520introduced%2520with%2520the%2520M2%2520chip.%252030%2525%2520smaller%2520in%2520volume%252C%2520but%2520taller%252C%2520and%2520smaller%2520on%2520the%2520sides.html
+https://rickies.net/static/A%2520new%2520base%2520model%2520Mac%2520mini%2520is%2520introduced%2520with%2520the%2520M2%2520chip....html
 https://rickies.net/static/A%2520new%2520color%2520of%2520iPhone%252013%2520(family)%2520is%2520announced.html
 https://rickies.net/static/A%2520new%2520home-focused%2520device%2520is%2520released.html
 https://rickies.net/static/A%2520new%2520iMac%2520has%2520adjustability%2520that%2520is%2520reminiscent%2520of%2520the%2520Pro%2520Display%2520XDR.html
@@ -63,7 +63,7 @@ https://rickies.net/static/A%2520new%2520smart%2520keyboard%253A%2520new%2520mat
 https://rickies.net/static/A%2520new%2520way%2520to%2520turn%2520off%2520confirmation%2520banners%2520in%2520Shortcuts.html
 https://rickies.net/static/A%2520new%252C%2520unique%2520case.html
 https://rickies.net/static/A%2520non-Pro%2520iPad%2520gets%2520a%2520LIDAR%2520sensor.html
-https://rickies.net/static/A%2520revised%252013%2522%2520MBP%2520drops%2520the%2520Touch%2520Bar%252C%2520does%2520not%2520add%2520MagSafe.html
+https://rickies.net/static/A%2520revised%252013%2522%2520MBP%2520drops%2520the%2520Touch%2520Bar%2520but%2520does%2520not%2520add%2520MagSafe.html
 https://rickies.net/static/A%2520streaming%2520service%2520announced%2520as%2520Apple%2520Video.html
 https://rickies.net/static/About.html
 https://rickies.net/static/Accessories.html
@@ -116,7 +116,7 @@ https://rickies.net/static/Apple%2520announces%2520a%2520new%2520Mac%2520Pro%252
 https://rickies.net/static/Apple%2520announces%2520a%2520new%2520display%2520that%2520is%2520not%2520the%2520Pro%2520XDR%252C%2520launching%2520by%2520the%2520end%2520of%25202021%2520somewhere.html
 https://rickies.net/static/Apple%2520announces%2520a%2520new%2520paid%2520service.html
 https://rickies.net/static/Apple%2520announces%2520a%2520video%2520game%2520subscription%2520service.html
-https://rickies.net/static/Apple%2520announces%2520an%2520update%2520to%2520AirPods%2520Max%252C%2520with%2520wireless%2520lossless%2520playback%252C%2520to%2520take%2520full%2520advantage%2520of%2520Apple's%2520classical%2520service.html
+https://rickies.net/static/Apple%2520announces%2520an%2520update%2520to%2520AirPods%2520Max%252C%2520that%2520support%2520wireless%2520lossless%2520playback%252C%2520to%2520take%2520full%2520advantage%2520of%2520Apple's%2520new%2520classical%2520music%2520service.html
 https://rickies.net/static/Apple%2520announces%2520new%2520environmental%2520efforts%252C%2520such%2520as%2520a%2520new%2520recycling%2520robot.html
 https://rickies.net/static/Apple%2520announces%2520original%2520podcast%2520content.html
 https://rickies.net/static/Apple%2520announces%2520something%2520with%2520podcasts.html
@@ -252,7 +252,7 @@ https://rickies.net/static/Connected%2520%2523363%253A%2520FaceIDSensorThatSuppo
 https://rickies.net/static/Connected%2520%2523367%253A%2520The%2520Rickies%2520(October%25202021).html
 https://rickies.net/static/Connected%2520%2523368%253A%2520Eaten%2520by%2520the%2520Italian%2520Post%2520Office.html
 https://rickies.net/static/Connected%2520%2523379%253A%2520The%2520Rickies%2520(January%25202022).html
-https://rickies.net/static/Connected%2520%2523387.html
+https://rickies.net/static/Connected%2520%2523387%253A%2520The%2520Rickies%2520(March%25202022).html
 https://rickies.net/static/Contents.html
 https://rickies.net/static/Craig%2520demos%2520Big%2520Sur%2520features.html
 https://rickies.net/static/Craig%2520is%2520wearing%2520a%2520blue%2520shirt.html
@@ -451,7 +451,7 @@ https://rickies.net/static/The%2520new%2520Mac%2520mini%2520comes%2520in%2520mor
 https://rickies.net/static/The%2520new%2520MacBook%2520Pro%2520power%2520bricks%2520have%2520ports%2520on%2520them%252C%2520like%2520the%2520iMac%2520does%2520for%2520Ethernet.html
 https://rickies.net/static/The%2520new%2520iPad%2520Air%2520supports%2520the%2520Magic%2520Keyboard.html
 https://rickies.net/static/The%2520new%2520iPad%2520Pro%2520comes%2520with%2520a%2520fancy%2520new%2520GaN%2520charger.html
-https://rickies.net/static/The%2520new%2520iPhone%2520SE%2520has%2520a%2520design%2520influenced%2520by%2520the%2520iPhone%2520mini%252C%2520with%2520no%2520Face%2520ID%252C%2520and%2520a%2520Touch%2520ID%2520power%2520button.html
+https://rickies.net/static/The%2520new%2520iPhone%2520SE%2520has%2520a%2520design%2520influenced%2520by%2520the%2520iPhone%2520mini%252C%2520it%2520does%2520not%2520feature%2520Face%2520ID%252C%2520it%2520has%2520a%2520Touch%2520ID%2520power%2520button.html
 https://rickies.net/static/The%2520new%2520iPhone%2520colour%2520will%2520be%2520a%2520new%2520version%2520of%2520a%2520colour%2520they've%2520already%2520used.html
 https://rickies.net/static/The%2520new%2520iPhone%2520will%2520be%2520the%252012S%252C%2520not%2520the%252013.html
 https://rickies.net/static/The%2520new%2520iPhone%2520will%2520have%2520a%2520Touch%2520ID%2520sensor.html
@@ -517,7 +517,7 @@ https://rickies.net/static/iOS%252014.5%2520will%2520drop%2520within%252024%2520
 https://rickies.net/static/iOS%252015%2520drops%2520support%2520for%2520the%2520iPhone%25206S.html
 https://rickies.net/static/iOS%252015%2520gives%2520users%2520more%2520home%2520screen%2520customization%2520options.html
 https://rickies.net/static/iOS%252015%2520releases%2520the%2520following%2520week%2520to%2520the%2520public.html
-https://rickies.net/static/iOS%252015.4%2520or%2520macOS%252012.5%2520get%2520a%2520release%2520date.html
+https://rickies.net/static/iOS%252015.4%2520and%252For%2520macOS%252012.3%2520get%2520a%2520release%2520date.html
 https://rickies.net/static/iOS%252016%2520brings%2520major%2520changes%2520for%2520systemwide%2520design%2520customization.html
 https://rickies.net/static/iOS%252016%2520will%2520bring%2520a%2520more%2520%2522bottom-of-the-screen-centric%2522%2520design%2520to%2520at%2520least%25201%2520additional%2520app.html
 https://rickies.net/static/iOS%2520and%2520iPadOS%252015%2520get%2520native%2520HomeKit%2520widgets.html
