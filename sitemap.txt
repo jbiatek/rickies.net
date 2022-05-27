@@ -36,6 +36,7 @@ https://rickies.net/static/2021%2520WWDC%2520Rickies.html
 https://rickies.net/static/2021%2520WWDC%2520coin%2520flip%2520for%2520second%2520place%2520in%2520the%2520Rickies.html
 https://rickies.net/static/2022%2520Annual%2520Rickies.html
 https://rickies.net/static/2022%2520March%2520Rickies.html
+https://rickies.net/static/2022%2520WWDC%2520Rickies.html
 https://rickies.net/static/5G%2520becomes%2520an%2520option%2520on%2520at%2520least%2520one%2520MacBook.html
 https://rickies.net/static/A%252010.9%2522%2520bezel-less%2520iPad%2520Pro.html
 https://rickies.net/static/A%2520CPU%2520transition%2520is%2520announced%2520for%2520the%2520Mac.html
@@ -63,8 +64,10 @@ https://rickies.net/static/A%2520new%2520smart%2520keyboard%253A%2520new%2520mat
 https://rickies.net/static/A%2520new%2520way%2520to%2520turn%2520off%2520confirmation%2520banners%2520in%2520Shortcuts.html
 https://rickies.net/static/A%2520new%252C%2520unique%2520case.html
 https://rickies.net/static/A%2520non-Pro%2520iPad%2520gets%2520a%2520LIDAR%2520sensor.html
+https://rickies.net/static/A%2520presenter%2520references%2520the%2520fact%2520that%2520some%2520developers%2520are%2520at%2520Apple%2520Park%2520for%2520the%2520keynote.html
 https://rickies.net/static/A%2520revised%252013%2522%2520MBP%2520drops%2520the%2520Touch%2520Bar%2520but%2520does%2520not%2520add%2520MagSafe.html
 https://rickies.net/static/A%2520streaming%2520service%2520announced%2520as%2520Apple%2520Video.html
+https://rickies.net/static/AR-specific%2520features%2520are%2520added%2520to%2520Swift%2520or%2520SwiftUI.html
 https://rickies.net/static/About.html
 https://rickies.net/static/Accessories.html
 https://rickies.net/static/Ahead%2520of%2520Its%2520Time.html
@@ -120,7 +123,9 @@ https://rickies.net/static/Apple%2520announces%2520an%2520update%2520to%2520AirP
 https://rickies.net/static/Apple%2520announces%2520new%2520environmental%2520efforts%252C%2520such%2520as%2520a%2520new%2520recycling%2520robot.html
 https://rickies.net/static/Apple%2520announces%2520original%2520podcast%2520content.html
 https://rickies.net/static/Apple%2520announces%2520something%2520with%2520podcasts.html
+https://rickies.net/static/Apple%2520announces%2520the%2520first%2520M2%2520Mac.html
 https://rickies.net/static/Apple%2520brings%2520Mail%2520extensions%2520to%2520iOS%2520and%2520iPadOS.html
+https://rickies.net/static/Apple%2520brings%2520Quick%2520Note's%2520floating%2520window%2520to%2520iOS.html
 https://rickies.net/static/Apple%2520compares%2520the%2520performance%2520of%2520Apple%2520Silicon%2520Macs%2520to%2520%2522most%2520PCs%2520sold%2520today%2522.html
 https://rickies.net/static/Apple%2520demos%2520a%2520Mac%2520app%2520that%2520takes%2520advantage%2520of%2520the%2520updated%2520Neural%2520Engine.html
 https://rickies.net/static/Apple%2520demos%2520a%2520game%2520running%2520on%2520an%2520Apple%2520Silicon%2520Mac.html
@@ -128,11 +133,13 @@ https://rickies.net/static/Apple%2520demos%2520iOS%2520apps%2520running%2520on%2
 https://rickies.net/static/Apple%2520does%2520some%2520new%2520stuff%2520with%2520Animoji%2520to%2520make%2520it%2520more%2520like%2520Bitmoji.html
 https://rickies.net/static/Apple%2520gives%2520a%2520quick%2520tour%2520of%2520improvements%2520to%2520next%2520round%2520of%2520software%2520updates.html
 https://rickies.net/static/Apple%2520gives%2520a%2520release%2520date%2520for%2520iOS%252013.1%2520and%2520mentions%2520the%2520update%2520on%2520stage.html
+https://rickies.net/static/Apple%2520gives%2520a%2520sneak%2520peak%2520of%2520the%2520new%2520Mac%2520Pro....html
 https://rickies.net/static/Apple%2520gives%2520another%2520extended%2520free%2520period%2520of%2520TV%252B%2520with%2520new%2520product%2520purchases%252C%2520even%2520if%2520you%2520already%2520had%2520a%2520trial.html
 https://rickies.net/static/Apple%2520has%2520Apple%2520Silicon%2520versions%2520of%2520all%2520of%2520its%2520Intel%2520Macs%2520on%2520sale%2520by%2520the%2520end%2520of%25202021.html
 https://rickies.net/static/Apple%2520introduces%2520a%2520new%2520Mac%2520mini%2520with%2520an%2520updated%2520design.html
 https://rickies.net/static/Apple%2520introduces%2520a%2520new%2520proximity-based%2520software%2520feature%2520for%2520iPhone%2520based%2520on%2520the%2520U1%2520chip.html
 https://rickies.net/static/Apple%2520introduces%2520a%2520new%252C%2520lower%2520end%2520Apple%2520Watch%2520model%2520in%2520addition%2520to%2520the%2520higher%2520end%2520Series%25206.html
+https://rickies.net/static/Apple%2520introduces%2520a%2520proper%2520Reminders%2520API%2520for%2520developers.html
 https://rickies.net/static/Apple%2520launches%2520'AirTags'%2520accessories%2520for%2520tracking%2520physical%2520objects.html
 https://rickies.net/static/Apple%2520launches%2520a%2520new%2520AirPods%2520app%2520for%2520iPhone%252C%2520similar%2520to%2520Watch%2520app.html
 https://rickies.net/static/Apple%2520launches%2520a%2520new%2520HD%2520tier%2520for%2520Apple%2520Music.html
@@ -143,6 +150,7 @@ https://rickies.net/static/Apple%2520makes%2520changes%2520to%2520the%2520rules%
 https://rickies.net/static/Apple%2520management.html
 https://rickies.net/static/Apple%2520puts%2520a%2520cheaper%2520display%2520on%2520sale%2520as%2520a%2520sibling%2520to%2520the%2520XDR.html
 https://rickies.net/static/Apple%2520redesigns%2520the%2520App%2520Store%2520app%2520for%2520Mac%2520to%2520include%2520iOS%252C%2520macOS%252C%2520and%2520iPadOS%2520apps%2520together.html
+https://rickies.net/static/Apple%2520releases%2520a%2520Safari%2520API%2520to%2520deal%2520with%2520cookie%2520consent%2520forms.html
 https://rickies.net/static/Apple%2520releases%2520a%2520bigger%2520iPad%2520Pro.html
 https://rickies.net/static/Apple%2520releases%2520a%2520new%2520MacBook%2520Air%2520that%2520comes%2520with%2520some%2520colour%2520options%2520not%2520previously%2520available%2520in%2520this%2520product%2520line.html
 https://rickies.net/static/Apple%2520releases%2520a%2520weather%2520API.html
@@ -184,12 +192,14 @@ https://rickies.net/static/Apple%2520will%2520not%2520ship%2520an%2520ARM%2520Ma
 https://rickies.net/static/Apple%2520will%2520not%2520unveil%2520additional%2520details%2520about%2520the%2520release%2520of%2520the%2520first%2520Apple%2520Silicon%2520Macs.html
 https://rickies.net/static/Apple%2520will%2520release%2520a%2520new%2520programming%2520app%2520for%2520iPad.html
 https://rickies.net/static/Apple%2520will%2520release%2520at%2520least%25201%2520new%2520pro%2520app%2520for%2520iPad%2520that%2520we%2520haven't%2520previously%2520seen%2520on%2520iPad.html
+https://rickies.net/static/Apple's%2520classical%2520music%2520service%2520is%2520announced.html
 https://rickies.net/static/Apple's%2520classical%2520music%2520service%2520is%2520unveiled.html
 https://rickies.net/static/Apple's%2520original%2520content%2520will%2520premiere%2520after%2520the%2520service%2520itself%2520launches.html
 https://rickies.net/static/Articles%2520and%2520Commentaries.html
 https://rickies.net/static/At%2520least%25201%2520more%2520color%2520option%2520comes%2520to%2520AirPods.html
 https://rickies.net/static/At%2520least%25201%2520new%2520Mac%2520model%2520announced%2520ships%2520in%2520November.html
 https://rickies.net/static/At%2520least%2520one%2520AirPods%2520model%2520will%2520support%2520lossless%2520music%2520playback.html
+https://rickies.net/static/At%2520least%2520one%2520iOS%2520system%2520app%2520is%2520redesigned%2520to%2520bring%2520its%2520controls%2520to%2520the%2520bottom%2520of%2520the%2520screen.html
 https://rickies.net/static/At%2520least%2520one%2520iPhone%2520gets%2520a%2520120%2520hz%2520refresh%2520rate%2520display.html
 https://rickies.net/static/At%2520least%2520one%2520new%2520MacBook%2520Pro%2520model%2520has%2520an%2520upgraded%2520webcam%2520with%2520a%2520higher%2520resolution.html
 https://rickies.net/static/At%2520least%2520one%2520new%2520iPhone%2520model%2520has%2520both%2520Face%2520ID%2520and%2520Touch%2520ID.html
@@ -209,6 +219,7 @@ https://rickies.net/static/Big%2520Sur%2520gets%2520a%2520release%2520date.html
 https://rickies.net/static/Big%2520Sur%2520gets%2520a%2520revised%2520release%2520window.html
 https://rickies.net/static/Big%2520Sur%2520on%2520the%2520new%2520Apple%2520Silicon%2520Macs%2520comes%2520with%2520a%2520low%2520power%2520mode%2520feature.html
 https://rickies.net/static/Big%2520Sur%2520released%2520within%252048%2520hours%2520of%2520event.html
+https://rickies.net/static/Big%2520improvements%2520to%2520SwiftUI.html
 https://rickies.net/static/Bill%2520of%2520Rickies%2520Changes.html
 https://rickies.net/static/Buzzkill.html
 https://rickies.net/static/Catalina%2520gets%2520a%2520release%2520date.html
@@ -257,6 +268,7 @@ https://rickies.net/static/Connected%2520%2523388%253A%2520I'm%2520a%2520Creativ
 https://rickies.net/static/Connected%2520%2523390%253A%2520The%2520Permanence%2520of%2520Objects.html
 https://rickies.net/static/Connected%2520%2523391%253A%2520The%2520Pleasure%2520Stops%2520Here.html
 https://rickies.net/static/Connected%2520%2523392%253A%2520That%2520Looming%2520Threat%2520of%2520an%2520Identity%2520Crisis.html
+https://rickies.net/static/Connected%2520%2523400%253A%2520The%2520Rickies%2520(WWDC%25202022).html
 https://rickies.net/static/Contents.html
 https://rickies.net/static/Craig%2520demos%2520Big%2520Sur%2520features.html
 https://rickies.net/static/Craig%2520is%2520wearing%2520a%2520blue%2520shirt.html
@@ -297,6 +309,7 @@ https://rickies.net/static/MagSafe%2520is%2520updated%2520to%2520support%252020%
 https://rickies.net/static/Mail.app%2520will%2520get%2520modern%2520features%2520like%2520snoozing.html
 https://rickies.net/static/Major%2520publications%2520noticeably%2520absent%2520from%2520News%252B.html
 https://rickies.net/static/Memoji%2520will%2520get%2520updated%2520to%2520include%2520face%2520coverings.html
+https://rickies.net/static/More%2520apps%2520can%2520use%2520a%2520picture-in-picture-style%2520window%2520on%2520iPadOS.html
 https://rickies.net/static/Multi-user%2520on%2520iPad%2520support%2520for%2520the%2520masses.html
 https://rickies.net/static/Names%2520will%2520be%2520XC%2520and%2520XS.html
 https://rickies.net/static/New%2520AirPods%2520Max.html
@@ -316,6 +329,7 @@ https://rickies.net/static/New%2520and%2520faster%2520FaceID.html
 https://rickies.net/static/New%2520case%2520colors%2520for%2520the%2520iPhone.html
 https://rickies.net/static/New%2520colours%2520in%2520the%2520iPhone%2520line%2520as%2520compared%2520to%2520the%2520previous%2520year.html
 https://rickies.net/static/New%2520features%2520for%2520FaceTime.html
+https://rickies.net/static/New%2520features%2520for%2520Tapback%2520in%2520Messages.html
 https://rickies.net/static/New%2520iMessage%2520features%252C%2520including%2520the%2520ability%2520to%2520retract%2520sent%2520messages.html
 https://rickies.net/static/New%2520iPad%2520Pro%2520accessory.html
 https://rickies.net/static/New%2520iPad%2520accessories%253A%2520Keyboard%2520%252B%2520protection%2520%252B%2520pencil%2520holder.html
@@ -326,6 +340,7 @@ https://rickies.net/static/New%2520notification%2520management%2520options.html
 https://rickies.net/static/New%2520pencil%2520and%2520keyboard.html
 https://rickies.net/static/New%2520watch%2520bands.html
 https://rickies.net/static/No%2520Apple%2520Services%2520bundle%2520announced.html
+https://rickies.net/static/No%2520Apple-made%2520headset%2520is%2520seen.html
 https://rickies.net/static/No%2520Mac%2520gets%25205G.html
 https://rickies.net/static/No%2520Mac%2520gets%2520a%2520cellular%2520data%2520option.html
 https://rickies.net/static/No%2520Mac%2520or%2520iPad%2520hardware%2520in%2520the%2520keynote.html
@@ -369,6 +384,7 @@ https://rickies.net/static/Possible%2520Vindication.html
 https://rickies.net/static/Preview%2520of%2520fall%2520Apple%2520TV%252B%2520content.html
 https://rickies.net/static/Preview%2520of%2520the%2520new%2520Apple%2520Silicon%2520Mac%2520Pro.html
 https://rickies.net/static/ProMotion%2520does%2520not%2520come%2520to%2520new%2520iPhones.html
+https://rickies.net/static/Redesign%2520of%2520the%2520Home%2520app...%2520again.html
 https://rickies.net/static/Redesigned%2520Mac%2520Pro.html
 https://rickies.net/static/Regular.html
 https://rickies.net/static/Release%2520date%2520for%2520iOS%252015%2520is%2520announced%2520and%2520it's%2520later%2520than%252024%2520hours%2520away.html
@@ -380,7 +396,10 @@ https://rickies.net/static/Search%2520Error.html
 https://rickies.net/static/Series%25204%2520has%2520multiple%2520changes%2520to%2520watch%2520faces.html
 https://rickies.net/static/Services.html
 https://rickies.net/static/Shortcuts%25202.0%2520is%2520showed%2520off%2520at%2520WWDC%2520with%2520a%2520new%2520developer%2520framework%2520for%2520apps.html
+https://rickies.net/static/Shortcuts%2520for%2520Mac%2520gets%2520personal%2520automations.html
 https://rickies.net/static/Shortcuts%2520for%2520the%2520Mac.html
+https://rickies.net/static/Shortcuts%2520gets%2520an%2520API%2520on%2520iOS%2520and%2520iPadOS%2520for%2520apps%2520to%2520run%2520Shortcuts%2520directly%252C%2520without%2520URL%2520schemes.html
+https://rickies.net/static/Shortcuts%2520gets%2520an%2520XL%2520widget%2520on%2520iPad.html
 https://rickies.net/static/Shortcuts%2520gets%2520folders.html
 https://rickies.net/static/Shortcuts%2520gets%2520new%2520Files%2520actions.html
 https://rickies.net/static/Shortcuts%2520gets%2520new%2520Files%2520integration%252C%2520ability%2520to%2520run%2520bookmarks%2520in%25203rd%2520party%2520actions.html
@@ -418,6 +437,7 @@ https://rickies.net/static/The%2520Mac%2520Pro%2520will%2520ship%2520by%2520the%
 https://rickies.net/static/The%2520Mac%2520is%2520not%2520mentioned.html
 https://rickies.net/static/The%2520MacBook%2520Escape%2520will%2520go%2520away.html
 https://rickies.net/static/The%2520Magic%2520Keyboard%2520for%2520iPad%2520goes%2520unchanged.html
+https://rickies.net/static/The%2520Music%2520app%2520gets%2520an%2520updated%2520design%2520in%2520the%2520Listen%2520Now%2520page.html
 https://rickies.net/static/The%2520Passwords%2520feature%2520of%2520Settings%2520becomes%2520a%2520standalone%2520app.html
 https://rickies.net/static/The%2520Pro%2520iPhone%2520gets%2520a%2520new%2520camera%2520feature%2520the%2520regular%2520iPhone%2520doesn't%2520get.html
 https://rickies.net/static/The%2520Tricky.html
@@ -462,10 +482,13 @@ https://rickies.net/static/The%2520new%2520iPhone%2520will%2520have%2520a%2520To
 https://rickies.net/static/The%2520new%2520iPhones%2520keep%2520the%2520same%2520screen%2520sizes%2520as%2520last%2520year.html
 https://rickies.net/static/The%2520new%2520iPhones%2520will%2520carry%2520a%2520new%2520design%2520inspired%2520by%2520the%2520iPad%2520Pro%252FiPhone%25204.html
 https://rickies.net/static/The%2520new%2520phone%2520will%2520offer%2520some%2520kind%2520of%2520night%2520mode%2520for%2520shooting%2520photos%2520in%2520the%2520dark.html
+https://rickies.net/static/The%2520new%2520version%2520of%2520macOS%2520brings%2520back%2520Dashboard%2520as%2520a%2520way%2520to%2520place%2520widgets%2520outside%2520of%2520the%2520current%2520Notification%2520Center.html
 https://rickies.net/static/The%2520next%2520HomePod%2520is%2520a%2520mini%2520HomePod.html
 https://rickies.net/static/The%2520next%2520generation%2520Apple%2520Watch%2520will%2520have%2520some%2520kind%2520of%2520body%2520temperature%2520sensor.html
+https://rickies.net/static/The%2520next%2520version%2520of%2520iOS%2520brings%2520changes%2520to%2520notifications.html
 https://rickies.net/static/The%2520next%2520version%2520of%2520iOS%2520lets%2520you%2520change%2520icons%2520for%2520apps%2520natively.html
 https://rickies.net/static/The%2520next%2520version%2520of%2520macOS%2520comes%2520with%2520a%2520redesigned%2520Today%2520view.html
+https://rickies.net/static/The%2520next%2520version%2520of%2520macOS%2520will%2520have%2520at%2520least%2520one%2520feature%2520exclusive%2520to%2520Apple%2520Silicon%2520Macs.html
 https://rickies.net/static/The%2520notch%2520on%2520the%2520iPhone%2520will%2520get%2520physically%2520smaller%2520in%2520at%2520least%2520one%2520of%2520the%25202020%2520iPhones.html
 https://rickies.net/static/The%2520only%2520iPhones%2520seen%2520on%2520stage%2520will%2520be%2520the%2520ones%2520we%2520already%2520know%2520about.html
 https://rickies.net/static/The%2520removal%2520of%2520Force%2520Touch%2520on%2520watchOS%2520is%2520framed%2520as%2520the%2520inclusion%2520of%2520Haptic%2520Touch.html
@@ -474,6 +497,7 @@ https://rickies.net/static/The%2520video%2520streaming%2520service%2520will%2520
 https://rickies.net/static/There%2520are%2520new%2520ways%2520to%2520turn%2520off%2520the%2520alerts%2520that%2520Shortcuts%2520displays%2520constantly.html
 https://rickies.net/static/There%2520is%2520a%2520ceramic%2520Apple%2520Watch.html
 https://rickies.net/static/There%2520is%2520going%2520to%2520be%2520a%2520funny%2520scene%2520involving%2520one%2520of%2520the%2520characters%2520of%2520Ted%2520Lasso.html
+https://rickies.net/static/There%2520is%2520no%2520additional%2520external%2520display%2520support%2520for%2520iPadOS.html
 https://rickies.net/static/There%2520will%2520be%25203%2520cameras%2520on%2520the%2520high%2520end%2520phones.html
 https://rickies.net/static/There%2520will%2520be%2520a%2520bigger%2520iPhone%2520X%2520style%2520phone%252C%2520but%2520it%2520will%2520not%2520have%2520an%2520OLED%2520screen.html
 https://rickies.net/static/There%2520will%2520be%2520a%2520chip%2520named%2520M1%2520followed%2520by%2520a%2520letter.html
@@ -481,11 +505,13 @@ https://rickies.net/static/There%2520will%2520be%2520a%2520new%2520Apple%2520new
 https://rickies.net/static/There%2520will%2520be%2520a%2520setting%2520to%2520disable%2520the%2520higher%2520refresh%2520rate%2520in%2520at%2520least%2520one%2520of%2520the%2520new%2520iPhones.html
 https://rickies.net/static/There%2520will%2520be%2520changes%2520to%2520the%2520drawing%252Fsketching%2520interface%2520used%2520for%2520screenshots%252C%2520notes%252C%2520etc..html
 https://rickies.net/static/There%2520will%2520be%2520no%2520iPhone%252014%2520with%2520a%25205.4%2522%2520display.html
+https://rickies.net/static/Third%2520party%2520widgets%2520gain%2520interactivity.html
 https://rickies.net/static/Thoughts%2520on%2520Flexies.html
 https://rickies.net/static/Tim%2520Cook%2520interacts%2520with%2520a%2520celebrity.html
 https://rickies.net/static/Tim%2520Cook%2520mentions%2520the%2520war%2520in%2520Ukraine.html
 https://rickies.net/static/Tim%2520Cook%2520says%2520%2522metaverse%2522.html
 https://rickies.net/static/Tim%2520Cook%2520thanks%2520Jony%2520Ive%252C%2520the%2520camera%2520shows%2520Jony%2520in%2520the%2520audience%252C%2520Jony%2520doesn%25E2%2580%2599t%2520stand.html
+https://rickies.net/static/Tim%2520presents%2520some%2520portion%2520of%2520the%2520keynote%2520in%2520front%2520of%2520a%2520live%2520audience.html
 https://rickies.net/static/Tools%2520for%2520developers%2520to%2520make%2520smoother%2520or%2520faster%2520animations%2520in%2520iOS.html
 https://rickies.net/static/Topics.html
 https://rickies.net/static/Two%2520new%2520iPad%2520Pros.html
@@ -507,8 +533,11 @@ https://rickies.net/static/Webcam%2520will%2520be%2520called%2520%2522highest%25
 https://rickies.net/static/Welcome.html
 https://rickies.net/static/WidgetKit%2520gains%2520new%2520interactivity%2520features%2520that%2520allow%2520you%2520to%2520perform%2520actions%2520inside%2520widgets%2520without%2520launching%2520the%2520associated%2520app.html
 https://rickies.net/static/WidgetKit%2520will%2520support%2520new%2520widget%2520sizes%2520and%2520more%2520interactivity.html
+https://rickies.net/static/Widgets%2520on%2520tvOS.html
 https://rickies.net/static/Workflow%25202%2520will%2520appear%2520as%2520a%2520system%2520feature%2520or%2520app.html
 https://rickies.net/static/You%2520can%2520buy%2520AirTags%2520in%2520a%25203-pack.html
+https://rickies.net/static/You%2520can%2520delete%2520Messages%2520in%2520the%2520Messages%2520app%252C%2520like%2520in%2520WhatsApp.html
+https://rickies.net/static/You%2520will%2520be%2520able%2520to%2520set%2520light%2520and%2520dark%2520mode%2520on%2520a%2520per-website%2520basis%2520in%2520Safari.html
 https://rickies.net/static/iCloud%2520family%2520photo%2520sharing.html
 https://rickies.net/static/iCloud%2520free%25205%2520GB%2520limit%2520will%2520be%2520increased.html
 https://rickies.net/static/iOS%252010.3%2520with%2520a%2520redesigned%2520split%2520screen%2520revealing%2520the%2520home%2520screen%2520and%2520the%2520app%2520switcher%2520instead%2520of%2520the%2520vertical%2520slider%2520we%2520have%2520now.html
@@ -528,6 +557,7 @@ https://rickies.net/static/iOS%2520and%2520iPadOS%252015%2520get%2520native%2520
 https://rickies.net/static/iOS%2520gets%2520a%2520native%2520feature%2520to%2520change%2520icons%2520for%2520any%2520app%2520you%2520want.html
 https://rickies.net/static/iOS%2520gets%2520a%2520tabbed%2520windows%2520feature%2520that%2520all%2520apps%2520can%2520implement.html
 https://rickies.net/static/iOS%2520gets%2520expanded%2520font%2520support.html
+https://rickies.net/static/iOS%2520gets%2520split-view%2520support%2520for%2520multitasking%2520to%2520use%25202%2520apps%2520at%2520once.html
 https://rickies.net/static/iOS%2520gets%2520the%2520ability%2520to%2520change%2520default%2520apps%2520from%2520those%2520that%2520Apple%2520make%252C%2520including%2520email.html
 https://rickies.net/static/iOS%2520will%2520get%2520the%2520ability%2520the%2520ability%2520to%2520lock%2520the%2520phone%2520to%2520portrait%252C%2520but%2520continue%2520watching%2520videos%2520in%2520landscape.html
 https://rickies.net/static/iOS.html
@@ -535,6 +565,9 @@ https://rickies.net/static/iPad%2520Air%2520preorder%2520date%2520announced.html
 https://rickies.net/static/iPad%2520multitasking%2520is%2520overhauled%2520again.html
 https://rickies.net/static/iPad.html
 https://rickies.net/static/iPadOS%252015%2520brings%2520organization%2520changes%2520to%2520the%2520home%2520screen%2520that%2520don%25E2%2580%2599t%2520exist%2520on%2520the%2520iPhone%252C%2520including%2520iOS%252015.html
+https://rickies.net/static/iPadOS%2520gets%2520improved%2520split%2520view%2520with%2520at%2520least%25203%2520apps%2520at%2520once.html
+https://rickies.net/static/iPadOS%2520is%2520updated%2520to%2520include%2520a%2520more%2520desktop-like%2520mode%2520with%2520resizable%2520and%2520overlapping%2520windows.html
+https://rickies.net/static/iPadOS%2520multitasking%2520remains%2520fundamentally%2520the%2520same%2520as%2520the%2520iPadOS%252015%2520version.html
 https://rickies.net/static/iPadOS%2520multitasking%2520remains%2520unchanged%2520from%2520iOS%252015's%2520implementation.html
 https://rickies.net/static/iPadOS.html
 https://rickies.net/static/iPhone%25209%2520will%2520come%2520in%2520colors.html
@@ -546,6 +579,7 @@ https://rickies.net/static/iTunes%2520rewrite%2520or%2520replacement%2520for%252
 https://rickies.net/static/iWork%2520updates%2520for%2520iOS%252012.html
 https://rickies.net/static/index.html
 https://rickies.net/static/macOS%252012.3%2520does%2520not%2520come%2520out%2520within%252048%2520hours%2520of%2520the%2520event.html
+https://rickies.net/static/macOS%252013%2520is%2520called%2520%2522Mammoth%2522.html
 https://rickies.net/static/macOS%2520Monterey%2520features%2520are%2520reviewed.html
 https://rickies.net/static/macOS%2520skips%2520ahead%2520to%2520version%252015%2520to%2520match%2520iOS%2520and%2520iPadOS.html
 https://rickies.net/static/macOS.html
