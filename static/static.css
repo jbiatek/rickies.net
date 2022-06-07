@@ -2783,6 +2783,8 @@ background-color: rgb(255, 252, 240);
 .tc-tiddler-controls button[aria-label="delete"],
 .tc-page-controls button[aria-label="new tiddler"],
 .tc-page-controls button[aria-label="more"],
+.tc-page-controls button[aria-label="control panel"],
+.tc-page-controls button[aria-label="Server status"],
 .tc-sidebar-search,
 .tc-sidebar-tabs
 {

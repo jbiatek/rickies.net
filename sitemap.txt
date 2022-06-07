@@ -37,6 +37,7 @@ https://rickies.net/static/2021%2520WWDC%2520coin%2520flip%2520for%2520second%25
 https://rickies.net/static/2022%2520Annual%2520Rickies.html
 https://rickies.net/static/2022%2520March%2520Rickies.html
 https://rickies.net/static/2022%2520WWDC%2520Rickies.html
+https://rickies.net/static/2022%2520WWDC%2520coin%2520flip%2520for%2520first%2520place%2520in%2520the%2520Rickies.html
 https://rickies.net/static/5G%2520becomes%2520an%2520option%2520on%2520at%2520least%2520one%2520MacBook.html
 https://rickies.net/static/A%252010.9%2522%2520bezel-less%2520iPad%2520Pro.html
 https://rickies.net/static/A%2520CPU%2520transition%2520is%2520announced%2520for%2520the%2520Mac.html
@@ -269,6 +270,7 @@ https://rickies.net/static/Connected%2520%2523390%253A%2520The%2520Permanence%25
 https://rickies.net/static/Connected%2520%2523391%253A%2520The%2520Pleasure%2520Stops%2520Here.html
 https://rickies.net/static/Connected%2520%2523392%253A%2520That%2520Looming%2520Threat%2520of%2520an%2520Identity%2520Crisis.html
 https://rickies.net/static/Connected%2520%2523400%253A%2520The%2520Rickies%2520(WWDC%25202022).html
+https://rickies.net/static/Connected%2520%2523401%253A%2520Mouth%2520Bells.html
 https://rickies.net/static/Contents.html
 https://rickies.net/static/Craig%2520demos%2520Big%2520Sur%2520features.html
 https://rickies.net/static/Craig%2520is%2520wearing%2520a%2520blue%2520shirt.html
