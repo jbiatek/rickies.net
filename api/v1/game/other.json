@@ -1,0 +1,575 @@
+[
+  {
+    "name": "2018 iPhone Event Predictions",
+    "game-type": "Other",
+    "date-graded": "2018-09-13",
+    "date-picked": "2018-09-05",
+    "nongraded": {
+      "picks": [
+        {
+          "text": "Two new iPad Pros",
+          "notes": "<p><ul><li>\"Maybe more of a hope\"</li><li>As it turns out, there would later be <a href=\"https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/\" target=\"_blank\">a separate event for the iPad</a>.</li></ul></p>",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "iPad",
+            "Ahead of Its Time"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "score": 0,
+          "ahead-by": 48,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:24:13",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/40:44"
+        },
+        {
+          "text": "A new Smart Keyboard",
+          "notes": "",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "Accessories",
+            "Ahead of Its Time"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "score": 0,
+          "ahead-by": 48,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:24:18",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/41:50"
+        },
+        {
+          "text": "iWork updates for iOS 12",
+          "notes": "<p><ul><li>The big iWork update <a href=\"https://www.apple.com/newsroom/2019/03/all-new-ipad-air-and-ipad-mini-deliver-dramatic-power-and-capability/\" target=\"_blank\">eventually came in 2019</a>.</li></ul></p>",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "iOS",
+            "Ahead of Its Time",
+            "Apple Apps"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "score": 0,
+          "ahead-by": 187,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:24:25",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/42:39"
+        },
+        {
+          "text": "Cheaper phone is not called \"iPhone 9\"",
+          "notes": "",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "iPhone"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:24:39",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/43:19"
+        },
+        {
+          "text": "New watch bands",
+          "notes": "",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "Apple Watch"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:24:46",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/46:18"
+        },
+        {
+          "text": "Series 4 has multiple changes to watch faces",
+          "notes": "<p><ul><li>\"(beyond the leaked ones we have already seen)\"</li></ul></p>",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "Apple Watch"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:24:49",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/46:42"
+        },
+        {
+          "text": "No iPads, iPhone and Apple Watch only",
+          "notes": "",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "iPhone",
+            "iPad",
+            "Apple Watch",
+            "Buzzkill"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 3,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:25:29",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/55:57"
+        },
+        {
+          "text": "No Macs",
+          "notes": "<p><ul><li>Based on <a href=\"https://overcast.fm/+FXx5Kx09c/1:27:39\" target=\"_blank\">comments in the grading episode</a>, this might have originally been a sub-bullet point of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20iPads%2C%20iPhone%20and%20Apple%20Watch%20only\">the previous pick</a>.</li></ul></p>",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "Mac",
+            "Buzzkill"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:25:32",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/56:27"
+        },
+        {
+          "text": "Names will be XC and XS",
+          "notes": "",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "iPhone",
+            "Unvindicatable"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 2,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:25:34",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/57:13"
+        },
+        {
+          "text": "Line will be XS, 9, 8+, 8, 7+, 7, SE",
+          "notes": "<p><ul><li>Exact names weren't the main goal of this pick. The pick intended to convey that the existing iPhone X would drop from the lineup, but both sizes of 8 and 7 would stick around.</li><li>The SE being dropped as well wasn't enough to make the pick wrong, apparently.</li></ul></p>",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "iPhone"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 7,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:25:40",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/57:57"
+        },
+        {
+          "text": "iPhone 9 will come in colors",
+          "notes": "",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "iPhone"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:26:06",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/59:01"
+        },
+        {
+          "text": "New iPads",
+          "notes": "<p><ul><li>Again, there was <a href=\"https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/\" target=\"_blank\">a separate event for the iPad</a>.</li></ul></p>",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "iPad",
+            "Ahead of Its Time"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "score": 0,
+          "ahead-by": 48,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:27:14",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/51:35"
+        },
+        {
+          "text": "New pencil and keyboard",
+          "notes": "<p><ul><li>This also happened in <a href=\"https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/\" target=\"_blank\">the October iPad event</a>, which wasn't the subject of a game.</li></ul></p>",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "iPad",
+            "Accessories",
+            "Ahead of Its Time"
+          ],
+          "host": "Myke",
+          "pick-conditions": 2,
+          "score": 0,
+          "ahead-by": 48,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:27:17",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/52:28"
+        },
+        {
+          "text": "Nothing about the Mac",
+          "notes": "<p><ul><li>The mention of Mojave's release is deemed insufficient to make this wrong.</li></ul></p>",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "Mac",
+            "Buzzkill",
+            "Stagecraft"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:27:18",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/52:56"
+        },
+        {
+          "text": "The cheaper iPhone will be called iPhone 9",
+          "notes": "",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "iPhone",
+            "Unvindicatable"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:27:31",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/53:39"
+        },
+        {
+          "text": "The only iPhones seen on stage will be the ones we already know about",
+          "notes": "<p><ul><li>This seems to have been a sub-bullet point to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20cheaper%20iPhone%20will%20be%20called%20iPhone%209\">the previous pick</a> originally, but was forcibly upgraded to a full pick by Myke during grading. (Again, this \"game\" wasn't even supposed to be a competition originally.)</li></ul></p>",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "iPhone",
+            "Stagecraft"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:27:34"
+        },
+        {
+          "text": "The larger iPhone will be called XS+",
+          "notes": "",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "iPhone",
+            "Unvindicatable"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:27:46",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/54:58"
+        },
+        {
+          "text": "New and faster FaceID",
+          "notes": "",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "iPhone"
+          ],
+          "host": "Myke",
+          "pick-conditions": 2,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:27:54",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/55:20"
+        },
+        {
+          "text": "A new, unique case",
+          "notes": "",
+          "game": "2018 iPhone Event Predictions",
+          "type": "NonGraded",
+          "topics": [
+            "iPhone",
+            "Accessories",
+            "Possible Vindication"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:28:13",
+          "overcast-picked": "https://overcast.fm/+FXx4E3x_I/55:37"
+        }
+      ],
+      "winner": "Stephen"
+    },
+    "relevant-episodes": [
+      {
+        "title": "Connected #208: It’s Ugly and I Want It",
+        "url": "https://relay.fm/connected/208",
+        "episode-number": 208
+      },
+      {
+        "title": "Connected #209: Secret NBA Training",
+        "url": "https://relay.fm/connected/209",
+        "episode-number": 209
+      }
+    ]
+  },
+  {
+    "name": "Audio Predictions",
+    "game-type": "Other",
+    "date-graded": "2019-11-06",
+    "date-picked": "2018-06-26",
+    "main-game": {
+      "picks": [
+        {
+          "text": "AirPods to gain more controls via touch actions",
+          "notes": "",
+          "game": "Audio Predictions",
+          "type": "Regular",
+          "topics": [
+            "Accessories",
+            "AirPods"
+          ],
+          "host": "Myke",
+          "pick-conditions": 2,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx7iyi9k/18:38",
+          "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:18:17"
+        },
+        {
+          "text": "At least 1 more color option comes to AirPods",
+          "notes": "",
+          "game": "Audio Predictions",
+          "type": "Regular",
+          "topics": [
+            "Accessories",
+            "AirPods",
+            "Possible Vindication"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx7iyi9k/18:57",
+          "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:19:13"
+        },
+        {
+          "text": "The AirPods line is split in two, and the lower end version gets a price drop",
+          "notes": "<p><ul><li>The additional condition is an intentionally risky choice by Federico</li><li>Ultimately this is in fact his undoing. While AirPods Pro were released to split the line, the normal AirPods 2 didn't drop from their original $159 price until the 3rd generation was released in October 2021.</li></ul></p>",
+          "game": "Audio Predictions",
+          "type": "Regular",
+          "topics": [
+            "Accessories",
+            "Ahead of Its Time",
+            "AirPods"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2,
+          "score": 0,
+          "ahead-by": 712,
+          "overcast-graded": "https://overcast.fm/+FXx7iyi9k/19:37",
+          "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:20:02"
+        },
+        {
+          "text": "The next HomePod is a mini HomePod",
+          "notes": "<p><ul><li>True, but too late. The HomePod mini wasn't released until 2020.</li></ul></p>",
+          "game": "Audio Predictions",
+          "type": "Regular",
+          "topics": [
+            "Accessories",
+            "Ahead of Its Time"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "score": 0,
+          "ahead-by": 342,
+          "overcast-graded": "https://overcast.fm/+FXx7iyi9k/20:55",
+          "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:20:41"
+        },
+        {
+          "text": "HomePod price drop",
+          "notes": "<p><ul><li>In April, they were cut from $349 to $299.</li></ul></p>",
+          "game": "Audio Predictions",
+          "type": "Regular",
+          "topics": [
+            "Accessories"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx7iyi9k/21:22",
+          "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:22:29"
+        },
+        {
+          "text": "Shortcuts will gain new HomePod/AirPlay 2 actions to play audio on HomePod more quickly",
+          "notes": "",
+          "game": "Audio Predictions",
+          "type": "Regular",
+          "topics": [
+            "Accessories",
+            "Apple Apps"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx7iyi9k/22:09",
+          "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:23:20"
+        },
+        {
+          "text": "Apple will create some new noise-cancelling technology",
+          "notes": "<p><ul><li>Some sort of thing that they put into an AirPod or something that they tout as invented by Apple, is how it was clarified during predictions.</li><li>Myke, <em>in absentia</em>, gets the benefit of the doubt as to how new the AirPods Pro tech is.</li></ul></p>",
+          "game": "Audio Predictions",
+          "type": "Regular",
+          "topics": [
+            "Accessories",
+            "AirPods"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx7iyi9k/22:49",
+          "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:24:18"
+        },
+        {
+          "text": "Better incorporation of Apple News into the audio ecosystem",
+          "notes": "<p><ul><li>For example, asking Siri for the news on a HomePod</li><li>This did eventually happen, but in 2020.</li></ul></p>",
+          "game": "Audio Predictions",
+          "type": "Regular",
+          "topics": [
+            "Ahead of Its Time",
+            "Services"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "score": 0,
+          "ahead-by": 252,
+          "overcast-graded": "https://overcast.fm/+FXx7iyi9k/23:34",
+          "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:25:59"
+        },
+        {
+          "text": "HeadPods will be wireless only and they will have no headphone jack and will charge via Lightning or USB-C",
+          "notes": "",
+          "game": "Audio Predictions",
+          "type": "Regular",
+          "topics": [
+            "Accessories",
+            "AirPods",
+            "Unvindicatable"
+          ],
+          "host": "Federico",
+          "pick-conditions": 3,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx7iyi9k/24:13",
+          "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:28:27"
+        }
+      ],
+      "coin-flips": [],
+      "scores": [
+        {
+          "host": "Myke",
+          "score": 2
+        },
+        {
+          "host": "Stephen",
+          "score": 1
+        },
+        {
+          "host": "Federico",
+          "score": 1
+        }
+      ],
+      "winner": "Myke"
+    },
+    "relevant-episodes": [
+      {
+        "title": "Connected #199: Make Half of a Change",
+        "url": "https://relay.fm/connected/199",
+        "episode-number": 199
+      },
+      {
+        "title": "Connected #208: It’s Ugly and I Want It",
+        "url": "https://relay.fm/connected/208",
+        "episode-number": 208
+      },
+      {
+        "title": "Connected #268: Executive Spaghetti",
+        "url": "https://relay.fm/connected/268",
+        "episode-number": 268
+      }
+    ]
+  },
+  {
+    "name": "The AirPower Game",
+    "game-type": "Other",
+    "date-graded": "2019-01-09",
+    "date-picked": "2018-08-22",
+    "nongraded": {
+      "picks": [
+        {
+          "text": "AirPower will come out before the 2018 iPhone event",
+          "notes": "<p><ul><li>Confidence remained high even days before the event in episode 208.</li></ul></p>",
+          "game": "The AirPower Game",
+          "type": "NonGraded",
+          "topics": [
+            "Accessories",
+            "Unvindicatable"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:28:27",
+          "overcast-picked": "https://overcast.fm/+FXx56vlEY/43:00"
+        },
+        {
+          "text": "AirPower will come out the first week of December 2018",
+          "notes": "<p><ul><li>This wasn't actually an option, but Stephen felt confident. (Really, he changed it to just be \"after the 2018 iPhone event\" as well, but that's not as fun.)</li></ul></p>",
+          "game": "The AirPower Game",
+          "type": "NonGraded",
+          "topics": [
+            "Accessories",
+            "Unvindicatable"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 4,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx5i5-3Y/04:46",
+          "overcast-picked": "https://overcast.fm/+FXx56vlEY/43:46"
+        },
+        {
+          "text": "AirPower will come out after the 2018 iPhone event",
+          "notes": "",
+          "game": "The AirPower Game",
+          "type": "NonGraded",
+          "topics": [
+            "Accessories",
+            "Possible Vindication"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx5i5-3Y/04:46",
+          "overcast-picked": "https://overcast.fm/+FXx56vlEY/44:04"
+        }
+      ],
+      "winner": "Nobody"
+    },
+    "relevant-episodes": [
+      {
+        "title": "Connected #206: A High Appreciation for Winning",
+        "url": "https://relay.fm/connected/206",
+        "episode-number": 206
+      },
+      {
+        "title": "Connected #208: It’s Ugly and I Want It",
+        "url": "https://relay.fm/connected/208",
+        "episode-number": 208
+      },
+      {
+        "title": "Connected #209: Secret NBA Training",
+        "url": "https://relay.fm/connected/209",
+        "episode-number": 209
+      },
+      {
+        "title": "Connected #225: The Bear Will Charge You",
+        "url": "https://relay.fm/connected/225",
+        "episode-number": 225
+      }
+    ]
+  }
+]

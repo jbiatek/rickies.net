@@ -1,0 +1,1122 @@
+[
+  {
+    "text": "A presenter references the fact that some developers are at Apple Park for the keynote",
+    "notes": "<p><ul><li>This is litigated a bit later when <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Tim%20presents%20some%20portion%20of%20the%20keynote%20in%20front%20of%20a%20live%20audience\">Myke's very similar pick got graded</a>, as Tim Cook did address the audience before the video played. He was decided to not be \"a presenter\" at the time, ultimately.</li></ul></p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:26:22",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:21:31"
+  },
+  {
+    "text": "All the celebrities will come out at the end and take a picture together",
+    "notes": "",
+    "game": "2019 Media Event Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "score": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:32:47"
+  },
+  {
+    "text": "An AR demo is shown",
+    "notes": "",
+    "game": "2020 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Augmented Reality",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:14:56",
+    "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:25:47"
+  },
+  {
+    "text": "Any kind of release timeframe is provided for macOS Monterey",
+    "notes": "<p><ul><li>Apparently feeling humble, Federico admits that this is a \"boring\" pick. It was originally \"release date\", but when some questioning about whether just a month would count came up, he watered it down.</li></ul></p>",
+    "game": "2021 October Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Live Edited",
+      "No Passion",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:01:30",
+    "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/42:37"
+  },
+  {
+    "text": "Apple announces new environmental efforts, such as a new recycling robot",
+    "notes": "",
+    "game": "2019 Fall Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx61sqT4/1:02:35",
+    "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:29:08"
+  },
+  {
+    "text": "Apple compares the performance of Apple Silicon Macs to \"most PCs sold today\"",
+    "notes": "",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:08:16",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:39:18"
+  },
+  {
+    "text": "Apple demos a game running on an Apple Silicon Mac",
+    "notes": "",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:08:37",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:39:56"
+  },
+  {
+    "text": "Apple demos a Mac app that takes advantage of the updated Neural Engine",
+    "notes": "",
+    "game": "2021 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:17:23",
+    "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:15:56"
+  },
+  {
+    "text": "Apple demos iOS apps running on a Mac",
+    "notes": "",
+    "game": "2020 November Rickies",
+    "type": "Regular",
+    "topics": [
+      "iOS",
+      "Mac",
+      "macOS",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/47:49",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:09:29"
+  },
+  {
+    "text": "Apple gives a quick tour of improvements to next round of software updates",
+    "notes": "",
+    "game": "2019 Media Event Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:30:13"
+  },
+  {
+    "text": "Apple gives a release date for iOS 13.1 and mentions the update on stage",
+    "notes": "",
+    "game": "2019 Fall Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "iOS",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx61sqT4/1:01:33",
+    "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:28:50"
+  },
+  {
+    "text": "Apple gives a sneak peak of the new Mac Pro...",
+    "notes": "<p><ul>\n<li>\"...It features a case design inspired by the 2019 Mac Pro. It features more ports than any other Apple Silicon Mac available today. It does not have support for third-party GPUs. It features a chip name that has not appeared in any other product. It has a starting price of at least $6,999. It is coming later this year.\"</li>\n<li>Originally it said \"same case design\", but the change was accepted on air after Myke reconsidered. \"Later this year\" was also demoted from being an exact quote.</li>\n<li>This Mac Pro will have to beat the Mac Studio in terms of ports: 2 USB-C, 2 USB-A, 4 Thunderbolt, SD card, Ethernet, HDMI, and headphone jack, for a total of 12.</li>\n<li>This pick is similar in spirit to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20new%20Mac%20Pro%20will%20be...\">Myke's ongoing Annual pick</a>, but with different conditions. At the time it was the <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Success%20By%20Pick%20Complexity\">most complex graded pick</a> ever made.</li>\n</ul>\n</p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Mac",
+      "Live Edited",
+      "Stagecraft",
+      "Possible Vindication"
+    ],
+    "host": "Myke",
+    "pick-conditions": 7,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:09:41",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:07:46"
+  },
+  {
+    "text": "Apple mentions at least 1 feature \"coming later\"",
+    "notes": "",
+    "game": "2022 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Buzzkill",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx650Foc/1:09:46",
+    "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:39"
+  },
+  {
+    "text": "Apple says literally anything about the HomePod",
+    "notes": "",
+    "game": "2020 Summer Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Accessories",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/44:14",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:15:04"
+  },
+  {
+    "text": "Apple showcases at least one new feature coming in iOS or iPadOS 14.1",
+    "notes": "<p><ul><li>The version number wasn't stated explicitly, otherwise Fitness+ would have counted.</li></ul></p>",
+    "game": "2020 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPad",
+      "iPadOS",
+      "Live Edited",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/1:12:33",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:38:41"
+  },
+  {
+    "text": "Apple somehow sets expectations for when the iPhone will be announced",
+    "notes": "",
+    "game": "2020 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/1:02:31",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:32:15"
+  },
+  {
+    "text": "Apple talks about App Tracking Transparency in iOS 14.5",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:24:40",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:24:25"
+  },
+  {
+    "text": "Apple teases another Mac, that is not for sale right now, with Pro in the name, and says that it is coming next year",
+    "notes": "<p><ul><li>It was originally \"Mac product\", but there was some controversy over whether that includes accessories and displays. Ultimately, Myke upped the difficulty and removed the word \"product\".</li></ul></p>",
+    "game": "2021 October Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Mac",
+      "Live Edited",
+      "Stagecraft",
+      "Possible Vindication"
+    ],
+    "host": "Myke",
+    "pick-conditions": 4,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:05:31",
+    "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/54:03"
+  },
+  {
+    "text": "Apple TV+ content is featured in the keynote",
+    "notes": "",
+    "game": "2021 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple TV+",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:10:13",
+    "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:16:54"
+  },
+  {
+    "text": "Apple TV+ trailers are shown",
+    "notes": "",
+    "game": "2020 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple TV+",
+      "Services",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:13:48",
+    "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:22:47"
+  },
+  {
+    "text": "Apple will mention Apple Arcade during the keynote",
+    "notes": "",
+    "game": "2019 WWDC Predictions",
+    "type": "Regular",
+    "topics": [
+      "Services",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4xqI14/21:29",
+    "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/31:55"
+  },
+  {
+    "text": "Apple will mention at least one new feature coming to the HomePod",
+    "notes": "<p><ul><li>\"HomePod\" needs to be mentioned by name.</li><li>The HomePod <a href=\"https://www.apple.com/newsroom/2018/09/homepod-adds-new-features-and-siri-languages/\" target=\"_blank\">got a few new features the year before</a>, but not much else before being discontinued.</li></ul></p>",
+    "game": "2019 Media Event Predictions",
+    "type": "Ricky",
+    "topics": [
+      "Accessories",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx75P5Bg/34:42",
+    "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:18:56"
+  },
+  {
+    "text": "At least one segment of the keynote is shot inside Apple's own fitness labs",
+    "notes": "<p><ul><li>It isn't quite clear if what they showed was the <em>lab</em>, but it doesn't matter to the scoring anyway so the point is given.</li></ul></p>",
+    "game": "2020 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/1:13:27",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:40:34"
+  },
+  {
+    "text": "At this event, we see some sort of AR-focused hardware",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Augmented Reality",
+      "Stagecraft",
+      "Possible Vindication"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:05:31",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/59:00"
+  },
+  {
+    "text": "Craig demos Big Sur features",
+    "notes": "<p><ul><li>The instant wake demo is counted for this.</li></ul></p>",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:07:55",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:38:40"
+  },
+  {
+    "text": "Craig is wearing a blue shirt",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/51:16",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:16:09"
+  },
+  {
+    "text": "Event looks mostly like WWDC",
+    "notes": "<p><ul><li>\"Not all on stage in a theater but using different parts of the campus or outside world\"</li></ul>\n</p>",
+    "game": "2020 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/1:02:19",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:31:53"
+  },
+  {
+    "text": "iOS 14.2's Shazam recognition is demoed",
+    "notes": "",
+    "game": "2020 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:09:38",
+    "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:19:41"
+  },
+  {
+    "text": "iPad Air preorder date announced",
+    "notes": "<p><ul><li>Orders began on <a href=\"https://www.apple.com/newsroom/2020/10/all-new-ipad-air-with-advanced-a14-bionic-chip-available-to-order-starting-today/\" target=\"_blank\">October 16th</a>, with no advanced notice. Unfortunately, the picks had already been graded by then.</li></ul></p>",
+    "game": "2020 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 4,
+    "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:15:29",
+    "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:26:17"
+  },
+  {
+    "text": "Jeff Williams will take a greater role in the keynote",
+    "notes": "<p><ul><li>More than just the Apple Watch section</li></ul></p>",
+    "game": "2019 Fall Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx61sqT4/1:00:05",
+    "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:26:48"
+  },
+  {
+    "text": "John Ternus is wearing a black T-shirt",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/49:54",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:10:35"
+  },
+  {
+    "text": "John Ternus is wearing jeans and a black t-shirt",
+    "notes": "<p><ul><li>It was a blue t-shirt.</li></ul></p>",
+    "game": "2021 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:17:34",
+    "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:18:37"
+  },
+  {
+    "text": "Joz presents a new product",
+    "notes": "",
+    "game": "2020 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:14:53",
+    "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:25:26"
+  },
+  {
+    "text": "Joz wears a non-solid-color shirt",
+    "notes": "",
+    "game": "2020 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/1:01:44",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:31:29"
+  },
+  {
+    "text": "macOS Monterey features are reviewed",
+    "notes": "<p><ul><li>Some Mac software features were mentioned, like running iOS apps, but nothing really specific to Monterey.</li></ul></p>",
+    "game": "2021 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:20:50",
+    "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:23:08"
+  },
+  {
+    "text": "No Apple Services bundle announced",
+    "notes": "",
+    "game": "2020 Summer Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Buzzkill",
+      "Services",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/44:23",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:15:51"
+  },
+  {
+    "text": "No in-person WWDC 2021",
+    "notes": "",
+    "game": "2021 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6bXcOY/31:33",
+    "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:03:40"
+  },
+  {
+    "text": "No Mac or iPad hardware in the keynote",
+    "notes": "<p><ul><li>10.2” iPad was announced</li></ul></p>",
+    "game": "2019 Fall Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Mac",
+      "Buzzkill",
+      "Live Edited",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx61sqT4/42:47",
+    "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:03:04"
+  },
+  {
+    "text": "No mention of AirTags",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "Buzzkill",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:24:13",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:22:47"
+  },
+  {
+    "text": "No mention of cellular Macs",
+    "notes": "",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Buzzkill",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:19",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:33:48"
+  },
+  {
+    "text": "No mention or word from Jony Ive",
+    "notes": "",
+    "game": "2019 Fall Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx61sqT4/1:00:37",
+    "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:27:53"
+  },
+  {
+    "text": "No new Macs announced",
+    "notes": "",
+    "game": "2020 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Buzzkill",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:13:42",
+    "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:22:27"
+  },
+  {
+    "text": "No preview of an Apple Silicon Mac Pro",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Buzzkill",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/54:23",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:18:10"
+  },
+  {
+    "text": "No preview of an AR headset",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Augmented Reality",
+      "Buzzkill",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/50:28",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:13:34"
+  },
+  {
+    "text": "No service bundle announced",
+    "notes": "<p><ul><li>“including any service being free with another, or some sort of content being added to the iPhone upgrade program”</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn’t really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
+    "game": "2019 Fall Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Buzzkill",
+      "Live Edited",
+      "Services",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3,
+    "score": 2,
+    "overcast-graded": "https://overcast.fm/+FXx61sqT4/52:24",
+    "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:16:26"
+  },
+  {
+    "text": "No trailers for Apple TV+ content",
+    "notes": "",
+    "game": "2022 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple TV+",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx650Foc/1:23:59",
+    "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:34:12"
+  },
+  {
+    "text": "Nothing about the Mac",
+    "notes": "<p><ul><li>The mention of Mojave's release is deemed insufficient to make this wrong.</li></ul></p>",
+    "game": "2018 iPhone Event Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "Mac",
+      "Buzzkill",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:27:18",
+    "overcast-picked": "https://overcast.fm/+FXx4E3x_I/52:56"
+  },
+  {
+    "text": "Phil Schiller is nowhere to be seen",
+    "notes": "",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:08",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:33:14"
+  },
+  {
+    "text": "Preview of fall Apple TV+ content",
+    "notes": "",
+    "game": "2020 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple TV+",
+      "Services",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/1:06:06",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:33:56"
+  },
+  {
+    "text": "Someone is wearing the new Apple Watch while riding a skateboard",
+    "notes": "<p><ul><li>A reference to the \"Apple Watch Extreme\" rumors. Maybe Tony Hawk?</li></ul></p>",
+    "game": "2022 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Watch",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx650Foc/1:22:29",
+    "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:32:42"
+  },
+  {
+    "text": "Someone washes their hands during the presentation",
+    "notes": "",
+    "game": "2020 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/1:00:23",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:30:18"
+  },
+  {
+    "text": "The keynote is a pre-recorded video",
+    "notes": "",
+    "game": "2022 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx650Foc/1:06:00",
+    "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:18"
+  },
+  {
+    "text": "The keynote is held outside on the stage Apple uses for concerts at Apple Park",
+    "notes": "",
+    "game": "2020 Summer Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/45:08",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:18:20"
+  },
+  {
+    "text": "The Mac is not mentioned",
+    "notes": "",
+    "game": "2019 Fall Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Mac",
+      "Buzzkill",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx61sqT4/59:49",
+    "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:26:14"
+  },
+  {
+    "text": "The only iPhones seen on stage will be the ones we already know about",
+    "notes": "<p><ul><li>This seems to have been a sub-bullet point to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20cheaper%20iPhone%20will%20be%20called%20iPhone%209\">the previous pick</a> originally, but was forcibly upgraded to a full pick by Myke during grading. (Again, this \"game\" wasn't even supposed to be a competition originally.)</li></ul></p>",
+    "game": "2018 iPhone Event Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iPhone",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:27:34"
+  },
+  {
+    "text": "The removal of Force Touch on watchOS is framed as the inclusion of Haptic Touch",
+    "notes": "",
+    "game": "2020 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Watch",
+      "Live Edited",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/1:04:12",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:32:33"
+  },
+  {
+    "text": "There is going to be a funny scene involving one of the characters of Ted Lasso",
+    "notes": "<p><ul><li>Federico originally had \"Universal Control has been postponed to a future macOS Monterey update\", but during the show a new macOS beta was released with the feature not available, but at least mentioned in an unselectable check box.</li></ul></p>",
+    "game": "2021 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Stagecraft",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:18:05",
+    "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:20:21"
+  },
+  {
+    "text": "Tim Cook interacts with a celebrity",
+    "notes": "",
+    "game": "2019 Media Event Predictions",
+    "type": "Regular",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx75P5Bg/33:14",
+    "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:16:30"
+  },
+  {
+    "text": "Tim Cook mentions the war in Ukraine",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/49:44",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:09:53"
+  },
+  {
+    "text": "Tim Cook says \"good morning\"",
+    "notes": "",
+    "game": "2022 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx650Foc/1:24:05",
+    "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:34:17"
+  },
+  {
+    "text": "Tim Cook says \"metaverse\"",
+    "notes": "",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:33:19"
+  },
+  {
+    "text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand",
+    "notes": "",
+    "game": "2019 Fall Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Live Edited",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx61sqT4/49:50",
+    "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:13:04"
+  },
+  {
+    "text": "Tim presents some portion of the keynote in front of a live audience",
+    "notes": "<p><ul><li>This is very very similar to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20presenter%20references%20the%20fact%20that%20some%20developers%20are%20at%20Apple%20Park%20for%20the%20keynote\">Stephen's Flexie</a> and both ultimately got graded at this point, as well as Stephen's <em>other</em> <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#At%20least%20one%20iOS%20system%20app%20is%20redesigned%20to%20bring%20its%20controls%20to%20the%20bottom%20of%20the%20screen\">controversial pick</a>.</li></ul></p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:31:36",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:23:12"
+  },
+  {
+    "text": "Tony Hawk will make an appearance at the event",
+    "notes": "<p><ul><li>This was originally a near-exact copy of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20shows%20off%20at%20least%20one%20new%20MagSafe%20accessory\">one of Stephen's earlier Flexies</a>, and refers to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Someone%20is%20wearing%20the%20new%20Apple%20Watch%20while%20riding%20a%20skateboard\">Myke's earlier skateboarding pick</a>.</li></ul></p>",
+    "game": "2022 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx650Foc/1:33:07",
+    "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:41:06"
+  },
+  {
+    "text": "Universal Control is demoed again",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Mac",
+      "macOS",
+      "iPadOS",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/50:45",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:14:19"
+  },
+  {
+    "text": "We do not see John Ternus",
+    "notes": "",
+    "game": "2022 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx650Foc/1:23:54",
+    "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:34:01"
+  },
+  {
+    "text": "We do not see Joz during this event",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/52:24",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:17:13"
+  },
+  {
+    "text": "We get some happy messaging from Apple about how much they value developers",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:32:25",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:49:06"
+  },
+  {
+    "text": "We see a Big Sur feature recap",
+    "notes": "",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:12",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:33:27"
+  },
+  {
+    "text": "We see Johny Srouji again",
+    "notes": "",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:16",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:33:39"
+  },
+  {
+    "text": "We see Joz introduce something",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:23:43",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:21:57"
+  },
+  {
+    "text": "Webcam will be called \"highest quality on a Mac\"",
+    "notes": "<p><ul><li>It was \"Mac <em>notebook</em>\".</li></ul></p>",
+    "game": "2021 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:23:07",
+    "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:26:21"
+  }
+]

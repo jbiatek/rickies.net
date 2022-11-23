@@ -1,0 +1,237 @@
+{
+  "name": "2017 Annual Predictions",
+  "game-type": "Annual",
+  "date-graded": "2018-01-02",
+  "date-picked": "2017-01-04",
+  "main-game": {
+    "picks": [
+      {
+        "text": "Siri on iOS will gain more verbal responses, speak more than it does now when activated with your voice",
+        "notes": "<p><ul><li>\"It can hold longer conversations without the user needing to look at the screen.\"</li><li>This was graded as a half point or a \"kinda\".</li></ul></p>",
+        "game": "2017 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 4,
+        "score": 0.5,
+        "overcast-graded": "https://overcast.fm/+FXx75_MJc/01:44",
+        "overcast-picked": "https://overcast.fm/+FXx7nikbQ/28:13"
+      },
+      {
+        "text": "The iPhone 7S and 7S+ will look like the 7 and 7+, not this edge to edge unicorn phone that has been rumored",
+        "notes": "<p><ul><li>This was deemed correct during grading, allowing for the \"7S\" actually being named the 8.</li><li>During grading, Myke wondered if Stephen had been thinking that there would be <em>a</em> phone with the traditional design, or if he was thinking that there would be no \"unicorn\" phone at all. Of course, it is impossible to read his mind, but in the original pick, Stephen seems to imply that it will just be the \"7S\".</li></ul></p>",
+        "game": "2017 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "iPhone",
+          "Buzzkill"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx75_MJc/02:39",
+        "overcast-picked": "https://overcast.fm/+FXx7nikbQ/30:06"
+      },
+      {
+        "text": "2017 will see a more powerful iMac at the top of the line that rivals and replaces the Mac Pro",
+        "notes": "<p><ul><li>\"The Mac Pro will go away, the Mac Mini also goes away, by the end of 2017 the iMac is all that remains.\"</li><li>While explaining, Myke got a little carried away with how complete this transition would be, but when challenged to make it part of the pick, he decided to go for it.</li></ul></p>",
+        "game": "2017 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "Buzzkill",
+          "Live Edited"
+        ],
+        "host": "Myke",
+        "pick-conditions": 5,
+        "score": 0.5,
+        "overcast-graded": "https://overcast.fm/+FXx75_MJc/03:37",
+        "overcast-picked": "https://overcast.fm/+FXx7nikbQ/32:08"
+      },
+      {
+        "text": "iCloud free 5 GB limit will be increased",
+        "notes": "",
+        "game": "2017 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "Services",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx75_MJc/05:28",
+        "overcast-picked": "https://overcast.fm/+FXx7nikbQ/36:22"
+      },
+      {
+        "text": "An iPhone Pro with Apple Pencil support, 2 Apple Pencils",
+        "notes": "<p><ul><li>\"2 Apple Pencils: the standard and a short one that supports the iPhone and iPad mini\"</li><li>During grading, Federico proposes what will become Risky Picks, including 2 points for correct picks and losing a point for being wrong, as Myke describes how he wanted to go big with this pick.</li></ul></p>",
+        "game": "2017 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "iPhone",
+          "Accessories",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 4,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx75_MJc/05:51",
+        "overcast-picked": "https://overcast.fm/+FXx7nikbQ/37:15"
+      },
+      {
+        "text": "Apple Music will be redesigned again",
+        "notes": "<p><ul><li>\"Will gain more Spotify-like algorithmic features\"</li><li>\"An Apple version of the Daily Mix and a way to discover back catalog songs from artists you don't know (Discover Weekly?)\"</li><li>The <a href=\"https://www.engadget.com/2019-08-23-apple-music-new-music-daily.html\" target=\"_blank\">New Music Daily</a> feature would eventually come in 2019.</li></ul></p>",
+        "game": "2017 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "Ahead of Its Time",
+          "Services"
+        ],
+        "host": "Federico",
+        "pick-conditions": 4,
+        "score": 0,
+        "ahead-by": 599,
+        "overcast-graded": "https://overcast.fm/+FXx75_MJc/07:40",
+        "overcast-picked": "https://overcast.fm/+FXx7nikbQ/39:07"
+      },
+      {
+        "text": "Some element of an AR focused device from Apple",
+        "notes": "<p><ul><li>The iPhone X and ARKit is deemed to fulfill this</li></ul></p>",
+        "game": "2017 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "Augmented Reality"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx75_MJc/08:55",
+        "overcast-picked": "https://overcast.fm/+FXx7nikbQ/41:51"
+      },
+      {
+        "text": "An executive shakeup in the iOS or Mac OS software teams",
+        "notes": "",
+        "game": "2017 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "Apple management",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx75_MJc/09:16",
+        "overcast-picked": "https://overcast.fm/+FXx7nikbQ/43:43"
+      },
+      {
+        "text": "Redesigned Mac Pro",
+        "notes": "",
+        "game": "2017 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0.5,
+        "overcast-graded": "https://overcast.fm/+FXx75_MJc/10:05",
+        "overcast-picked": "https://overcast.fm/+FXx7nikbQ/44:36"
+      }
+    ],
+    "coin-flips": [],
+    "scores": [
+      {
+        "host": "Stephen",
+        "score": 1.5
+      },
+      {
+        "host": "Myke",
+        "score": 1.5
+      },
+      {
+        "host": "Federico",
+        "score": 0.5
+      }
+    ],
+    "winner": "Tie - Myke and Stephen"
+  },
+  "nongraded": {
+    "picks": [
+      {
+        "text": "A 10.9\" bezel-less iPad Pro",
+        "notes": "",
+        "game": "2017 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "iPad"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 0.5,
+        "overcast-graded": "https://overcast.fm/+FXx75_MJc/10:59",
+        "overcast-picked": "https://overcast.fm/+FXx7nikbQ/46:31"
+      },
+      {
+        "text": "iOS 10.3 with a redesigned split screen revealing the home screen and the app switcher instead of the vertical slider we have now",
+        "notes": "<p><ul><li>Two iPad multitasking refreshes later, a version that shows the home screen finally arrived in iPadOS 15.</li></ul></p>",
+        "game": "2017 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "iOS",
+          "Ahead of Its Time"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 0,
+        "ahead-by": 1253,
+        "overcast-graded": "https://overcast.fm/+FXx75_MJc/11:13",
+        "overcast-picked": "https://overcast.fm/+FXx7nikbQ/48:07"
+      },
+      {
+        "text": "Multi-user on iPad support for the masses",
+        "notes": "",
+        "game": "2017 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "iPad",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx75_MJc/11:47",
+        "overcast-picked": "https://overcast.fm/+FXx7nikbQ/48:46"
+      },
+      {
+        "text": "New iPad accessories: Keyboard + protection + pencil holder",
+        "notes": "",
+        "game": "2017 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "iPad",
+          "Accessories"
+        ],
+        "host": "Federico",
+        "pick-conditions": 4,
+        "score": 0.75,
+        "overcast-graded": "https://overcast.fm/+FXx75_MJc/12:11",
+        "overcast-picked": "https://overcast.fm/+FXx7nikbQ/49:17"
+      }
+    ]
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #123: 2017 Apple Predictions",
+      "url": "https://relay.fm/connected/123",
+      "episode-number": 123
+    },
+    {
+      "title": "Connected #174: 2017 In Review: I've Been Sitting on That Joke for Months",
+      "url": "https://relay.fm/connected/174",
+      "episode-number": 174
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "name": "2018 Annual Predictions",
+  "game-type": "Annual",
+  "date-graded": "2018-12-26",
+  "date-picked": "2018-01-09",
+  "main-game": {
+    "picks": [
+      {
+        "text": "The Mac Pro will ship by the end of 2018",
+        "notes": "<p><ul><li>Later in 2018, <a href=\"https://www.apple.com/newsroom/2021/10/apple-unveils-game-changing-macbook-pro/\" target=\"_blank\">Apple dashed Stephen's hopes</a> of getting this correct. As promised, the Mac Pro <a href=\"https://www.apple.com/newsroom/2019/06/apple-unveils-powerful-all-new-mac-pro-and-groundbreaking-pro-display-xdr/\" target=\"_blank\">came out in 2019</a>.</li></ul></p>",
+        "game": "2018 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "Ahead of Its Time"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 343,
+        "overcast-graded": "https://overcast.fm/+FXx495ZrA/04:34",
+        "overcast-picked": "https://overcast.fm/+FXx5giTnQ/25:34"
+      },
+      {
+        "text": "There will be a bigger iPhone X style phone, but it will not have an OLED screen",
+        "notes": "<p><ul><li>The iPhone XR saved Myke here, as the XS Max was OLED which he didn’t think would be possible for such a big display.</li></ul></p>",
+        "game": "2018 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx495ZrA/03:29",
+        "overcast-picked": "https://overcast.fm/+FXx5giTnQ/28:10"
+      },
+      {
+        "text": "iOS 12 will have a focus on \"faster\", speed and performance optimizations being a tentpole feature",
+        "notes": "<p><ul><li>\"It will be on a slide.\"</li><li>Ungraded examples: \"faster animations, maybe 64-bit, Swift, Pro Motion, something under the scenes, maybe a built-in cache cleanup feature\"</li></ul></p>",
+        "game": "2018 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx495ZrA/02:43",
+        "overcast-picked": "https://overcast.fm/+FXx5giTnQ/31:36"
+      },
+      {
+        "text": "Apple Watch with an always-on display",
+        "notes": "<p><ul><li>The Series 5 watch added this feature in 2019.</li></ul></p>",
+        "game": "2018 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "Ahead of Its Time",
+          "Apple Watch"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 252,
+        "overcast-graded": "https://overcast.fm/+FXx495ZrA/05:03",
+        "overcast-picked": "https://overcast.fm/+FXx5giTnQ/35:08"
+      },
+      {
+        "text": "A streaming service announced as Apple Video",
+        "notes": "<p><ul><li>\"1-2 months for free, bundled with Apple Music as an option\"</li></ul></p>",
+        "game": "2018 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "Apple TV+",
+          "Services",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 3,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx495ZrA/05:19",
+        "overcast-picked": "https://overcast.fm/+FXx5giTnQ/40:02"
+      },
+      {
+        "text": "No new iPad mini",
+        "notes": "<p><ul><li>\"(if it's killed, I'm not wrong)\"</li></ul></p>",
+        "game": "2018 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "iPad",
+          "Buzzkill"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx495ZrA/05:45",
+        "overcast-picked": "https://overcast.fm/+FXx5giTnQ/43:01"
+      },
+      {
+        "text": "Workflow 2 will appear as a system feature or app",
+        "notes": "<p><ul><li>\"Heavy on Siri integration, framework for pro apps to talk to each other\"</li><li>Ungraded: probably a migration tool from version 1, the App Store version might be kept around for a while</li><li>Some contention during grading about pro apps talking to each other leads to clarification that the <em>entire</em> pick must be true, but this one is deemed close enough.</li></ul></p>",
+        "game": "2018 Annual Predictions",
+        "type": "Ricky",
+        "topics": [
+          "iOS",
+          "Apple Apps"
+        ],
+        "host": "Federico",
+        "pick-conditions": 3,
+        "score": 2,
+        "overcast-graded": "https://overcast.fm/+FXx495ZrA/06:27",
+        "overcast-picked": "https://overcast.fm/+FXx5giTnQ/48:08"
+      },
+      {
+        "text": "iTunes rewrite or replacement for Mac OS",
+        "notes": "<p><ul><li>iTunes was eventually split up in 2019.</li></ul></p>",
+        "game": "2018 Annual Predictions",
+        "type": "Ricky",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Ahead of Its Time",
+          "Apple Apps"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": -1,
+        "ahead-by": 153,
+        "overcast-graded": "https://overcast.fm/+FXx495ZrA/08:12",
+        "overcast-picked": "https://overcast.fm/+FXx5giTnQ/51:14"
+      },
+      {
+        "text": "iOS 12 features a large scale UI redesign across iOS, the biggest since iOS 7",
+        "notes": "",
+        "game": "2018 Annual Predictions",
+        "type": "Ricky",
+        "topics": [
+          "iOS",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx495ZrA/08:12",
+        "overcast-picked": "https://overcast.fm/+FXx5giTnQ/53:35"
+      }
+    ],
+    "coin-flips": [],
+    "scores": [
+      {
+        "host": "Federico",
+        "score": 3
+      },
+      {
+        "host": "Stephen",
+        "score": 0
+      },
+      {
+        "host": "Myke",
+        "score": 0
+      }
+    ],
+    "winner": "Federico"
+  },
+  "nongraded": {
+    "picks": [
+      {
+        "text": "Reminders will get a major redesign modeled after iOS 11 and Files",
+        "notes": "<p><ul><li>\"With new family sharing features and integration with the HomePod.\"</li><li>The redesign of Reminders did come eventually in 2019, with many more new features in 2021.</li></ul></p>",
+        "game": "2018 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "Ahead of Its Time",
+          "Apple Apps"
+        ],
+        "host": "Federico",
+        "pick-conditions": 3,
+        "score": 0,
+        "ahead-by": 153,
+        "overcast-graded": "https://overcast.fm/+FXx495ZrA/10:47",
+        "overcast-picked": "https://overcast.fm/+FXx5giTnQ/57:44"
+      },
+      {
+        "text": "AppKit and UIKit give birth to something new and cross-platform",
+        "notes": "<p><ul><li>SwiftUI was announced in 2019.</li></ul></p>",
+        "game": "2018 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "Ahead of Its Time",
+          "Developer tools"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 3,
+        "score": 0,
+        "ahead-by": 153,
+        "overcast-graded": "https://overcast.fm/+FXx495ZrA/11:13",
+        "overcast-picked": "https://overcast.fm/+FXx5giTnQ/1:01:21"
+      },
+      {
+        "text": "A new Apple Pencil with a button of some kind",
+        "notes": "<p><ul><li>\"(aluminum?)\"</li></ul></p>",
+        "game": "2018 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "Accessories",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx495ZrA/11:44",
+        "overcast-picked": "https://overcast.fm/+FXx5giTnQ/1:02:14"
+      },
+      {
+        "text": "A new smart keyboard: new material, backlit keys, a dedicated Siri key",
+        "notes": "<p><ul><li>Apple's Magic Keyboard basically matching this description came out in 2020.</li></ul></p>",
+        "game": "2018 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "Accessories",
+          "Ahead of Its Time"
+        ],
+        "host": "Federico",
+        "pick-conditions": 4,
+        "score": 0,
+        "ahead-by": 442,
+        "overcast-graded": "https://overcast.fm/+FXx495ZrA/11:57",
+        "overcast-picked": "https://overcast.fm/+FXx5giTnQ/1:03:52"
+      },
+      {
+        "text": "iPod Touch updated",
+        "notes": "<p><ul><li>The 7th generation update finally came in 2019.</li></ul></p>",
+        "game": "2018 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "Ahead of Its Time",
+          "iPod Touch"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 147,
+        "overcast-graded": "https://overcast.fm/+FXx495ZrA/11:29",
+        "overcast-picked": "https://overcast.fm/+FXx5giTnQ/1:05:01"
+      },
+      {
+        "text": "On iOS 12, the home screen features more than just app icons",
+        "notes": "<p><ul><li>WIdgets would finally be added to the home screen in iOS 14.</li></ul></p>",
+        "game": "2018 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "iOS",
+          "Ahead of Its Time"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 539,
+        "overcast-graded": "https://overcast.fm/+FXx495ZrA/12:25",
+        "overcast-picked": "https://overcast.fm/+FXx5giTnQ/1:06:04"
+      },
+      {
+        "text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
+        "notes": "<p><ul><li>\"Music and Video removed from iTunes on the Mac\"</li><li>iTunes was eventually split up in 2019.</li></ul></p>",
+        "game": "2018 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "iOS",
+          "Mac",
+          "macOS",
+          "Ahead of Its Time",
+          "Apple Apps",
+          "Apple TV+",
+          "Services"
+        ],
+        "host": "Federico",
+        "pick-conditions": 4,
+        "score": 0,
+        "ahead-by": 153,
+        "overcast-graded": "https://overcast.fm/+FXx495ZrA/10:38",
+        "overcast-picked": "https://overcast.fm/+FXx5giTnQ/1:08:27"
+      }
+    ]
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #175: The Devil on my Shoulder",
+      "url": "https://relay.fm/connected/175",
+      "episode-number": 175
+    },
+    {
+      "title": "Connected #208: It’s Ugly and I Want It",
+      "url": "https://relay.fm/connected/208",
+      "episode-number": 208
+    },
+    {
+      "title": "Connected #224: 2018 in Review: The Wonder of Everything",
+      "url": "https://relay.fm/connected/224",
+      "episode-number": 224
+    }
+  ]
+}

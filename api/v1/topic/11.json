@@ -1,0 +1,505 @@
+[
+  {
+    "text": "A CPU transition is announced for the Mac",
+    "notes": "<p><ul><li>Federico counsels against specifying ARM, which is good because Apple calls it \"Apple Silicon\" and never uses the term ARM.</li></ul></p>",
+    "game": "2020 Summer Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/26:53",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/23:36"
+  },
+  {
+    "text": "Any kind of release timeframe is provided for macOS Monterey",
+    "notes": "<p><ul><li>Apparently feeling humble, Federico admits that this is a \"boring\" pick. It was originally \"release date\", but when some questioning about whether just a month would count came up, he watered it down.</li></ul></p>",
+    "game": "2021 October Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Live Edited",
+      "No Passion",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:01:30",
+    "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/42:37"
+  },
+  {
+    "text": "Apple announces Windows for ARM coming via virtualization in the future",
+    "notes": "<p><ul><li>Parallels was updated to do this by 2021, but it wasn't announced at this event.</li></ul></p>",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Ahead of Its Time"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 0,
+    "ahead-by": 156,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:22",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:34:31"
+  },
+  {
+    "text": "Apple demos a game running on an Apple Silicon Mac",
+    "notes": "",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:08:37",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:39:56"
+  },
+  {
+    "text": "Apple demos iOS apps running on a Mac",
+    "notes": "",
+    "game": "2020 November Rickies",
+    "type": "Regular",
+    "topics": [
+      "iOS",
+      "Mac",
+      "macOS",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/47:49",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:09:29"
+  },
+  {
+    "text": "Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together",
+    "notes": "",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Apple Apps",
+      "Live Edited",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:08:59",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:42:23"
+  },
+  {
+    "text": "Apple replaces at least one bundled macOS app with a Marzipan version",
+    "notes": "<p><ul><li>It's called Catalyst, not Marzipan, which is pushed back on a little. Podcasts is cited as fulfilling this (is it <em>replacing</em> a Mac app? Stephen gets away with this a bit) and they say that Messages might now be a Catalyst app, but in fact it isn't.</li><li>The permissive grading may be due to the other hosts not wanting to get <em>too</em> picky when it comes to grading later picks.</li></ul></p>",
+    "game": "2019 WWDC Predictions",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Apple Apps"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4xqI14/22:53",
+    "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/34:06"
+  },
+  {
+    "text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
+    "notes": "<p><ul><li>\"Music and Video removed from iTunes on the Mac\"</li><li>iTunes was eventually split up in 2019.</li></ul></p>",
+    "game": "2018 Annual Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iOS",
+      "Mac",
+      "macOS",
+      "Ahead of Its Time",
+      "Apple Apps",
+      "Apple TV+",
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 4,
+    "score": 0,
+    "ahead-by": 153,
+    "overcast-graded": "https://overcast.fm/+FXx495ZrA/10:38",
+    "overcast-picked": "https://overcast.fm/+FXx5giTnQ/1:08:27"
+  },
+  {
+    "text": "Big Sur gets a release date",
+    "notes": "<p><ul><li>This pick was just <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Big%20Sur%20gets%20a%20revised%20release%20window\">one event too early</a>.</li></ul></p>",
+    "game": "2020 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Ahead of Its Time"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 29,
+    "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:15:21",
+    "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:25:54"
+  },
+  {
+    "text": "Big Sur gets a revised release window",
+    "notes": "",
+    "game": "2020 November Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/32:16",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/55:09"
+  },
+  {
+    "text": "Big Sur on the new Apple Silicon Macs comes with a low power mode feature",
+    "notes": "<p><ul><li>This was a feature in Monterey the next year.</li></ul></p>",
+    "game": "2020 November Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Ahead of Its Time"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": -1,
+    "ahead-by": 210,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/53:18",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:15:26"
+  },
+  {
+    "text": "Big Sur released within 48 hours of event",
+    "notes": "",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:07:29",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:36:41"
+  },
+  {
+    "text": "Catalina gets a release date",
+    "notes": "<p><ul><li>This didn't happen until <a href=\"https://www.theverge.com/2020/11/10/21432429/apple-macos-11-big-sur-release-date-m1-chip\" target=\"_blank\">November 10th</a>.</li></ul></p>",
+    "game": "2019 Fall Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Ahead of Its Time"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 61,
+    "overcast-graded": "https://overcast.fm/+FXx61sqT4/1:02:43",
+    "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:29:50"
+  },
+  {
+    "text": "Craig demos Big Sur features",
+    "notes": "<p><ul><li>The instant wake demo is counted for this.</li></ul></p>",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:07:55",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:38:40"
+  },
+  {
+    "text": "iOS 15.4 and/or macOS 12.3 get a release date",
+    "notes": "<p><ul><li>They did get a <em>window</em> but not an actual date.</li></ul></p>",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Mac",
+      "macOS",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/52:55",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:18:02"
+  },
+  {
+    "text": "iTunes rewrite or replacement for Mac OS",
+    "notes": "<p><ul><li>iTunes was eventually split up in 2019.</li></ul></p>",
+    "game": "2018 Annual Predictions",
+    "type": "Ricky",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Ahead of Its Time",
+      "Apple Apps"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": -1,
+    "ahead-by": 153,
+    "overcast-graded": "https://overcast.fm/+FXx495ZrA/08:12",
+    "overcast-picked": "https://overcast.fm/+FXx5giTnQ/51:14"
+  },
+  {
+    "text": "macOS 12.3 does not come out within 48 hours of the event",
+    "notes": "<p><ul><li>This will have to be judged by announced release, since episode recording is a day after the event.</li></ul></p>",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/50:36",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:13:44"
+  },
+  {
+    "text": "macOS 13 is called \"Mammoth\"",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Possible Vindication"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:28:45",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:22:28"
+  },
+  {
+    "text": "macOS Monterey features are reviewed",
+    "notes": "<p><ul><li>Some Mac software features were mentioned, like running iOS apps, but nothing really specific to Monterey.</li></ul></p>",
+    "game": "2021 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:20:50",
+    "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:23:08"
+  },
+  {
+    "text": "macOS skips ahead to version 15 to match iOS and iPadOS",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Possible Vindication"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:31:37",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:47:08"
+  },
+  {
+    "text": "No date is provided for macOS Monterey",
+    "notes": "",
+    "game": "2021 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Buzzkill",
+      "Passionate"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:12:41",
+    "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:20:13"
+  },
+  {
+    "text": "Shortcuts for the Mac",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Apple Apps"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/51:51",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:00:05"
+  },
+  {
+    "text": "Something in the default Dock of Catalina becomes a Catalyst app",
+    "notes": "",
+    "game": "2020 Summer Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Apple Apps",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 2,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/35:44",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/57:29"
+  },
+  {
+    "text": "The new version of macOS brings back Dashboard as a way to place widgets outside of the current Notification Center",
+    "notes": "<p><ul><li>It has to be called \"Dashboard\" to get the points.</li></ul></p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Possible Vindication"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:07:31",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:03:14"
+  },
+  {
+    "text": "The next version of macOS comes with a redesigned Today view",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Possible Vindication"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:32:01",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:47:59"
+  },
+  {
+    "text": "The next version of macOS will have at least one feature exclusive to Apple Silicon Macs",
+    "notes": "<p><ul><li>There are <a href=\"https://www.apple.com/macos/macos-ventura-preview/features/\" target=\"_blank\">a few examples</a>: live captions in FaceTime, using an iPad Pro as a color reference display, and dictating emoji.</li></ul></p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "macOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/43:39",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/34:36"
+  },
+  {
+    "text": "Universal Control is demoed again",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Mac",
+      "macOS",
+      "iPadOS",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/50:45",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:14:19"
+  },
+  {
+    "text": "We see a Big Sur feature recap",
+    "notes": "",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:12",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:33:27"
+  },
+  {
+    "text": "WWDC brings no real changes to Mac Catalyst",
+    "notes": "",
+    "game": "2020 Annual Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Buzzkill",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4vzIxY/52:20",
+    "overcast-picked": "https://overcast.fm/+FXx7hS2kY/1:22:03"
+  },
+  {
+    "text": "WWDC will introduce a multi-year plan to move macOS and iOS closer",
+    "notes": "<p><ul><li>Mac Catalyst and SwiftUI deemed to fulfill this</li></ul></p>",
+    "game": "2019 Annual Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iOS",
+      "Mac",
+      "macOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7hS2kY/30:04",
+    "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/1:08:54"
+  }
+]

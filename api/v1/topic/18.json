@@ -1,0 +1,387 @@
+[
+  {
+    "text": "Apple brings Mail extensions to iOS and iPadOS",
+    "notes": "",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPad",
+      "Apple Apps",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:45:01"
+  },
+  {
+    "text": "Apple showcases at least one new feature coming in iOS or iPadOS 14.1",
+    "notes": "<p><ul><li>The version number wasn't stated explicitly, otherwise Fitness+ would have counted.</li></ul></p>",
+    "game": "2020 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPad",
+      "iPadOS",
+      "Live Edited",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/1:12:33",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:38:41"
+  },
+  {
+    "text": "Better external display support on iPad",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 361,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:16:36",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:35:41"
+  },
+  {
+    "text": "DriverKit comes to iPadOS to let more kinds of accessories be supported on iPad",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Developer tools",
+      "iPadOS",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:27:18",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:28:50"
+  },
+  {
+    "text": "Hypervisor comes to iPad",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:27:52",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:30:47"
+  },
+  {
+    "text": "Improved external display support for iPadOS",
+    "notes": "<p><ul><li>Finally came true in 2022 at WWDC.</li></ul></p>",
+    "game": "2020 Summer Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time",
+      "iPadOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 712,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/44:54",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:17:46"
+  },
+  {
+    "text": "In the next version of iPadOS, you can put widgets in more places (out of the left column)",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/37:17",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/37:45"
+  },
+  {
+    "text": "iOS and iPadOS 15 get native HomeKit widgets",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPad",
+      "iPadOS",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:17:12",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:36:05"
+  },
+  {
+    "text": "iPad multitasking is overhauled again",
+    "notes": "",
+    "game": "2021 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Alternate Risky",
+      "iPadOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6bXcOY/49:04",
+    "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:50"
+  },
+  {
+    "text": "iPadOS 15 brings organization changes to the home screen that don’t exist on the iPhone, including iOS 15",
+    "notes": "<p><ul>\n<li>\"Widgets on home screen and App Library don't count as they are on the iPhone already\"</li>\n<li>This was originally a Risky Pick, but Myke couldn't get enough clarity for what it meant.</li>\n</ul></p>",
+    "game": "2021 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Alternate Risky",
+      "iPadOS",
+      "Live Edited",
+      "Possible Vindication"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/46:28",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/48:30"
+  },
+  {
+    "text": "iPadOS gets improved split view with at least 3 apps at once",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Passionate",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:41:00",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:30:14"
+  },
+  {
+    "text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
+    "notes": "<p><ul><li>Was originally a Risky pick with the addition of a \"with keyboard and trackpad\" clause, but <a href=\"https://twitter.com/stroughtonsmith/status/1529836983874469891\" target=\"_blank\">some WebKit source code changes</a> made it much less risky. He watered it down further by removing an \"overlapping\" clause as well and not phrasing it as a \"desktop-like mode\", but then decided to just go all the way back to the original pick.</li></ul></p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Alternate Risky",
+      "Developer tools",
+      "iPadOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/45:48",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/38:47"
+  },
+  {
+    "text": "iPadOS multitasking remains fundamentally the same as the iPadOS 15 version",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Buzzkill",
+      "iPadOS",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:35:56",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:26:27"
+  },
+  {
+    "text": "iPadOS multitasking remains unchanged from iOS 15's implementation",
+    "notes": "",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Buzzkill",
+      "iPadOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:35:56"
+  },
+  {
+    "text": "More apps can use a picture-in-picture-style window on iPadOS",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Possible Vindication"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:35:38",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:26:04"
+  },
+  {
+    "text": "Shortcuts gets an API on iOS and iPadOS for apps to run Shortcuts directly, without URL schemes",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPad",
+      "Apple Apps",
+      "Developer tools",
+      "iPadOS",
+      "Passionate",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:37:13",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:28:43"
+  },
+  {
+    "text": "Some Mac-only Shortcuts actions will become available on iPhone and iPad",
+    "notes": "",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPad",
+      "Apple Apps",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:46:35"
+  },
+  {
+    "text": "The big iPad Pro is updated with a feature that is unique to it",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/53:56",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/48:54"
+  },
+  {
+    "text": "The iPad home screen gets new features",
+    "notes": "<p><ul><li>The ability to stack widgets is <em>juuuuuust</em> enough to count.</li></ul></p>",
+    "game": "2020 Summer Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "iPadOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/27:41",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/26:48"
+  },
+  {
+    "text": "The iPad home screen will continue to change with new elements and additions",
+    "notes": "<p><ul><li>The iPad went mostly unchanged in 2020, but iPadOS 15 did bring changes the next year.</li></ul></p>",
+    "game": "2020 Annual Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 158,
+    "overcast-graded": "https://overcast.fm/+FXx4vzIxY/53:13",
+    "overcast-picked": "https://overcast.fm/+FXx7hS2kY/1:23:49"
+  },
+  {
+    "text": "The iPad Pro, with an updated USB-4/Thunderbolt port, features a new kind of support for external displays",
+    "notes": "<p><ul><li>Ungraded: the multitasking system gets redesigned to better support external displays</li><li>The external display support finally came in 2022.</li></ul></p>",
+    "game": "2021 April Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": -1,
+    "ahead-by": 409,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:16:06",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:05:38"
+  },
+  {
+    "text": "There is no additional external display support for iPadOS",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Buzzkill",
+      "iPadOS",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:35:51",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:26:20"
+  },
+  {
+    "text": "Universal Control is demoed again",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Mac",
+      "macOS",
+      "iPadOS",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/50:45",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:14:19"
+  }
+]

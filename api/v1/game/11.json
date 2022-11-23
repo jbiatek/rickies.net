@@ -1,0 +1,443 @@
+{
+  "name": "2020 October Rickies",
+  "game-type": "Keynote",
+  "date-graded": "2020-10-14",
+  "date-picked": "2020-10-07",
+  "main-game": {
+    "picks": [
+      {
+        "text": "The new iPhones will carry a new design inspired by the iPad Pro/iPhone 4",
+        "notes": "<p><ul><li>\"Flat sides\"</li></ul></p>",
+        "game": "2020 October Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone",
+          "Live Edited",
+          "Passionate"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/25:08",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/26:36"
+      },
+      {
+        "text": "Apple announces 4 phones, but in only 3 sizes",
+        "notes": "",
+        "game": "2020 October Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/26:52",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/30:38"
+      },
+      {
+        "text": "ProMotion does not come to new iPhones",
+        "notes": "",
+        "game": "2020 October Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone",
+          "Buzzkill",
+          "Passionate"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/30:51",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/32:36"
+      },
+      {
+        "text": "One of the new iPhones will not have the USB charger in the box",
+        "notes": "",
+        "game": "2020 October Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone",
+          "Accessories",
+          "Buzzkill"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/36:47",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/35:51"
+      },
+      {
+        "text": "Apple gives another extended free period of TV+ with new product purchases, even if you already had a trial",
+        "notes": "<p><ul><li>The pick <a href=\"https://overcast.fm/+FXx5SWQQA/46:32\" target=\"_blank\">went through a little more revision</a> after round 2 ended.</li><li>Apple extended the existing free period for TV+, which does not count</li><li>Myke notes that, since this extension was announced via press release before the event, a differently-worded pick may have been ambiguous based on the rules at the time, so an explicit rule about the scoring window is added.</li></ul></p>",
+        "game": "2020 October Rickies",
+        "type": "Regular",
+        "topics": [
+          "Apple TV+",
+          "Live Edited",
+          "Passionate",
+          "Services",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/39:52",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/38:54"
+      },
+      {
+        "text": "The iPhone Pro will come in at least 1 new color",
+        "notes": "",
+        "game": "2020 October Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/49:04",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/44:12"
+      },
+      {
+        "text": "One of the new iPhones with LIDAR has a new portrait feature thanks to new sensors",
+        "notes": "",
+        "game": "2020 October Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPhone",
+          "Augmented Reality",
+          "Live Edited"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 2,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/56:54",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/48:53"
+      },
+      {
+        "text": "The new iPhone will have a Touch ID sensor",
+        "notes": "",
+        "game": "2020 October Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPhone",
+          "Passionate",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:01:22",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:03:07"
+      },
+      {
+        "text": "The iPhone Pro moves to USB-C",
+        "notes": "<p><ul><li>Stephen was <em>very</em> sure of this pick.</li></ul></p>",
+        "game": "2020 October Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPhone",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:03:13",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/57:02"
+      }
+    ],
+    "coin-flips": [],
+    "scores": [
+      {
+        "host": "Federico",
+        "score": 4
+      },
+      {
+        "host": "Stephen",
+        "score": 1
+      },
+      {
+        "host": "Myke",
+        "score": 0
+      }
+    ],
+    "winner": "Federico"
+  },
+  "the-flexies": {
+    "picks": [
+      {
+        "text": "Apple launches a new HD tier for Apple Music",
+        "notes": "<p><ul><li>This feature <a href=\"https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/\" target=\"_blank\">did come eventually</a>, in 2021.</li></ul></p>",
+        "game": "2020 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Ahead of Its Time",
+          "Services"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 217,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:08:52",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:13:16"
+      },
+      {
+        "text": "Apple launches an AR navigation mode for Apple Maps",
+        "notes": "<p><ul><li>A year too early, this was a feature in iOS 15.</li></ul></p>",
+        "game": "2020 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "Ahead of Its Time",
+          "Augmented Reality"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 238,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:09:15",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:15:45"
+      },
+      {
+        "text": "Apple launches a new AirPods app for iPhone, similar to Watch app",
+        "notes": "<p><ul><li>Instead of an app, Apple made a section in Settings at the next WWDC.</li></ul></p>",
+        "game": "2020 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "Accessories",
+          "AirPods",
+          "Apple Apps",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:09:29",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:18:25"
+      },
+      {
+        "text": "iOS 14.2's Shazam recognition is demoed",
+        "notes": "",
+        "game": "2020 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:09:38",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:19:41"
+      },
+      {
+        "text": "Apple introduces a new proximity-based software feature for iPhone based on the U1 chip",
+        "notes": "",
+        "game": "2020 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:09:43",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:20:36"
+      },
+      {
+        "text": "Updated Apple TV",
+        "notes": "<p><ul><li>Finally happened on <a href=\"https://www.apple.com/newsroom/2021/04/apple-unveils-the-next-generation-of-apple-tv-4k/\" target=\"_blank\">April 20, 2021</a>.</li></ul></p>",
+        "game": "2020 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Ahead of Its Time",
+          "Apple TV"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 190,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:13:40",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:22:16"
+      },
+      {
+        "text": "No new Macs announced",
+        "notes": "",
+        "game": "2020 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Buzzkill",
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:13:42",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:22:27"
+      },
+      {
+        "text": "New HomePod model",
+        "notes": "",
+        "game": "2020 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:13:45",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:22:39"
+      },
+      {
+        "text": "Apple TV+ trailers are shown",
+        "notes": "",
+        "game": "2020 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple TV+",
+          "Services",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:13:48",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:22:47"
+      },
+      {
+        "text": "Over-ear AirPods are offered with multiple material options",
+        "notes": "",
+        "game": "2020 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "AirPods",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:13:51",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:22:51"
+      },
+      {
+        "text": "Joz presents a new product",
+        "notes": "",
+        "game": "2020 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:14:53",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:25:26"
+      },
+      {
+        "text": "An AR demo is shown",
+        "notes": "",
+        "game": "2020 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Augmented Reality",
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:14:56",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:25:47"
+      },
+      {
+        "text": "Big Sur gets a release date",
+        "notes": "<p><ul><li>This pick was just <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Big%20Sur%20gets%20a%20revised%20release%20window\">one event too early</a>.</li></ul></p>",
+        "game": "2020 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Ahead of Its Time"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 29,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:15:21",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:25:54"
+      },
+      {
+        "text": "iPad Air preorder date announced",
+        "notes": "<p><ul><li>Orders began on <a href=\"https://www.apple.com/newsroom/2020/10/all-new-ipad-air-with-advanced-a14-bionic-chip-available-to-order-starting-today/\" target=\"_blank\">October 16th</a>, with no advanced notice. Unfortunately, the picks had already been graded by then.</li></ul></p>",
+        "game": "2020 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Ahead of Its Time",
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 4,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:15:29",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:26:17"
+      },
+      {
+        "text": "At least some of the new iPhones have 5G",
+        "notes": "",
+        "game": "2020 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:15:34",
+        "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:26:43"
+      }
+    ],
+    "coin-flips": [],
+    "scores": [
+      {
+        "host": "Stephen",
+        "correct": 3,
+        "total": 5
+      },
+      {
+        "host": "Myke",
+        "correct": 2,
+        "total": 5
+      },
+      {
+        "host": "Federico",
+        "correct": 1,
+        "total": 5
+      }
+    ],
+    "charity-name": "Forrest Spence Fund",
+    "charity-url": "https://www.forrestspencefund.org/about-us/",
+    "donation": 100,
+    "donator": "Federico",
+    "winner": "Stephen"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #315: The Rickies (October 2020)",
+      "url": "https://relay.fm/connected/315",
+      "episode-number": 315
+    },
+    {
+      "title": "Connected #316: I Overspeakered Myself",
+      "url": "https://relay.fm/connected/316",
+      "episode-number": 316
+    }
+  ]
+}

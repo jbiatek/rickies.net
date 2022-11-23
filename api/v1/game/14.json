@@ -1,0 +1,323 @@
+{
+  "name": "2019 Fall Rickies",
+  "game-type": "Keynote",
+  "date-graded": "2019-09-11",
+  "date-picked": "2019-09-04",
+  "main-game": {
+    "picks": [
+      {
+        "text": "New colours in the iPhone line as compared to the previous year",
+        "notes": "",
+        "game": "2019 Fall Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone",
+          "Live Edited"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/34:35",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/52:15"
+      },
+      {
+        "text": "The iPhone XR will become the iPhone 11",
+        "notes": "",
+        "game": "2019 Fall Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/36:32",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/54:11"
+      },
+      {
+        "text": "The biggest phone will not be called Pro Max",
+        "notes": "",
+        "game": "2019 Fall Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/38:19",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/56:33"
+      },
+      {
+        "text": "There will be 3 cameras on the high end phones",
+        "notes": "<p><ul><li>Ungraded: \"the cameras will be ultrawide, 'the camera', and telephoto\"</li></ul></p>",
+        "game": "2019 Fall Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/41:59",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:01:00"
+      },
+      {
+        "text": "No Mac or iPad hardware in the keynote",
+        "notes": "<p><ul><li>10.2” iPad was announced</li></ul></p>",
+        "game": "2019 Fall Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPad",
+          "Mac",
+          "Buzzkill",
+          "Live Edited",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/42:47",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:03:04"
+      },
+      {
+        "text": "The new phone will offer some kind of night mode for shooting photos in the dark",
+        "notes": "",
+        "game": "2019 Fall Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/43:15",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:04:54"
+      },
+      {
+        "text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand",
+        "notes": "",
+        "game": "2019 Fall Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Live Edited",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 3,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/49:50",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:13:04"
+      },
+      {
+        "text": "No service bundle announced",
+        "notes": "<p><ul><li>“including any service being free with another, or some sort of content being added to the iPhone upgrade program”</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn’t really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
+        "game": "2019 Fall Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Buzzkill",
+          "Live Edited",
+          "Services",
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 3,
+        "score": 2,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/52:24",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:16:26"
+      },
+      {
+        "text": "Apple announces Apple TV and game controller bundle",
+        "notes": "<p><ul><li>Federico spins a vivid tale of how actually this was announced, but the other guys don’t buy it.</li></ul></p>",
+        "game": "2019 Fall Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Apple TV",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/53:36",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:19:33"
+      }
+    ],
+    "coin-flips": [],
+    "scores": [
+      {
+        "host": "Stephen",
+        "score": 3
+      },
+      {
+        "host": "Myke",
+        "score": 1
+      },
+      {
+        "host": "Federico",
+        "score": 0
+      }
+    ],
+    "winner": "Stephen"
+  },
+  "nongraded": {
+    "picks": [
+      {
+        "text": "Apple TV+ will be free with another subscription",
+        "notes": "<p><ul><li>Apple One, which includes Apple TV+, launched a year later.</li></ul></p>",
+        "game": "2019 Fall Rickies",
+        "type": "NonGraded",
+        "topics": [
+          "Ahead of Its Time",
+          "Apple TV+",
+          "Services"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 371,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/59:28",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:25:59"
+      },
+      {
+        "text": "The Mac is not mentioned",
+        "notes": "",
+        "game": "2019 Fall Rickies",
+        "type": "NonGraded",
+        "topics": [
+          "Mac",
+          "Buzzkill",
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/59:49",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:26:14"
+      },
+      {
+        "text": "Some surprise hardware, like a Tile tracker",
+        "notes": "<p><ul><li>Apple's tracker would eventually come out in 2021.</li></ul></p>",
+        "game": "2019 Fall Rickies",
+        "type": "NonGraded",
+        "topics": [
+          "Accessories",
+          "Ahead of Its Time"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 588,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/59:57",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:26:25"
+      },
+      {
+        "text": "Jeff Williams will take a greater role in the keynote",
+        "notes": "<p><ul><li>More than just the Apple Watch section</li></ul></p>",
+        "game": "2019 Fall Rickies",
+        "type": "NonGraded",
+        "topics": [
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/1:00:05",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:26:48"
+      },
+      {
+        "text": "No mention or word from Jony Ive",
+        "notes": "",
+        "game": "2019 Fall Rickies",
+        "type": "NonGraded",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/1:00:37",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:27:53"
+      },
+      {
+        "text": "Apple gives a release date for iOS 13.1 and mentions the update on stage",
+        "notes": "",
+        "game": "2019 Fall Rickies",
+        "type": "NonGraded",
+        "topics": [
+          "iOS",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/1:01:33",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:28:50"
+      },
+      {
+        "text": "Apple announces new environmental efforts, such as a new recycling robot",
+        "notes": "",
+        "game": "2019 Fall Rickies",
+        "type": "NonGraded",
+        "topics": [
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/1:02:35",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:29:08"
+      },
+      {
+        "text": "Catalina gets a release date",
+        "notes": "<p><ul><li>This didn't happen until <a href=\"https://www.theverge.com/2020/11/10/21432429/apple-macos-11-big-sur-release-date-m1-chip\" target=\"_blank\">November 10th</a>.</li></ul></p>",
+        "game": "2019 Fall Rickies",
+        "type": "NonGraded",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Ahead of Its Time"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 61,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/1:02:43",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:29:50"
+      },
+      {
+        "text": "Apple announces original podcast content",
+        "notes": "<p><ul><li>In 2020, Apple did come out with Apple News Today, and has since introduced other shows as well.</li></ul></p>",
+        "game": "2019 Fall Rickies",
+        "type": "NonGraded",
+        "topics": [
+          "Ahead of Its Time",
+          "Services"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 309,
+        "overcast-graded": "https://overcast.fm/+FXx61sqT4/1:03:09",
+        "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:29:58"
+      }
+    ]
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #259: The Rickies (Fall 2019)",
+      "url": "https://relay.fm/connected/259",
+      "episode-number": 259
+    },
+    {
+      "title": "Connected #260: The Most Golden Master",
+      "url": "https://relay.fm/connected/260",
+      "episode-number": 260
+    }
+  ]
+}

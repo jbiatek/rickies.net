@@ -1,0 +1,287 @@
+{
+  "name": "2019 WWDC Predictions",
+  "game-type": "Keynote",
+  "date-graded": "2019-06-06",
+  "date-picked": "2019-05-28",
+  "main-game": {
+    "picks": [
+      {
+        "text": "Dark mode for iOS",
+        "notes": "",
+        "game": "2019 WWDC Predictions",
+        "type": "Regular",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4xqI14/17:56",
+        "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/20:02"
+      },
+      {
+        "text": "iOS 13 will change the system requirements, dropping devices supported by iOS 12",
+        "notes": "",
+        "game": "2019 WWDC Predictions",
+        "type": "Regular",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4xqI14/19:04",
+        "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/25:35"
+      },
+      {
+        "text": "New Animoji in iOS 13",
+        "notes": "<p><ul><li>Ungraded: Federico had some specific predictions which were not written down: at least 4, maybe 5, a demo on stage, would like to see kangaroo, peacock, squirrel, or white rat as new animals.</li></ul></p>",
+        "game": "2019 WWDC Predictions",
+        "type": "Regular",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4xqI14/19:46",
+        "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/27:22"
+      },
+      {
+        "text": "Apple will mention Apple Arcade during the keynote",
+        "notes": "",
+        "game": "2019 WWDC Predictions",
+        "type": "Regular",
+        "topics": [
+          "Services",
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4xqI14/21:29",
+        "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/31:55"
+      },
+      {
+        "text": "Apple replaces at least one bundled macOS app with a Marzipan version",
+        "notes": "<p><ul><li>It's called Catalyst, not Marzipan, which is pushed back on a little. Podcasts is cited as fulfilling this (is it <em>replacing</em> a Mac app? Stephen gets away with this a bit) and they say that Messages might now be a Catalyst app, but in fact it isn't.</li><li>The permissive grading may be due to the other hosts not wanting to get <em>too</em> picky when it comes to grading later picks.</li></ul></p>",
+        "game": "2019 WWDC Predictions",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Apple Apps"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4xqI14/22:53",
+        "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/34:06"
+      },
+      {
+        "text": "iOS gets expanded font support",
+        "notes": "",
+        "game": "2019 WWDC Predictions",
+        "type": "Regular",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4xqI14/23:56",
+        "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/39:34"
+      },
+      {
+        "text": "Cursor support for iOS",
+        "notes": "<p><ul><li>Was not mentioned in the keynote, but more information came out during the week about the new accessibility feature.</li></ul></p>",
+        "game": "2019 WWDC Predictions",
+        "type": "Ricky",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 2,
+        "overcast-graded": "https://overcast.fm/+FXx4xqI14/28:31",
+        "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/47:23"
+      },
+      {
+        "text": "The HomePod will gain multiple user support via voice detection",
+        "notes": "",
+        "game": "2019 WWDC Predictions",
+        "type": "Ricky",
+        "topics": [
+          "Accessories",
+          "Live Edited"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2,
+        "score": 2,
+        "overcast-graded": "https://overcast.fm/+FXx4xqI14/32:05",
+        "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/50:12"
+      },
+      {
+        "text": "Apple will bring back some kind of \"app list/launcher\" UI element on iPad",
+        "notes": "<p><ul><li>Federico cites parts of Slide Over's new multitasking interface, and when that doesn't seem to be working, says \"If you don't give me this point, I will call the police.\" It escalates to the point of typing 911 into his phone.</li><li>\"Some kind of\" is vague enough to count this, and it definitely is not because of the threat.</li></ul></p>",
+        "game": "2019 WWDC Predictions",
+        "type": "Ricky",
+        "topics": [
+          "iPad",
+          "Live Edited"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 2,
+        "overcast-graded": "https://overcast.fm/+FXx4xqI14/34:07",
+        "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/54:23"
+      }
+    ],
+    "coin-flips": [
+      {
+        "game": "2019 WWDC Predictions",
+        "called": "Heads",
+        "caller": "Myke and Federico",
+        "flip-method": "Siri",
+        "game-phase": "Rickies",
+        "loser": "Myke and Federico",
+        "overcast-link": "https://overcast.fm/+FXx4xqI14/49:32",
+        "prize": 1,
+        "result": "Tails",
+        "winner": "Stephen"
+      },
+      {
+        "game": "2019 WWDC Predictions",
+        "called": "Heads",
+        "caller": "Federico",
+        "flip-method": "Siri",
+        "game-phase": "Rickies",
+        "loser": "Federico",
+        "overcast-link": "https://overcast.fm/+FXx4xqI14/53:22",
+        "prize": 2,
+        "result": "Tails",
+        "winner": "Myke"
+      }
+    ],
+    "scores": [
+      {
+        "host": "Stephen",
+        "score": 4
+      },
+      {
+        "host": "Myke",
+        "score": 4
+      },
+      {
+        "host": "Federico",
+        "score": 4
+      }
+    ],
+    "winner": "Stephen"
+  },
+  "nongraded": {
+    "picks": [
+      {
+        "text": "Apple does some new stuff with Animoji to make it more like Bitmoji",
+        "notes": "",
+        "game": "2019 WWDC Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4xqI14/37:26",
+        "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/1:02:32"
+      },
+      {
+        "text": "Mail.app will get modern features like snoozing",
+        "notes": "<p><ul><li>Threads can be muted, which isn't what he was talking about, really.</li><li>As these are \"ungraded picks\" being, uh, graded, Stephen is given a half point because why not.</li><li>Apple finally added a few features to Mail in 2022 including snoozing.</li></ul></p>",
+        "game": "2019 WWDC Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "Ahead of Its Time",
+          "Apple Apps"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0.5,
+        "ahead-by": 1097,
+        "overcast-graded": "https://overcast.fm/+FXx4xqI14/37:49",
+        "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/1:03:40"
+      },
+      {
+        "text": "There will be changes to the drawing/sketching interface used for screenshots, notes, etc.",
+        "notes": "<p><ul><li>\"Maybe it will even be an API.\"</li></ul></p>",
+        "game": "2019 WWDC Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4xqI14/38:36",
+        "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/1:03:59"
+      },
+      {
+        "text": "External storage support on iOS",
+        "notes": "",
+        "game": "2019 WWDC Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4xqI14/40:59",
+        "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/1:04:52"
+      },
+      {
+        "text": "iCloud family photo sharing",
+        "notes": "<p><ul><li><em>Finally</em> got added in 2022 at WWDC.</li></ul></p>",
+        "game": "2019 WWDC Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "Ahead of Its Time",
+          "Services"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 1097,
+        "overcast-graded": "https://overcast.fm/+FXx4xqI14/42:01",
+        "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/1:06:11"
+      },
+      {
+        "text": "Improved support for ZIP archives in the Files app and framework",
+        "notes": "",
+        "game": "2019 WWDC Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "iOS",
+          "Apple Apps"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4xqI14/43:41",
+        "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/1:06:53"
+      }
+    ]
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #245: Totes Ricky",
+      "url": "https://relay.fm/connected/245",
+      "episode-number": 245
+    },
+    {
+      "title": "Connected #246: The Ultimate Dark Mode is a Crash",
+      "url": "https://relay.fm/connected/246",
+      "episode-number": 246
+    }
+  ]
+}

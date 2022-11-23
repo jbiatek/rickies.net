@@ -1,0 +1,297 @@
+[
+  {
+    "text": "AppKit and UIKit give birth to something new and cross-platform",
+    "notes": "<p><ul><li>SwiftUI was announced in 2019.</li></ul></p>",
+    "game": "2018 Annual Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "Ahead of Its Time",
+      "Developer tools"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3,
+    "score": 0,
+    "ahead-by": 153,
+    "overcast-graded": "https://overcast.fm/+FXx495ZrA/11:13",
+    "overcast-picked": "https://overcast.fm/+FXx5giTnQ/1:01:21"
+  },
+  {
+    "text": "Apple introduces a proper Reminders API for developers",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Developer tools",
+      "Passionate",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:41:45",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:31:53"
+  },
+  {
+    "text": "Apple makes changes to the rules on in-app purchases, removing restrictions on linking to external websites for account creation, etc.",
+    "notes": "<p><ul><li>This came later in the year as a result of an antitrust settlement with Japan.</li></ul></p>",
+    "game": "2021 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Ahead of Its Time",
+      "Developer tools",
+      "Services"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": -1,
+    "ahead-by": 87,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:04:50",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:17:38"
+  },
+  {
+    "text": "Apple releases a Safari API to deal with cookie consent forms",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Developer tools",
+      "Passionate",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:41:20",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:30:43"
+  },
+  {
+    "text": "Apple releases a weather API",
+    "notes": "<p><ul><li>The revamped weather API was announced at WWDC in 2022.</li></ul></p>",
+    "game": "2021 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Ahead of Its Time",
+      "Developer tools"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 156,
+    "overcast-graded": "https://overcast.fm/+FXx6bXcOY/48:27",
+    "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:41"
+  },
+  {
+    "text": "AR-specific features are added to Swift or SwiftUI",
+    "notes": "<p><ul><li>Nothing in the keynote, but <a href=\"https://developer.apple.com/augmented-reality/roomplan/\" target=\"_blank\">ARKit 6 is adding RoomPlan</a>, a new Swift API for scanning a room with a camera and LiDAR scanner.</li></ul></p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Augmented Reality",
+      "Developer tools",
+      "Possible Vindication"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:26:44",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:21:49"
+  },
+  {
+    "text": "Big improvements to SwiftUI",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Developer tools"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:36:31",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:27:00"
+  },
+  {
+    "text": "Developers will get tools for more control over refresh rate/frame rate in apps",
+    "notes": "<p><ul><li>Myke got points for <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Tools%20for%20developers%20to%20make%20smoother%20or%20faster%20animations%20in%20iOS\">a similar prediction</a> the next year.</li></ul></p>",
+    "game": "2020 Summer Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Ahead of Its Time",
+      "Developer tools"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 350,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/44:42",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:17:07"
+  },
+  {
+    "text": "DriverKit comes to iPadOS to let more kinds of accessories be supported on iPad",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Developer tools",
+      "iPadOS",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:27:18",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:28:50"
+  },
+  {
+    "text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
+    "notes": "<p><ul><li>Was originally a Risky pick with the addition of a \"with keyboard and trackpad\" clause, but <a href=\"https://twitter.com/stroughtonsmith/status/1529836983874469891\" target=\"_blank\">some WebKit source code changes</a> made it much less risky. He watered it down further by removing an \"overlapping\" clause as well and not phrasing it as a \"desktop-like mode\", but then decided to just go all the way back to the original pick.</li></ul></p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Alternate Risky",
+      "Developer tools",
+      "iPadOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/45:48",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/38:47"
+  },
+  {
+    "text": "New Notes framework for developers",
+    "notes": "",
+    "game": "2020 Summer Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Developer tools",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/46:52",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:23:23"
+  },
+  {
+    "text": "Shortcuts 2.0 is showed off at WWDC with a new developer framework for apps",
+    "notes": "<p><ul><li>\"Shortcuts also gets folders and AirPlay actions in 2019.\"</li></ul></p>",
+    "game": "2019 Annual Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iOS",
+      "Apple Apps",
+      "Developer tools"
+    ],
+    "host": "Federico",
+    "pick-conditions": 4,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7hS2kY/28:58",
+    "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/1:05:30"
+  },
+  {
+    "text": "Shortcuts gets an API on iOS and iPadOS for apps to run Shortcuts directly, without URL schemes",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPad",
+      "Apple Apps",
+      "Developer tools",
+      "iPadOS",
+      "Passionate",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:37:13",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:28:43"
+  },
+  {
+    "text": "The iPad gets a new development tool to write code, on device, that is not Swift Playgrounds",
+    "notes": "",
+    "game": "2020 Summer Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Developer tools",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/37:56",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:05:30"
+  },
+  {
+    "text": "Third party widgets gain interactivity",
+    "notes": "<p><ul><li>Edited to clarify \"third party\" as a few Apple widgets are already interactive.</li></ul></p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iOS",
+      "Developer tools",
+      "Live Edited",
+      "Possible Vindication"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/38:50",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/20:52"
+  },
+  {
+    "text": "Tools for developers to make smoother or faster animations in iOS",
+    "notes": "<p><ul><li>As seen <a href=\"https://developer.apple.com/videos/play/wwdc2021/10147/\" target=\"_blank\">in this WWDC session</a>.</li></ul></p>",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Developer tools"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:31:05",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:45:01"
+  },
+  {
+    "text": "WidgetKit gains new interactivity features that allow you to perform actions inside widgets without launching the associated app",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Developer tools",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/48:38",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/54:23"
+  },
+  {
+    "text": "WidgetKit will support new widget sizes and more interactivity",
+    "notes": "<p><ul><li>The boolean operator \"and\" ends up taking this pick down.</li></ul></p>",
+    "game": "2021 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Developer tools",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6bXcOY/54:30",
+    "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:28:34"
+  }
+]

@@ -1,0 +1,183 @@
+{
+  "name": "Audio Predictions",
+  "game-type": "Other",
+  "date-graded": "2019-11-06",
+  "date-picked": "2018-06-26",
+  "main-game": {
+    "picks": [
+      {
+        "text": "AirPods to gain more controls via touch actions",
+        "notes": "",
+        "game": "Audio Predictions",
+        "type": "Regular",
+        "topics": [
+          "Accessories",
+          "AirPods"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7iyi9k/18:38",
+        "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:18:17"
+      },
+      {
+        "text": "At least 1 more color option comes to AirPods",
+        "notes": "",
+        "game": "Audio Predictions",
+        "type": "Regular",
+        "topics": [
+          "Accessories",
+          "AirPods",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx7iyi9k/18:57",
+        "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:19:13"
+      },
+      {
+        "text": "The AirPods line is split in two, and the lower end version gets a price drop",
+        "notes": "<p><ul><li>The additional condition is an intentionally risky choice by Federico</li><li>Ultimately this is in fact his undoing. While AirPods Pro were released to split the line, the normal AirPods 2 didn't drop from their original $159 price until the 3rd generation was released in October 2021.</li></ul></p>",
+        "game": "Audio Predictions",
+        "type": "Regular",
+        "topics": [
+          "Accessories",
+          "Ahead of Its Time",
+          "AirPods"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 0,
+        "ahead-by": 712,
+        "overcast-graded": "https://overcast.fm/+FXx7iyi9k/19:37",
+        "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:20:02"
+      },
+      {
+        "text": "The next HomePod is a mini HomePod",
+        "notes": "<p><ul><li>True, but too late. The HomePod mini wasn't released until 2020.</li></ul></p>",
+        "game": "Audio Predictions",
+        "type": "Regular",
+        "topics": [
+          "Accessories",
+          "Ahead of Its Time"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 342,
+        "overcast-graded": "https://overcast.fm/+FXx7iyi9k/20:55",
+        "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:20:41"
+      },
+      {
+        "text": "HomePod price drop",
+        "notes": "<p><ul><li>In April, they were cut from $349 to $299.</li></ul></p>",
+        "game": "Audio Predictions",
+        "type": "Regular",
+        "topics": [
+          "Accessories"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7iyi9k/21:22",
+        "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:22:29"
+      },
+      {
+        "text": "Shortcuts will gain new HomePod/AirPlay 2 actions to play audio on HomePod more quickly",
+        "notes": "",
+        "game": "Audio Predictions",
+        "type": "Regular",
+        "topics": [
+          "Accessories",
+          "Apple Apps"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7iyi9k/22:09",
+        "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:23:20"
+      },
+      {
+        "text": "Apple will create some new noise-cancelling technology",
+        "notes": "<p><ul><li>Some sort of thing that they put into an AirPod or something that they tout as invented by Apple, is how it was clarified during predictions.</li><li>Myke, <em>in absentia</em>, gets the benefit of the doubt as to how new the AirPods Pro tech is.</li></ul></p>",
+        "game": "Audio Predictions",
+        "type": "Regular",
+        "topics": [
+          "Accessories",
+          "AirPods"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7iyi9k/22:49",
+        "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:24:18"
+      },
+      {
+        "text": "Better incorporation of Apple News into the audio ecosystem",
+        "notes": "<p><ul><li>For example, asking Siri for the news on a HomePod</li><li>This did eventually happen, but in 2020.</li></ul></p>",
+        "game": "Audio Predictions",
+        "type": "Regular",
+        "topics": [
+          "Ahead of Its Time",
+          "Services"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 252,
+        "overcast-graded": "https://overcast.fm/+FXx7iyi9k/23:34",
+        "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:25:59"
+      },
+      {
+        "text": "HeadPods will be wireless only and they will have no headphone jack and will charge via Lightning or USB-C",
+        "notes": "",
+        "game": "Audio Predictions",
+        "type": "Regular",
+        "topics": [
+          "Accessories",
+          "AirPods",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 3,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx7iyi9k/24:13",
+        "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:28:27"
+      }
+    ],
+    "coin-flips": [],
+    "scores": [
+      {
+        "host": "Myke",
+        "score": 2
+      },
+      {
+        "host": "Stephen",
+        "score": 1
+      },
+      {
+        "host": "Federico",
+        "score": 1
+      }
+    ],
+    "winner": "Myke"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #199: Make Half of a Change",
+      "url": "https://relay.fm/connected/199",
+      "episode-number": 199
+    },
+    {
+      "title": "Connected #208: It’s Ugly and I Want It",
+      "url": "https://relay.fm/connected/208",
+      "episode-number": 208
+    },
+    {
+      "title": "Connected #268: Executive Spaghetti",
+      "url": "https://relay.fm/connected/268",
+      "episode-number": 268
+    }
+  ]
+}

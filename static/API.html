@@ -1,0 +1,204 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="generator" content="TiddlyWiki" />
+<meta name="tiddlywiki-version" content="5.2.2" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="mobile-web-app-capable" content="yes"/>
+<meta name="format-detection" content="telephone=no">
+<link id="faviconLink" rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet" href="static.css">
+<title>API: Rickipedia
+
+— the comprehensive collection of picks and predictions
+</title>
+</head>
+<body class="tc-body">
+<p><div class="tc-static-alert"><div class="tc-static-alert-inner">This page is a static snapshot of a page on Rickipedia. For the fully functional site, go to <a href="https://rickies.net/">rickies.net</a>.</div></div>
+</p>
+<section class="tc-story-river tc-static-story-river">
+<p><div class="tc-tiddler-frame tc-tiddler-view-frame tc-tiddler-exists  tc-tagged-Contents" data-tags="Contents" data-tiddler-title="API"><div class="tc-tiddler-title"><div class="tc-titlebar"><span class="tc-tiddler-controls"><button aria-expanded="false" aria-label="more" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fmore-tiddler-actions" title="More actions"></button><div class=" tc-reveal" hidden="true"></div><button aria-label="clone" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fclone" title="Clone this tiddler"></button><button aria-label="edit" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fedit" title="Edit this tiddler"></button><button aria-label="close" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fclose" title="Close this tiddler"></button></span><span><span class="tc-tiddler-title-icon" style="fill:;"></span><h2 class="tc-title">API</h2></span></div><div class="tc-tiddler-info tc-popup-handle tc-reveal" hidden="true"></div></div><div class=" tc-reveal">
+<div class=" tc-reveal">
+<button aria-label="fold tiddler" class="tc-fold-banner" title="Fold the body of this tiddler">
+
+<svg class="tc-image-chevron-up tc-image-button" height="22pt" viewBox="0 0 128 128" width="22pt"><g fill-rule="evenodd"><path d="M63.947 44.544c2.027 0 4.054.77 5.6 2.316l55.98 55.98a7.92 7.92 0 010 11.196c-3.086 3.085-8.105 3.092-11.196 0L63.95 63.656l-50.382 50.382a7.92 7.92 0 01-11.195 0c-3.085-3.086-3.092-8.105 0-11.196l55.98-55.98a7.892 7.892 0 015.595-2.317z"></path><path d="M63.947 5.931c2.027 0 4.054.77 5.6 2.316l55.98 55.98a7.92 7.92 0 010 11.196c-3.086 3.085-8.105 3.092-11.196 0L63.95 25.041 13.567 75.423a7.92 7.92 0 01-11.195 0c-3.085-3.086-3.092-8.104 0-11.196l55.98-55.98a7.892 7.892 0 015.595-2.316z"></path></g></svg>
+</button>
+</div>
+<div class=" tc-reveal" hidden="true"></div>
+</div>
+<div class=" tc-reveal"><div class="tc-subtitle"><a class="tc-tiddlylink tc-tiddlylink-missing" href=".html"></a>23rd November 2022 at 3:05pm</div></div><div class=" tc-reveal">
+<div class="tc-tags-wrapper"><span class="tc-tag-list-item" data-tag-title="Contents">
+<span aria-expanded="false" class="tc-tag-label tc-btn-invisible" draggable="true" style="background-color:#d6d6d6;
+fill:#333333;
+color:#333333;">
+Contents
+</span>
+<span class="tc-drop-down tc-reveal" hidden="true"></span></span></div>
+</div>
+<div class=" tc-reveal">
+<div class="tc-tags-wrapper"></div>
+</div>
+<div class="tc-tiddler-body tc-reveal"><p>Much of the data on Rickipedia is also available in a more machine-readable format, suitable for parsing and navigating with automated tools and even Shortcuts. Despite how fun, exciting, and dynamic Rickipedia is to use, it's actually an entirely static site, only changing when an update is pushed to GitHub Pages. As such, using the API is simple, with no authentication or tokens required, but also no support for parameterized requests or server-side processing.</p><p>Everything to do with the API can be found under <code>https://rickies.net/api/v1</code>, and all locations mentioned here are relative to that. So, for example, the Indexes section refers to <code>/topic/index.json</code> which can be found at the full url <code>https://rickies.net/api/v1/topic/index.json</code>.</p><h2 class="">General information</h2><h3 class=""><code>/winners.json</code></h3><p>Data about the current reigning champions and their various titles. It also includes a link to a correct image of <a class="tc-tiddlylink tc-tiddlylink-resolves" href="The%2520Tricky.html">Rickipedia's version of The Tricky</a>. </p><p><pre class="hljs"><code class="json hljs"><span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">&quot;annual&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;game-name&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;2021 Annual Rickies&quot;</span><span class="hljs-punctuation">,</span>    
+    <span class="hljs-attr">&quot;date&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;2022-01-06&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;winner&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Stephen&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;social&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;https://twitter.com/AnnualChairman&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;title&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Annual Chairman&quot;</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;keynote&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;game-name&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;2022 September Rickies&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;date&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;2022-09-07&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;winner&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Federico&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;social&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;https://twitter.com/KeynoteChairman&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;title&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Keynote Chairman&quot;</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;flexies&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;game-name&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;2022 September Rickies&quot;</span><span class="hljs-punctuation">,</span>  
+    <span class="hljs-attr">&quot;date&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;2022-09-07&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;winner&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Myke&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;title&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Duke of Flexington&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;social&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;&quot;</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;the-tricky-image&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;https://rickies.net/files/images/tricky/StephenFederico.png&quot;</span>
+<span class="hljs-punctuation">}</span></code></pre></p><h3 class=""><code>/charity.json</code></h3><p>Data about the charitable donations made as a result of The Flexies. As with the game itself, the donation amount is in US dollars. Certain other sites may have slightly different data; Rickipedia only includes donations required by <a class="tc-tiddlylink tc-tiddlylink-resolves" href="The%2520Bill%2520of%2520Rickies.html">The Bill</a>, not voluntary or peer-pressured donations.</p><pre class="hljs"><code class="json hljs"><span class="hljs-punctuation">[</span> 
+  <span class="hljs-punctuation">{</span> 
+    <span class="hljs-attr">&quot;game&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;2020 September Rickies&quot;</span><span class="hljs-punctuation">,</span> 
+    <span class="hljs-attr">&quot;donator&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Stephen&quot;</span><span class="hljs-punctuation">,</span> 
+    <span class="hljs-attr">&quot;donation&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">100</span><span class="hljs-punctuation">,</span> 
+    <span class="hljs-attr">&quot;charity-name&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Fur Kids&quot;</span><span class="hljs-punctuation">,</span> 
+    <span class="hljs-attr">&quot;charity-url&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;https://furkids.org/&quot;</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-comment">// more donations...</span>
+<span class="hljs-punctuation">]</span></code></pre><h3 class=""><code>/episodes.json</code></h3><p>Data about each episode of Connected that has been noted in Rickipedia. This doesn't include <em>every</em> mention of The Rickies, but it does include every time <a class="tc-tiddlylink tc-tiddlylink-resolves" href="The%2520Bill%2520of%2520Rickies.html">The Bill</a> was changed and, of course, every episode where a game is either started or ended. Note that sometimes amendments happen outside of a game, so the <code>relevant-games</code> array may be empty.</p><pre class="hljs"><code class="json hljs"><span class="hljs-punctuation">[</span>
+  <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;episode&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">123</span><span class="hljs-punctuation">,</span> 
+    <span class="hljs-attr">&quot;permalink&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;https://relay.fm/connected/123&quot;</span><span class="hljs-punctuation">,</span> 
+    <span class="hljs-attr">&quot;relevant-games&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span><span class="hljs-string">&quot;2017 Annual Predictions&quot;</span><span class="hljs-punctuation">]</span> 
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-comment">// more episodes...</span>
+<span class="hljs-punctuation">]</span></code></pre><h3 class=""><code>/billchanges.json</code></h3><p>This is essentially <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Bill%2520of%2520Rickies%2520Changes.html">Rickipedia's Bill changelog</a> in JSON form. Each one should have copious information about what happened as well as relevant Overcast timestamp URLs, but it's all in a blob of HTML straight from the wiki page (sorry).</p><pre class="hljs"><code class="json hljs"><span class="hljs-punctuation">[</span> 
+  <span class="hljs-punctuation">{</span> 
+    <span class="hljs-attr">&quot;episode&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">123</span><span class="hljs-punctuation">,</span> 
+    <span class="hljs-attr">&quot;changes&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;&lt;p&gt;The first \&quot;predictions draft\&quot;, used \&quot;round robin\&quot; ordering in 3 rounds. &lt;a href=\&quot;https://overcast.fm/+FXx7nikbQ/26:58\&quot; target=\&quot;_blank\&quot;&gt;Picks were not allowed to be too \&quot;simple\&quot;&lt;/a&gt;, like \&quot;Apple will release an iPhone\&quot;, they must be specific. Myke decides, apparently on the spot, that these predictions will be checked at the end of the year to pick a winner.&lt;/p&gt;&quot;</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-comment">// more entries...</span>
+<span class="hljs-punctuation">]</span> </code></pre><h3 class=""><code>/ineligible.json</code></h3><p>The picks that each host is currently <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Ineligible%2520Picks.html">forbidden from reusing</a>. </p><pre class="hljs"><code class="json hljs"><span class="hljs-punctuation">{</span> 
+  <span class="hljs-attr">&quot;Stephen&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span> 
+    <span class="hljs-comment">// An array of each pick that Stephen is currently forbidden from reusing. These will be the full contents of each Pick, as described in the Picks section below.</span>
+  <span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;Myke&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span> <span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span> <span class="hljs-comment">// the same thing, but for Myke</span>
+  <span class="hljs-attr">&quot;Federico&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span> <span class="hljs-punctuation">]</span> <span class="hljs-comment">// ditto</span>
+<span class="hljs-punctuation">}</span></code></pre><h2 class="">Games</h2><p>Game objects contain just about all the information to do with a particular game. The <code>/game/</code> location contains an <code>index.json</code> file (see below), an <code>all.json</code> file containing an array of the full contents of every Game in one place, <code>annual.json</code> for the full contents of the <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Annual%2520Games.html">Annual Games</a>, <code>keynote.json</code> for the <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Keynote%2520Games.html">Keynote Games</a>, and <code>other.json</code> for the <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Other%2520Games.html">Other Games</a>, in addition to the individual object files as can be found in the index.</p><p>Game objects look like this:</p><pre class="hljs"><code class="json hljs"><span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">&quot;name&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;This game&#x27;s name, in plain English. This is the title of the page on Rickipedia as well as the key used in index.json.&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;game-type&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;One of: Keynote Annual Other.&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;date-picked&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;The date this Game started (YYYY-MM-DD)&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;date-graded&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;The date this Game was graded (YYYY-MM-DD), or an empty string if it hasn&#x27;t been graded yet.&quot;</span><span class="hljs-punctuation">,</span>
+
+  <span class="hljs-comment">// The main-game section is omitted if a Game only had &quot;non-graded&quot; Picks, for example The AirPower Game.</span>
+  <span class="hljs-attr">&quot;main-game&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;picks&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
+      <span class="hljs-comment">// The Picks made in this game, in the order they were made. See the documentation for Picks for more. These picks should either be Regular or Ricky.</span>
+    <span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;coin-flips&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
+      <span class="hljs-comment">// The coin flips from this main game, if any. See the documentation for Coin Flips for more.</span>
+    <span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-comment">// The scores section is omitted for a Game that hasn&#x27;t been graded yet.</span>
+    <span class="hljs-attr">&quot;scores&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span> 
+        <span class="hljs-punctuation">{</span> 
+          <span class="hljs-attr">&quot;host&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;One of: Stephen Myke Federico&quot;</span><span class="hljs-punctuation">,</span> 
+          <span class="hljs-attr">&quot;score&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">42</span>
+        <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span> <span class="hljs-comment">// and of course the other two hosts follow</span>
+      <span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;winner&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;One of: Stephen Myke Federico TBD&quot;</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+
+  <span class="hljs-comment">// The the-flexies section is present if The Flexies were played. </span>
+  <span class="hljs-attr">&quot;the-flexies&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;picks&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
+      <span class="hljs-comment">// The Picks made in this game, in the order they were made. See the documentation for Picks for more. These, of course, will all be Flexie picks.</span>
+    <span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;coin-flips&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
+      <span class="hljs-comment">// The coin flips from this Flexies game, if any. See the documentation for Coin Flips for more.</span>
+    <span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+
+    <span class="hljs-comment">// Scores and charity donation information are omitted if this game hasn&#x27;t been graded yet.</span>
+    <span class="hljs-attr">&quot;scores&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
+      <span class="hljs-punctuation">{</span> 
+        <span class="hljs-attr">&quot;host&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;One of: Stephen Myke Federico&quot;</span><span class="hljs-punctuation">,</span> 
+        <span class="hljs-comment">// Note: A score for The Flexies should generally be expressed as a percentage, but I leave the division and rounding to you.</span>
+        <span class="hljs-attr">&quot;correct&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">5</span><span class="hljs-punctuation">,</span> <span class="hljs-comment">// The number of correct Flexies for this host</span>
+        <span class="hljs-attr">&quot;total&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">7</span> <span class="hljs-comment">// The total number of Flexies for this host.</span>
+      <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span> <span class="hljs-comment">// and of course the other two hosts follow</span>
+    <span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;charity-name&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;The name of the charity that received a donation&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;charity-url&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;A URL for said charity&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;donation&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">1000</span><span class="hljs-punctuation">,</span> <span class="hljs-comment">// The amount that was donated, in US dollars</span>
+    <span class="hljs-attr">&quot;donator&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;One of: Stephen Myke Federico&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-comment">// End of section that is only present for games that have been graded.</span>
+    <span class="hljs-attr">&quot;winner&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;The winner of this Flexies, or TBD if it hasn&#x27;t been graded yet.&quot;</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+
+  <span class="hljs-comment">// The nongraded section is omitted if a game had no &quot;non-graded&quot; picks.</span>
+  <span class="hljs-attr">&quot;nongraded&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;picks&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
+        <span class="hljs-comment">// The non-graded Picks made in this game, in the order they were made. See below for more about how Picks are structured.</span>
+    <span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;winner&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;A few of the Other Games consisted entirely of non-graded picks, and in those cases the winner will be listed here. For The AirPower Game, the winner was Nobody.&quot;</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+
+  <span class="hljs-comment">// Which episodes of Connected are related to this Game.</span>
+  <span class="hljs-attr">&quot;relevant-episodes&quot;</span><span class="hljs-punctuation">:</span>
+  <span class="hljs-punctuation">[</span>
+    <span class="hljs-punctuation">{</span>
+      <span class="hljs-attr">&quot;title&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;The podcast episode&#x27;s title, e.g. Connected #208: It’s Ugly and I Want It&quot;</span><span class="hljs-punctuation">,</span>
+      <span class="hljs-attr">&quot;url&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;The show notes/permalink for this episode&quot;</span><span class="hljs-punctuation">,</span>
+      <span class="hljs-attr">&quot;episode-number&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">208</span> <span class="hljs-comment">// Integer for which episode number this is, although you could get it from the other two fields fairly easily.</span>
+    <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span> <span class="hljs-comment">// and more episodes...</span>
+  <span class="hljs-punctuation">]</span>
+<span class="hljs-punctuation">}</span>
+</code></pre><h2 class="">Picks</h2><p>A Pick object represents a single prediction. The <code>/pick/</code> location contains an <code>index.json</code> file (see below), an <code>all.json</code> file containing an array of the full contents of every single pick in one place, and individual JSON files for each pick. Game objects also contain Picks in the same format.</p><p>A Pick, wherever it's found, looks like this:</p><pre class="hljs"><code class="json hljs"><span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">&quot;text&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;The text of the pick, although in a few cases it was too long for practical purposes and was instead continued into the notes. In these cases, the convention is to start the pick but use &#x27;...&#x27; at the end to indicate that it continues.&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;notes&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Notes for the pick. This field will always be present, but may be an empty string. If not empty, it will be the same HTML that is found on the corresponding Rickipedia page for the notes section, and should always look something like &lt;p&gt;&lt;ul&gt;...notes notes notes...&lt;/ul&gt;&lt;/p&gt;. Anchor links to other Rickipedia pages will just be the &#x27;fragment&#x27; portion of the URL (that&#x27;s the bit after the # symbol), which can be resolved within the API using index.json, or prepended with &#x27;rickies.net/&#x27; to get a permalink to the normal Rickipedia entry.&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;game&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;The name of the game that this pick belongs to, formatted in natural language e.g. &#x27;The AirPower Game&#x27;. This can be resolved to an API location with index.json for the full data for that Game.&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;type&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;One of: Regular Ricky Flexie NonGraded. Note that it is &#x27;Ricky&#x27;, not &#x27;Risky&#x27;; that wiki tag is the one place where I studiously stick to that joke.&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;topics&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span><span class="hljs-string">&quot;An array of strings, indicating which topics this pick is about. The full list of possible topics is the same as on Rickipedia&#x27;s Topics page.&quot;</span><span class="hljs-punctuation">,</span> <span class="hljs-string">&quot;Actually, there are also two others relating to &#x27;Ahead of Its Time&#x27; that aren&#x27;t really topics but can be found here: &#x27;Possible Vindication&#x27; to track wrong picks that could become ahead of their time, and &#x27;Unvindicatable&#x27; to mark wrong picks that don&#x27;t have a chance of becoming true.&quot;</span><span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;host&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;The host that made this pick. One of: Stephen Myke Federico.&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;pick-conditions&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">0</span><span class="hljs-punctuation">,</span> <span class="hljs-comment">// This integer indicates how many &#x27;conditions&#x27; this pick was judged to have, as described in more detail on Rickipedia&#x27;s &quot;Success By Pick Complexity&quot; page.</span>
+
+<span class="hljs-comment">// All of the above fields should always be present. The remaining fields are optional.</span>
+
+  <span class="hljs-attr">&quot;score&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">-1</span><span class="hljs-punctuation">,</span> <span class="hljs-comment">// The points earned for this pick. May be negative if points were lost, and may not be an integer, as a few partial points were awarded in the early days. Will not be present if this pick has not been graded yet.</span>
+  <span class="hljs-attr">&quot;ahead-by&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">1337</span><span class="hljs-punctuation">,</span> <span class="hljs-comment">// If this pick was &quot;Ahead of Its Time&quot;, this field will give how far ahead it was, measured in days. In other words, how many days from the pick being graded as wrong to the pick eventually coming true. Should always be an integer.</span>
+  <span class="hljs-attr">&quot;overcast-picked&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;A URL that jumps directly to this pick being made with Overcast&#x27;s timestamp link feature. Not guaranteed to be present, although at the time of this writing every Pick did have one.&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;overcast-graded&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;A URL that jumps directly to this pick being graded in the episode using Overcast&#x27;s timestamp link feature. This should almost always be present, except for any ungraded games and a handful of non-graded picks that apparently weren&#x27;t interesting enough to talk about.&quot;</span>
+<span class="hljs-punctuation">}</span></code></pre><h2 class="">Topics</h2><p>Rickipedia has classified all the picks by <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Topics.html">topic</a>, most of which are Apple product lines or services. A few Topics are a little more meta or abstract, like <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Alternate%2520Risky.html">Alternate Risky</a> for picks that started life as a risky pick but were demoted for whatever reason, <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Buzzkill.html">Buzzkill</a> for picks that will disappoint a lot of people if they come true, <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Live%2520Edited.html">Live Edited</a> for picks that changed mid-show, and of course the duo of <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Passionate.html">Passionate</a> and <a class="tc-tiddlylink tc-tiddlylink-resolves" href="No%2520Passion.html">No Passion</a> as declared by the man of the people himself, Federico Viticci. </p><p>There is also <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Ahead%2520of%2520Its%2520Time.html">Ahead of Its Time</a> and two tags that are related to it: <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Possible%2520Vindication.html">Possible Vindication</a> for wrong picks that haven't come true <em>yet</em> but might someday, and <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Unvindicatable.html">Unvindicatable</a> for those that are just wrong and either preposterously unlikely to come true or phrased in such a way that they really can't come true in any meaningful way. Those last two are really more for my own tracking of picks than anything else, so they don't appear in the list of <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Topics.html">Topics</a> on Rickipedia, but they are included in the API. (They also make an appearance in the <a class="tc-tiddlylink tc-tiddlylink-resolves" href="%2524%253A%252FSearch.html">advanced search</a>.)</p><p>As described above, each Pick has an array of its Topics included. To go in reverse, finding all picks pertaining to a given Topic, there is a <code>/topic/index.json</code> file (see below for more on index files) which will point you to locations for each individual Topic. The individual Topic locations each simply contain an array of the full contents of each Pick tagged with that Topic.</p><h2 class="">Coin flips</h2><p>The statistical anomaly that is the Rickies coin flip is <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Coin%2520Flips.html">cataloged in</a> <em>extensive</em> detail here on Rickipedia. They are indexed at <code>/coinflip/index.json</code>, and can also be found in their relevant Game object. <code>/coinflip/all.json</code> contains an array each of these objects if you want them all in one go.</p><p>A few coin flips were a bit unusual. The first ever coin flip to resolve a tie was done "<a class="tc-tiddlylink tc-tiddlylink-resolves" href="2019%2520Media%2520Event%2520best%2520of%25203%2520coin%2520flip%2520for%2520first%252C%2520flip%25201.html">best</a> <a class="tc-tiddlylink tc-tiddlylink-resolves" href="2019%2520Media%2520Event%2520best%2520of%25203%2520coin%2520flip%2520for%2520first%252C%2520flip%25202.html">of</a> <a class="tc-tiddlylink tc-tiddlylink-resolves" href="2019%2520Media%2520Event%2520best%2520of%25203%2520coin%2520flip%2520for%2520first%252C%2520flip%25203.html">3</a>" style and then this was never done again. (Nevertheless, the hosts still sometimes express confusion that it's really just 1 flip to break the tie.) To capture this data, each flip has its own entry, but the "winner" and "loser" fields are blank for all but the final one because until then, no one had really won or lost yet. Those flips will have empty strings for those fields.</p><p>The other odd one was <a class="tc-tiddlylink tc-tiddlylink-resolves" href="2019%2520WWDC%2520%2522knockout%2522%2520flip%2520for%2520first%2520place.html">the "knockout" flip at WWDC 2019</a>. All three hosts picked heads or tails, and anyone wrong was out, so the loser field has "Myke and Federico" in it.</p><p>Coin flip objects look like this:</p><pre class="hljs"><code class="json hljs"><span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">&quot;game&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;The game that this coin flip was a part of, in plain English. This will also be the key used in indexes and the title field on the wiki.&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;called&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;What outcome was called before the flip. One of: Heads Tails&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;caller&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Who got to make the call. One of: Stephen Myke Federico&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;flip-method&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;How the coin was flipped, e.g. Dice by PCalc&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;game-phase&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Which part of the game this was part of. One of: Rickies Flexies&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;loser&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Who lost this coin flip. Usually one of the hosts, but see above.&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;overcast-link&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;An Overcast timestamp link to the flip&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;prize&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-number">1</span><span class="hljs-punctuation">,</span> <span class="hljs-comment">// Integer for what place was at stake. In other words, 1 if the flip was for the win, 2 if the flip was to take 2nd and avoid the loss.</span>
+  <span class="hljs-attr">&quot;result&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;The actual result of the coin flip. Yes, we&#x27;re only just getting to this now. One of: Heads Tails&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;winner&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;The winner of the coin flip. See above for caveats.&quot;</span>
+<span class="hljs-punctuation">}</span></code></pre><h2 class="">Indexes</h2><p>If the client knows where its desired data can be found, retrieving it with a <code>GET</code> request is trivial (again, there's no authentication, these are really just files on a web server). </p><p>If not, there are a few <code>index.json</code> files that can help. These are structured as simple key-value pairs, like so:</p><pre class="hljs"><code class="json hljs"><span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">&quot;2019 WWDC Predictions&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;/game/15.json&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;iPod Touch&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;/topic/12.json&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;Apple unveils a new high-end audio product&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;/pick/296.json&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;2020 Summer coin flip for the win&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;/coinflip/5.json&quot;</span><span class="hljs-punctuation">,</span> 
+  <span class="hljs-comment">// etc.</span>
+<span class="hljs-punctuation">}</span></code></pre><p>Each key is the name of the Rickipedia article as it appears in English on the wiki. This corresponds with that item's 'title' field in TiddlyWiki parlance, and is guaranteed to be unique within the wiki. Links within the wiki will point to a URL fragment corresponding with this key, so for example if you are digging deeper into some HTML that the API gave you and want to find the JSON corresponding to a link like <code>&lt;a href="#HomePod%20price%20drop"&gt;</code>, just URL decode that fragment and trim off the <code>#</code> symbol to get a key that can be used in these indexes.</p><p>The main index is at <code>/index.json</code> and contains every Game, Topic, Pick, and Coin Flip in the wiki. Within <code>/game/</code>, <code>/topic/</code>, <code>/pick/</code>, and <code>/coinflip/</code> are <code>index.json</code> files that just contain entries for the object of that type. Also in each of those (except for topics) is an <code>all.json</code> file which contains an array of each of the relevant objects.</p></div>
+
+
+
+
+</div></p>
+</section>
+</body>
+</html>
+

@@ -1,0 +1,14 @@
+{
+  "text": "New features for Tapback in Messages",
+  "notes": "<p><ul><li>Ungraded: more options than just the 5 built in, maybe even arbitrary emoji, better notification controls</li><li>It wasn't mentioned in the keynote, but yes, <a href=\"https://9to5mac.com/2022/06/07/ios-16-tapbacks-will-no-longer-spam-your-sms-group-chats/\" target=\"_blank\">Tapback finally works properly for SMS</a>.</li></ul></p>",
+  "game": "2022 WWDC Rickies",
+  "type": "Regular",
+  "topics": [
+    "Apple Apps"
+  ],
+  "host": "Myke",
+  "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:00:46",
+  "overcast-picked": "https://overcast.fm/+FXx4PSTGk/48:34"
+}

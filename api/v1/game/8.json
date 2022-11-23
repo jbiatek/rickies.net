@@ -1,0 +1,78 @@
+{
+  "name": "The AirPower Game",
+  "game-type": "Other",
+  "date-graded": "2019-01-09",
+  "date-picked": "2018-08-22",
+  "nongraded": {
+    "picks": [
+      {
+        "text": "AirPower will come out before the 2018 iPhone event",
+        "notes": "<p><ul><li>Confidence remained high even days before the event in episode 208.</li></ul></p>",
+        "game": "The AirPower Game",
+        "type": "NonGraded",
+        "topics": [
+          "Accessories",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:28:27",
+        "overcast-picked": "https://overcast.fm/+FXx56vlEY/43:00"
+      },
+      {
+        "text": "AirPower will come out the first week of December 2018",
+        "notes": "<p><ul><li>This wasn't actually an option, but Stephen felt confident. (Really, he changed it to just be \"after the 2018 iPhone event\" as well, but that's not as fun.)</li></ul></p>",
+        "game": "The AirPower Game",
+        "type": "NonGraded",
+        "topics": [
+          "Accessories",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 4,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5i5-3Y/04:46",
+        "overcast-picked": "https://overcast.fm/+FXx56vlEY/43:46"
+      },
+      {
+        "text": "AirPower will come out after the 2018 iPhone event",
+        "notes": "",
+        "game": "The AirPower Game",
+        "type": "NonGraded",
+        "topics": [
+          "Accessories",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5i5-3Y/04:46",
+        "overcast-picked": "https://overcast.fm/+FXx56vlEY/44:04"
+      }
+    ],
+    "winner": "Nobody"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #206: A High Appreciation for Winning",
+      "url": "https://relay.fm/connected/206",
+      "episode-number": 206
+    },
+    {
+      "title": "Connected #208: It’s Ugly and I Want It",
+      "url": "https://relay.fm/connected/208",
+      "episode-number": 208
+    },
+    {
+      "title": "Connected #209: Secret NBA Training",
+      "url": "https://relay.fm/connected/209",
+      "episode-number": 209
+    },
+    {
+      "title": "Connected #225: The Bear Will Charge You",
+      "url": "https://relay.fm/connected/225",
+      "episode-number": 225
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "text": "MagSafe is updated to support 20 watt charging or higher, but a new puck is required",
+  "notes": "<p><ul><li>This was originally just \"faster charging\", but the live chat pointed out <a href=\"https://9to5mac.com/2021/09/06/apple-fcc-filings-reveal-revised-magsafe-charger-ahead-of-iphone-13-event/\" target=\"_blank\">a recent FCC filing by Apple</a> which undercut the riskiness of the pick. Stephen added a specific wattage target and also had to decide whether the existing MagSafe puck will support the higher wattage.</li></ul></p>",
+  "game": "2021 September Rickies",
+  "type": "Ricky",
+  "topics": [
+    "iPhone",
+    "Accessories",
+    "Live Edited",
+    "Possible Vindication"
+  ],
+  "host": "Stephen",
+  "pick-conditions": 3,
+  "score": -1,
+  "overcast-graded": "https://overcast.fm/+FXx6z4vdc/52:27",
+  "overcast-picked": "https://overcast.fm/+FXx5Crqo4/58:05"
+}

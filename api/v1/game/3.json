@@ -1,0 +1,289 @@
+{
+  "name": "2019 Annual Predictions",
+  "game-type": "Annual",
+  "date-graded": "2020-01-01",
+  "date-picked": "2019-01-09",
+  "main-game": {
+    "picks": [
+      {
+        "text": "There will be a new Apple news subscription service for content from select publications",
+        "notes": "",
+        "game": "2019 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "Services"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7hS2kY/13:56",
+        "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/15:45"
+      },
+      {
+        "text": "The Mac Pro will ship (in 2019 this time)",
+        "notes": "<p><ul><li><a href=\"https://overcast.fm/+FXx6RiXe0/42:31\" target=\"_blank\">Added mid-year</a>: Must be able to order a Mac Pro by the end of 2019, they do not have to arrive in customer hands by the end of the year.</li><li>Ungraded: \"I waffle on sticking with my iMac Pro\"; he bought one almost immediately. Myke predicted that Stephen would buy a Mac Pro, exchange it for an iMac Pro, then buy another Mac Pro in 6 months.</li></ul></p>",
+        "game": "2019 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "Live Edited"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7hS2kY/14:55",
+        "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/20:16"
+      },
+      {
+        "text": "Apple will launch a subscription service featuring original video content",
+        "notes": "",
+        "game": "2019 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "Apple TV+",
+          "Services"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7hS2kY/15:35",
+        "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/23:23"
+      },
+      {
+        "text": "iOS gets a tabbed windows feature that all apps can implement",
+        "notes": "<p><ul><li>\"Tabbed windows\" was acknowledged as an unclear phrase, and was intended to convey that one app could show two separate documents or views, similar to Safari's special side by side mode at the time.</li></ul></p>",
+        "game": "2019 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7hS2kY/16:13",
+        "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/30:12"
+      },
+      {
+        "text": "The MacBook Escape will go away",
+        "notes": "",
+        "game": "2019 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "Buzzkill"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7hS2kY/17:45",
+        "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/34:08"
+      },
+      {
+        "text": "On iOS 13, the iPad home screen features more than just app icons",
+        "notes": "",
+        "game": "2019 Annual Predictions",
+        "type": "Regular",
+        "topics": [
+          "iOS",
+          "iPad"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7hS2kY/18:33",
+        "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/36:56"
+      },
+      {
+        "text": "Reminders gets a major update",
+        "notes": "<p><ul><li>\"(how do we decide major? — on stage at WWDC or we decide past that)\"</li><li>Ungraded: \"some features that Federico would like to see\", the actual features that Federico talked about were not recorded in the document, but were: a new, more flexible design, easier and faster to add dates and notes, tags, saved searches, better Files integration</li></ul></p>",
+        "game": "2019 Annual Predictions",
+        "type": "Ricky",
+        "topics": [
+          "Apple Apps",
+          "Live Edited"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 2,
+        "overcast-graded": "https://overcast.fm/+FXx7hS2kY/19:41",
+        "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/44:14"
+      },
+      {
+        "text": "First ARM Mac ships",
+        "notes": "<p><ul><li>Halfway through the year, Myke ups the ante: \"If Stephen gets this right, I will buy you one, if the Mac Pro is an ARM Mac I will buy you the top of the line model.\"</li></ul></p>",
+        "game": "2019 Annual Predictions",
+        "type": "Ricky",
+        "topics": [
+          "Mac",
+          "Ahead of Its Time"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": -1,
+        "ahead-by": 321,
+        "overcast-graded": "https://overcast.fm/+FXx7hS2kY/21:57",
+        "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/48:08"
+      },
+      {
+        "text": "Apple releases an iPhone subscription service that bundles a device, AppleCare, and a selection of other Apple content services into one monthly payment",
+        "notes": "<p><ul><li>\"(Not just additional iCloud space)\"</li><li>The free AppleTV+ trial with new devices combined with an iPhone Upgrade Program purchase is deemed to not count during grading.</li></ul></p>",
+        "game": "2019 Annual Predictions",
+        "type": "Ricky",
+        "topics": [
+          "iPhone",
+          "Services",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 5,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx7hS2kY/23:04",
+        "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/53:22"
+      }
+    ],
+    "coin-flips": [
+      {
+        "game": "2019 Annual Predictions",
+        "called": "Heads",
+        "caller": "Myke",
+        "flip-method": "Siri",
+        "game-phase": "Rickies",
+        "loser": "Stephen",
+        "overcast-link": "https://overcast.fm/+FXx7hS2kY/25:01",
+        "prize": 2,
+        "result": "Heads",
+        "winner": "Myke"
+      }
+    ],
+    "scores": [
+      {
+        "host": "Federico",
+        "score": 4
+      },
+      {
+        "host": "Myke",
+        "score": 1
+      },
+      {
+        "host": "Stephen",
+        "score": 1
+      }
+    ],
+    "winner": "Federico"
+  },
+  "nongraded": {
+    "picks": [
+      {
+        "text": "AirPower is released and new AirPods are released",
+        "notes": "",
+        "game": "2019 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "Accessories",
+          "AirPods",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx7hS2kY/27:06",
+        "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/57:37"
+      },
+      {
+        "text": "Someone on Apple's executive website will leave or be fired",
+        "notes": "<p><ul><li><a href=\"https://web.archive.org/web/20190110012030/https://www.apple.com/leadership/\" target=\"_blank\">The page as it existed at the time of the pick</a>.</li><li>Above or below \"the line\", but in the end people from both sections did leave.</li></ul></p>",
+        "game": "2019 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "Apple management"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7hS2kY/27:39",
+        "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/58:52"
+      },
+      {
+        "text": "Over-ear headphones (i.e. HeadPods)",
+        "notes": "<p><ul><li>Myke was a year off, as AirPods Max came out at the end of 2020.</li></ul></p>",
+        "game": "2019 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "Accessories",
+          "Ahead of Its Time",
+          "AirPods"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 342,
+        "overcast-graded": "https://overcast.fm/+FXx7hS2kY/28:26",
+        "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/1:01:16"
+      },
+      {
+        "text": "Shortcuts 2.0 is showed off at WWDC with a new developer framework for apps",
+        "notes": "<p><ul><li>\"Shortcuts also gets folders and AirPlay actions in 2019.\"</li></ul></p>",
+        "game": "2019 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "iOS",
+          "Apple Apps",
+          "Developer tools"
+        ],
+        "host": "Federico",
+        "pick-conditions": 4,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7hS2kY/28:58",
+        "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/1:05:30"
+      },
+      {
+        "text": "WWDC will introduce a multi-year plan to move macOS and iOS closer",
+        "notes": "<p><ul><li>Mac Catalyst and SwiftUI deemed to fulfill this</li></ul></p>",
+        "game": "2019 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "iOS",
+          "Mac",
+          "macOS"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7hS2kY/30:04",
+        "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/1:08:54"
+      },
+      {
+        "text": "2019 iPhones will start at a lower price than the 2018 iPhones",
+        "notes": "",
+        "game": "2019 Annual Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "iPhone",
+          "Alternate Risky"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx7hS2kY/30:48",
+        "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/1:12:34"
+      }
+    ]
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #225: The Bear Will Charge You",
+      "url": "https://relay.fm/connected/225",
+      "episode-number": 225
+    },
+    {
+      "title": "Connected #243: I Win Money Because It's Green",
+      "url": "https://relay.fm/connected/243",
+      "episode-number": 243
+    },
+    {
+      "title": "Connected #275: The Rickies (Early 2020)",
+      "url": "https://relay.fm/connected/275",
+      "episode-number": 275
+    }
+  ]
+}

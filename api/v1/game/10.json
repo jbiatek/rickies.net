@@ -1,0 +1,459 @@
+{
+  "name": "2020 November Rickies",
+  "game-type": "Keynote",
+  "date-graded": "2020-11-11",
+  "date-picked": "2020-11-04",
+  "main-game": {
+    "picks": [
+      {
+        "text": "Apple releases at least 2 different Mac models that run on Apple Silicon",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/31:29",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/53:15"
+      },
+      {
+        "text": "Big Sur gets a revised release window",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Live Edited"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/32:16",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/55:09"
+      },
+      {
+        "text": "An Apple Silicon Mac is available to order in November 2020",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "Live Edited",
+          "No Passion"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/32:26",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/56:39"
+      },
+      {
+        "text": "The first Apple Silicon chip is a variant of the A14 family",
+        "notes": "<p><ul><li>The M1 could be related, but Apple never said so, and instead say that it was built specifically for the Mac.</li></ul></p>",
+        "game": "2020 November Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/43:40",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:01:28"
+      },
+      {
+        "text": "No new Mac announced will have a touchscreen",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "Buzzkill",
+          "Live Edited"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/46:38",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:07:14"
+      },
+      {
+        "text": "Apple demos iOS apps running on a Mac",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Regular",
+        "topics": [
+          "iOS",
+          "Mac",
+          "macOS",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/47:49",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:09:29"
+      },
+      {
+        "text": "Big Sur on the new Apple Silicon Macs comes with a low power mode feature",
+        "notes": "<p><ul><li>This was a feature in Monterey the next year.</li></ul></p>",
+        "game": "2020 November Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Ahead of Its Time"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": -1,
+        "ahead-by": 210,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/53:18",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:15:26"
+      },
+      {
+        "text": "A desktop Apple Silicon Mac is announced",
+        "notes": "<p><ul><li>This pick literally came to Stephen in a dream, in which Tim Cook announced the Mac mini as a \"bad little b****\".</li></ul></p>",
+        "game": "2020 November Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 2,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/55:30",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:23:15"
+      },
+      {
+        "text": "An Apple Silicon Mac is cheaper than the product it replaces",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 2,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/57:21",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:26:51"
+      }
+    ],
+    "coin-flips": [],
+    "scores": [
+      {
+        "host": "Stephen",
+        "score": 4
+      },
+      {
+        "host": "Myke",
+        "score": 3
+      },
+      {
+        "host": "Federico",
+        "score": 0
+      }
+    ],
+    "winner": "Stephen"
+  },
+  "the-flexies": {
+    "picks": [
+      {
+        "text": "Phil Schiller is nowhere to be seen",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:08",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:33:14"
+      },
+      {
+        "text": "We see a Big Sur feature recap",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:12",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:33:27"
+      },
+      {
+        "text": "We see Johny Srouji again",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:16",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:33:39"
+      },
+      {
+        "text": "No mention of cellular Macs",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Buzzkill",
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:19",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:33:48"
+      },
+      {
+        "text": "Apple announces Windows for ARM coming via virtualization in the future",
+        "notes": "<p><ul><li>Parallels was updated to do this by 2021, but it wasn't announced at this event.</li></ul></p>",
+        "game": "2020 November Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Ahead of Its Time"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2,
+        "score": 0,
+        "ahead-by": 156,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:22",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:34:31"
+      },
+      {
+        "text": "The 12\" MacBook does not return",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Buzzkill"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:30",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:35:40"
+      },
+      {
+        "text": "New Macs follow current design trends, no large scale redesign",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Buzzkill"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:07:16",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:36:34"
+      },
+      {
+        "text": "Big Sur released within 48 hours of event",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "macOS"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:07:29",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:36:41"
+      },
+      {
+        "text": "New AirPods or AirPods Pro",
+        "notes": "<p><ul><li>Not until <a href=\"https://www.apple.com/newsroom/2021/10/introducing-the-next-generation-of-airpods/\" target=\"_blank\">October 18, 2021</a>.</li></ul></p>",
+        "game": "2020 November Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "Ahead of Its Time",
+          "AirPods",
+          "Live Edited"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 343,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:07:34",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:37:06"
+      },
+      {
+        "text": "New MagSafe charging case for existing AirPods",
+        "notes": "<p><ul><li>MagSafe came to the AirPods line the next year.</li></ul></p>",
+        "game": "2020 November Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "Ahead of Its Time",
+          "AirPods"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 0,
+        "ahead-by": 343,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:07:50",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:37:45"
+      },
+      {
+        "text": "Craig demos Big Sur features",
+        "notes": "<p><ul><li>The instant wake demo is counted for this.</li></ul></p>",
+        "game": "2020 November Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:07:55",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:38:40"
+      },
+      {
+        "text": "Apple compares the performance of Apple Silicon Macs to \"most PCs sold today\"",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Stagecraft"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:08:16",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:39:18"
+      },
+      {
+        "text": "Apple demos a game running on an Apple Silicon Mac",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:08:37",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:39:56"
+      },
+      {
+        "text": "One of the new Mac models supports WiFi 6",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:08:43",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:40:33"
+      },
+      {
+        "text": "At least one of the Apple Silicon Macs has a Pro Motion display",
+        "notes": "<p><ul><li>Was originally a Risky Pick.</li><li>ProMotion came to the Mac the next year with the MacBook Pro line.</li></ul></p>",
+        "game": "2020 November Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Ahead of Its Time",
+          "Alternate Risky"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 343,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:08:52",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:41:13"
+      },
+      {
+        "text": "Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together",
+        "notes": "",
+        "game": "2020 November Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Apple Apps",
+          "Live Edited",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:08:59",
+        "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:42:23"
+      }
+    ],
+    "coin-flips": [],
+    "scores": [
+      {
+        "host": "Stephen",
+        "correct": 5,
+        "total": 6
+      },
+      {
+        "host": "Myke",
+        "correct": 3,
+        "total": 5
+      },
+      {
+        "host": "Federico",
+        "correct": 2,
+        "total": 5
+      }
+    ],
+    "charity-name": "Eden's Run",
+    "charity-url": "https://fundraise.operationbrokensilence.org/team/318824",
+    "donation": 75,
+    "donator": "Federico",
+    "winner": "Stephen"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #319: The Rickies (November 2020)",
+      "url": "https://relay.fm/connected/319",
+      "episode-number": 319
+    },
+    {
+      "title": "Connected #320: Actually Quite Precedented",
+      "url": "https://relay.fm/connected/320",
+      "episode-number": 320
+    }
+  ]
+}

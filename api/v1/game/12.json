@@ -1,0 +1,467 @@
+{
+  "name": "2020 September Rickies",
+  "game-type": "Keynote",
+  "date-graded": "2020-09-16",
+  "date-picked": "2020-09-10",
+  "main-game": {
+    "picks": [
+      {
+        "text": "Apple unveils a new Apple Watch",
+        "notes": "<p><ul><li>While Federico had some criticism of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20iPad%20home%20screen%20gets%20new%20features\">a couple</a> of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Memoji%20will%20get%20updated%20to%20include%20face%20coverings\">Myke's picks</a> in <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#2020%20Summer%20Rickies\">the previous game</a> along the same lines, this was the very first time that Federico specifically called out a lack of \"passion\" in a pick.</li></ul></p>",
+        "game": "2020 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "Apple Watch",
+          "No Passion"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/12:32",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/46:25"
+      },
+      {
+        "text": "The Apple Watch Series 6 uses the Series 4 & 5 design",
+        "notes": "",
+        "game": "2020 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "Apple Watch"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/13:43",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/48:40"
+      },
+      {
+        "text": "At least one of the new non-Pro iPads will have an iPad Pro inspired design",
+        "notes": "<p><ul><li>\"(the flat sides are key)\"</li></ul></p>",
+        "game": "2020 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPad",
+          "Live Edited"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/30:03",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/53:08"
+      },
+      {
+        "text": "Apple unveils a new iPad, not Pro",
+        "notes": "",
+        "game": "2020 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPad",
+          "No Passion"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/32:34",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/56:23"
+      },
+      {
+        "text": "At least one new non-Pro iPad will switch to USB-C",
+        "notes": "",
+        "game": "2020 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPad",
+          "Live Edited",
+          "Passionate"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/34:20",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/58:05"
+      },
+      {
+        "text": "Apple introduces a new, lower end Apple Watch model in addition to the higher end Series 6",
+        "notes": "",
+        "game": "2020 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "Apple Watch",
+          "Live Edited"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/41:32",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:03:12"
+      },
+      {
+        "text": "A non-Pro iPad gets a LIDAR sensor",
+        "notes": "",
+        "game": "2020 September Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPad",
+          "Augmented Reality",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/48:17",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:11:17"
+      },
+      {
+        "text": "The iPad mini will be updated with a new design inspired by the iPad Pro's design",
+        "notes": "<p><ul><li>Stephen was almost exactly one year too early, as this would finally come true in 2021.</li></ul></p>",
+        "game": "2020 September Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPad",
+          "Ahead of Its Time",
+          "Live Edited",
+          "Passionate"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": -1,
+        "ahead-by": 364,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/49:18",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:20:50"
+      },
+      {
+        "text": "A new Apple Watch has at least one new built-in app because of an exclusive feature not found on existing watches",
+        "notes": "",
+        "game": "2020 September Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Apple Apps",
+          "Apple Watch",
+          "Live Edited"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 2,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/49:49",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:23:32"
+      }
+    ],
+    "coin-flips": [
+      {
+        "game": "2020 September Rickies",
+        "called": "Heads",
+        "caller": "Stephen",
+        "flip-method": "Siri",
+        "game-phase": "Rickies",
+        "loser": "Stephen",
+        "overcast-link": "https://overcast.fm/+FXx5peDck/53:56",
+        "prize": 2,
+        "result": "Tails",
+        "winner": "Myke"
+      }
+    ],
+    "scores": [
+      {
+        "host": "Federico",
+        "score": 4
+      },
+      {
+        "host": "Myke",
+        "score": 1
+      },
+      {
+        "host": "Stephen",
+        "score": 1
+      }
+    ],
+    "winner": "Federico"
+  },
+  "the-flexies": {
+    "picks": [
+      {
+        "text": "Details of a new iPad mini",
+        "notes": "<p><ul><li>Also one year too early.</li></ul></p>",
+        "game": "2020 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Ahead of Its Time"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 364,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/1:00:14",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:30:03"
+      },
+      {
+        "text": "Someone washes their hands during the presentation",
+        "notes": "",
+        "game": "2020 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/1:00:23",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:30:18"
+      },
+      {
+        "text": "New non-Pro iPad gets second generation Apple Pencil",
+        "notes": "",
+        "game": "2020 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Accessories"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/1:00:33",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:30:47"
+      },
+      {
+        "text": "watchOS 7 gets a software feature we haven't seen yet",
+        "notes": "",
+        "game": "2020 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Watch"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/1:00:38",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:31:00"
+      },
+      {
+        "text": "No specific date for iOS 14's release",
+        "notes": "<p><ul><li>Originally a candidate for Myke's Risky Pick.</li></ul></p>",
+        "game": "2020 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "Alternate Risky",
+          "Passionate",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/1:00:49",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:31:08"
+      },
+      {
+        "text": "Joz wears a non-solid-color shirt",
+        "notes": "",
+        "game": "2020 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/1:01:44",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:31:29"
+      },
+      {
+        "text": "Event looks mostly like WWDC",
+        "notes": "<p><ul><li>\"Not all on stage in a theater but using different parts of the campus or outside world\"</li></ul>\n</p>",
+        "game": "2020 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/1:02:19",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:31:53"
+      },
+      {
+        "text": "Apple somehow sets expectations for when the iPhone will be announced",
+        "notes": "",
+        "game": "2020 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/1:02:31",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:32:15"
+      },
+      {
+        "text": "The removal of Force Touch on watchOS is framed as the inclusion of Haptic Touch",
+        "notes": "",
+        "game": "2020 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Watch",
+          "Live Edited",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/1:04:12",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:32:33"
+      },
+      {
+        "text": "Preview of fall Apple TV+ content",
+        "notes": "",
+        "game": "2020 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple TV+",
+          "Services",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/1:06:06",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:33:56"
+      },
+      {
+        "text": "Apple will not unveil additional details about the release of the first Apple Silicon Macs",
+        "notes": "<p><ul><li>Myke challenged Stephen to make this a sixth Flexie in the discussion of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Preview%20of%20fall%20Apple%20TV%2B%20content\">his previous pick</a>.</li></ul></p>",
+        "game": "2020 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Buzzkill",
+          "Live Edited"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/1:06:13",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:35:15"
+      },
+      {
+        "text": "The new iPad Air supports the Magic Keyboard",
+        "notes": "",
+        "game": "2020 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Accessories",
+          "Passionate"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/1:07:12",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:35:56"
+      },
+      {
+        "text": "Apple launches a new subscription service for virtual fitness classes",
+        "notes": "",
+        "game": "2020 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Services"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/1:08:20",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:37:20"
+      },
+      {
+        "text": "Apple showcases at least one new feature coming in iOS or iPadOS 14.1",
+        "notes": "<p><ul><li>The version number wasn't stated explicitly, otherwise Fitness+ would have counted.</li></ul></p>",
+        "game": "2020 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "iPad",
+          "iPadOS",
+          "Live Edited",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/1:12:33",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:38:41"
+      },
+      {
+        "text": "At least one segment of the keynote is shot inside Apple's own fitness labs",
+        "notes": "<p><ul><li>It isn't quite clear if what they showed was the <em>lab</em>, but it doesn't matter to the scoring anyway so the point is given.</li></ul></p>",
+        "game": "2020 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/1:13:27",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:40:34"
+      },
+      {
+        "text": "iOS 14 launches in September",
+        "notes": "",
+        "game": "2020 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5peDck/1:14:13",
+        "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:41:25"
+      }
+    ],
+    "coin-flips": [],
+    "scores": [
+      {
+        "host": "Federico",
+        "correct": 4,
+        "total": 5
+      },
+      {
+        "host": "Myke",
+        "correct": 2,
+        "total": 5
+      },
+      {
+        "host": "Stephen",
+        "correct": 2,
+        "total": 6
+      }
+    ],
+    "charity-name": "Fur Kids",
+    "charity-url": "https://furkids.org/",
+    "donation": 100,
+    "donator": "Stephen",
+    "winner": "Federico"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #311: The Rickies (September 2020)",
+      "url": "https://relay.fm/connected/311",
+      "episode-number": 311
+    },
+    {
+      "title": "Connected #312: How September It Would Be",
+      "url": "https://relay.fm/connected/312",
+      "episode-number": 312
+    }
+  ]
+}

@@ -1,0 +1,817 @@
+[
+  {
+    "text": "A new Apple Watch has at least one new built-in app because of an exclusive feature not found on existing watches",
+    "notes": "",
+    "game": "2020 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Apple Apps",
+      "Apple Watch",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 2,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/49:49",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:23:32"
+  },
+  {
+    "text": "A new way to turn off confirmation banners in Shortcuts",
+    "notes": "<p><ul><li>This happened later in the iOS 15 cycle in version 15.4.</li></ul></p>",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Ahead of Its Time",
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 245,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:23:34",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:42:34"
+  },
+  {
+    "text": "Apple adds more filters to smart folders in Notes",
+    "notes": "",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:49:51"
+  },
+  {
+    "text": "Apple brings Mail extensions to iOS and iPadOS",
+    "notes": "",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPad",
+      "Apple Apps",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:45:01"
+  },
+  {
+    "text": "Apple brings Quick Note's floating window to iOS",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Apple Apps",
+      "Passionate"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:39:49",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:29:23"
+  },
+  {
+    "text": "Apple introduces a proper Reminders API for developers",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Developer tools",
+      "Passionate",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:41:45",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:31:53"
+  },
+  {
+    "text": "Apple launches a new AirPods app for iPhone, similar to Watch app",
+    "notes": "<p><ul><li>Instead of an app, Apple made a section in Settings at the next WWDC.</li></ul></p>",
+    "game": "2020 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Accessories",
+      "AirPods",
+      "Apple Apps",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:09:29",
+    "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:18:25"
+  },
+  {
+    "text": "Apple Notes will borrow some features from the modern generation of note-taking apps",
+    "notes": "<p><ul><li>\"...like wiki-style links, a quick switcher, or nested pages.\"</li></ul></p>",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:45:53"
+  },
+  {
+    "text": "Apple Podcast app launches on Android",
+    "notes": "",
+    "game": "2020 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Apple Apps",
+      "Services",
+      "Possible Vindication"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx4vzIxY/48:51",
+    "overcast-picked": "https://overcast.fm/+FXx7hS2kY/1:11:02"
+  },
+  {
+    "text": "Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together",
+    "notes": "",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Apple Apps",
+      "Live Edited",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:08:59",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:42:23"
+  },
+  {
+    "text": "Apple releases a Safari API to deal with cookie consent forms",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Developer tools",
+      "Passionate",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:41:20",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:30:43"
+  },
+  {
+    "text": "Apple replaces at least one bundled macOS app with a Marzipan version",
+    "notes": "<p><ul><li>It's called Catalyst, not Marzipan, which is pushed back on a little. Podcasts is cited as fulfilling this (is it <em>replacing</em> a Mac app? Stephen gets away with this a bit) and they say that Messages might now be a Catalyst app, but in fact it isn't.</li><li>The permissive grading may be due to the other hosts not wanting to get <em>too</em> picky when it comes to grading later picks.</li></ul></p>",
+    "game": "2019 WWDC Predictions",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Apple Apps"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4xqI14/22:53",
+    "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/34:06"
+  },
+  {
+    "text": "Apple stops using the iTunes Store app, and moves store content into dedicated apps",
+    "notes": "",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:43:44"
+  },
+  {
+    "text": "Apple TV app will receive a refreshed design",
+    "notes": "",
+    "game": "2019 Media Event Predictions",
+    "type": "Ricky",
+    "topics": [
+      "Apple Apps",
+      "Apple TV",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 2,
+    "overcast-graded": "https://overcast.fm/+FXx75P5Bg/36:40",
+    "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:24:48"
+  },
+  {
+    "text": "Apple updates the Listen Now page of the Music app",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:18:34",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:39:11"
+  },
+  {
+    "text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
+    "notes": "<p><ul><li>\"Music and Video removed from iTunes on the Mac\"</li><li>iTunes was eventually split up in 2019.</li></ul></p>",
+    "game": "2018 Annual Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iOS",
+      "Mac",
+      "macOS",
+      "Ahead of Its Time",
+      "Apple Apps",
+      "Apple TV+",
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 4,
+    "score": 0,
+    "ahead-by": 153,
+    "overcast-graded": "https://overcast.fm/+FXx495ZrA/10:38",
+    "overcast-picked": "https://overcast.fm/+FXx5giTnQ/1:08:27"
+  },
+  {
+    "text": "Apple will release a new programming app for iPad",
+    "notes": "<p><ul><li>Federico asks to be quoted as \"very very positive\" that he will win on the strength of this Ricky Pick.</li>\n    <li>Not Swift Playgrounds, that is not new. As it turns out, they added this functionality to Swift Playgrounds.</li>\n    <li>This was deemed not a reuse of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20will%20release%20at%20least%201%20new%20pro%20app%20for%20iPad%20that%20we%20haven't%20previously%20seen%20on%20iPad\">a previous pick</a> since it is even riskier and more specific.</li>\n</ul></p>",
+    "game": "2021 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx6bXcOY/36:00",
+    "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:14:34"
+  },
+  {
+    "text": "Apple will release at least 1 new pro app for iPad that we haven't previously seen on iPad",
+    "notes": "<p><ul><li>\"(The app can be universal.)\"</li></ul></p>",
+    "game": "2020 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx4vzIxY/39:53",
+    "overcast-picked": "https://overcast.fm/+FXx7hS2kY/1:04:05"
+  },
+  {
+    "text": "At least one iOS system app is redesigned to bring its controls to the bottom of the screen",
+    "notes": "<p><ul><li>Initially, the other two rejected Stephen's argument that the lock screen counted for this. However, <a href=\"https://overcast.fm/+FXx5r8V-w/1:31:57\" target=\"_blank\">later on while grading</a> <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Tim%20presents%20some%20portion%20of%20the%20keynote%20in%20front%20of%20a%20live%20audience\">another controversial pick</a>, <a href=\"https://twitter.com/stroughtonsmith/status/1534247915337678850\" target=\"_blank\">Steve Troughton-Smith came to Stephen's aid live</a> and helped bolster the case that the lock screen is in fact an app.</li></ul></p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Apple Apps"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:27:22",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:21:57"
+  },
+  {
+    "text": "Improved support for ZIP archives in the Files app and framework",
+    "notes": "",
+    "game": "2019 WWDC Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iOS",
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4xqI14/43:41",
+    "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/1:06:53"
+  },
+  {
+    "text": "iTunes rewrite or replacement for Mac OS",
+    "notes": "<p><ul><li>iTunes was eventually split up in 2019.</li></ul></p>",
+    "game": "2018 Annual Predictions",
+    "type": "Ricky",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Ahead of Its Time",
+      "Apple Apps"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": -1,
+    "ahead-by": 153,
+    "overcast-graded": "https://overcast.fm/+FXx495ZrA/08:12",
+    "overcast-picked": "https://overcast.fm/+FXx5giTnQ/51:14"
+  },
+  {
+    "text": "iWork updates for iOS 12",
+    "notes": "<p><ul><li>The big iWork update <a href=\"https://www.apple.com/newsroom/2019/03/all-new-ipad-air-and-ipad-mini-deliver-dramatic-power-and-capability/\" target=\"_blank\">eventually came in 2019</a>.</li></ul></p>",
+    "game": "2018 iPhone Event Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iOS",
+      "Ahead of Its Time",
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 187,
+    "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:24:25",
+    "overcast-picked": "https://overcast.fm/+FXx4E3x_I/42:39"
+  },
+  {
+    "text": "Mail.app will get modern features like snoozing",
+    "notes": "<p><ul><li>Threads can be muted, which isn't what he was talking about, really.</li><li>As these are \"ungraded picks\" being, uh, graded, Stephen is given a half point because why not.</li><li>Apple finally added a few features to Mail in 2022 including snoozing.</li></ul></p>",
+    "game": "2019 WWDC Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "Ahead of Its Time",
+      "Apple Apps"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0.5,
+    "ahead-by": 1097,
+    "overcast-graded": "https://overcast.fm/+FXx4xqI14/37:49",
+    "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/1:03:40"
+  },
+  {
+    "text": "New features for FaceTime",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Apple Apps"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:26:22",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:43:58"
+  },
+  {
+    "text": "New features for Tapback in Messages",
+    "notes": "<p><ul><li>Ungraded: more options than just the 5 built in, maybe even arbitrary emoji, better notification controls</li><li>It wasn't mentioned in the keynote, but yes, <a href=\"https://9to5mac.com/2022/06/07/ios-16-tapbacks-will-no-longer-spam-your-sms-group-chats/\" target=\"_blank\">Tapback finally works properly for SMS</a>.</li></ul></p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Apple Apps"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:00:46",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/48:34"
+  },
+  {
+    "text": "Podcasts will gain audio effects for enhanced sound and trim silence",
+    "notes": "<p><ul><li>Originally was Federico's Risky Pick.</li></ul></p>",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:47:53"
+  },
+  {
+    "text": "Redesign of the Home app... again",
+    "notes": "<p><ul><li>A <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Home%20app%20gets%20redesigned\">pick from last year</a> gets (legally) reused.</li></ul></p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:35:44",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:26:14"
+  },
+  {
+    "text": "Reminders gets a major update",
+    "notes": "<p><ul><li>\"(how do we decide major? — on stage at WWDC or we decide past that)\"</li><li>Ungraded: \"some features that Federico would like to see\", the actual features that Federico talked about were not recorded in the document, but were: a new, more flexible design, easier and faster to add dates and notes, tags, saved searches, better Files integration</li></ul></p>",
+    "game": "2019 Annual Predictions",
+    "type": "Ricky",
+    "topics": [
+      "Apple Apps",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 2,
+    "overcast-graded": "https://overcast.fm/+FXx7hS2kY/19:41",
+    "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/44:14"
+  },
+  {
+    "text": "Reminders will get a major redesign modeled after iOS 11 and Files",
+    "notes": "<p><ul><li>\"With new family sharing features and integration with the HomePod.\"</li><li>The redesign of Reminders did come eventually in 2019, with many more new features in 2021.</li></ul></p>",
+    "game": "2018 Annual Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "Ahead of Its Time",
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3,
+    "score": 0,
+    "ahead-by": 153,
+    "overcast-graded": "https://overcast.fm/+FXx495ZrA/10:47",
+    "overcast-picked": "https://overcast.fm/+FXx5giTnQ/57:44"
+  },
+  {
+    "text": "Shortcuts 2.0 is showed off at WWDC with a new developer framework for apps",
+    "notes": "<p><ul><li>\"Shortcuts also gets folders and AirPlay actions in 2019.\"</li></ul></p>",
+    "game": "2019 Annual Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iOS",
+      "Apple Apps",
+      "Developer tools"
+    ],
+    "host": "Federico",
+    "pick-conditions": 4,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7hS2kY/28:58",
+    "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/1:05:30"
+  },
+  {
+    "text": "Shortcuts for Mac gets personal automations",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Apple Apps",
+      "Passionate",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:39:16",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:28:58"
+  },
+  {
+    "text": "Shortcuts for the Mac",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Apple Apps"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/51:51",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:00:05"
+  },
+  {
+    "text": "Shortcuts gets an API on iOS and iPadOS for apps to run Shortcuts directly, without URL schemes",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPad",
+      "Apple Apps",
+      "Developer tools",
+      "iPadOS",
+      "Passionate",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:37:13",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:28:43"
+  },
+  {
+    "text": "Shortcuts gets an XL widget on iPad",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Passionate",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:42:03",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:32:30"
+  },
+  {
+    "text": "Shortcuts gets folders",
+    "notes": "",
+    "game": "2020 Summer Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/45:51",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:21:00"
+  },
+  {
+    "text": "Shortcuts gets new actions or triggers for USB connections",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Apple Apps",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:27:40",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:30:08"
+  },
+  {
+    "text": "Shortcuts gets new Files actions",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:16:30",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:35:16"
+  },
+  {
+    "text": "Shortcuts gets new Files integration, ability to run bookmarks in 3rd party actions",
+    "notes": "",
+    "game": "2020 Summer Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Apple Apps",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/46:24",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:21:31"
+  },
+  {
+    "text": "Shortcuts will gain folders and/or new ways to run Shortcuts",
+    "notes": "",
+    "game": "2020 Annual Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4vzIxY/51:19",
+    "overcast-picked": "https://overcast.fm/+FXx7hS2kY/1:16:26"
+  },
+  {
+    "text": "Shortcuts will gain new HomePod/AirPlay 2 actions to play audio on HomePod more quickly",
+    "notes": "",
+    "game": "Audio Predictions",
+    "type": "Regular",
+    "topics": [
+      "Accessories",
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7iyi9k/22:09",
+    "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:23:20"
+  },
+  {
+    "text": "Some Mac-only Shortcuts actions will become available on iPhone and iPad",
+    "notes": "",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPad",
+      "Apple Apps",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:46:35"
+  },
+  {
+    "text": "Something in the default Dock of Catalina becomes a Catalyst app",
+    "notes": "",
+    "game": "2020 Summer Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Apple Apps",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 2,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/35:44",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/57:29"
+  },
+  {
+    "text": "The Files app gets new features",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:16:10",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:33:14"
+  },
+  {
+    "text": "The Home app gets redesigned",
+    "notes": "<p><ul><li>The <em>watch</em> version of Home did get redesigned, so this pick is deemed technically correct. Myke made the same pick in the <a href=\"https://upgrade.cards/card/apple062021\" target=\"_blank\">Upgrade Draft</a>, but didn't get credit there as it was in the iOS and iPadOS section.</li></ul></p>",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:25:52",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:43:52"
+  },
+  {
+    "text": "The iPad gets a new development tool to write code, on device, that is not Swift Playgrounds",
+    "notes": "",
+    "game": "2020 Summer Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Developer tools",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/37:56",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:05:30"
+  },
+  {
+    "text": "The Music app gets an updated design in the Listen Now page",
+    "notes": "<p><ul><li>Federico <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20updates%20the%20Listen%20Now%20page%20of%20the%20Music%20app\">still isn't happy with it</a>, it seems.</li></ul></p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Passionate",
+      "Services",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:40:45",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:29:41"
+  },
+  {
+    "text": "The Passwords feature of Settings becomes a standalone app",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Apple Apps",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:17:41",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:37:27"
+  },
+  {
+    "text": "The Weather app comes to iPad",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time",
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 361,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:16:00",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:32:43"
+  },
+  {
+    "text": "There are new ways to turn off the alerts that Shortcuts displays constantly",
+    "notes": "<p><ul><li>Either confirmation banners or the notification when running with automation.</li></ul></p>",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:46:55"
+  },
+  {
+    "text": "Workflow 2 will appear as a system feature or app",
+    "notes": "<p><ul><li>\"Heavy on Siri integration, framework for pro apps to talk to each other\"</li><li>Ungraded: probably a migration tool from version 1, the App Store version might be kept around for a while</li><li>Some contention during grading about pro apps talking to each other leads to clarification that the <em>entire</em> pick must be true, but this one is deemed close enough.</li></ul></p>",
+    "game": "2018 Annual Predictions",
+    "type": "Ricky",
+    "topics": [
+      "iOS",
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3,
+    "score": 2,
+    "overcast-graded": "https://overcast.fm/+FXx495ZrA/06:27",
+    "overcast-picked": "https://overcast.fm/+FXx5giTnQ/48:08"
+  },
+  {
+    "text": "You can delete Messages in the Messages app, like in WhatsApp",
+    "notes": "<p><ul><li>That is, the ability to <em>revoke</em> a sent message so that the recipient can no longer read it.</li></ul></p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Passionate"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:41:30",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:31:25"
+  },
+  {
+    "text": "You will be able to set light and dark mode on a per-website basis in Safari",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Passionate",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:39:39",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:29:05"
+  }
+]

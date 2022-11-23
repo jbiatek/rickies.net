@@ -1,0 +1,464 @@
+{
+  "name": "2021 Annual Rickies",
+  "game-type": "Annual",
+  "date-graded": "2022-01-06",
+  "date-picked": "2021-01-07",
+  "main-game": {
+    "picks": [
+      {
+        "text": "Apple announces a new Mac Pro powered by Apple Silicon",
+        "notes": "",
+        "game": "2021 Annual Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/23:15",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/56:47"
+      },
+      {
+        "text": "The iPad mini does receive the new design language",
+        "notes": "<p><ul><li>    \"Originally, Stephen said it would <em>not</em> receive it\", but the other hosts criticized him for his negativity.</li></ul></p>",
+        "game": "2021 Annual Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPad",
+          "Live Edited"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/24:46",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/58:35"
+      },
+      {
+        "text": "Apple launches at least one iPad model with a new display technology",
+        "notes": "<p><ul><li>    He initially picked mini LED specifically. And after further discussion it was agreed that this meant a new display technology for the iPad, so for example OLED would also count.</li></ul></p>",
+        "game": "2021 Annual Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPad",
+          "Live Edited"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/27:11",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:00:33"
+      },
+      {
+        "text": "iOS 15 gives users more home screen customization options",
+        "notes": "<p><ul><li>        Specifically <em>not</em> iPadOS 15. </li><li>This was granted but the customization options were not extensive, just turning on and off home screens, both manually and with focus modes.</li></ul></p>",
+        "game": "2021 Annual Rickies",
+        "type": "Regular",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/30:02",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:02:09"
+      },
+      {
+        "text": "No in-person WWDC 2021",
+        "notes": "",
+        "game": "2021 Annual Rickies",
+        "type": "Regular",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/31:33",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:03:40"
+      },
+      {
+        "text": "Apple launches 'AirTags' accessories for tracking physical objects",
+        "notes": "<p><ul><li>    The name was allowed to be different, but Federico nailed it. </li></ul></p>",
+        "game": "2021 Annual Rickies",
+        "type": "Regular",
+        "topics": [
+          "Accessories"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/32:56",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:04:19"
+      },
+      {
+        "text": "A Mac gets a screen that supports touch and/or Apple Pencil input",
+        "notes": "<p><ul><li> Myke was torn between this and \"<a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#iPad%20multitasking%20is%20overhauled%20again\">iPad multitasking is overhauled again</a>\", but elected to make the more passionate pick.</li></ul></p>",
+        "game": "2021 Annual Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Mac",
+          "Accessories",
+          "Live Edited",
+          "Passionate",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/34:39",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:05:34"
+      },
+      {
+        "text": "Apple has Apple Silicon versions of all of its Intel Macs on sale by the end of 2021",
+        "notes": "<p><ul><li> \"No Intel Macs are available for sale without an Apple Silicon counterpart.\" Myke points out the iMac Pro as a potential spoiler.</li><li>(For pick complexity purposes, I'm counting this as 1 condition for each Mac line that still had no Apple Silicon counterpart at the beginning of 2021: The larger MacBook Pros, the iMac in both sizes, the iMac Pro, and the Mac Pro. The Mac mini is 1 line with a high end and low end, so it already had an \"Apple Silicon counterpart\" although the high end Mac mini was still Intel.)</li><li>The iMac Pro left the lineup entirely, but the Mac Pro remained on Intel by the end of the year.</li></ul></p>",
+        "game": "2021 Annual Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Mac",
+          "Live Edited",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 5,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/35:21",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:10:27"
+      },
+      {
+        "text": "Apple will release a new programming app for iPad",
+        "notes": "<p><ul><li>Federico asks to be quoted as \"very very positive\" that he will win on the strength of this Ricky Pick.</li>\n    <li>Not Swift Playgrounds, that is not new. As it turns out, they added this functionality to Swift Playgrounds.</li>\n    <li>This was deemed not a reuse of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20will%20release%20at%20least%201%20new%20pro%20app%20for%20iPad%20that%20we%20haven't%20previously%20seen%20on%20iPad\">a previous pick</a> since it is even riskier and more specific.</li>\n</ul></p>",
+        "game": "2021 Annual Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPad",
+          "Apple Apps",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/36:00",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:14:34"
+      }
+    ],
+    "coin-flips": [
+      {
+        "game": "2021 Annual Rickies",
+        "called": "Heads",
+        "caller": "Federico",
+        "flip-method": "Dice by PCalc",
+        "game-phase": "Rickies",
+        "loser": "Federico",
+        "overcast-link": "https://overcast.fm/+FXx6bXcOY/37:13",
+        "prize": 1,
+        "result": "Tails",
+        "winner": "Stephen"
+      }
+    ],
+    "scores": [
+      {
+        "host": "Stephen",
+        "score": 1
+      },
+      {
+        "host": "Federico",
+        "score": 1
+      },
+      {
+        "host": "Myke",
+        "score": 0
+      }
+    ],
+    "winner": "Stephen"
+  },
+  "the-flexies": {
+    "picks": [
+      {
+        "text": "Another variant of over-ear headphones will be released",
+        "notes": "<p><ul><li>Technically <i>Apple</i> wasn't specified, but of course that wasn't the intent.</li></ul></p>",
+        "game": "2021 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "AirPods",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/48:08",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:28"
+      },
+      {
+        "text": "Apple releases a weather API",
+        "notes": "<p><ul><li>The revamped weather API was announced at WWDC in 2022.</li></ul></p>",
+        "game": "2021 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Ahead of Its Time",
+          "Developer tools"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 156,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/48:27",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:41"
+      },
+      {
+        "text": "New Apple TV released",
+        "notes": "",
+        "game": "2021 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple TV"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/48:58",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:48"
+      },
+      {
+        "text": "iPad multitasking is overhauled again",
+        "notes": "",
+        "game": "2021 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Alternate Risky",
+          "iPadOS"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/49:04",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:50"
+      },
+      {
+        "text": "A new iMac has adjustability that is reminiscent of the Pro Display XDR",
+        "notes": "",
+        "game": "2021 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Alternate Risky",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/49:08",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:54"
+      },
+      {
+        "text": "Apple releases its own game controller",
+        "notes": "",
+        "game": "2021 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/50:41",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:24:33"
+      },
+      {
+        "text": "iOS gets a native feature to change icons for any app you want",
+        "notes": "",
+        "game": "2021 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/51:37",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:26:10"
+      },
+      {
+        "text": "Apple releases a bigger iPad Pro",
+        "notes": "",
+        "game": "2021 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/52:06",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:27:08"
+      },
+      {
+        "text": "At least one new iPhone model has both Face ID and Touch ID",
+        "notes": "",
+        "game": "2021 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/53:01",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:27:28"
+      },
+      {
+        "text": "WidgetKit will support new widget sizes and more interactivity",
+        "notes": "<p><ul><li>The boolean operator \"and\" ends up taking this pick down.</li></ul></p>",
+        "game": "2021 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "Developer tools",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/54:30",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:28:34"
+      },
+      {
+        "text": "Apple puts a cheaper display on sale as a sibling to the XDR",
+        "notes": "",
+        "game": "2021 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "Ahead of Its Time"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 66,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/55:56",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:30:32"
+      },
+      {
+        "text": "There will be a chip named M1 followed by a letter",
+        "notes": "",
+        "game": "2021 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Live Edited",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/56:00",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:30:51"
+      },
+      {
+        "text": "The new iPhone will be the 12S, not the 13",
+        "notes": "",
+        "game": "2021 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/56:27",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:32:46"
+      },
+      {
+        "text": "Apple ships an AR, VR, and/or MR dedicated device",
+        "notes": "",
+        "game": "2021 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Augmented Reality",
+          "Live Edited",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/57:23",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:33:30"
+      },
+      {
+        "text": "No Mac gets a cellular data option",
+        "notes": "",
+        "game": "2021 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Buzzkill"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/58:08",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:35:22"
+      },
+      {
+        "text": "The iPod Touch will be cancelled",
+        "notes": "<p><ul><li>The other hosts question the word \"cancelled\" here.</li><li><a href=\"https://www.apple.com/newsroom/2022/05/the-music-lives-on/\" target=\"_blank\">Finally came true in 2022</a>.</li></ul></p>",
+        "game": "2021 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Ahead of Its Time",
+          "Buzzkill",
+          "iPod Touch"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 124,
+        "overcast-graded": "https://overcast.fm/+FXx6bXcOY/58:35",
+        "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:36:16"
+      }
+    ],
+    "coin-flips": [],
+    "scores": [
+      {
+        "host": "Myke",
+        "correct": 2,
+        "total": 5
+      },
+      {
+        "host": "Stephen",
+        "correct": 1,
+        "total": 6
+      },
+      {
+        "host": "Federico",
+        "correct": 0,
+        "total": 5
+      }
+    ],
+    "charity-name": "Shelter",
+    "charity-url": "https://www.shelter.org.uk/",
+    "donation": 125,
+    "donator": "Federico",
+    "winner": "Myke"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #327: The Rickies (Early 2021)",
+      "url": "https://relay.fm/connected/327",
+      "episode-number": 327
+    },
+    {
+      "title": "Connected #379: The Rickies (January 2022)",
+      "url": "https://relay.fm/connected/379",
+      "episode-number": 379
+    }
+  ]
+}

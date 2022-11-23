@@ -1,0 +1,299 @@
+{
+  "name": "2019 Media Event Predictions",
+  "game-type": "Keynote",
+  "date-graded": "2019-03-27",
+  "date-picked": "2019-03-19",
+  "main-game": {
+    "picks": [
+      {
+        "text": "Apple News service for magazines",
+        "notes": "",
+        "game": "2019 Media Event Predictions",
+        "type": "Regular",
+        "topics": [
+          "Services"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx75P5Bg/21:46",
+        "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:02:02"
+      },
+      {
+        "text": "Apple will announce a video streaming service",
+        "notes": "<p><ul><li>\"...which includes content from other providers, this will either be free content or paying for a subscription from within the app\"</li></ul></p>",
+        "game": "2019 Media Event Predictions",
+        "type": "Regular",
+        "topics": [
+          "Apple TV+",
+          "Services"
+        ],
+        "host": "Myke",
+        "pick-conditions": 3,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx75P5Bg/23:34",
+        "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:05:16"
+      },
+      {
+        "text": "The video streaming service does not launch until at least May 1",
+        "notes": "",
+        "game": "2019 Media Event Predictions",
+        "type": "Regular",
+        "topics": [
+          "Apple TV+",
+          "Services"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx75P5Bg/24:33",
+        "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:07:34"
+      },
+      {
+        "text": "Apple will also announce a service bundle to get multiple services for one integrated fee",
+        "notes": "<p><ul><li>Ironically, this was deemed insufficiently risky to be a Risky Pick.</li><li>Federico was a year early on this pick, as Apple One was introduced in October 2020.</li></ul></p>",
+        "game": "2019 Media Event Predictions",
+        "type": "Regular",
+        "topics": [
+          "Ahead of Its Time",
+          "Alternate Risky",
+          "Services"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 540,
+        "overcast-graded": "https://overcast.fm/+FXx75P5Bg/25:36",
+        "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:11:45"
+      },
+      {
+        "text": "Apple's original content will premiere after the service itself launches",
+        "notes": "<p><ul><li>\"non original content will come first, excluding existing programs\"</li></ul></p>",
+        "game": "2019 Media Event Predictions",
+        "type": "Regular",
+        "topics": [
+          "Apple TV+",
+          "Live Edited",
+          "Services"
+        ],
+        "host": "Myke",
+        "pick-conditions": 3,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx75P5Bg/28:40",
+        "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:14:07"
+      },
+      {
+        "text": "Tim Cook interacts with a celebrity",
+        "notes": "",
+        "game": "2019 Media Event Predictions",
+        "type": "Regular",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx75P5Bg/33:14",
+        "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:16:30"
+      },
+      {
+        "text": "Apple will mention at least one new feature coming to the HomePod",
+        "notes": "<p><ul><li>\"HomePod\" needs to be mentioned by name.</li><li>The HomePod <a href=\"https://www.apple.com/newsroom/2018/09/homepod-adds-new-features-and-siri-languages/\" target=\"_blank\">got a few new features the year before</a>, but not much else before being discontinued.</li></ul></p>",
+        "game": "2019 Media Event Predictions",
+        "type": "Ricky",
+        "topics": [
+          "Accessories",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx75P5Bg/34:42",
+        "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:18:56"
+      },
+      {
+        "text": "Apple announces a video game subscription service",
+        "notes": "",
+        "game": "2019 Media Event Predictions",
+        "type": "Ricky",
+        "topics": [
+          "Services"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 2,
+        "overcast-graded": "https://overcast.fm/+FXx75P5Bg/35:59",
+        "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:21:31"
+      },
+      {
+        "text": "Apple TV app will receive a refreshed design",
+        "notes": "",
+        "game": "2019 Media Event Predictions",
+        "type": "Ricky",
+        "topics": [
+          "Apple Apps",
+          "Apple TV",
+          "Live Edited"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 2,
+        "overcast-graded": "https://overcast.fm/+FXx75P5Bg/36:40",
+        "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:24:48"
+      }
+    ],
+    "coin-flips": [
+      {
+        "game": "2019 Media Event Predictions",
+        "called": "",
+        "caller": "",
+        "flip-method": "Siri",
+        "game-phase": "Rickies",
+        "loser": "",
+        "overcast-link": "https://overcast.fm/+FXx75P5Bg/45:38",
+        "prize": 1,
+        "result": "Heads",
+        "winner": ""
+      },
+      {
+        "game": "2019 Media Event Predictions",
+        "called": "",
+        "caller": "",
+        "flip-method": "Siri",
+        "game-phase": "Rickies",
+        "loser": "",
+        "overcast-link": "https://overcast.fm/+FXx75P5Bg/46:27",
+        "prize": 1,
+        "result": "Tails",
+        "winner": ""
+      },
+      {
+        "game": "2019 Media Event Predictions",
+        "called": "Heads",
+        "caller": "Myke",
+        "flip-method": "Siri",
+        "game-phase": "Rickies",
+        "loser": "Stephen",
+        "overcast-link": "https://overcast.fm/+FXx75P5Bg/49:40",
+        "prize": 1,
+        "result": "Heads",
+        "winner": "Myke"
+      }
+    ],
+    "scores": [
+      {
+        "host": "Myke",
+        "score": 4
+      },
+      {
+        "host": "Stephen",
+        "score": 4
+      },
+      {
+        "host": "Federico",
+        "score": 0
+      }
+    ],
+    "winner": "Myke"
+  },
+  "nongraded": {
+    "picks": [
+      {
+        "text": "Apple News will expand internationally",
+        "notes": "<p><ul><li>It expanded to Canada <a href=\"https://support.apple.com/en-us/HT209084#122\" target=\"_blank\">in iOS 12.2</a>, released the day of the keynote.</li></ul></p>",
+        "game": "2019 Media Event Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "Services"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:29:32"
+      },
+      {
+        "text": "Apple TV box gets a price cut",
+        "notes": "",
+        "game": "2019 Media Event Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "Apple TV",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:29:58"
+      },
+      {
+        "text": "Apple gives a quick tour of improvements to next round of software updates",
+        "notes": "",
+        "game": "2019 Media Event Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:30:13"
+      },
+      {
+        "text": "The video streaming service will come to Roku and Fire TV products",
+        "notes": "",
+        "game": "2019 Media Event Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "Apple TV+",
+          "Services"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx75P5Bg/37:44",
+        "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:31:16"
+      },
+      {
+        "text": "All the celebrities will come out at the end and take a picture together",
+        "notes": "",
+        "game": "2019 Media Event Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:32:47"
+      },
+      {
+        "text": "Major publications noticeably absent from News+",
+        "notes": "",
+        "game": "2019 Media Event Predictions",
+        "type": "NonGraded",
+        "topics": [
+          "Buzzkill",
+          "Services"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:33:40"
+      }
+    ]
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #235: Stephen’s Hellish Nightmare of Dates",
+      "url": "https://relay.fm/connected/235",
+      "episode-number": 235
+    },
+    {
+      "title": "Connected #236: Rosencrantz Says",
+      "url": "https://relay.fm/connected/236",
+      "episode-number": 236
+    }
+  ]
+}

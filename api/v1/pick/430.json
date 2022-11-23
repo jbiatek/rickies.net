@@ -1,0 +1,15 @@
+{
+  "text": "At least one iOS system app is redesigned to bring its controls to the bottom of the screen",
+  "notes": "<p><ul><li>Initially, the other two rejected Stephen's argument that the lock screen counted for this. However, <a href=\"https://overcast.fm/+FXx5r8V-w/1:31:57\" target=\"_blank\">later on while grading</a> <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Tim%20presents%20some%20portion%20of%20the%20keynote%20in%20front%20of%20a%20live%20audience\">another controversial pick</a>, <a href=\"https://twitter.com/stroughtonsmith/status/1534247915337678850\" target=\"_blank\">Steve Troughton-Smith came to Stephen's aid live</a> and helped bolster the case that the lock screen is in fact an app.</li></ul></p>",
+  "game": "2022 WWDC Rickies",
+  "type": "Flexie",
+  "topics": [
+    "iOS",
+    "Apple Apps"
+  ],
+  "host": "Stephen",
+  "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:27:22",
+  "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:21:57"
+}

@@ -1,0 +1,703 @@
+{
+  "name": "2022 September Rickies",
+  "game-type": "Keynote",
+  "date-graded": "2022-09-07",
+  "date-picked": "2022-08-31",
+  "main-game": {
+    "picks": [
+      {
+        "text": "At least one of the next 'Pro' iPhones will have an always-on display",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/20:23",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/27:56"
+      },
+      {
+        "text": "At least one iPhone will have the notch removed, replaced by a cut-out(s) for the camera and sensors, free-floating from the border",
+        "notes": "<p><ul><li>Or, as Stephen so poetically put it, \"AKA an island of black glass in an ocean of pixels.\" Little did he know that Apple would <em>actually</em> call it \"the Dynamic Island\".</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone",
+          "Live Edited"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/24:05",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/32:15"
+      },
+      {
+        "text": "Apple shows off at least one iOS 16 feature that we haven’t seen before",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/35:36",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/36:30"
+      },
+      {
+        "text": "There won't be a mini iPhone in the iPhone 14 family",
+        "notes": "<p><ul><li>Federico basically steals <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#There%20will%20be%20no%20iPhone%2014%20with%20a%205.4%22%20display\">one of Myke's ongoing annual picks</a>, which is allowed by <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Bill%20of%20Rickies\">the rules</a>.</li><li>😭</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone",
+          "Buzzkill"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/40:05",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/39:07"
+      },
+      {
+        "text": "At least one iPhone gets an upgraded main camera",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/44:27",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/42:59"
+      },
+      {
+        "text": "The Apple Watch SE, announced in 2020, moves down in price with no feature changes",
+        "notes": "<p><ul><li>Not graded: Series 7 or SE 2 takes the middle price point where the SE is now</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "Apple Watch",
+          "Buzzkill",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/48:40",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/44:42"
+      },
+      {
+        "text": "The iPhone 14 Pro Camera app introduces some kind of 3D capturing functionality",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPhone",
+          "iOS",
+          "Live Edited",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/52:38",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/53:09"
+      },
+      {
+        "text": "AirPods Max 2 can be folded to store more compactly",
+        "notes": "<p><ul><li>Myke doesn't seem to have much confidence in this risky pick, but his other choices were shot down as insufficiently risky in negotiations.</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Accessories",
+          "AirPods",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/54:04",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:02:05"
+      },
+      {
+        "text": "iOS gets split-view support for multitasking to use 2 apps at once (reuse)",
+        "notes": "<p><ul><li>Was originally \"The Lightning port on the iPhone 14 Pro is upgraded to at least USB 3.0\", but <a href=\"https://9to5mac.com/2022/04/19/sketchy-rumor-claims-iphone-14-pro-will-feature-faster-usb-3-0-lightning-connector/\" target=\"_blank\">it turns out this has been rumored</a>. This prompts <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Connected%20%23413%3A%20The%20Rickies%20(September%202022)\">a rule change</a>. Stephen thought of a few options which became Flexies, but ultimately opts to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#iOS%20gets%20split-view%20support%20for%20multitasking%20to%20use%202%20apps%20at%20once\">reuse Federico's Risky pick from the last game, word for word</a> (a <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ineligible%20Picks\">legal choice under the Bill</a>).</li><li>Federico, oddly, argues <em>for</em> this being correct, with the Dynamic Island allowing multiple app use. But the others agree that, while funny, that isn't it.</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iOS",
+          "Live Edited",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/58:04",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:05:30"
+      }
+    ],
+    "coin-flips": [
+      {
+        "game": "2022 September Rickies",
+        "called": "Heads",
+        "caller": "Federico",
+        "flip-method": "Dice by PCalc",
+        "game-phase": "Rickies",
+        "loser": "Myke",
+        "overcast-link": "https://overcast.fm/+FXx650Foc/1:00:31",
+        "prize": 1,
+        "result": "Heads",
+        "winner": "Federico"
+      }
+    ],
+    "scores": [
+      {
+        "host": "Federico",
+        "score": 1
+      },
+      {
+        "host": "Myke",
+        "score": 1
+      },
+      {
+        "host": "Stephen",
+        "score": 0
+      }
+    ],
+    "winner": "Federico"
+  },
+  "the-flexies": {
+    "picks": [
+      {
+        "text": "The keynote is a pre-recorded video",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:06:00",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:18"
+      },
+      {
+        "text": "The iPhone 14 entry's price is the same or higher than the 13 mini's price of $699",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Buzzkill"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:06:22",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:21"
+      },
+      {
+        "text": "The iPhone 14 Pro comes in a total of five colors",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:06:53",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:28"
+      },
+      {
+        "text": "Apple mentions at least 1 feature \"coming later\"",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Buzzkill",
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:09:46",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:39"
+      },
+      {
+        "text": "Apple shows off at least one new MagSafe accessory",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Accessories",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:12:08",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:44"
+      },
+      {
+        "text": "The A16 is built on a 3 nanometer process",
+        "notes": "<p><ul><li>Very very close: it was 4 nm.</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:12:13",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:47"
+      },
+      {
+        "text": "The new high-end Apple Watch is named the \"Apple Watch Pro\"",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Watch",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:12:31",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:53"
+      },
+      {
+        "text": "The iPhone 14 Pro switches to titanium for the side rails",
+        "notes": "<p><ul><li>This was going to be a Risky pick, but <a href=\"https://www.macrumors.com/2021/07/26/iphone-14-2022-pro-models-titanium-case/\" target=\"_blank\">rumors were found before the show</a>.</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Alternate Risky",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:17:37",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:57"
+      },
+      {
+        "text": "Center Stage comes to the iPhone",
+        "notes": "<p><ul><li>This was tossed out as a possible replacement Risky pick for this game after Stephen's original got invalidated, but ultimately landed as a Flexie.</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "iOS",
+          "Alternate Risky",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:17:54",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:28:21"
+      },
+      {
+        "text": "Lightning is updated to be faster than USB 2.0",
+        "notes": "<p><ul><li>This was Stephen's original <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#iOS%20gets%20split-view%20support%20for%20multitasking%20to%20use%202%20apps%20at%20once%20(reuse)\">risky pick</a>, but <a href=\"https://9to5mac.com/2022/04/19/sketchy-rumor-claims-iphone-14-pro-will-feature-faster-usb-3-0-lightning-connector/\" target=\"_blank\">it turns out it's in the rumor mill</a>.</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Accessories",
+          "Alternate Risky",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:17:58",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:28:23"
+      },
+      {
+        "text": "A new iPhone Pro colour is Purple",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Live Edited"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:18:16",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:29:41"
+      },
+      {
+        "text": "Astrophotography feature",
+        "notes": "<p><ul><li>No verb necessary, Myke decides.</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:18:21",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:30:04"
+      },
+      {
+        "text": "Satellite communication features for iPhone and/or Apple Watch",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Apple Watch"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:18:31",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:30:32"
+      },
+      {
+        "text": "Apple gives a new name to the A15 chip found in the non-Pro iPhones",
+        "notes": "<p><ul><li>For example, instead of A15 Bionic, the A15 <em>Tri</em>onic, just to make it sound newer.</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:21:14",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:30:52"
+      },
+      {
+        "text": "New Apple Watch is a 'Series 8' Watch",
+        "notes": "<p><ul><li>\"It may 'technically' be an Edition, but no new name (like Pro or Max)\"</li><li>As mentioned in <a href=\"https://upgrade.cards/card/apple092022\" target=\"_blank\">the Upgrade Draft earlier in the week</a>, but not chosen there. This was deemed insufficiently Risky, and so was demoted to a Flexie.</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Alternate Risky",
+          "Apple Watch",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:21:44",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:31:43"
+      },
+      {
+        "text": "At least one iPhone model does not have a shipping date of September 16",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:21:55",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:32:12"
+      },
+      {
+        "text": "Someone is wearing the new Apple Watch while riding a skateboard",
+        "notes": "<p><ul><li>A reference to the \"Apple Watch Extreme\" rumors. Maybe Tony Hawk?</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Watch",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:22:29",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:32:42"
+      },
+      {
+        "text": "We do not see John Ternus",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple management",
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:23:54",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:34:01"
+      },
+      {
+        "text": "No trailers for Apple TV+ content",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple TV+",
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:23:59",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:34:12"
+      },
+      {
+        "text": "Tim Cook says \"good morning\"",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple management",
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:24:05",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:34:17"
+      },
+      {
+        "text": "On the always-on Lock Screen for iPhone 14 Pro, you see notifications in Count mode",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "iOS",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:24:37",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:34:51"
+      },
+      {
+        "text": "Faster MagSafe charging in at least one of the new iPhones",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:24:37",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:35:32"
+      },
+      {
+        "text": "iOS 16 is released on Monday, September 12",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "iOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:25:07",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:35:41"
+      },
+      {
+        "text": "At least one new watchOS feature or app is introduced alongside the new Apple Watch",
+        "notes": "",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Watch"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:25:15",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:35:50"
+      },
+      {
+        "text": "Ted Lasso Season 3 trailer",
+        "notes": "<p><ul><li>Federico goes <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20trailers%20for%20Apple%20TV%2B%20content\">against Myke's earlier pick</a>.</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple TV+",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:26:11",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:36:02"
+      },
+      {
+        "text": "There will be a system filter for \"always-on display\" in Focus",
+        "notes": "<p><ul><li>Deemed incorrect because it wasn't mentioned and there was no way to find out at the time of grading.</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "iOS",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:26:15",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:36:39"
+      },
+      {
+        "text": "You will be able to control which data types show on the always-on lock screen",
+        "notes": "<p><ul><li>Similar to the privacy controls that the always-on Apple Watch has for complications</li><li>This could be a feature, but there was no way to know at the time of grading.</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "iOS",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:28:09",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:37:04"
+      },
+      {
+        "text": "The new big non-pro iPhone 14 is called the iPhone 14 Plus",
+        "notes": "<p><ul><li>As it turns out, this <a href=\"https://9to5mac.com/2022/08/31/iphone-14-plus-or-iphoen-14-max/\" target=\"_blank\"> is actually a rumor floating around</a> (which is fine for the Flexies).</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:29:03",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:37:35"
+      },
+      {
+        "text": "Bands for the new Apple Watch \"Pro\" are not backward compatible with other Apple Watches",
+        "notes": "<p><ul><li><a href=\"https://9to5mac.com/2022/09/07/apple-watch-ultra-band-compatibility-explained/\" target=\"_blank\">It does appear to be compatible</a> at the time of grading.</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Watch",
+          "Buzzkill",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:29:12",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:39:28"
+      },
+      {
+        "text": "We do not see AirPods Max 2",
+        "notes": "<p><ul><li>Another counter-pick <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#AirPods%20Max%202%20can%20be%20folded%20to%20store%20more%20compactly\">to one of Myke's picks</a>, this time his Risky Pick.</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "AirPods",
+          "Buzzkill"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:29:58",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:40:23"
+      },
+      {
+        "text": "Apple introduces new Fitness+ workouts",
+        "notes": "<p><ul><li><a href=\"https://www.apple.com/newsroom/2022/09/apple-fitness-plus-available-to-all-iphone-users-in-21-countries-later-this-fall/\" target=\"_blank\">Announced in a press release</a>.</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Services"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:30:10",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:40:31"
+      },
+      {
+        "text": "Tony Hawk will make an appearance at the event",
+        "notes": "<p><ul><li>This was originally a near-exact copy of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20shows%20off%20at%20least%20one%20new%20MagSafe%20accessory\">one of Stephen's earlier Flexies</a>, and refers to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Someone%20is%20wearing%20the%20new%20Apple%20Watch%20while%20riding%20a%20skateboard\">Myke's earlier skateboarding pick</a>.</li></ul></p>",
+        "game": "2022 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx650Foc/1:33:07",
+        "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:41:06"
+      }
+    ],
+    "coin-flips": [],
+    "scores": [
+      {
+        "host": "Myke",
+        "correct": 6,
+        "total": 10
+      },
+      {
+        "host": "Federico",
+        "correct": 5,
+        "total": 12
+      },
+      {
+        "host": "Stephen",
+        "correct": 3,
+        "total": 10
+      }
+    ],
+    "charity-name": "St. Jude",
+    "charity-url": "https://tiltify.com/@jbiatek/connected-informatic-wikiverse",
+    "donation": 175,
+    "donator": "Stephen",
+    "winner": "Myke"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #413: The Rickies (September 2022)",
+      "url": "https://relay.fm/connected/413",
+      "episode-number": 413
+    },
+    {
+      "title": "Connected #414: I am Michael Jordan",
+      "url": "https://relay.fm/connected/414",
+      "episode-number": 414
+    }
+  ]
+}

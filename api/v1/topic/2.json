@@ -1,0 +1,680 @@
+[
+  {
+    "text": "A streaming service announced as Apple Video",
+    "notes": "<p><ul><li>\"1-2 months for free, bundled with Apple Music as an option\"</li></ul></p>",
+    "game": "2018 Annual Predictions",
+    "type": "Regular",
+    "topics": [
+      "Apple TV+",
+      "Services",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx495ZrA/05:19",
+    "overcast-picked": "https://overcast.fm/+FXx5giTnQ/40:02"
+  },
+  {
+    "text": "Apple (of its own choice, not in direct response to a legal case) will allow developers to use payment methods outside the App Store",
+    "notes": "",
+    "game": "2022 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Services"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:19:44"
+  },
+  {
+    "text": "Apple announces a new paid service",
+    "notes": "",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Services"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:37:25"
+  },
+  {
+    "text": "Apple announces a video game subscription service",
+    "notes": "",
+    "game": "2019 Media Event Predictions",
+    "type": "Ricky",
+    "topics": [
+      "Services"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 2,
+    "overcast-graded": "https://overcast.fm/+FXx75P5Bg/35:59",
+    "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:21:31"
+  },
+  {
+    "text": "Apple announces an update to AirPods Max, that support wireless lossless playback, to take full advantage of Apple's new classical music service",
+    "notes": "<p><ul><li>Working with Apple Classical is part of the pick, meaning that if Classical is not introduced it will be incorrect.</li><li>This was edited to be any AirPods, but then Stephen went back to the more passionate original pick.</li><li>Not a reuse of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20unveils%20a%20new%20high-end%20audio%20product\">the infamous DAC pick</a>, but in a similar vein.</li></ul></p>",
+    "game": "2022 March Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Accessories",
+      "AirPods",
+      "Services",
+      "Possible Vindication"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/43:14",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/58:37"
+  },
+  {
+    "text": "Apple announces original podcast content",
+    "notes": "<p><ul><li>In 2020, Apple did come out with Apple News Today, and has since introduced other shows as well.</li></ul></p>",
+    "game": "2019 Fall Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Ahead of Its Time",
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 309,
+    "overcast-graded": "https://overcast.fm/+FXx61sqT4/1:03:09",
+    "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:29:58"
+  },
+  {
+    "text": "Apple announces something with podcasts",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Services"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:24:29",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:23:55"
+  },
+  {
+    "text": "Apple gives another extended free period of TV+ with new product purchases, even if you already had a trial",
+    "notes": "<p><ul><li>The pick <a href=\"https://overcast.fm/+FXx5SWQQA/46:32\" target=\"_blank\">went through a little more revision</a> after round 2 ended.</li><li>Apple extended the existing free period for TV+, which does not count</li><li>Myke notes that, since this extension was announced via press release before the event, a differently-worded pick may have been ambiguous based on the rules at the time, so an explicit rule about the scoring window is added.</li></ul></p>",
+    "game": "2020 October Rickies",
+    "type": "Regular",
+    "topics": [
+      "Apple TV+",
+      "Live Edited",
+      "Passionate",
+      "Services",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7YIi-0/39:52",
+    "overcast-picked": "https://overcast.fm/+FXx5SWQQA/38:54"
+  },
+  {
+    "text": "Apple introduces new Fitness+ workouts",
+    "notes": "<p><ul><li><a href=\"https://www.apple.com/newsroom/2022/09/apple-fitness-plus-available-to-all-iphone-users-in-21-countries-later-this-fall/\" target=\"_blank\">Announced in a press release</a>.</li></ul></p>",
+    "game": "2022 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx650Foc/1:30:10",
+    "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:40:31"
+  },
+  {
+    "text": "Apple launches a new HD tier for Apple Music",
+    "notes": "<p><ul><li>This feature <a href=\"https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/\" target=\"_blank\">did come eventually</a>, in 2021.</li></ul></p>",
+    "game": "2020 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Ahead of Its Time",
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 217,
+    "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:08:52",
+    "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:13:16"
+  },
+  {
+    "text": "Apple launches a new subscription service for virtual fitness classes",
+    "notes": "",
+    "game": "2020 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/1:08:20",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:37:20"
+  },
+  {
+    "text": "Apple makes changes to the rules on in-app purchases, removing restrictions on linking to external websites for account creation, etc.",
+    "notes": "<p><ul><li>This came later in the year as a result of an antitrust settlement with Japan.</li></ul></p>",
+    "game": "2021 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Ahead of Its Time",
+      "Developer tools",
+      "Services"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": -1,
+    "ahead-by": 87,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:04:50",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:17:38"
+  },
+  {
+    "text": "Apple Music will be redesigned again",
+    "notes": "<p><ul><li>\"Will gain more Spotify-like algorithmic features\"</li><li>\"An Apple version of the Daily Mix and a way to discover back catalog songs from artists you don't know (Discover Weekly?)\"</li><li>The <a href=\"https://www.engadget.com/2019-08-23-apple-music-new-music-daily.html\" target=\"_blank\">New Music Daily</a> feature would eventually come in 2019.</li></ul></p>",
+    "game": "2017 Annual Predictions",
+    "type": "Regular",
+    "topics": [
+      "Ahead of Its Time",
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 4,
+    "score": 0,
+    "ahead-by": 599,
+    "overcast-graded": "https://overcast.fm/+FXx75_MJc/07:40",
+    "overcast-picked": "https://overcast.fm/+FXx7nikbQ/39:07"
+  },
+  {
+    "text": "Apple News service for magazines",
+    "notes": "",
+    "game": "2019 Media Event Predictions",
+    "type": "Regular",
+    "topics": [
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx75P5Bg/21:46",
+    "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:02:02"
+  },
+  {
+    "text": "Apple News will expand internationally",
+    "notes": "<p><ul><li>It expanded to Canada <a href=\"https://support.apple.com/en-us/HT209084#122\" target=\"_blank\">in iOS 12.2</a>, released the day of the keynote.</li></ul></p>",
+    "game": "2019 Media Event Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:29:32"
+  },
+  {
+    "text": "Apple Podcast app launches on Android",
+    "notes": "",
+    "game": "2020 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Apple Apps",
+      "Services",
+      "Possible Vindication"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx4vzIxY/48:51",
+    "overcast-picked": "https://overcast.fm/+FXx7hS2kY/1:11:02"
+  },
+  {
+    "text": "Apple releases an iPhone subscription service that bundles a device, AppleCare, and a selection of other Apple content services into one monthly payment",
+    "notes": "<p><ul><li>\"(Not just additional iCloud space)\"</li><li>The free AppleTV+ trial with new devices combined with an iPhone Upgrade Program purchase is deemed to not count during grading.</li></ul></p>",
+    "game": "2019 Annual Predictions",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "Services",
+      "Possible Vindication"
+    ],
+    "host": "Myke",
+    "pick-conditions": 5,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx7hS2kY/23:04",
+    "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/53:22"
+  },
+  {
+    "text": "Apple stops using the iTunes Store app, and moves store content into dedicated apps",
+    "notes": "",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:43:44"
+  },
+  {
+    "text": "Apple TV+ trailers are shown",
+    "notes": "",
+    "game": "2020 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple TV+",
+      "Services",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:13:48",
+    "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:22:47"
+  },
+  {
+    "text": "Apple TV+ will be free with another subscription",
+    "notes": "<p><ul><li>Apple One, which includes Apple TV+, launched a year later.</li></ul></p>",
+    "game": "2019 Fall Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Ahead of Its Time",
+      "Apple TV+",
+      "Services"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 371,
+    "overcast-graded": "https://overcast.fm/+FXx61sqT4/59:28",
+    "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:25:59"
+  },
+  {
+    "text": "Apple updates the Listen Now page of the Music app",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:18:34",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:39:11"
+  },
+  {
+    "text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
+    "notes": "<p><ul><li>\"Music and Video removed from iTunes on the Mac\"</li><li>iTunes was eventually split up in 2019.</li></ul></p>",
+    "game": "2018 Annual Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iOS",
+      "Mac",
+      "macOS",
+      "Ahead of Its Time",
+      "Apple Apps",
+      "Apple TV+",
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 4,
+    "score": 0,
+    "ahead-by": 153,
+    "overcast-graded": "https://overcast.fm/+FXx495ZrA/10:38",
+    "overcast-picked": "https://overcast.fm/+FXx5giTnQ/1:08:27"
+  },
+  {
+    "text": "Apple will also announce a service bundle to get multiple services for one integrated fee",
+    "notes": "<p><ul><li>Ironically, this was deemed insufficiently risky to be a Risky Pick.</li><li>Federico was a year early on this pick, as Apple One was introduced in October 2020.</li></ul></p>",
+    "game": "2019 Media Event Predictions",
+    "type": "Regular",
+    "topics": [
+      "Ahead of Its Time",
+      "Alternate Risky",
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 540,
+    "overcast-graded": "https://overcast.fm/+FXx75P5Bg/25:36",
+    "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:11:45"
+  },
+  {
+    "text": "Apple will announce a new services bundle",
+    "notes": "",
+    "game": "2020 Annual Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Services"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4vzIxY/52:03",
+    "overcast-picked": "https://overcast.fm/+FXx7hS2kY/1:21:16"
+  },
+  {
+    "text": "Apple will announce a video streaming service",
+    "notes": "<p><ul><li>\"...which includes content from other providers, this will either be free content or paying for a subscription from within the app\"</li></ul></p>",
+    "game": "2019 Media Event Predictions",
+    "type": "Regular",
+    "topics": [
+      "Apple TV+",
+      "Services"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx75P5Bg/23:34",
+    "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:05:16"
+  },
+  {
+    "text": "Apple will launch a subscription service featuring original video content",
+    "notes": "",
+    "game": "2019 Annual Predictions",
+    "type": "Regular",
+    "topics": [
+      "Apple TV+",
+      "Services"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7hS2kY/15:35",
+    "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/23:23"
+  },
+  {
+    "text": "Apple will launch its own podcast content beyond its existing deal with Oprah",
+    "notes": "",
+    "game": "2020 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "Live Edited",
+      "Services"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4vzIxY/36:43",
+    "overcast-picked": "https://overcast.fm/+FXx7hS2kY/58:14"
+  },
+  {
+    "text": "Apple will mention Apple Arcade during the keynote",
+    "notes": "",
+    "game": "2019 WWDC Predictions",
+    "type": "Regular",
+    "topics": [
+      "Services",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4xqI14/21:29",
+    "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/31:55"
+  },
+  {
+    "text": "Apple's classical music service is announced",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Services",
+      "Possible Vindication"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:28:41",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:22:12"
+  },
+  {
+    "text": "Apple's classical music service is unveiled",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Regular",
+    "topics": [
+      "Services",
+      "Possible Vindication"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/27:20",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/34:26"
+  },
+  {
+    "text": "Apple's original content will premiere after the service itself launches",
+    "notes": "<p><ul><li>\"non original content will come first, excluding existing programs\"</li></ul></p>",
+    "game": "2019 Media Event Predictions",
+    "type": "Regular",
+    "topics": [
+      "Apple TV+",
+      "Live Edited",
+      "Services"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx75P5Bg/28:40",
+    "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:14:07"
+  },
+  {
+    "text": "Better incorporation of Apple News into the audio ecosystem",
+    "notes": "<p><ul><li>For example, asking Siri for the news on a HomePod</li><li>This did eventually happen, but in 2020.</li></ul></p>",
+    "game": "Audio Predictions",
+    "type": "Regular",
+    "topics": [
+      "Ahead of Its Time",
+      "Services"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 252,
+    "overcast-graded": "https://overcast.fm/+FXx7iyi9k/23:34",
+    "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:25:59"
+  },
+  {
+    "text": "iCloud family photo sharing",
+    "notes": "<p><ul><li><em>Finally</em> got added in 2022 at WWDC.</li></ul></p>",
+    "game": "2019 WWDC Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "Ahead of Its Time",
+      "Services"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 1097,
+    "overcast-graded": "https://overcast.fm/+FXx4xqI14/42:01",
+    "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/1:06:11"
+  },
+  {
+    "text": "iCloud free 5 GB limit will be increased",
+    "notes": "",
+    "game": "2017 Annual Predictions",
+    "type": "Regular",
+    "topics": [
+      "Services",
+      "Possible Vindication"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx75_MJc/05:28",
+    "overcast-picked": "https://overcast.fm/+FXx7nikbQ/36:22"
+  },
+  {
+    "text": "Major publications noticeably absent from News+",
+    "notes": "",
+    "game": "2019 Media Event Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "Buzzkill",
+      "Services"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:33:40"
+  },
+  {
+    "text": "New iMessage features, including the ability to retract sent messages",
+    "notes": "<p><ul><li>Message retraction arrived in 2022 at WWDC.</li></ul></p>",
+    "game": "2020 Summer Rickies",
+    "type": "Regular",
+    "topics": [
+      "Ahead of Its Time",
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "ahead-by": 712,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/29:40",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/29:30"
+  },
+  {
+    "text": "No Apple Services bundle announced",
+    "notes": "",
+    "game": "2020 Summer Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Buzzkill",
+      "Services",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/44:23",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:15:51"
+  },
+  {
+    "text": "No service bundle announced",
+    "notes": "<p><ul><li>“including any service being free with another, or some sort of content being added to the iPhone upgrade program”</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn’t really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
+    "game": "2019 Fall Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Buzzkill",
+      "Live Edited",
+      "Services",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3,
+    "score": 2,
+    "overcast-graded": "https://overcast.fm/+FXx61sqT4/52:24",
+    "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:16:26"
+  },
+  {
+    "text": "One major video game developer will bring an exclusive title to Apple Arcade",
+    "notes": "",
+    "game": "2020 Summer Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Services",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/45:17",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:19:33"
+  },
+  {
+    "text": "Preview of fall Apple TV+ content",
+    "notes": "",
+    "game": "2020 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple TV+",
+      "Services",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/1:06:06",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:33:56"
+  },
+  {
+    "text": "The Music app gets an updated design in the Listen Now page",
+    "notes": "<p><ul><li>Federico <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20updates%20the%20Listen%20Now%20page%20of%20the%20Music%20app\">still isn't happy with it</a>, it seems.</li></ul></p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Passionate",
+      "Services",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:40:45",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:29:41"
+  },
+  {
+    "text": "The video streaming service does not launch until at least May 1",
+    "notes": "",
+    "game": "2019 Media Event Predictions",
+    "type": "Regular",
+    "topics": [
+      "Apple TV+",
+      "Services"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx75P5Bg/24:33",
+    "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:07:34"
+  },
+  {
+    "text": "The video streaming service will come to Roku and Fire TV products",
+    "notes": "",
+    "game": "2019 Media Event Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "Apple TV+",
+      "Services"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx75P5Bg/37:44",
+    "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:31:16"
+  },
+  {
+    "text": "There will be a new Apple news subscription service for content from select publications",
+    "notes": "",
+    "game": "2019 Annual Predictions",
+    "type": "Regular",
+    "topics": [
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7hS2kY/13:56",
+    "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/15:45"
+  }
+]

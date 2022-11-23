@@ -1,0 +1,1090 @@
+[
+  {
+    "text": "A 10.9\" bezel-less iPad Pro",
+    "notes": "",
+    "game": "2017 Annual Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iPad"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "score": 0.5,
+    "overcast-graded": "https://overcast.fm/+FXx75_MJc/10:59",
+    "overcast-picked": "https://overcast.fm/+FXx7nikbQ/46:31"
+  },
+  {
+    "text": "A new iPad Air is introduced with a better system-on-a-chip and 5G support",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/11:25",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/20:05"
+  },
+  {
+    "text": "A new iPad comes in a new color for its line",
+    "notes": "<p><ul><li>The iPad mini would eventually fit this bill, coming in lots of fun new colors, but it wasn't released until September.</li></ul></p>",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 209,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:24:22",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:23:28"
+  },
+  {
+    "text": "A new iPad mini is introduced with a refreshed design, new colours previously not a part of the product, USB-C, Smart Connector, and 5G support",
+    "notes": "<p><ul><li>Originally a Risky Pick.</li><li>This was <i>very</i> close to coming true, but it was missing a Smart Connector.</li></ul></p>",
+    "game": "2021 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Alternate Risky",
+      "Possible Vindication"
+    ],
+    "host": "Myke",
+    "pick-conditions": 6,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:00:48",
+    "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:06:54"
+  },
+  {
+    "text": "A non-Pro iPad gets a LIDAR sensor",
+    "notes": "",
+    "game": "2020 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Augmented Reality",
+      "Possible Vindication"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/48:17",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:11:17"
+  },
+  {
+    "text": "Apple brings Mail extensions to iOS and iPadOS",
+    "notes": "",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPad",
+      "Apple Apps",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:45:01"
+  },
+  {
+    "text": "Apple launches at least one iPad model with a new display technology",
+    "notes": "<p><ul><li>    He initially picked mini LED specifically. And after further discussion it was agreed that this meant a new display technology for the iPad, so for example OLED would also count.</li></ul></p>",
+    "game": "2021 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6bXcOY/27:11",
+    "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:00:33"
+  },
+  {
+    "text": "Apple releases a bigger iPad Pro",
+    "notes": "",
+    "game": "2021 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6bXcOY/52:06",
+    "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:27:08"
+  },
+  {
+    "text": "Apple shares a video touting the benefits of the time-of-flight sensor found in the 2020 iPad Pros for AR",
+    "notes": "<p><ul><li>He was talking about LIDAR, that's accepted. <a href=\"https://developer.apple.com/videos/play/wwdc2020/10612/\" target=\"_blank\">And Myke tracks down the video as well</a>.</li></ul></p>",
+    "game": "2020 Summer Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Augmented Reality",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/31:05",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/32:59"
+  },
+  {
+    "text": "Apple showcases at least one new feature coming in iOS or iPadOS 14.1",
+    "notes": "<p><ul><li>The version number wasn't stated explicitly, otherwise Fitness+ would have counted.</li></ul></p>",
+    "game": "2020 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPad",
+      "iPadOS",
+      "Live Edited",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/1:12:33",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:38:41"
+  },
+  {
+    "text": "Apple unveils a new iPad, not Pro",
+    "notes": "",
+    "game": "2020 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "No Passion"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/32:34",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/56:23"
+  },
+  {
+    "text": "Apple will bring back some kind of \"app list/launcher\" UI element on iPad",
+    "notes": "<p><ul><li>Federico cites parts of Slide Over's new multitasking interface, and when that doesn't seem to be working, says \"If you don't give me this point, I will call the police.\" It escalates to the point of typing 911 into his phone.</li><li>\"Some kind of\" is vague enough to count this, and it definitely is not because of the threat.</li></ul></p>",
+    "game": "2019 WWDC Predictions",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 2,
+    "overcast-graded": "https://overcast.fm/+FXx4xqI14/34:07",
+    "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/54:23"
+  },
+  {
+    "text": "Apple will release a new programming app for iPad",
+    "notes": "<p><ul><li>Federico asks to be quoted as \"very very positive\" that he will win on the strength of this Ricky Pick.</li>\n    <li>Not Swift Playgrounds, that is not new. As it turns out, they added this functionality to Swift Playgrounds.</li>\n    <li>This was deemed not a reuse of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20will%20release%20at%20least%201%20new%20pro%20app%20for%20iPad%20that%20we%20haven't%20previously%20seen%20on%20iPad\">a previous pick</a> since it is even riskier and more specific.</li>\n</ul></p>",
+    "game": "2021 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx6bXcOY/36:00",
+    "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:14:34"
+  },
+  {
+    "text": "Apple will release at least 1 new pro app for iPad that we haven't previously seen on iPad",
+    "notes": "<p><ul><li>\"(The app can be universal.)\"</li></ul></p>",
+    "game": "2020 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx4vzIxY/39:53",
+    "overcast-picked": "https://overcast.fm/+FXx7hS2kY/1:04:05"
+  },
+  {
+    "text": "At least one new non-Pro iPad will switch to USB-C",
+    "notes": "",
+    "game": "2020 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Live Edited",
+      "Passionate"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/34:20",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/58:05"
+  },
+  {
+    "text": "At least one of the new iPad Pros will have a Thunderbolt/USB4 port",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/52:17",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/43:43"
+  },
+  {
+    "text": "At least one of the new non-Pro iPads will have an iPad Pro inspired design",
+    "notes": "<p><ul><li>\"(the flat sides are key)\"</li></ul></p>",
+    "game": "2020 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/30:03",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/53:08"
+  },
+  {
+    "text": "Better external display support on iPad",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 361,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:16:36",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:35:41"
+  },
+  {
+    "text": "Details of a new iPad mini",
+    "notes": "<p><ul><li>Also one year too early.</li></ul></p>",
+    "game": "2020 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 364,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/1:00:14",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:30:03"
+  },
+  {
+    "text": "DriverKit comes to iPadOS to let more kinds of accessories be supported on iPad",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Developer tools",
+      "iPadOS",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:27:18",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:28:50"
+  },
+  {
+    "text": "Hypervisor comes to iPad",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:27:52",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:30:47"
+  },
+  {
+    "text": "Improved external display support for iPadOS",
+    "notes": "<p><ul><li>Finally came true in 2022 at WWDC.</li></ul></p>",
+    "game": "2020 Summer Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time",
+      "iPadOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 712,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/44:54",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:17:46"
+  },
+  {
+    "text": "In the next version of iPadOS, you can put widgets in more places (out of the left column)",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/37:17",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/37:45"
+  },
+  {
+    "text": "iOS and iPadOS 15 get native HomeKit widgets",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPad",
+      "iPadOS",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:17:12",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:36:05"
+  },
+  {
+    "text": "iPad Air preorder date announced",
+    "notes": "<p><ul><li>Orders began on <a href=\"https://www.apple.com/newsroom/2020/10/all-new-ipad-air-with-advanced-a14-bionic-chip-available-to-order-starting-today/\" target=\"_blank\">October 16th</a>, with no advanced notice. Unfortunately, the picks had already been graded by then.</li></ul></p>",
+    "game": "2020 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 4,
+    "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:15:29",
+    "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:26:17"
+  },
+  {
+    "text": "iPad multitasking is overhauled again",
+    "notes": "",
+    "game": "2021 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Alternate Risky",
+      "iPadOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6bXcOY/49:04",
+    "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:50"
+  },
+  {
+    "text": "iPadOS 15 brings organization changes to the home screen that don’t exist on the iPhone, including iOS 15",
+    "notes": "<p><ul>\n<li>\"Widgets on home screen and App Library don't count as they are on the iPhone already\"</li>\n<li>This was originally a Risky Pick, but Myke couldn't get enough clarity for what it meant.</li>\n</ul></p>",
+    "game": "2021 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Alternate Risky",
+      "iPadOS",
+      "Live Edited",
+      "Possible Vindication"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/46:28",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/48:30"
+  },
+  {
+    "text": "iPadOS gets improved split view with at least 3 apps at once",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Passionate",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:41:00",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:30:14"
+  },
+  {
+    "text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
+    "notes": "<p><ul><li>Was originally a Risky pick with the addition of a \"with keyboard and trackpad\" clause, but <a href=\"https://twitter.com/stroughtonsmith/status/1529836983874469891\" target=\"_blank\">some WebKit source code changes</a> made it much less risky. He watered it down further by removing an \"overlapping\" clause as well and not phrasing it as a \"desktop-like mode\", but then decided to just go all the way back to the original pick.</li></ul></p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Alternate Risky",
+      "Developer tools",
+      "iPadOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/45:48",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/38:47"
+  },
+  {
+    "text": "iPadOS multitasking remains fundamentally the same as the iPadOS 15 version",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Buzzkill",
+      "iPadOS",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:35:56",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:26:27"
+  },
+  {
+    "text": "iPadOS multitasking remains unchanged from iOS 15's implementation",
+    "notes": "",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Buzzkill",
+      "iPadOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:35:56"
+  },
+  {
+    "text": "More apps can use a picture-in-picture-style window on iPadOS",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Possible Vindication"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:35:38",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:26:04"
+  },
+  {
+    "text": "Multi-user on iPad support for the masses",
+    "notes": "",
+    "game": "2017 Annual Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iPad",
+      "Possible Vindication"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx75_MJc/11:47",
+    "overcast-picked": "https://overcast.fm/+FXx7nikbQ/48:46"
+  },
+  {
+    "text": "New iPad accessories: Keyboard + protection + pencil holder",
+    "notes": "",
+    "game": "2017 Annual Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Federico",
+    "pick-conditions": 4,
+    "score": 0.75,
+    "overcast-graded": "https://overcast.fm/+FXx75_MJc/12:11",
+    "overcast-picked": "https://overcast.fm/+FXx7nikbQ/49:17"
+  },
+  {
+    "text": "New iPad Pro accessory",
+    "notes": "<p><ul><li>\"Something we haven't seen before, or is redesigned significantly, e.g. Apple Pencil 1 to 2.\"</li></ul></p>",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Possible Vindication"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:24:48",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:24:53"
+  },
+  {
+    "text": "New iPads",
+    "notes": "<p><ul><li>Again, there was <a href=\"https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/\" target=\"_blank\">a separate event for the iPad</a>.</li></ul></p>",
+    "game": "2018 iPhone Event Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 48,
+    "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:27:14",
+    "overcast-picked": "https://overcast.fm/+FXx4E3x_I/51:35"
+  },
+  {
+    "text": "New non-Pro iPad gets second generation Apple Pencil",
+    "notes": "",
+    "game": "2020 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/1:00:33",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:30:47"
+  },
+  {
+    "text": "New pencil and keyboard",
+    "notes": "<p><ul><li>This also happened in <a href=\"https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/\" target=\"_blank\">the October iPad event</a>, which wasn't the subject of a game.</li></ul></p>",
+    "game": "2018 iPhone Event Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Ahead of Its Time"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "score": 0,
+    "ahead-by": 48,
+    "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:27:17",
+    "overcast-picked": "https://overcast.fm/+FXx4E3x_I/52:28"
+  },
+  {
+    "text": "No iPads, iPhone and Apple Watch only",
+    "notes": "",
+    "game": "2018 iPhone Event Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iPhone",
+      "iPad",
+      "Apple Watch",
+      "Buzzkill"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:25:29",
+    "overcast-picked": "https://overcast.fm/+FXx4E3x_I/55:57"
+  },
+  {
+    "text": "No Mac or iPad hardware in the keynote",
+    "notes": "<p><ul><li>10.2” iPad was announced</li></ul></p>",
+    "game": "2019 Fall Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Mac",
+      "Buzzkill",
+      "Live Edited",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx61sqT4/42:47",
+    "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:03:04"
+  },
+  {
+    "text": "No new iPad mini",
+    "notes": "<p><ul><li>\"(if it's killed, I'm not wrong)\"</li></ul></p>",
+    "game": "2018 Annual Predictions",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Buzzkill"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx495ZrA/05:45",
+    "overcast-picked": "https://overcast.fm/+FXx5giTnQ/43:01"
+  },
+  {
+    "text": "On iOS 13, the iPad home screen features more than just app icons",
+    "notes": "",
+    "game": "2019 Annual Predictions",
+    "type": "Regular",
+    "topics": [
+      "iOS",
+      "iPad"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7hS2kY/18:33",
+    "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/36:56"
+  },
+  {
+    "text": "Only the big iPad Pro gets the new display technology",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/59:23",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/52:41"
+  },
+  {
+    "text": "Shortcuts gets an API on iOS and iPadOS for apps to run Shortcuts directly, without URL schemes",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPad",
+      "Apple Apps",
+      "Developer tools",
+      "iPadOS",
+      "Passionate",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:37:13",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:28:43"
+  },
+  {
+    "text": "Shortcuts gets an XL widget on iPad",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Passionate",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:42:03",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:32:30"
+  },
+  {
+    "text": "Some Mac-only Shortcuts actions will become available on iPhone and iPad",
+    "notes": "",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPad",
+      "Apple Apps",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:46:35"
+  },
+  {
+    "text": "The 11\" iPad Pro gets a mini LED display",
+    "notes": "<p><ul><li>This was originally \"WWDC 2022 will be virtual\", but that was very close to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20in-person%20WWDC%202021\">last year's pick</a>, which was within the 365 day limit. It was a borderline judgement, but ultimately they decided they didn't like the precedent.</li></ul></p>",
+    "game": "2022 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:04:16"
+  },
+  {
+    "text": "The 12.9\" iPad Pro ships later than the 11\" iPad Pro",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/51:24",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/39:07"
+  },
+  {
+    "text": "The 9th generation iPad is introduced with a USB-C connector",
+    "notes": "",
+    "game": "2021 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Passionate",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:11:29",
+    "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:19:37"
+  },
+  {
+    "text": "The big iPad Pro is updated with a feature that is unique to it",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/53:56",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/48:54"
+  },
+  {
+    "text": "The camera on the iPad Pro moves to the long side",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Possible Vindication"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:26:44",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:26:16"
+  },
+  {
+    "text": "The iPad gets a new development tool to write code, on device, that is not Swift Playgrounds",
+    "notes": "",
+    "game": "2020 Summer Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Developer tools",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/37:56",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:05:30"
+  },
+  {
+    "text": "The iPad home screen gets new features",
+    "notes": "<p><ul><li>The ability to stack widgets is <em>juuuuuust</em> enough to count.</li></ul></p>",
+    "game": "2020 Summer Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "iPadOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7KvDUI/27:41",
+    "overcast-picked": "https://overcast.fm/+FXx7FoU8U/26:48"
+  },
+  {
+    "text": "The iPad home screen will continue to change with new elements and additions",
+    "notes": "<p><ul><li>The iPad went mostly unchanged in 2020, but iPadOS 15 did bring changes the next year.</li></ul></p>",
+    "game": "2020 Annual Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 158,
+    "overcast-graded": "https://overcast.fm/+FXx4vzIxY/53:13",
+    "overcast-picked": "https://overcast.fm/+FXx7hS2kY/1:23:49"
+  },
+  {
+    "text": "The iPad mini does receive the new design language",
+    "notes": "<p><ul><li>    \"Originally, Stephen said it would <em>not</em> receive it\", but the other hosts criticized him for his negativity.</li></ul></p>",
+    "game": "2021 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6bXcOY/24:46",
+    "overcast-picked": "https://overcast.fm/+FXx4vzIxY/58:35"
+  },
+  {
+    "text": "The iPad mini will be updated with a new design inspired by the iPad Pro's design",
+    "notes": "<p><ul><li>Stephen was almost exactly one year too early, as this would finally come true in 2021.</li></ul></p>",
+    "game": "2020 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time",
+      "Live Edited",
+      "Passionate"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": -1,
+    "ahead-by": 364,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/49:18",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:20:50"
+  },
+  {
+    "text": "The iPad Pro gets 5G",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/58:41",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/51:09"
+  },
+  {
+    "text": "The iPad Pro is updated to a variant of the A14 chip",
+    "notes": "<p><ul><li>If it's the M1, Apple would have to also mention that the M1 is an A14 variant to get the pick.</li></ul></p>",
+    "game": "2021 April Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/46:04",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/34:30"
+  },
+  {
+    "text": "The iPad Pro line is updated before the iPhone with a hardware feature that's not on any current iPhone in 2019 or 2020",
+    "notes": "<p><ul><li>Myke says during grading that he originally expected 5G to get him this point but LIDAR did instead, but he actually focused on LIDAR when originally explaining this pick. (During the grading, Federico delivers his impromptu review of the 2020 iPad Pro.)\n</li></ul></p>",
+    "game": "2020 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "iPad",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4vzIxY/34:13",
+    "overcast-picked": "https://overcast.fm/+FXx7hS2kY/52:15"
+  },
+  {
+    "text": "The iPad Pro, with an updated USB-4/Thunderbolt port, features a new kind of support for external displays",
+    "notes": "<p><ul><li>Ungraded: the multitasking system gets redesigned to better support external displays</li><li>The external display support finally came in 2022.</li></ul></p>",
+    "game": "2021 April Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": -1,
+    "ahead-by": 409,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:16:06",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:05:38"
+  },
+  {
+    "text": "The iPad's external display support goes unchanged",
+    "notes": "<p><ul><li>Was originally \"By December 31, 2022, no Intel Macs will remain on sale as new machines\", but this was also <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20has%20Apple%20Silicon%20versions%20of%20all%20of%20its%20Intel%20Macs%20on%20sale%20by%20the%20end%20of%202021\">too close for comfort</a>, although arguably the previous pick was more permissive than this would have been.</li></ul></p>",
+    "game": "2022 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:14:15"
+  },
+  {
+    "text": "The Magic Keyboard for iPad goes unchanged",
+    "notes": "<p><ul><li>Ungraded: what if it got a camera on the long edge? That'd be incredible.</li></ul></p>",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:23:52",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:22:13"
+  },
+  {
+    "text": "The new iPad Air supports the Magic Keyboard",
+    "notes": "",
+    "game": "2020 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Passionate"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/1:07:12",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:35:56"
+  },
+  {
+    "text": "The new iPad Pro comes with a fancy new GaN charger",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:34:05",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:33:39"
+  },
+  {
+    "text": "The Weather app comes to iPad",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time",
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 361,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:16:00",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:32:43"
+  },
+  {
+    "text": "There is no additional external display support for iPadOS",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Buzzkill",
+      "iPadOS",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:35:51",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:26:20"
+  },
+  {
+    "text": "Two new iPad Pros",
+    "notes": "<p><ul><li>\"Maybe more of a hope\"</li><li>As it turns out, there would later be <a href=\"https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/\" target=\"_blank\">a separate event for the iPad</a>.</li></ul></p>",
+    "game": "2018 iPhone Event Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 48,
+    "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:24:13",
+    "overcast-picked": "https://overcast.fm/+FXx4E3x_I/40:44"
+  },
+  {
+    "text": "Universal Control is demoed again",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Mac",
+      "macOS",
+      "iPadOS",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/50:45",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:14:19"
+  }
+]

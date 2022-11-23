@@ -1,0 +1,464 @@
+{
+  "name": "2021 September Rickies",
+  "game-type": "Keynote",
+  "date-graded": "2021-09-16",
+  "date-picked": "2021-09-08",
+  "main-game": {
+    "picks": [
+      {
+        "text": "At least one iPhone gets a 120 hz refresh rate display",
+        "notes": "<p><ul><li>This was nearly a reuse of a <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#At%20least%20one%20of%20the%202020%20iPhones%20will%20have%20a%20higher%20refresh%20rate%20display%20(Pro%20Motion)\">previous pick</a> before the live chat caught it. The fix was to specify an exact refresh rate to make it more specific.</li></ul></p>",
+        "game": "2021 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone",
+          "Live Edited"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/17:25",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/23:19"
+      },
+      {
+        "text": "There will be a setting to disable the higher refresh rate in at least one of the new iPhones",
+        "notes": "<p><ul><li>Was originally just a pick about a new, as-yet-unannounced iOS 15 feature, but the hosts suspected that was another reuse.</li><li>In retrospect, this was a tricky pick to grade because how would we <em>know</em> the day after the event? Federico provides some insider information indicating that the setting does exist, but can it be said to have \"come true\", as the rule states, without proof? The meaning of truth itself is debated, perhaps a philosophical high point for the Rickies. The point is ultimately granted, with the understanding that in the future, the rules will be amended to clarify that picks must be publicly verifiable to earn points.</li></ul></p>",
+        "game": "2021 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone",
+          "Live Edited"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/18:07",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/28:02"
+      },
+      {
+        "text": "The Pro iPhone gets a new camera feature the regular iPhone doesn't get",
+        "notes": "",
+        "game": "2021 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone",
+          "Buzzkill",
+          "Live Edited"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/26:43",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/33:26"
+      },
+      {
+        "text": "The new Apple Silicon MacBook Pro will not be announced at this event",
+        "notes": "<p><ul><li>This was originally going to be \"<a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20Macs\">No Macs</a>\", but at this point everyone was on the lookout for reused picks and <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20Mac%20or%20iPad%20hardware%20in%20the%20keynote\">this</a> one <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20new%20Mac%20notebooks%20are%20announced\">has</a> come <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Nothing%20about%20the%20Mac\">up a</a> few <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Mac%20is%20not%20mentioned\">times</a>.</li></ul></p>",
+        "game": "2021 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "Buzzkill",
+          "Live Edited"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/34:29",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/37:29"
+      },
+      {
+        "text": "The new iPhones keep the same screen sizes as last year",
+        "notes": "",
+        "game": "2021 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Federico",
+        "pick-conditions": 4,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/37:09",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/38:49"
+      },
+      {
+        "text": "The Apple Watch SE gets a price cut",
+        "notes": "",
+        "game": "2021 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "Apple Watch",
+          "Passionate",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/42:32",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/40:31"
+      },
+      {
+        "text": "An iPhone gets an always-on display with a UI element that is reminiscent of Apple Watch complications",
+        "notes": "",
+        "game": "2021 September Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPhone",
+          "iOS",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/48:41",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/46:48"
+      },
+      {
+        "text": "An iPhone gets an updated Face ID sensor that supports partially occluded faces",
+        "notes": "<p><ul><li>Cannot be a feature that comes to existing iPhones</li><li>This feature did come in 2022, but didn't require new hardware.</li></ul></p>",
+        "game": "2021 September Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPhone",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/50:33",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/51:13"
+      },
+      {
+        "text": "MagSafe is updated to support 20 watt charging or higher, but a new puck is required",
+        "notes": "<p><ul><li>This was originally just \"faster charging\", but the live chat pointed out <a href=\"https://9to5mac.com/2021/09/06/apple-fcc-filings-reveal-revised-magsafe-charger-ahead-of-iphone-13-event/\" target=\"_blank\">a recent FCC filing by Apple</a> which undercut the riskiness of the pick. Stephen added a specific wattage target and also had to decide whether the existing MagSafe puck will support the higher wattage.</li></ul></p>",
+        "game": "2021 September Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPhone",
+          "Accessories",
+          "Live Edited",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 3,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/52:27",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/58:05"
+      }
+    ],
+    "coin-flips": [
+      {
+        "game": "2021 September Rickies",
+        "called": "Tails",
+        "caller": "Federico",
+        "flip-method": "Dice by PCalc",
+        "game-phase": "Rickies",
+        "loser": "Federico",
+        "overcast-link": "https://overcast.fm/+FXx6z4vdc/53:54",
+        "prize": 1,
+        "result": "Heads",
+        "winner": "Myke"
+      }
+    ],
+    "scores": [
+      {
+        "host": "Myke",
+        "score": 1
+      },
+      {
+        "host": "Federico",
+        "score": 1
+      },
+      {
+        "host": "Stephen",
+        "score": 0
+      }
+    ],
+    "winner": "Myke"
+  },
+  "the-flexies": {
+    "picks": [
+      {
+        "text": "A new iPad mini is introduced with a refreshed design, new colours previously not a part of the product, USB-C, Smart Connector, and 5G support",
+        "notes": "<p><ul><li>Originally a Risky Pick.</li><li>This was <i>very</i> close to coming true, but it was missing a Smart Connector.</li></ul></p>",
+        "game": "2021 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Alternate Risky",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 6,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:00:48",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:06:54"
+      },
+      {
+        "text": "There is a ceramic Apple Watch",
+        "notes": "",
+        "game": "2021 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Watch",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:03:04",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:08:32"
+      },
+      {
+        "text": "The new iPhone colour will be a new version of a colour they've already used",
+        "notes": "<p><ul><li>e.g. a new shade of blue, green, gold, black, etc.</li></ul></p>",
+        "game": "2021 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:06:07",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:08:55"
+      },
+      {
+        "text": "New Apple Watch is not a part of the presentation",
+        "notes": "",
+        "game": "2021 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Watch",
+          "Buzzkill",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:08:13",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:11:07"
+      },
+      {
+        "text": "Release date for iOS 15 is announced and it's later than 24 hours away",
+        "notes": "",
+        "game": "2021 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:08:36",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:11:24"
+      },
+      {
+        "text": "The iPhone Pro comes in 5 colors/finishes, not the traditional 4",
+        "notes": "<p><ul><li>This unexpectedly came true in spring 2022, when Apple added a new green color to the Pro line.</li></ul></p>",
+        "game": "2021 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Ahead of Its Time"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 176,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:09:49",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:13:59"
+      },
+      {
+        "text": "The Apple Watch moves to 5G networking",
+        "notes": "",
+        "game": "2021 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Watch",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:10:00",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:14:43"
+      },
+      {
+        "text": "A new AirPods product is announced",
+        "notes": "<p><ul><li>This pick was one event early, as the third generation of AirPods came in October.</li></ul></p>",
+        "game": "2021 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "Ahead of Its Time",
+          "AirPods"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 34,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:10:10",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:15:31"
+      },
+      {
+        "text": "Apple TV+ content is featured in the keynote",
+        "notes": "",
+        "game": "2021 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple TV+",
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:10:13",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:16:54"
+      },
+      {
+        "text": "No specific preorder date is set for the Apple Watch",
+        "notes": "",
+        "game": "2021 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Watch"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:10:39",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:17:41"
+      },
+      {
+        "text": "iOS 15 releases the following week to the public",
+        "notes": "<p><ul><li>In other words, the week of Monday September 20th.</li></ul></p>",
+        "game": "2021 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "Passionate"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:11:25",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:19:11"
+      },
+      {
+        "text": "The 9th generation iPad is introduced with a USB-C connector",
+        "notes": "",
+        "game": "2021 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Passionate",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:11:29",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:19:37"
+      },
+      {
+        "text": "No date is provided for macOS Monterey",
+        "notes": "",
+        "game": "2021 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Buzzkill",
+          "Passionate"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:12:41",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:20:13"
+      },
+      {
+        "text": "New AirPods announced with a MagSafe compatible case",
+        "notes": "",
+        "game": "2021 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "Ahead of Its Time",
+          "AirPods",
+          "Passionate"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 0,
+        "ahead-by": 34,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:13:01",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:20:34"
+      },
+      {
+        "text": "Apple will announce at least 1 new feature that will be coming later in the iOS 15 cycle",
+        "notes": "<p><ul><li>ProRes video recording on the iPhone 13 Pro models will be coming \"later this fall\".</li></ul></p>",
+        "game": "2021 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "Passionate"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:13:09",
+        "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:21:12"
+      }
+    ],
+    "coin-flips": [
+      {
+        "game": "2021 September Rickies",
+        "called": "Tails",
+        "caller": "Stephen",
+        "flip-method": "Dice by PCalc",
+        "game-phase": "Flexies",
+        "loser": "Myke",
+        "overcast-link": "https://overcast.fm/+FXx6z4vdc/1:14:10",
+        "prize": 2,
+        "result": "Tails",
+        "winner": "Stephen"
+      }
+    ],
+    "scores": [
+      {
+        "host": "Federico",
+        "correct": 3,
+        "total": 5
+      },
+      {
+        "host": "Stephen",
+        "correct": 2,
+        "total": 5
+      },
+      {
+        "host": "Myke",
+        "correct": 2,
+        "total": 5
+      }
+    ],
+    "charity-name": "St. Jude",
+    "charity-url": "https://tiltify.com/@relay-fm/relay-st-jude-21",
+    "donation": 75,
+    "donator": "Myke",
+    "winner": "Federico"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #362: The Rickies (September 2021)",
+      "url": "https://relay.fm/connected/362",
+      "episode-number": 362
+    },
+    {
+      "title": "Connected #363: FaceIDSensorThatSupportsPartiallyOccludedFaces",
+      "url": "https://relay.fm/connected/363",
+      "episode-number": 363
+    }
+  ]
+}

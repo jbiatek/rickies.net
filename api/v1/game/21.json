@@ -1,0 +1,467 @@
+{
+  "name": "2022 March Rickies",
+  "game-type": "Keynote",
+  "date-graded": "2022-03-09",
+  "date-picked": "2022-03-02",
+  "main-game": {
+    "picks": [
+      {
+        "text": "A new iPad Air is introduced with a better system-on-a-chip and 5G support",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPad"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/11:25",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/20:05"
+      },
+      {
+        "text": "Apple introduces a new Mac mini with an updated design",
+        "notes": "<p><ul><li>Myke insists, and Federico seems to agree, that even a change in the ports on the back is \"an updated design\". Stephen seems less convinced, but that's a matter for grading. It's agreed that it has to be the Mac itself and not, say, an accessory or power cord.</li></ul></p>",
+        "game": "2022 March Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/18:35",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/23:00"
+      },
+      {
+        "text": "Larger, more powerful iMac is introduced",
+        "notes": "<p><ul><li>Not only was this wrong, the larger iMac disappeared entirely from the Mac lineup.</li></ul></p>",
+        "game": "2022 March Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/20:12",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/27:33"
+      },
+      {
+        "text": "New iPhone case colors and/or watch band colors are introduced at or after the event",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone",
+          "Accessories",
+          "Apple Watch"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/23:36",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/31:20"
+      },
+      {
+        "text": "Apple's classical music service is unveiled",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Regular",
+        "topics": [
+          "Services",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/27:20",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/34:26"
+      },
+      {
+        "text": "A new iPhone SE with 5G support is announced",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/28:06",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/39:40"
+      },
+      {
+        "text": "A new base model Mac mini is introduced with the M2 chip...",
+        "notes": "<p><ul><li>\"... The new Mini is at least 30% smaller than the current one. It's thicker, but narrower, making it more similar to an Apple TV or Intel NUC.\"</li><li>In other words, closer to a cubic shape, but not necessarily a cube. Although Federico loves cubes, so that would be great.</li></ul></p>",
+        "game": "2022 March Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Mac",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 4,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/34:06",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/43:57"
+      },
+      {
+        "text": "The new iPhone SE has a design influenced by the iPhone mini, it does not feature Face ID, it has a Touch ID power button",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPhone",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 3,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/42:39",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/51:54"
+      },
+      {
+        "text": "Apple announces an update to AirPods Max, that support wireless lossless playback, to take full advantage of Apple's new classical music service",
+        "notes": "<p><ul><li>Working with Apple Classical is part of the pick, meaning that if Classical is not introduced it will be incorrect.</li><li>This was edited to be any AirPods, but then Stephen went back to the more passionate original pick.</li><li>Not a reuse of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20unveils%20a%20new%20high-end%20audio%20product\">the infamous DAC pick</a>, but in a similar vein.</li></ul></p>",
+        "game": "2022 March Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Accessories",
+          "AirPods",
+          "Services",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 3,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/43:14",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/58:37"
+      }
+    ],
+    "coin-flips": [],
+    "scores": [
+      {
+        "host": "Federico",
+        "score": 1
+      },
+      {
+        "host": "Stephen",
+        "score": 0
+      },
+      {
+        "host": "Myke",
+        "score": -1
+      }
+    ],
+    "winner": "Federico"
+  },
+  "the-flexies": {
+    "picks": [
+      {
+        "text": "Tim Cook mentions the war in Ukraine",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/49:44",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:09:53"
+      },
+      {
+        "text": "No iMac Pro or bigger iMac",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Buzzkill"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/49:48",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:10:13"
+      },
+      {
+        "text": "John Ternus is wearing a black T-shirt",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/49:54",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:10:35"
+      },
+      {
+        "text": "Apple unveils the first Mac powered by an M2 chip",
+        "notes": "<p><ul><li>Apple waited until WWDC to announce the M2 MacBook Air.</li></ul></p>",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Ahead of Its Time"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 89,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/49:59",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:10:53"
+      },
+      {
+        "text": "No Mac gets 5G",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Buzzkill"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/50:03",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:13:17"
+      },
+      {
+        "text": "No preview of an AR headset",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Augmented Reality",
+          "Buzzkill",
+          "Stagecraft"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/50:28",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:13:34"
+      },
+      {
+        "text": "macOS 12.3 does not come out within 48 hours of the event",
+        "notes": "<p><ul><li>This will have to be judged by announced release, since episode recording is a day after the event.</li></ul></p>",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "macOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/50:36",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:13:44"
+      },
+      {
+        "text": "Universal Control is demoed again",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Mac",
+          "macOS",
+          "iPadOS",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/50:45",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:14:19"
+      },
+      {
+        "text": "The new Mac mini comes in more colors than silver and grey",
+        "notes": "<p><ul><li>Was originally \"in multiple colors\".</li></ul></p>",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Live Edited",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/50:49",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:14:43"
+      },
+      {
+        "text": "Apple releases new AirPods colors",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "AirPods",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/50:57",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:15:24"
+      },
+      {
+        "text": "Craig is wearing a blue shirt",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/51:16",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:16:09"
+      },
+      {
+        "text": "A new color of iPhone 13 (family) is announced",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Live Edited"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/51:41",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:16:39"
+      },
+      {
+        "text": "The Intel Mac mini is removed from sale",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Buzzkill",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/52:19",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:16:57"
+      },
+      {
+        "text": "We do not see Joz during this event",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/52:24",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:17:13"
+      },
+      {
+        "text": "A revised 13\" MBP drops the Touch Bar but does not add MagSafe",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 3,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/52:28",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:17:37"
+      },
+      {
+        "text": "iOS 15.4 and/or macOS 12.3 get a release date",
+        "notes": "<p><ul><li>They did get a <em>window</em> but not an actual date.</li></ul></p>",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "Mac",
+          "macOS",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/52:55",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:18:02"
+      },
+      {
+        "text": "No preview of an Apple Silicon Mac Pro",
+        "notes": "",
+        "game": "2022 March Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Buzzkill",
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx4aVfvI/54:23",
+        "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:18:10"
+      }
+    ],
+    "coin-flips": [],
+    "scores": [
+      {
+        "host": "Stephen",
+        "correct": 3,
+        "total": 6
+      },
+      {
+        "host": "Myke",
+        "correct": 2,
+        "total": 5
+      },
+      {
+        "host": "Federico",
+        "correct": 2,
+        "total": 6
+      }
+    ],
+    "charity-name": "UNICEF",
+    "charity-url": "https://www.unicef.org",
+    "donation": 100,
+    "donator": "Federico",
+    "winner": "Stephen"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #387: The Rickies (March 2022)",
+      "url": "https://relay.fm/connected/387",
+      "episode-number": 387
+    },
+    {
+      "title": "Connected #388: I'm a Creative Fountain",
+      "url": "https://relay.fm/connected/388",
+      "episode-number": 388
+    }
+  ]
+}

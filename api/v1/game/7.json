@@ -1,0 +1,510 @@
+{
+  "name": "2021 April Rickies",
+  "game-type": "Keynote",
+  "date-graded": "2021-04-23",
+  "date-picked": "2021-04-14",
+  "main-game": {
+    "picks": [
+      {
+        "text": "The iPad Pro is updated to a variant of the A14 chip",
+        "notes": "<p><ul><li>If it's the M1, Apple would have to also mention that the M1 is an A14 variant to get the pick.</li></ul></p>",
+        "game": "2021 April Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPad",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/46:04",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/34:30"
+      },
+      {
+        "text": "The 12.9\" iPad Pro ships later than the 11\" iPad Pro",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPad",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/51:24",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/39:07"
+      },
+      {
+        "text": "At least one of the new iPad Pros will have a Thunderbolt/USB4 port",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPad"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/52:17",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/43:43"
+      },
+      {
+        "text": "The big iPad Pro is updated with a feature that is unique to it",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPad",
+          "iPadOS",
+          "Live Edited"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/53:56",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/48:54"
+      },
+      {
+        "text": "The iPad Pro gets 5G",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPad"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/58:41",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/51:09"
+      },
+      {
+        "text": "Only the big iPad Pro gets the new display technology",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPad",
+          "Live Edited"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/59:23",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/52:41"
+      },
+      {
+        "text": "At this event, we see some sort of AR-focused hardware",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Augmented Reality",
+          "Stagecraft",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:05:31",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/59:00"
+      },
+      {
+        "text": "2 sizes of iMac announced",
+        "notes": "<p><ul><li>An iMac even being announced was fairly risky. However, it came in just one size.</li></ul></p>",
+        "game": "2021 April Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Mac",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:06:40",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:01:44"
+      },
+      {
+        "text": "The iPad Pro, with an updated USB-4/Thunderbolt port, features a new kind of support for external displays",
+        "notes": "<p><ul><li>Ungraded: the multitasking system gets redesigned to better support external displays</li><li>The external display support finally came in 2022.</li></ul></p>",
+        "game": "2021 April Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPad",
+          "Ahead of Its Time",
+          "iPadOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": -1,
+        "ahead-by": 409,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:16:06",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:05:38"
+      }
+    ],
+    "coin-flips": [
+      {
+        "game": "2021 April Rickies",
+        "called": "Heads",
+        "caller": "Stephen",
+        "flip-method": "Italian Alexa",
+        "game-phase": "Rickies",
+        "loser": "Stephen",
+        "overcast-link": "https://overcast.fm/+FXx6J60tU/1:19:25",
+        "prize": 2,
+        "result": "Tails",
+        "winner": "Myke"
+      }
+    ],
+    "scores": [
+      {
+        "host": "Federico",
+        "score": 1
+      },
+      {
+        "host": "Myke",
+        "score": 0
+      },
+      {
+        "host": "Stephen",
+        "score": 0
+      }
+    ],
+    "winner": "Federico"
+  },
+  "the-flexies": {
+    "picks": [
+      {
+        "text": "The iPod Touch is taken down from sale in the wake of the event",
+        "notes": "<p><ul><li><a href=\"https://www.apple.com/newsroom/2022/05/the-music-lives-on/\" target=\"_blank\">Finally came true in 2022</a>.</li></ul></p>",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Ahead of Its Time",
+          "Buzzkill",
+          "iPod Touch"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 382,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:23:33",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:21:29"
+      },
+      {
+        "text": "We see Joz introduce something",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:23:43",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:21:57"
+      },
+      {
+        "text": "The Magic Keyboard for iPad goes unchanged",
+        "notes": "<p><ul><li>Ungraded: what if it got a camera on the long edge? That'd be incredible.</li></ul></p>",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Accessories",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:23:52",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:22:13"
+      },
+      {
+        "text": "No mention of AirTags",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "Buzzkill",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:24:13",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:22:47"
+      },
+      {
+        "text": "A new iPad comes in a new color for its line",
+        "notes": "<p><ul><li>The iPad mini would eventually fit this bill, coming in lots of fun new colors, but it wasn't released until September.</li></ul></p>",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Ahead of Its Time"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 209,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:24:22",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:23:28"
+      },
+      {
+        "text": "Apple announces something with podcasts",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Services"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:24:29",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:23:55"
+      },
+      {
+        "text": "Apple talks about App Tracking Transparency in iOS 14.5",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:24:40",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:24:25"
+      },
+      {
+        "text": "New iPad Pro accessory",
+        "notes": "<p><ul><li>\"Something we haven't seen before, or is redesigned significantly, e.g. Apple Pencil 1 to 2.\"</li></ul></p>",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Accessories",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:24:48",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:24:53"
+      },
+      {
+        "text": "iOS 14.5 will drop within 24 hours of the event",
+        "notes": "<p><ul><li>It was a week later.</li></ul></p>",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "Ahead of Its Time"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "ahead-by": 7,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:26:14",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:25:40"
+      },
+      {
+        "text": "AirTags unveiled",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:26:18",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:25:59"
+      },
+      {
+        "text": "You can buy AirTags in a 3-pack",
+        "notes": "<p><ul><li>It was a 4 pack instead.</li></ul></p>",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:26:20",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:26:10"
+      },
+      {
+        "text": "The camera on the iPad Pro moves to the long side",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:26:44",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:26:16"
+      },
+      {
+        "text": "New case colors for the iPhone",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Accessories"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:27:09",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:28:16"
+      },
+      {
+        "text": "DriverKit comes to iPadOS to let more kinds of accessories be supported on iPad",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Accessories",
+          "Developer tools",
+          "iPadOS",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:27:18",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:28:50"
+      },
+      {
+        "text": "Shortcuts gets new actions or triggers for USB connections",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "Apple Apps",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:27:40",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:30:08"
+      },
+      {
+        "text": "Hypervisor comes to iPad",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "iPadOS",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:27:52",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:30:47"
+      },
+      {
+        "text": "Apple updates the standard Bluetooth Magic Keyboard",
+        "notes": "<p><ul><li>Jason Snell had to be called in to adjudicate this one. Stephen contended that it was just the <em>iMac’s</em> keyboard that was updated, not the “standard” one. To be fair, when describing this pick, Federico seemed to be using \"standard\" to differentiate from the \"extended\" keyboard with number pad, but of course it's what's written that matters.</li></ul></p>",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:28:16",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:32:10"
+      },
+      {
+        "text": "The new iPad Pro comes with a fancy new GaN charger",
+        "notes": "",
+        "game": "2021 April Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Accessories",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:34:05",
+        "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:33:39"
+      }
+    ],
+    "coin-flips": [
+      {
+        "game": "2021 April Rickies",
+        "called": "Heads",
+        "caller": "Myke",
+        "flip-method": "Italian Alexa",
+        "game-phase": "Flexies",
+        "loser": "Stephen",
+        "overcast-link": "https://overcast.fm/+FXx6J60tU/1:34:41",
+        "prize": 2,
+        "result": "Heads",
+        "winner": "Myke"
+      }
+    ],
+    "scores": [
+      {
+        "host": "Federico",
+        "correct": 2,
+        "total": 6
+      },
+      {
+        "host": "Myke",
+        "correct": 1,
+        "total": 6
+      },
+      {
+        "host": "Stephen",
+        "correct": 1,
+        "total": 6
+      }
+    ],
+    "charity-name": "American Red Cross",
+    "charity-url": "https://www.redcross.org/",
+    "donation": 125,
+    "donator": "Stephen",
+    "winner": "Federico"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #341: The Rickies (April 2021)",
+      "url": "https://relay.fm/connected/341",
+      "episode-number": 341
+    },
+    {
+      "title": "Connected #342: MH AH 👻 😬",
+      "url": "https://relay.fm/connected/342",
+      "episode-number": 342
+    }
+  ]
+}

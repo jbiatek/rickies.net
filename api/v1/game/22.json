@@ -1,0 +1,587 @@
+{
+  "name": "2022 WWDC Rickies",
+  "game-type": "Keynote",
+  "date-graded": "2022-06-07",
+  "date-picked": "2022-05-26",
+  "main-game": {
+    "picks": [
+      {
+        "text": "The next version of iOS brings changes to notifications",
+        "notes": "<p><ul><li>Ungraded: a new design, better management</li></ul></p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/28:30",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/15:28"
+      },
+      {
+        "text": "Third party widgets gain interactivity",
+        "notes": "<p><ul><li>Edited to clarify \"third party\" as a few Apple widgets are already interactive.</li></ul></p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "iOS",
+          "Developer tools",
+          "Live Edited",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/38:50",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/20:52"
+      },
+      {
+        "text": "No Apple-made headset is seen",
+        "notes": "<p><ul><li>Was originally \"AR/VR/MR hardware\" and \"introduced\", but the others wanted some clarifications.</li></ul></p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "Augmented Reality",
+          "Buzzkill",
+          "Live Edited"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/40:54",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/27:02"
+      },
+      {
+        "text": "The next version of macOS will have at least one feature exclusive to Apple Silicon Macs",
+        "notes": "<p><ul><li>There are <a href=\"https://www.apple.com/macos/macos-ventura-preview/features/\" target=\"_blank\">a few examples</a>: live captions in FaceTime, using an iPad Pro as a color reference display, and dictating emoji.</li></ul></p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "macOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/43:39",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/34:36"
+      },
+      {
+        "text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
+        "notes": "<p><ul><li>Was originally a Risky pick with the addition of a \"with keyboard and trackpad\" clause, but <a href=\"https://twitter.com/stroughtonsmith/status/1529836983874469891\" target=\"_blank\">some WebKit source code changes</a> made it much less risky. He watered it down further by removing an \"overlapping\" clause as well and not phrasing it as a \"desktop-like mode\", but then decided to just go all the way back to the original pick.</li></ul></p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPad",
+          "Alternate Risky",
+          "Developer tools",
+          "iPadOS"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/45:48",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/38:47"
+      },
+      {
+        "text": "New features for Tapback in Messages",
+        "notes": "<p><ul><li>Ungraded: more options than just the 5 built in, maybe even arbitrary emoji, better notification controls</li><li>It wasn't mentioned in the keynote, but yes, <a href=\"https://9to5mac.com/2022/06/07/ios-16-tapbacks-will-no-longer-spam-your-sms-group-chats/\" target=\"_blank\">Tapback finally works properly for SMS</a>.</li></ul></p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "Apple Apps"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:00:46",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/48:34"
+      },
+      {
+        "text": "iOS gets split-view support for multitasking to use 2 apps at once",
+        "notes": "<p><ul><li>Ungraded: works in both portrait and landscape, drag and drop between apps.</li><li>That's <em>iOS</em>, as in on the iPhone.</li></ul></p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iOS",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:05:45",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/54:58"
+      },
+      {
+        "text": "The new version of macOS brings back Dashboard as a way to place widgets outside of the current Notification Center",
+        "notes": "<p><ul><li>It has to be called \"Dashboard\" to get the points.</li></ul></p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:07:31",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:03:14"
+      },
+      {
+        "text": "Apple gives a sneak peak of the new Mac Pro...",
+        "notes": "<p><ul>\n<li>\"...It features a case design inspired by the 2019 Mac Pro. It features more ports than any other Apple Silicon Mac available today. It does not have support for third-party GPUs. It features a chip name that has not appeared in any other product. It has a starting price of at least $6,999. It is coming later this year.\"</li>\n<li>Originally it said \"same case design\", but the change was accepted on air after Myke reconsidered. \"Later this year\" was also demoted from being an exact quote.</li>\n<li>This Mac Pro will have to beat the Mac Studio in terms of ports: 2 USB-C, 2 USB-A, 4 Thunderbolt, SD card, Ethernet, HDMI, and headphone jack, for a total of 12.</li>\n<li>This pick is similar in spirit to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20new%20Mac%20Pro%20will%20be...\">Myke's ongoing Annual pick</a>, but with different conditions. At the time it was the <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Success%20By%20Pick%20Complexity\">most complex graded pick</a> ever made.</li>\n</ul>\n</p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Mac",
+          "Live Edited",
+          "Stagecraft",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 7,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:09:41",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:07:46"
+      }
+    ],
+    "coin-flips": [
+      {
+        "game": "2022 WWDC Rickies",
+        "called": "Heads",
+        "caller": "Federico",
+        "flip-method": "Dice by PCalc",
+        "game-phase": "Rickies",
+        "loser": "Myke",
+        "overcast-link": "https://overcast.fm/+FXx5r8V-w/1:11:07",
+        "prize": 1,
+        "result": "Heads",
+        "winner": "Federico"
+      }
+    ],
+    "scores": [
+      {
+        "host": "Federico",
+        "score": 1
+      },
+      {
+        "host": "Myke",
+        "score": 1
+      },
+      {
+        "host": "Stephen",
+        "score": 0
+      }
+    ],
+    "winner": "Federico"
+  },
+  "the-flexies": {
+    "picks": [
+      {
+        "text": "A presenter references the fact that some developers are at Apple Park for the keynote",
+        "notes": "<p><ul><li>This is litigated a bit later when <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Tim%20presents%20some%20portion%20of%20the%20keynote%20in%20front%20of%20a%20live%20audience\">Myke's very similar pick got graded</a>, as Tim Cook did address the audience before the video played. He was decided to not be \"a presenter\" at the time, ultimately.</li></ul></p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:26:22",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:21:31"
+      },
+      {
+        "text": "AR-specific features are added to Swift or SwiftUI",
+        "notes": "<p><ul><li>Nothing in the keynote, but <a href=\"https://developer.apple.com/augmented-reality/roomplan/\" target=\"_blank\">ARKit 6 is adding RoomPlan</a>, a new Swift API for scanning a room with a camera and LiDAR scanner.</li></ul></p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Augmented Reality",
+          "Developer tools",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:26:44",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:21:49"
+      },
+      {
+        "text": "At least one iOS system app is redesigned to bring its controls to the bottom of the screen",
+        "notes": "<p><ul><li>Initially, the other two rejected Stephen's argument that the lock screen counted for this. However, <a href=\"https://overcast.fm/+FXx5r8V-w/1:31:57\" target=\"_blank\">later on while grading</a> <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Tim%20presents%20some%20portion%20of%20the%20keynote%20in%20front%20of%20a%20live%20audience\">another controversial pick</a>, <a href=\"https://twitter.com/stroughtonsmith/status/1534247915337678850\" target=\"_blank\">Steve Troughton-Smith came to Stephen's aid live</a> and helped bolster the case that the lock screen is in fact an app.</li></ul></p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "Apple Apps"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:27:22",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:21:57"
+      },
+      {
+        "text": "Apple's classical music service is announced",
+        "notes": "",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Services",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:28:41",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:22:12"
+      },
+      {
+        "text": "macOS 13 is called \"Mammoth\"",
+        "notes": "",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:28:45",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:22:28"
+      },
+      {
+        "text": "Apple announces the first M2 Mac",
+        "notes": "",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:28:48",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:22:51"
+      },
+      {
+        "text": "Tim presents some portion of the keynote in front of a live audience",
+        "notes": "<p><ul><li>This is very very similar to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20presenter%20references%20the%20fact%20that%20some%20developers%20are%20at%20Apple%20Park%20for%20the%20keynote\">Stephen's Flexie</a> and both ultimately got graded at this point, as well as Stephen's <em>other</em> <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#At%20least%20one%20iOS%20system%20app%20is%20redesigned%20to%20bring%20its%20controls%20to%20the%20bottom%20of%20the%20screen\">controversial pick</a>.</li></ul></p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:31:36",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:23:12"
+      },
+      {
+        "text": "Widgets on tvOS",
+        "notes": "<p><ul><li>As discussed by Myke <a href=\"https://appstories.net/posts/our-watchos-and-tvos-wishes\" target=\"_blank\">on the AppStories podcast</a>.</li></ul></p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple TV",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:35:32",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:25:47"
+      },
+      {
+        "text": "More apps can use a picture-in-picture-style window on iPadOS",
+        "notes": "",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "iPadOS",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:35:38",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:26:04"
+      },
+      {
+        "text": "Redesign of the Home app... again",
+        "notes": "<p><ul><li>A <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Home%20app%20gets%20redesigned\">pick from last year</a> gets (legally) reused.</li></ul></p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Apps"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:35:44",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:26:14"
+      },
+      {
+        "text": "There is no additional external display support for iPadOS",
+        "notes": "",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Buzzkill",
+          "iPadOS",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:35:51",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:26:20"
+      },
+      {
+        "text": "iPadOS multitasking remains fundamentally the same as the iPadOS 15 version",
+        "notes": "",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Buzzkill",
+          "iPadOS",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:35:56",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:26:27"
+      },
+      {
+        "text": "Big improvements to SwiftUI",
+        "notes": "",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Developer tools"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:36:31",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:27:00"
+      },
+      {
+        "text": "Shortcuts gets an API on iOS and iPadOS for apps to run Shortcuts directly, without URL schemes",
+        "notes": "",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "iPad",
+          "Apple Apps",
+          "Developer tools",
+          "iPadOS",
+          "Passionate",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:37:13",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:28:43"
+      },
+      {
+        "text": "Shortcuts for Mac gets personal automations",
+        "notes": "",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Apple Apps",
+          "Passionate",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:39:16",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:28:58"
+      },
+      {
+        "text": "You will be able to set light and dark mode on a per-website basis in Safari",
+        "notes": "",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Apps",
+          "Passionate",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:39:39",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:29:05"
+      },
+      {
+        "text": "Apple brings Quick Note's floating window to iOS",
+        "notes": "",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "Apple Apps",
+          "Passionate"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:39:49",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:29:23"
+      },
+      {
+        "text": "The Music app gets an updated design in the Listen Now page",
+        "notes": "<p><ul><li>Federico <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20updates%20the%20Listen%20Now%20page%20of%20the%20Music%20app\">still isn't happy with it</a>, it seems.</li></ul></p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Apps",
+          "Passionate",
+          "Services",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:40:45",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:29:41"
+      },
+      {
+        "text": "iPadOS gets improved split view with at least 3 apps at once",
+        "notes": "",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "iPadOS",
+          "Passionate",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:41:00",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:30:14"
+      },
+      {
+        "text": "Apple releases a Safari API to deal with cookie consent forms",
+        "notes": "",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Apps",
+          "Developer tools",
+          "Passionate",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:41:20",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:30:43"
+      },
+      {
+        "text": "You can delete Messages in the Messages app, like in WhatsApp",
+        "notes": "<p><ul><li>That is, the ability to <em>revoke</em> a sent message so that the recipient can no longer read it.</li></ul></p>",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Apps",
+          "Passionate"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:41:30",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:31:25"
+      },
+      {
+        "text": "Apple introduces a proper Reminders API for developers",
+        "notes": "",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Apps",
+          "Developer tools",
+          "Passionate",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:41:45",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:31:53"
+      },
+      {
+        "text": "Shortcuts gets an XL widget on iPad",
+        "notes": "",
+        "game": "2022 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Apple Apps",
+          "Passionate",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:42:03",
+        "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:32:30"
+      }
+    ],
+    "coin-flips": [],
+    "scores": [
+      {
+        "host": "Stephen",
+        "correct": 3,
+        "total": 6
+      },
+      {
+        "host": "Myke",
+        "correct": 2,
+        "total": 7
+      },
+      {
+        "host": "Federico",
+        "correct": 2,
+        "total": 10
+      }
+    ],
+    "charity-name": "Moms Demand Action",
+    "charity-url": "https://momsdemandaction.org/",
+    "donation": 200,
+    "donator": "Federico",
+    "winner": "Stephen"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #400: The Rickies (WWDC 2022)",
+      "url": "https://relay.fm/connected/400",
+      "episode-number": 400
+    },
+    {
+      "title": "Connected #401: Mouth Bells",
+      "url": "https://relay.fm/connected/401",
+      "episode-number": 401
+    }
+  ]
+}

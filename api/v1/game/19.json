@@ -1,0 +1,465 @@
+{
+  "name": "2021 October Rickies",
+  "game-type": "Keynote",
+  "date-graded": "2021-10-20",
+  "date-picked": "2021-10-13",
+  "main-game": {
+    "picks": [
+      {
+        "text": "Apple unveils a new MacBook Pro",
+        "notes": "<p><ul><li>And Myke unveils a new strategy for picks: obvious, passionate, risky. This is clearly the first.</li></ul></p>",
+        "game": "2021 October Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/37:45",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/31:11"
+      },
+      {
+        "text": "At least one new MacBook Pro model has an upgraded webcam with a higher resolution",
+        "notes": "<p><ul><li>Must be better than the current 720p. Ungraded, Federico expects a 1080p camera.</li></ul></p>",
+        "game": "2021 October Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "Live Edited"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/37:57",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/32:26"
+      },
+      {
+        "text": "At least 1 new Mac model announced ships in November",
+        "notes": "<p><ul><li>All of them shipped in October.</li></ul></p>",
+        "game": "2021 October Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/38:05",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/36:37"
+      },
+      {
+        "text": "We get a colour option that is new to the MacBook Pro (name)",
+        "notes": "<p><ul><li>This was originally \"new in name or hue\", but some questioning of what a new hue would be resulted in relying solely on a new colour name.</li></ul></p>",
+        "game": "2021 October Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "Live Edited",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/58:17",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/38:39"
+      },
+      {
+        "text": "Any kind of release timeframe is provided for macOS Monterey",
+        "notes": "<p><ul><li>Apparently feeling humble, Federico admits that this is a \"boring\" pick. It was originally \"release date\", but when some questioning about whether just a month would count came up, he watered it down.</li></ul></p>",
+        "game": "2021 October Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Live Edited",
+          "No Passion",
+          "Stagecraft"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:01:30",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/42:37"
+      },
+      {
+        "text": "Apple announces a Mac mini that is more performant than the original M1 model",
+        "notes": "<p><ul><li>Stephen returns to the Mac mini, since it <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20desktop%20Apple%20Silicon%20Mac%20is%20announced\">served him very well last year</a>.</li></ul></p>",
+        "game": "2021 October Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "Live Edited",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:03:00",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/48:20"
+      },
+      {
+        "text": "Apple teases another Mac, that is not for sale right now, with Pro in the name, and says that it is coming next year",
+        "notes": "<p><ul><li>It was originally \"Mac product\", but there was some controversy over whether that includes accessories and displays. Ultimately, Myke upped the difficulty and removed the word \"product\".</li></ul></p>",
+        "game": "2021 October Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Mac",
+          "Live Edited",
+          "Stagecraft",
+          "Possible Vindication"
+        ],
+        "host": "Myke",
+        "pick-conditions": 4,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:05:31",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/54:03"
+      },
+      {
+        "text": "Apple announces a new display that is not the Pro XDR, launching by the end of 2021 somewhere",
+        "notes": "<p><ul><li>This was originally a pick about the Mac Pro being fully announced, but it was too close to Myke's risky pick.</li><li>The long-wished-for cheaper Apple display finally came out in 2022.</li></ul></p>",
+        "game": "2021 October Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Accessories",
+          "Ahead of Its Time",
+          "Live Edited"
+        ],
+        "host": "Federico",
+        "pick-conditions": 3,
+        "score": -1,
+        "ahead-by": 141,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:05:59",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/57:49"
+      },
+      {
+        "text": "5G becomes an option on at least one MacBook",
+        "notes": "",
+        "game": "2021 October Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Mac",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:08:36",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:06:28"
+      }
+    ],
+    "coin-flips": [],
+    "scores": [
+      {
+        "host": "Federico",
+        "score": 1
+      },
+      {
+        "host": "Myke",
+        "score": 0
+      },
+      {
+        "host": "Stephen",
+        "score": -1
+      }
+    ],
+    "winner": "Federico"
+  },
+  "the-flexies": {
+    "picks": [
+      {
+        "text": "HDMI and SD Card reader are back on the MacBook Pro",
+        "notes": "",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:17:10",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:14:19"
+      },
+      {
+        "text": "Apple demos a Mac app that takes advantage of the updated Neural Engine",
+        "notes": "",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:17:23",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:15:56"
+      },
+      {
+        "text": "Apple unveils a \"Space Black\" MacBook Pro",
+        "notes": "",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Live Edited",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:17:29",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:17:05"
+      },
+      {
+        "text": "John Ternus is wearing jeans and a black t-shirt",
+        "notes": "<p><ul><li>It was a blue t-shirt.</li></ul></p>",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:17:34",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:18:37"
+      },
+      {
+        "text": "There is going to be a funny scene involving one of the characters of Ted Lasso",
+        "notes": "<p><ul><li>Federico originally had \"Universal Control has been postponed to a future macOS Monterey update\", but during the show a new macOS beta was released with the feature not available, but at least mentioned in an unselectable check box.</li></ul></p>",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Live Edited",
+          "Stagecraft",
+          "Possible Vindication"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:18:05",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:20:21"
+      },
+      {
+        "text": "USB-C charging is faster than the new MagSafe",
+        "notes": "<p><ul><li>Which charging methods can do what differs between models, but in all cases MagSafe appears to be equally fast or faster than USB-C.</li></ul></p>",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Accessories",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:19:02",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:21:41"
+      },
+      {
+        "text": "MacBook Pro colors don't include anything radically new for the line",
+        "notes": "",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Buzzkill"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:19:58",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:22:29"
+      },
+      {
+        "text": "The chip is called the M1X",
+        "notes": "",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:20:09",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:22:42"
+      },
+      {
+        "text": "A new MacBook comes with at least one new non-USB-C/Thunderbolt port on the laptop itself",
+        "notes": "",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:20:16",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:22:45"
+      },
+      {
+        "text": "New MacBook Pro displays run at a native 2x",
+        "notes": "",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:20:46",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:22:58"
+      },
+      {
+        "text": "macOS Monterey features are reviewed",
+        "notes": "<p><ul><li>Some Mac software features were mentioned, like running iOS apps, but nothing really specific to Monterey.</li></ul></p>",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:20:50",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:23:08"
+      },
+      {
+        "text": "The new MacBook Pro power bricks have ports on them, like the iMac does for Ethernet",
+        "notes": "",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Accessories",
+          "Possible Vindication"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:21:30",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:23:13"
+      },
+      {
+        "text": "New AirPods",
+        "notes": "",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "AirPods"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:22:55",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:24:16"
+      },
+      {
+        "text": "MacBook Pro has a mini-LED screen",
+        "notes": "",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:22:57",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:24:30"
+      },
+      {
+        "text": "The chip is not called M1X",
+        "notes": "",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:23:03",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:25:00"
+      },
+      {
+        "text": "Webcam will be called \"highest quality on a Mac\"",
+        "notes": "<p><ul><li>It was \"Mac <em>notebook</em>\".</li></ul></p>",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Stagecraft",
+          "Unvindicatable"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:23:07",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:26:21"
+      },
+      {
+        "text": "The laptops will be thicker than the models they replace",
+        "notes": "",
+        "game": "2021 October Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:23:34",
+        "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:26:26"
+      }
+    ],
+    "coin-flips": [],
+    "scores": [
+      {
+        "host": "Myke",
+        "correct": 4,
+        "total": 5
+      },
+      {
+        "host": "Stephen",
+        "correct": 3,
+        "total": 7
+      },
+      {
+        "host": "Federico",
+        "correct": 1,
+        "total": 5
+      }
+    ],
+    "charity-name": "Mind",
+    "charity-url": "https://www.mind.org.uk/",
+    "donation": 100,
+    "donator": "Federico",
+    "winner": "Myke"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #367: The Rickies (October 2021)",
+      "url": "https://relay.fm/connected/367",
+      "episode-number": 367
+    },
+    {
+      "title": "Connected #368: Eaten by the Italian Post Office",
+      "url": "https://relay.fm/connected/368",
+      "episode-number": 368
+    }
+  ]
+}
