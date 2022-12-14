@@ -1,0 +1,79 @@
+[
+  {
+    "game": "2020 September Rickies",
+    "donator": "Stephen",
+    "donation": 100,
+    "charity-name": "Fur Kids",
+    "charity-url": "https://furkids.org/"
+  },
+  {
+    "game": "2020 October Rickies",
+    "donator": "Federico",
+    "donation": 100,
+    "charity-name": "Forrest Spence Fund",
+    "charity-url": "https://www.forrestspencefund.org/about-us/"
+  },
+  {
+    "game": "2020 November Rickies",
+    "donator": "Federico",
+    "donation": 75,
+    "charity-name": "Eden's Run",
+    "charity-url": "https://fundraise.operationbrokensilence.org/team/318824"
+  },
+  {
+    "game": "2021 April Rickies",
+    "donator": "Stephen",
+    "donation": 125,
+    "charity-name": "American Red Cross",
+    "charity-url": "https://www.redcross.org/"
+  },
+  {
+    "game": "2021 WWDC Rickies",
+    "donator": "Federico",
+    "donation": 175,
+    "charity-name": "Stonewall",
+    "charity-url": "https://www.stonewall.org.uk/"
+  },
+  {
+    "game": "2021 September Rickies",
+    "donator": "Myke",
+    "donation": 75,
+    "charity-name": "St. Jude",
+    "charity-url": "https://tiltify.com/@relay-fm/relay-st-jude-21"
+  },
+  {
+    "game": "2021 October Rickies",
+    "donator": "Federico",
+    "donation": 100,
+    "charity-name": "Mind",
+    "charity-url": "https://www.mind.org.uk/"
+  },
+  {
+    "game": "2021 Annual Rickies",
+    "donator": "Federico",
+    "donation": 125,
+    "charity-name": "Shelter",
+    "charity-url": "https://www.shelter.org.uk/"
+  },
+  {
+    "game": "2022 March Rickies",
+    "donator": "Federico",
+    "donation": 100,
+    "charity-name": "UNICEF",
+    "charity-url": "https://www.unicef.org"
+  },
+  {
+    "game": "2022 WWDC Rickies",
+    "donator": "Federico",
+    "donation": 200,
+    "charity-name": "Moms Demand Action",
+    "charity-url": "https://momsdemandaction.org/"
+  },
+  {
+    "game": "2022 September Rickies",
+    "donator": "Stephen",
+    "donation": 175,
+    "charity-name": "St. Jude",
+    "charity-url": "https://tiltify.com/@jbiatek/connected-informatic-wikiverse"
+  }
+]
