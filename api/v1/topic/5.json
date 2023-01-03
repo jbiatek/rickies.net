@@ -41,10 +41,13 @@
       "iOS",
       "iPad",
       "Apple Apps",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/36:48",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:45:01"
   },
   {
@@ -495,10 +498,13 @@
     "type": "Ricky",
     "topics": [
       "iOS",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 3,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/18:15",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:23:24"
   },
   {
@@ -518,7 +524,7 @@
   },
   {
     "text": "iOS 16 will bring a more \"bottom-of-the-screen-centric\" design to at least 1 additional app",
-    "notes": "",
+    "notes": "<p><ul><li>Books as well as the Lock Screen were cited.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
     "topics": [
@@ -526,6 +532,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/33:39",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:37:05"
   },
   {
@@ -893,10 +901,13 @@
       "iOS",
       "iPad",
       "Apple Apps",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/37:21",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:46:35"
   },
   {

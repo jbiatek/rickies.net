@@ -1,43 +1,42 @@
 {
   "Stephen": [
     {
-      "text": "Apple (of its own choice, not in direct response to a legal case) will allow developers to use payment methods outside the App Store",
-      "notes": "",
-      "game": "2022 Annual Rickies",
+      "text": "Apple releases an iPad Pro with a screen between 15.0 and 15.9999 inches which replaces the 11-inch model",
+      "notes": "<p><ul><li>Was originally just \"15 inch\" but a specific range was requested after Federico's pick was read.</li></ul></p>",
+      "game": "2023 Annual Rickies",
       "type": "Ricky",
       "topics": [
-        "Services"
-      ],
-      "host": "Stephen",
-      "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:19:44"
-    },
-    {
-      "text": "The 11\" iPad Pro gets a mini LED display",
-      "notes": "<p><ul><li>This was originally \"WWDC 2022 will be virtual\", but that was very close to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20in-person%20WWDC%202021\">last year's pick</a>, which was within the 365 day limit. It was a borderline judgement, but ultimately they decided they didn't like the precedent.</li></ul></p>",
-      "game": "2022 Annual Rickies",
-      "type": "Regular",
-      "topics": [
         "iPad",
         "Live Edited"
       ],
       "host": "Stephen",
-      "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:04:16"
+      "pick-conditions": 2,
+      "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:04:42"
     },
     {
-      "text": "The iPad's external display support goes unchanged",
-      "notes": "<p><ul><li>Was originally \"By December 31, 2022, no Intel Macs will remain on sale as new machines\", but this was also <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20has%20Apple%20Silicon%20versions%20of%20all%20of%20its%20Intel%20Macs%20on%20sale%20by%20the%20end%20of%202021\">too close for comfort</a>, although arguably the previous pick was more permissive than this would have been.</li></ul></p>",
-      "game": "2022 Annual Rickies",
+      "text": "No Intel Macs are left on sale (as new) at the end of 2023",
+      "notes": "<p><ul><li>\"Does not include the refurbished or educational stores.\" Or, in other words, the Intel Mac Minis and Mac Pro are not sold as new anymore (and of course they don't introduce a <em>new</em> Intel Mac).</li></ul></p>",
+      "game": "2023 Annual Rickies",
       "type": "Regular",
       "topics": [
-        "iPad",
-        "Buzzkill",
-        "Live Edited"
+        "Mac"
       ],
       "host": "Stephen",
       "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:14:15"
+      "overcast-picked": "https://overcast.fm/+FXx5wv1as/53:44"
+    },
+    {
+      "text": "WWDC 2023 follows the same format as WWDC 2022, with a small number of people invited in person",
+      "notes": "<p><ul><li>No convention center, no ticket lottery, just like in 2022.</li></ul></p>",
+      "game": "2023 Annual Rickies",
+      "type": "Regular",
+      "topics": [
+        "No Passion",
+        "Stagecraft"
+      ],
+      "host": "Stephen",
+      "pick-conditions": 1,
+      "overcast-picked": "https://overcast.fm/+FXx5wv1as/48:15"
     },
     {
       "text": "Apple shows off at least one iOS 16 feature that we haven’t seen before",
@@ -88,42 +87,42 @@
   ],
   "Myke": [
     {
-      "text": "Apple releases a new MacBook Air that comes with some colour options not previously available in this product line",
-      "notes": "",
-      "game": "2022 Annual Rickies",
+      "text": "An iPhone gets USB-C",
+      "notes": "<p><ul><li>Seems inevitable but it might be a bit <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ahead%20of%20Its%20Time\">ahead of its time</a>.</li><li>Ungraded: might just be the Pro phones, to advertise the improved transfer speeds.</li></ul></p>",
+      "game": "2023 Annual Rickies",
       "type": "Regular",
       "topics": [
-        "Mac"
+        "iPhone"
       ],
       "host": "Myke",
       "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:13:36"
+      "overcast-picked": "https://overcast.fm/+FXx5wv1as/50:13"
     },
     {
-      "text": "The new Mac Pro will be...",
-      "notes": "<p><ul><li>\"... smaller, not a cube shape, feature no support for the current MPX modules and/or will allow for some form of expandability outside of Thunderbolt. It will be only be available in one color.\"</li><li>Another \"and/or\" added to a pick, which happened a few times this episode. It applies to just the MPX modules and expandability clause.</li></ul></p>",
-      "game": "2022 Annual Rickies",
-      "type": "Ricky",
+      "text": "Apple releases a larger MacBook Air",
+      "notes": "",
+      "game": "2023 Annual Rickies",
+      "type": "Regular",
       "topics": [
         "Mac",
-        "Live Edited"
+        "No Passion"
+      ],
+      "host": "Myke",
+      "pick-conditions": 1,
+      "overcast-picked": "https://overcast.fm/+FXx5wv1as/46:34"
+    },
+    {
+      "text": "Apple shows off their headset in March, they announce developer tools at WWDC, then show it off again at an event in September. It ships to customers in October",
+      "notes": "",
+      "game": "2023 Annual Rickies",
+      "type": "Ricky",
+      "topics": [
+        "Augmented Reality",
+        "Developer tools"
       ],
       "host": "Myke",
       "pick-conditions": 4,
-      "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:27:57"
-    },
-    {
-      "text": "There will be no iPhone 14 with a 5.4\" display",
-      "notes": "<p><ul><li>AKA the iPhone mini.</li></ul></p>",
-      "game": "2022 Annual Rickies",
-      "type": "Regular",
-      "topics": [
-        "iPhone",
-        "Buzzkill"
-      ],
-      "host": "Myke",
-      "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:18:15"
+      "overcast-picked": "https://overcast.fm/+FXx5wv1as/56:07"
     },
     {
       "text": "AirPods Max 2 can be folded to store more compactly",
@@ -173,42 +172,44 @@
   ],
   "Federico": [
     {
-      "text": "At least one AirPods model will support lossless music playback",
-      "notes": "",
-      "game": "2022 Annual Rickies",
+      "text": "Apple releases a new Mac mini",
+      "notes": "<p><ul><li>Ungraded: Probably the same design but with an M2 chip. More Thunderbolt ports would be nice.</li></ul></p>",
+      "game": "2023 Annual Rickies",
       "type": "Regular",
       "topics": [
-        "Accessories",
-        "AirPods"
+        "Mac",
+        "No Passion"
       ],
       "host": "Federico",
       "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:09:15"
+      "overcast-picked": "https://overcast.fm/+FXx5wv1as/47:15"
     },
     {
-      "text": "iOS 16 brings major changes for systemwide design customization",
-      "notes": "<p><ul><li>Also, \"Apple will let users choose their own app icons, and they'll introduce new App Store categories for wallpaper and/or icon apps\"</li><li>A reuse and double down of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#iOS%20gets%20a%20native%20feature%20to%20change%20icons%20for%20any%20app%20you%20want\">last year's Flexie</a>.</li></ul></p>",
-      "game": "2022 Annual Rickies",
+      "text": "Apple will release its biggest iPad ever with a display of at least 16 inches...",
+      "notes": "<p><ul><li>\"... It won't be OLED, it'll have the front-facing camera on the landscape side, and two USB-C ports at least. It'll be called iPad Studio.\"</li></ul></p>",
+      "game": "2023 Annual Rickies",
       "type": "Ricky",
       "topics": [
-        "iOS",
-        "Live Edited"
+        "iPad",
+        "Passionate"
       ],
       "host": "Federico",
-      "pick-conditions": 3,
-      "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:23:24"
+      "pick-conditions": 5,
+      "overcast-picked": "https://overcast.fm/+FXx5wv1as/59:31"
     },
     {
-      "text": "The next generation Apple Watch will have some kind of body temperature sensor",
+      "text": "There will not be an iPhone 15 mini",
       "notes": "",
-      "game": "2022 Annual Rickies",
+      "game": "2023 Annual Rickies",
       "type": "Regular",
       "topics": [
-        "Apple Watch"
+        "iPhone",
+        "Buzzkill",
+        "No Passion"
       ],
       "host": "Federico",
       "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:16:54"
+      "overcast-picked": "https://overcast.fm/+FXx5wv1as/52:05"
     },
     {
       "text": "At least one of the next 'Pro' iPhones will have an always-on display",

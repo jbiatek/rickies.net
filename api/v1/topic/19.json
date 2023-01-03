@@ -42,6 +42,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/38:36",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:49:51"
   },
   {
@@ -53,11 +55,28 @@
       "iOS",
       "iPad",
       "Apple Apps",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/36:48",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:45:01"
+  },
+  {
+    "text": "Apple brings new actions to Shortcuts to control windows on iPadOS",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:17:25"
   },
   {
     "text": "Apple brings Quick Note's floating window to iOS",
@@ -111,15 +130,32 @@
     "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:18:25"
   },
   {
+    "text": "Apple Music Classical ships",
+    "notes": "<p><ul><li>Was originally written \"Apple Music Classic\", but Myke pointed out that it isn't called \"classic music\".</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Live Edited",
+      "Services"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:09:41"
+  },
+  {
     "text": "Apple Notes will borrow some features from the modern generation of note-taking apps",
     "notes": "<p><ul><li>\"...like wiki-style links, a quick switcher, or nested pages.\"</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Apple Apps"
+      "Apple Apps",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/37:08",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:45:53"
   },
   {
@@ -196,10 +232,13 @@
     "type": "Flexie",
     "topics": [
       "Apple Apps",
-      "Services"
+      "Services",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/36:32",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:43:44"
   },
   {
@@ -403,10 +442,13 @@
     "type": "Flexie",
     "topics": [
       "Alternate Risky",
-      "Apple Apps"
+      "Apple Apps",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/38:22",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:47:53"
   },
   {
@@ -637,10 +679,13 @@
       "iOS",
       "iPad",
       "Apple Apps",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/37:21",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:46:35"
   },
   {
@@ -757,7 +802,7 @@
   },
   {
     "text": "There are new ways to turn off the alerts that Shortcuts displays constantly",
-    "notes": "<p><ul><li>Either confirmation banners or the notification when running with automation.</li></ul></p>",
+    "notes": "<p><ul><li>\"Either confirmation banners or the notification when running with automation.\"</li><li>This came with iOS 16, and the Dynamic Island changed some of these interactions as well.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
     "topics": [
@@ -766,6 +811,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/37:31",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:46:55"
   },
   {

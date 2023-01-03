@@ -8,11 +8,44 @@
       "iOS",
       "iPad",
       "Apple Apps",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/36:48",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:45:01"
+  },
+  {
+    "text": "Apple brings new actions to Shortcuts to control windows on iPadOS",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:17:25"
+  },
+  {
+    "text": "Apple releases new developer APIs for Stage Manager",
+    "notes": "<p><ul><li>At the time of picking there were not <em>any</em> developer APIs for Stage Manager on either macOS or iPadOS, so anything will be \"new\".</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Mac",
+      "macOS",
+      "Developer tools",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:17:40"
   },
   {
     "text": "Apple showcases at least one new feature coming in iOS or iPadOS 14.1",
@@ -226,10 +259,13 @@
     "topics": [
       "iPad",
       "Buzzkill",
-      "iPadOS"
+      "iPadOS",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/33:21",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:35:56"
   },
   {
@@ -277,10 +313,13 @@
       "iOS",
       "iPad",
       "Apple Apps",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/37:21",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:46:35"
   },
   {

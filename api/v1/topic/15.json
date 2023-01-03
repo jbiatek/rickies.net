@@ -11,6 +11,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/32:48",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:34:27"
   },
   {
@@ -51,10 +53,13 @@
     "type": "Flexie",
     "topics": [
       "Augmented Reality",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/35:26",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:38:15"
   },
   {
@@ -105,6 +110,31 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6bXcOY/57:23",
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:33:30"
+  },
+  {
+    "text": "Apple shows off their headset in March, they announce developer tools at WWDC, then show it off again at an event in September. It ships to customers in October",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Augmented Reality",
+      "Developer tools"
+    ],
+    "host": "Myke",
+    "pick-conditions": 4,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/56:07"
+  },
+  {
+    "text": "Apple's headset has widgets that look similar to iOS",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Augmented Reality"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:37"
   },
   {
     "text": "AR-specific features are added to Swift or SwiftUI",

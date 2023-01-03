@@ -1,6 +1,6 @@
 {
   "text": "Apple releases a new MacBook Air that comes with some colour options not previously available in this product line",
-  "notes": "",
+  "notes": "<p><ul><li>It got Midnight and Starlight.</li><li>This is the beginning of an increasingly musical accompaniment to Stephen's \"correct\" bell, to accommodate Zoom's echo cancellation.</li></ul></p>",
   "game": "2022 Annual Rickies",
   "type": "Regular",
   "topics": [
@@ -8,5 +8,7 @@
   ],
   "host": "Myke",
   "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx5wv1as/13:11",
   "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:13:36"
 }

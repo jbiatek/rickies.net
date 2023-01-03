@@ -1,6 +1,6 @@
 {
   "text": "iOS 16 will bring a more \"bottom-of-the-screen-centric\" design to at least 1 additional app",
-  "notes": "",
+  "notes": "<p><ul><li>Books as well as the Lock Screen were cited.</li></ul></p>",
   "game": "2022 Annual Rickies",
   "type": "Flexie",
   "topics": [
@@ -8,5 +8,7 @@
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx5wv1as/33:39",
   "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:37:05"
 }

@@ -21,15 +21,18 @@
     "game": "2022 Annual Rickies",
     "type": "Ricky",
     "topics": [
-      "Services"
+      "Services",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/17:37",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:19:44"
   },
   {
     "text": "Apple announces a new paid service",
-    "notes": "",
+    "notes": "<p><ul><li><a href=\"https://9to5mac.com/2022/12/20/apple-mls-season-pass-schedule/\" target=\"_blank\">Apple's Major League Soccer deal</a> qualifies.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
     "topics": [
@@ -37,6 +40,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/34:30",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:37:25"
   },
   {
@@ -180,6 +185,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:17:38"
   },
   {
+    "text": "Apple Music Classical ships",
+    "notes": "<p><ul><li>Was originally written \"Apple Music Classic\", but Myke pointed out that it isn't called \"classic music\".</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Live Edited",
+      "Services"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:09:41"
+  },
+  {
     "text": "Apple Music will be redesigned again",
     "notes": "<p><ul><li>\"Will gain more Spotify-like algorithmic features\"</li><li>\"An Apple version of the Daily Mix and a way to discover back catalog songs from artists you don't know (Discover Weekly?)\"</li><li>The <a href=\"https://www.engadget.com/2019-08-23-apple-music-new-music-daily.html\" target=\"_blank\">New Music Daily</a> feature would eventually come in 2019.</li></ul></p>",
     "game": "2017 Annual Predictions",
@@ -261,10 +280,13 @@
     "type": "Flexie",
     "topics": [
       "Apple Apps",
-      "Services"
+      "Services",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/36:32",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:43:44"
   },
   {
@@ -475,6 +497,18 @@
     "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:14:07"
   },
   {
+    "text": "At least one Twitter app update will be rejected from the App Store",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:18:08"
+  },
+  {
     "text": "Better incorporation of Apple News into the audio ecosystem",
     "notes": "<p><ul><li>For example, asking Siri for the news on a HomePod</li><li>This did eventually happen, but in 2020.</li></ul></p>",
     "game": "Audio Predictions",
@@ -676,5 +710,17 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx7hS2kY/13:56",
     "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/15:45"
+  },
+  {
+    "text": "There will be new ways to invoke Siri by voice instead of saying \"Hey Siri\"",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:13:58"
   }
 ]

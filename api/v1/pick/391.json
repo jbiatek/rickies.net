@@ -1,6 +1,6 @@
 {
   "text": "There are new ways to turn off the alerts that Shortcuts displays constantly",
-  "notes": "<p><ul><li>Either confirmation banners or the notification when running with automation.</li></ul></p>",
+  "notes": "<p><ul><li>\"Either confirmation banners or the notification when running with automation.\"</li><li>This came with iOS 16, and the Dynamic Island changed some of these interactions as well.</li></ul></p>",
   "game": "2022 Annual Rickies",
   "type": "Flexie",
   "topics": [
@@ -9,5 +9,7 @@
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx5wv1as/37:31",
   "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:46:55"
 }

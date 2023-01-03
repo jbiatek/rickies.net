@@ -4,9 +4,12 @@
   "game": "2022 Annual Rickies",
   "type": "Ricky",
   "topics": [
-    "Services"
+    "Services",
+    "Possible Vindication"
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": -1,
+  "overcast-graded": "https://overcast.fm/+FXx5wv1as/17:37",
   "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:19:44"
 }

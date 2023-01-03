@@ -95,14 +95,17 @@
   },
   {
     "text": "A more powerful Mac Mini is announced, but it is not a \"Mac Mini Pro\"",
-    "notes": "",
+    "notes": "<p><ul><li>The Mac Studio is very close, but this pick was about the name and the Mac Studio, while very reminiscent of the Mini, is not named as such.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Mac"
+      "Mac",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/35:30",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:38:50"
   },
   {
@@ -216,10 +219,13 @@
     "game": "2022 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Mac"
+      "Mac",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/33:10",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:35:47"
   },
   {
@@ -435,8 +441,34 @@
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:42:23"
   },
   {
-    "text": "Apple releases a new MacBook Air that comes with some colour options not previously available in this product line",
+    "text": "Apple releases a larger MacBook Air",
     "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "No Passion"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/46:34"
+  },
+  {
+    "text": "Apple releases a new Mac mini",
+    "notes": "<p><ul><li>Ungraded: Probably the same design but with an M2 chip. More Thunderbolt ports would be nice.</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "No Passion"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/47:15"
+  },
+  {
+    "text": "Apple releases a new MacBook Air that comes with some colour options not previously available in this product line",
+    "notes": "<p><ul><li>It got Midnight and Starlight.</li><li>This is the beginning of an increasingly musical accompaniment to Stephen's \"correct\" bell, to accommodate Zoom's echo cancellation.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Regular",
     "topics": [
@@ -444,7 +476,21 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/13:11",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:13:36"
+  },
+  {
+    "text": "Apple releases an iMac with a larger screen",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:53"
   },
   {
     "text": "Apple releases at least 2 different Mac models that run on Apple Silicon",
@@ -459,6 +505,22 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx61X3jI/31:29",
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/53:15"
+  },
+  {
+    "text": "Apple releases new developer APIs for Stage Manager",
+    "notes": "<p><ul><li>At the time of picking there were not <em>any</em> developer APIs for Stage Manager on either macOS or iPadOS, so anything will be \"new\".</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Mac",
+      "macOS",
+      "Developer tools",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:17:40"
   },
   {
     "text": "Apple replaces at least one bundled macOS app with a Marzipan version",
@@ -1005,6 +1067,18 @@
     "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:10:13"
   },
   {
+    "text": "No Intel Macs are left on sale (as new) at the end of 2023",
+    "notes": "<p><ul><li>\"Does not include the refurbished or educational stores.\" Or, in other words, the Intel Mac Minis and Mac Pro are not sold as new anymore (and of course they don't introduce a <em>new</em> Intel Mac).</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/53:44"
+  },
+  {
     "text": "No Mac gets 5G",
     "notes": "",
     "game": "2022 March Rickies",
@@ -1303,6 +1377,18 @@
     "overcast-picked": "https://overcast.fm/+FXx7hS2kY/47:20"
   },
   {
+    "text": "The Apple Silicon Mac Pro allows third-party GPUs to be used",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:12:09"
+  },
+  {
     "text": "The ARM transition box will be a Mac mini",
     "notes": "",
     "game": "2020 Summer Rickies",
@@ -1407,6 +1493,18 @@
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:26:14"
   },
   {
+    "text": "The Mac Mini is updated to include more than one system-on-a-chip option",
+    "notes": "<p><ul><li>e.g. M2 and M2 Pro.</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:13:11"
+  },
+  {
     "text": "The Mac Pro will ship (in 2019 this time)",
     "notes": "<p><ul><li><a href=\"https://overcast.fm/+FXx6RiXe0/42:31\" target=\"_blank\">Added mid-year</a>: Must be able to order a Mac Pro by the end of 2019, they do not have to arrive in customer hands by the end of the year.</li><li>Ungraded: \"I waffle on sticking with my iMac Pro\"; he bought one almost immediately. Myke predicted that Stephen would buy a Mac Pro, exchange it for an iMac Pro, then buy another Mac Pro in 6 months.</li></ul></p>",
     "game": "2019 Annual Predictions",
@@ -1491,10 +1589,13 @@
     "type": "Ricky",
     "topics": [
       "Mac",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 4,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/20:59",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:27:57"
   },
   {

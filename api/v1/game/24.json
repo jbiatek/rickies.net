@@ -1,0 +1,407 @@
+{
+  "name": "2023 Annual Rickies",
+  "game-type": "Annual",
+  "date-graded": "",
+  "date-picked": "2022-12-28",
+  "main-game": {
+    "picks": [
+      {
+        "text": "Apple releases a larger MacBook Air",
+        "notes": "",
+        "game": "2023 Annual Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "No Passion"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/46:34"
+      },
+      {
+        "text": "Apple releases a new Mac mini",
+        "notes": "<p><ul><li>Ungraded: Probably the same design but with an M2 chip. More Thunderbolt ports would be nice.</li></ul></p>",
+        "game": "2023 Annual Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "No Passion"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/47:15"
+      },
+      {
+        "text": "WWDC 2023 follows the same format as WWDC 2022, with a small number of people invited in person",
+        "notes": "<p><ul><li>No convention center, no ticket lottery, just like in 2022.</li></ul></p>",
+        "game": "2023 Annual Rickies",
+        "type": "Regular",
+        "topics": [
+          "No Passion",
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/48:15"
+      },
+      {
+        "text": "An iPhone gets USB-C",
+        "notes": "<p><ul><li>Seems inevitable but it might be a bit <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ahead%20of%20Its%20Time\">ahead of its time</a>.</li><li>Ungraded: might just be the Pro phones, to advertise the improved transfer speeds.</li></ul></p>",
+        "game": "2023 Annual Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/50:13"
+      },
+      {
+        "text": "There will not be an iPhone 15 mini",
+        "notes": "",
+        "game": "2023 Annual Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone",
+          "Buzzkill",
+          "No Passion"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/52:05"
+      },
+      {
+        "text": "No Intel Macs are left on sale (as new) at the end of 2023",
+        "notes": "<p><ul><li>\"Does not include the refurbished or educational stores.\" Or, in other words, the Intel Mac Minis and Mac Pro are not sold as new anymore (and of course they don't introduce a <em>new</em> Intel Mac).</li></ul></p>",
+        "game": "2023 Annual Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/53:44"
+      },
+      {
+        "text": "Apple shows off their headset in March, they announce developer tools at WWDC, then show it off again at an event in September. It ships to customers in October",
+        "notes": "",
+        "game": "2023 Annual Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Augmented Reality",
+          "Developer tools"
+        ],
+        "host": "Myke",
+        "pick-conditions": 4,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/56:07"
+      },
+      {
+        "text": "Apple will release its biggest iPad ever with a display of at least 16 inches...",
+        "notes": "<p><ul><li>\"... It won't be OLED, it'll have the front-facing camera on the landscape side, and two USB-C ports at least. It'll be called iPad Studio.\"</li></ul></p>",
+        "game": "2023 Annual Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPad",
+          "Passionate"
+        ],
+        "host": "Federico",
+        "pick-conditions": 5,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/59:31"
+      },
+      {
+        "text": "Apple releases an iPad Pro with a screen between 15.0 and 15.9999 inches which replaces the 11-inch model",
+        "notes": "<p><ul><li>Was originally just \"15 inch\" but a specific range was requested after Federico's pick was read.</li></ul></p>",
+        "game": "2023 Annual Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPad",
+          "Live Edited"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:04:42"
+      }
+    ],
+    "coin-flips": [],
+    "winner": "TBD"
+  },
+  "the-flexies": {
+    "picks": [
+      {
+        "text": "There is no iPad bigger than 12.9 inches",
+        "notes": "",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Buzzkill"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:06"
+      },
+      {
+        "text": "An iPhone gets a periscope camera",
+        "notes": "",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:32"
+      },
+      {
+        "text": "Apple's headset has widgets that look similar to iOS",
+        "notes": "",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Augmented Reality"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:37"
+      },
+      {
+        "text": "Apple releases an iMac with a larger screen",
+        "notes": "",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:53"
+      },
+      {
+        "text": "AirPods Max 2 feature a foldable design, and come with a new case that fully encloses them",
+        "notes": "",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "AirPods"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:57"
+      },
+      {
+        "text": "The iPad mini gets updated, featuring either a mini LED or OLED screen",
+        "notes": "",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:09:12"
+      },
+      {
+        "text": "Apple will release a new monitor",
+        "notes": "<p><ul><li>Myke wanted an additional pick to match the 7 of the other hosts, so this was thrown in after the others had gone.</li></ul></p>",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "Live Edited"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:18:53"
+      },
+      {
+        "text": "The iPad mini will be updated",
+        "notes": "",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:09:33"
+      },
+      {
+        "text": "Apple Music Classical ships",
+        "notes": "<p><ul><li>Was originally written \"Apple Music Classic\", but Myke pointed out that it isn't called \"classic music\".</li></ul></p>",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Apps",
+          "Live Edited",
+          "Services"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:09:41"
+      },
+      {
+        "text": "Twitter will file for bankruptcy",
+        "notes": "<p><ul><li>The first ever <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Non-Apple%20Related\">completely non-Apple related</a> pick!</li></ul></p>",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Non-Apple Related"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:10:39"
+      },
+      {
+        "text": "The iPhone 15 and 15 Pro use the same generation system-on-a-chip",
+        "notes": "<p><ul><li>They could be different chips with different branding, but not, say, an A16 and an A15.</li></ul></p>",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:10:48"
+      },
+      {
+        "text": "Apple sells an \"iPhone 15 Ultra\"",
+        "notes": "",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:11:26"
+      },
+      {
+        "text": "The Apple Silicon Mac Pro allows third-party GPUs to be used",
+        "notes": "",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:12:09"
+      },
+      {
+        "text": "The Mac Mini is updated to include more than one system-on-a-chip option",
+        "notes": "<p><ul><li>e.g. M2 and M2 Pro.</li></ul></p>",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:13:11"
+      },
+      {
+        "text": "There will be new ways to invoke Siri by voice instead of saying \"Hey Siri\"",
+        "notes": "",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Services"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:13:58"
+      },
+      {
+        "text": "Apple will revive the HomePod line with new devices",
+        "notes": "<p><ul><li>New deviceS, <em>plural</em>. Must be at least 2 and must be new products, not product refreshes like a new HomePod mini.</li></ul></p>",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:14:59"
+      },
+      {
+        "text": "Second-generation AirPods Max will ship during the year",
+        "notes": "<p><ul><li>Was originally \"AirPods Max 2\" specifically.</li></ul></p>",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "AirPods",
+          "Live Edited"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:16:18"
+      },
+      {
+        "text": "There is no second generation Apple Watch Ultra this year",
+        "notes": "",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Watch",
+          "Buzzkill"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:16:34"
+      },
+      {
+        "text": "Apple brings new actions to Shortcuts to control windows on iPadOS",
+        "notes": "",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Apple Apps",
+          "iPadOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:17:25"
+      },
+      {
+        "text": "Apple releases new developer APIs for Stage Manager",
+        "notes": "<p><ul><li>At the time of picking there were not <em>any</em> developer APIs for Stage Manager on either macOS or iPadOS, so anything will be \"new\".</li></ul></p>",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "Mac",
+          "macOS",
+          "Developer tools",
+          "iPadOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:17:40"
+      },
+      {
+        "text": "At least one Twitter app update will be rejected from the App Store",
+        "notes": "",
+        "game": "2023 Annual Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Services"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:18:08"
+      }
+    ],
+    "coin-flips": [],
+    "winner": "TBD"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #431: The Rickies (January 2023)",
+      "url": "https://relay.fm/connected/431",
+      "episode-number": 431
+    }
+  ]
+}

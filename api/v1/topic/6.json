@@ -75,6 +75,18 @@
     "overcast-picked": "https://overcast.fm/+FXx4E3x_I/55:37"
   },
   {
+    "text": "An iPhone gets a periscope camera",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:32"
+  },
+  {
     "text": "An iPhone gets an always-on display with a UI element that is reminiscent of Apple Watch complications",
     "notes": "",
     "game": "2021 September Rickies",
@@ -104,6 +116,18 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx6z4vdc/50:33",
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/51:13"
+  },
+  {
+    "text": "An iPhone gets USB-C",
+    "notes": "<p><ul><li>Seems inevitable but it might be a bit <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ahead%20of%20Its%20Time\">ahead of its time</a>.</li><li>Ungraded: might just be the Pro phones, to advertise the improved transfer speeds.</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/50:13"
   },
   {
     "text": "An iPhone Pro with Apple Pencil support, 2 Apple Pencils",
@@ -179,6 +203,18 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx7hS2kY/23:04",
     "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/53:22"
+  },
+  {
+    "text": "Apple sells an \"iPhone 15 Ultra\"",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:11:26"
   },
   {
     "text": "Apple shows off at least one new MagSafe accessory",
@@ -794,6 +830,18 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:57"
   },
   {
+    "text": "The iPhone 15 and 15 Pro use the same generation system-on-a-chip",
+    "notes": "<p><ul><li>They could be different chips with different branding, but not, say, an A16 and an A15.</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:10:48"
+  },
+  {
     "text": "The iPhone 7S and 7S+ will look like the 7 and 7+, not this edge to edge unicorn phone that has been rumored",
     "notes": "<p><ul><li>This was deemed correct during grading, allowing for the \"7S\" actually being named the 8.</li><li>During grading, Myke wondered if Stephen had been thinking that there would be <em>a</em> phone with the traditional design, or if he was thinking that there would be no \"unicorn\" phone at all. Of course, it is impossible to read his mind, but in the original pick, Stephen seems to imply that it will just be the \"7S\".</li></ul></p>",
     "game": "2017 Annual Predictions",
@@ -1106,7 +1154,7 @@
   },
   {
     "text": "There will be no iPhone 14 with a 5.4\" display",
-    "notes": "<p><ul><li>AKA the iPhone mini.</li></ul></p>",
+    "notes": "<p><ul><li>AKA the iPhone mini.</li><li>😭</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Regular",
     "topics": [
@@ -1115,7 +1163,23 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/16:09",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:18:15"
+  },
+  {
+    "text": "There will not be an iPhone 15 mini",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Buzzkill",
+      "No Passion"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/52:05"
   },
   {
     "text": "There won't be a mini iPhone in the iPhone 14 family",

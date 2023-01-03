@@ -1,6 +1,6 @@
 {
   "text": "Apple announces a new paid service",
-  "notes": "",
+  "notes": "<p><ul><li><a href=\"https://9to5mac.com/2022/12/20/apple-mls-season-pass-schedule/\" target=\"_blank\">Apple's Major League Soccer deal</a> qualifies.</li></ul></p>",
   "game": "2022 Annual Rickies",
   "type": "Flexie",
   "topics": [
@@ -8,5 +8,7 @@
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx5wv1as/34:30",
   "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:37:25"
 }

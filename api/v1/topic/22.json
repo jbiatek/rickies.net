@@ -34,6 +34,32 @@
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/42:37"
   },
   {
+    "text": "Apple releases a larger MacBook Air",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "No Passion"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/46:34"
+  },
+  {
+    "text": "Apple releases a new Mac mini",
+    "notes": "<p><ul><li>Ungraded: Probably the same design but with an M2 chip. More Thunderbolt ports would be nice.</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "No Passion"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/47:15"
+  },
+  {
     "text": "Apple unveils a new Apple Watch",
     "notes": "<p><ul><li>While Federico had some criticism of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20iPad%20home%20screen%20gets%20new%20features\">a couple</a> of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Memoji%20will%20get%20updated%20to%20include%20face%20coverings\">Myke's picks</a> in <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#2020%20Summer%20Rickies\">the previous game</a> along the same lines, this was the very first time that Federico specifically called out a lack of \"passion\" in a pick.</li></ul></p>",
     "game": "2020 September Rickies",
@@ -62,5 +88,32 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5peDck/32:34",
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/56:23"
+  },
+  {
+    "text": "There will not be an iPhone 15 mini",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Buzzkill",
+      "No Passion"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/52:05"
+  },
+  {
+    "text": "WWDC 2023 follows the same format as WWDC 2022, with a small number of people invited in person",
+    "notes": "<p><ul><li>No convention center, no ticket lottery, just like in 2022.</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "No Passion",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/48:15"
   }
 ]

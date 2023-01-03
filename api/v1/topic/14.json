@@ -83,6 +83,35 @@
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:41"
   },
   {
+    "text": "Apple releases new developer APIs for Stage Manager",
+    "notes": "<p><ul><li>At the time of picking there were not <em>any</em> developer APIs for Stage Manager on either macOS or iPadOS, so anything will be \"new\".</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Mac",
+      "macOS",
+      "Developer tools",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:17:40"
+  },
+  {
+    "text": "Apple shows off their headset in March, they announce developer tools at WWDC, then show it off again at an event in September. It ships to customers in October",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Augmented Reality",
+      "Developer tools"
+    ],
+    "host": "Myke",
+    "pick-conditions": 4,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/56:07"
+  },
+  {
     "text": "AR-specific features are added to Swift or SwiftUI",
     "notes": "<p><ul><li>Nothing in the keynote, but <a href=\"https://developer.apple.com/augmented-reality/roomplan/\" target=\"_blank\">ARKit 6 is adding RoomPlan</a>, a new Swift API for scanning a room with a camera and LiDAR scanner.</li></ul></p>",
     "game": "2022 WWDC Rickies",

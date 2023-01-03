@@ -84,11 +84,28 @@
       "iOS",
       "iPad",
       "Apple Apps",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/36:48",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:45:01"
+  },
+  {
+    "text": "Apple brings new actions to Shortcuts to control windows on iPadOS",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:17:25"
   },
   {
     "text": "Apple launches at least one iPad model with a new display technology",
@@ -119,6 +136,35 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6bXcOY/52:06",
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:27:08"
+  },
+  {
+    "text": "Apple releases an iPad Pro with a screen between 15.0 and 15.9999 inches which replaces the 11-inch model",
+    "notes": "<p><ul><li>Was originally just \"15 inch\" but a specific range was requested after Federico's pick was read.</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:04:42"
+  },
+  {
+    "text": "Apple releases new developer APIs for Stage Manager",
+    "notes": "<p><ul><li>At the time of picking there were not <em>any</em> developer APIs for Stage Manager on either macOS or iPadOS, so anything will be \"new\".</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Mac",
+      "macOS",
+      "Developer tools",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:17:40"
   },
   {
     "text": "Apple shares a video touting the benefits of the time-of-flight sensor found in the 2020 iPad Pros for AR",
@@ -216,6 +262,19 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx4vzIxY/39:53",
     "overcast-picked": "https://overcast.fm/+FXx7hS2kY/1:04:05"
+  },
+  {
+    "text": "Apple will release its biggest iPad ever with a display of at least 16 inches...",
+    "notes": "<p><ul><li>\"... It won't be OLED, it'll have the front-facing camera on the landscape side, and two USB-C ports at least. It'll be called iPad Studio.\"</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Passionate"
+    ],
+    "host": "Federico",
+    "pick-conditions": 5,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/59:31"
   },
   {
     "text": "At least one new non-Pro iPad will switch to USB-C",
@@ -488,10 +547,13 @@
     "topics": [
       "iPad",
       "Buzzkill",
-      "iPadOS"
+      "iPadOS",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/33:21",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:35:56"
   },
   {
@@ -731,10 +793,13 @@
       "iOS",
       "iPad",
       "Apple Apps",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/37:21",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:46:35"
   },
   {
@@ -744,10 +809,13 @@
     "type": "Regular",
     "topics": [
       "iPad",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/9:35",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:04:16"
   },
   {
@@ -877,6 +945,30 @@
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/58:35"
   },
   {
+    "text": "The iPad mini gets updated, featuring either a mini LED or OLED screen",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:09:12"
+  },
+  {
+    "text": "The iPad mini will be updated",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:09:33"
+  },
+  {
     "text": "The iPad mini will be updated with a new design inspired by the iPad Pro's design",
     "notes": "<p><ul><li>Stephen was almost exactly one year too early, as this would finally come true in 2021.</li></ul></p>",
     "game": "2020 September Rickies",
@@ -958,16 +1050,19 @@
   },
   {
     "text": "The iPad's external display support goes unchanged",
-    "notes": "<p><ul><li>Was originally \"By December 31, 2022, no Intel Macs will remain on sale as new machines\", but this was also <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20has%20Apple%20Silicon%20versions%20of%20all%20of%20its%20Intel%20Macs%20on%20sale%20by%20the%20end%20of%202021\">too close for comfort</a>, although arguably the previous pick was more permissive than this would have been.</li></ul></p>",
+    "notes": "<p><ul><li>Was originally \"By December 31, 2022, no Intel Macs will remain on sale as new machines\", but this was also <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20has%20Apple%20Silicon%20versions%20of%20all%20of%20its%20Intel%20Macs%20on%20sale%20by%20the%20end%20of%202021\">too close for comfort</a>, although arguably the previous pick was more permissive than this would have been.</li><li>Stage Manager in fact brought major changes.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Regular",
     "topics": [
       "iPad",
       "Buzzkill",
-      "Live Edited"
+      "Live Edited",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/14:23",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:14:15"
   },
   {
@@ -1051,6 +1146,19 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:35:51",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:26:20"
+  },
+  {
+    "text": "There is no iPad bigger than 12.9 inches",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:06"
   },
   {
     "text": "Two new iPad Pros",

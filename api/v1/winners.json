@@ -1,8 +1,8 @@
 {
   "annual": {
-    "game-name": "2021 Annual Rickies",
-    "date": "2022-01-06",
-    "winner": "Stephen",
+    "game-name": "2022 Annual Rickies",
+    "date": "2022-12-28",
+    "winner": "Myke",
     "social": "https://twitter.com/AnnualChairman",
     "title": "Annual Chairman"
   },
@@ -14,11 +14,25 @@
     "title": "Keynote Chairman"
   },
   "flexies": {
-    "game-name": "2022 September Rickies",
-    "date": "2022-09-07",
+    "game-name": "2022 Annual Rickies",
+    "date": "2022-12-28",
     "winner": "Myke",
     "title": "Duke of Flexington",
     "social": ""
   },
-  "the-tricky-image": "https://rickies.net/files/images/tricky/StephenFederico.png"
+  "annual-flexies": {
+    "game-name": "2022 Annual Rickies",
+    "date": "2022-12-28",
+    "winner": "Myke",
+    "social": "",
+    "title": "Archduke Flexington"
+  },
+  "keynote-flexies": {
+    "game-name": "2022 September Rickies",
+    "date": "2022-09-07",
+    "winner": "Myke",
+    "social": "",
+    "title": "Archduke Flexington"
+  },
+  "the-tricky-image": "https://rickies.net/files/images/tricky/MykeFederico.png"
 }

@@ -1,12 +1,15 @@
 {
   "text": "A more powerful Mac Mini is announced, but it is not a \"Mac Mini Pro\"",
-  "notes": "",
+  "notes": "<p><ul><li>The Mac Studio is very close, but this pick was about the name and the Mac Studio, while very reminiscent of the Mini, is not named as such.</li></ul></p>",
   "game": "2022 Annual Rickies",
   "type": "Flexie",
   "topics": [
-    "Mac"
+    "Mac",
+    "Possible Vindication"
   ],
   "host": "Stephen",
   "pick-conditions": 2,
+  "score": 0,
+  "overcast-graded": "https://overcast.fm/+FXx5wv1as/35:30",
   "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:38:50"
 }

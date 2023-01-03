@@ -940,7 +940,7 @@
   },
   {
     "text": "Tim Cook says \"metaverse\"",
-    "notes": "",
+    "notes": "<p><ul><li><a href=\"https://9to5mac.com/2022/09/30/tim-cook-metaverse-interviews/\" target=\"_blank\">Correct, as reported at 9to5Mac.</a></li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
     "topics": [
@@ -948,6 +948,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/31:09",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:33:19"
   },
   {
@@ -1118,5 +1120,18 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:23:07",
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:26:21"
+  },
+  {
+    "text": "WWDC 2023 follows the same format as WWDC 2022, with a small number of people invited in person",
+    "notes": "<p><ul><li>No convention center, no ticket lottery, just like in 2022.</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "No Passion",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/48:15"
   }
 ]

@@ -1,14 +1,17 @@
 {
   "text": "The iPad's external display support goes unchanged",
-  "notes": "<p><ul><li>Was originally \"By December 31, 2022, no Intel Macs will remain on sale as new machines\", but this was also <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20has%20Apple%20Silicon%20versions%20of%20all%20of%20its%20Intel%20Macs%20on%20sale%20by%20the%20end%20of%202021\">too close for comfort</a>, although arguably the previous pick was more permissive than this would have been.</li></ul></p>",
+  "notes": "<p><ul><li>Was originally \"By December 31, 2022, no Intel Macs will remain on sale as new machines\", but this was also <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20has%20Apple%20Silicon%20versions%20of%20all%20of%20its%20Intel%20Macs%20on%20sale%20by%20the%20end%20of%202021\">too close for comfort</a>, although arguably the previous pick was more permissive than this would have been.</li><li>Stage Manager in fact brought major changes.</li></ul></p>",
   "game": "2022 Annual Rickies",
   "type": "Regular",
   "topics": [
     "iPad",
     "Buzzkill",
-    "Live Edited"
+    "Live Edited",
+    "Unvindicatable"
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": 0,
+  "overcast-graded": "https://overcast.fm/+FXx5wv1as/14:23",
   "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:14:15"
 }

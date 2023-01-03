@@ -71,10 +71,13 @@
     "game": "2022 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/35:13",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:38:02"
   },
   {
@@ -140,6 +143,19 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/54:04",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:02:05"
+  },
+  {
+    "text": "AirPods Max 2 feature a foldable design, and come with a new case that fully encloses them",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "AirPods"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:57"
   },
   {
     "text": "AirPods to gain more controls via touch actions",
@@ -485,6 +501,31 @@
     "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:18:56"
   },
   {
+    "text": "Apple will release a new monitor",
+    "notes": "<p><ul><li>Myke wanted an additional pick to match the 7 of the other hosts, so this was thrown in after the others had gone.</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:18:53"
+  },
+  {
+    "text": "Apple will revive the HomePod line with new devices",
+    "notes": "<p><ul><li>New deviceS, <em>plural</em>. Must be at least 2 and must be new products, not product refreshes like a new HomePod mini.</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:14:59"
+  },
+  {
     "text": "At least 1 more color option comes to AirPods",
     "notes": "",
     "game": "Audio Predictions",
@@ -507,10 +548,13 @@
     "type": "Regular",
     "topics": [
       "Accessories",
-      "AirPods"
+      "AirPods",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/11:24",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:09:15"
   },
   {
@@ -636,10 +680,13 @@
     "topics": [
       "Accessories",
       "AirPods",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/32:09",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:34:07"
   },
   {
@@ -850,6 +897,20 @@
     "ahead-by": 342,
     "overcast-graded": "https://overcast.fm/+FXx7hS2kY/28:26",
     "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/1:01:16"
+  },
+  {
+    "text": "Second-generation AirPods Max will ship during the year",
+    "notes": "<p><ul><li>Was originally \"AirPods Max 2\" specifically.</li></ul></p>",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "AirPods",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:16:18"
   },
   {
     "text": "Shortcuts will gain new HomePod/AirPlay 2 actions to play audio on HomePod more quickly",

@@ -315,6 +315,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/14:57",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:16:54"
   },
   {
@@ -348,6 +350,19 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:03:04",
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:08:32"
+  },
+  {
+    "text": "There is no second generation Apple Watch Ultra this year",
+    "notes": "",
+    "game": "2023 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Watch",
+      "Buzzkill"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:16:34"
   },
   {
     "text": "watchOS 7 gets a software feature we haven't seen yet",

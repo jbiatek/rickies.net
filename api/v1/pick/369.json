@@ -5,9 +5,12 @@
   "type": "Regular",
   "topics": [
     "Accessories",
-    "AirPods"
+    "AirPods",
+    "Possible Vindication"
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 0,
+  "overcast-graded": "https://overcast.fm/+FXx5wv1as/11:24",
   "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:09:15"
 }
