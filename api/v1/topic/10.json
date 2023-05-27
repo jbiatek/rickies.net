@@ -249,17 +249,18 @@
   },
   {
     "text": "Apple will release at least 1 new pro app for iPad that we haven't previously seen on iPad",
-    "notes": "<p><ul><li>\"(The app can be universal.)\"</li></ul></p>",
+    "notes": "<p><ul><li>\"(The app can be universal.)\"</li><li>After years of waiting, <a href=\"https://www.apple.com/newsroom/2023/05/apple-brings-final-cut-pro-and-logic-pro-to-ipad/\" target=\"_blank\">Final Cut Pro and Logic Pro come to iPad in 2023</a>.</li></ul></p>",
     "game": "2020 Annual Rickies",
     "type": "Ricky",
     "topics": [
       "iPad",
-      "Apple Apps",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "Apple Apps"
     ],
     "host": "Federico",
     "pick-conditions": 1,
     "score": -1,
+    "ahead-by": 858,
     "overcast-graded": "https://overcast.fm/+FXx4vzIxY/39:53",
     "overcast-picked": "https://overcast.fm/+FXx7hS2kY/1:04:05"
   },
@@ -422,18 +423,19 @@
   },
   {
     "text": "iOS and iPadOS 15 get native HomeKit widgets",
-    "notes": "",
+    "notes": "<p><ul><li>These came to the iOS 16 lock screen the next year.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
     "topics": [
       "iOS",
       "iPad",
-      "iPadOS",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "iPadOS"
     ],
     "host": "Federico",
     "pick-conditions": 2,
     "score": 0,
+    "ahead-by": 459,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:17:12",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:36:05"
   },
@@ -840,12 +842,13 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Passionate",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "Passionate"
     ],
     "host": "Federico",
     "pick-conditions": 2,
     "score": 0,
+    "ahead-by": 397,
     "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:11:29",
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:19:37"
   },

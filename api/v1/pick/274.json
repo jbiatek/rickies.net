@@ -1,14 +1,15 @@
 {
   "text": "Apple TV box gets a price cut",
-  "notes": "",
+  "notes": "<p><ul><li>After many, many years, Apple finally <a href=\"https://www.apple.com/newsroom/2022/10/apple-introduces-the-powerful-next-generation-apple-tv-4k/\" target=\"_blank\">put out a slightly cut down Apple TV 4K for a lower price</a> in 2022.</li></ul></p>",
   "game": "2019 Media Event Predictions",
   "type": "NonGraded",
   "topics": [
-    "Apple TV",
-    "Possible Vindication"
+    "Ahead of Its Time",
+    "Apple TV"
   ],
   "host": "Federico",
   "pick-conditions": 1,
   "score": 0,
+  "ahead-by": 1301,
   "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:29:58"
 }

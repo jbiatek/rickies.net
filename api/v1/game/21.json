@@ -71,12 +71,13 @@
         "game": "2022 March Rickies",
         "type": "Regular",
         "topics": [
-          "Services",
-          "Possible Vindication"
+          "Ahead of Its Time",
+          "Services"
         ],
         "host": "Myke",
         "pick-conditions": 1,
         "score": 0,
+        "ahead-by": 365,
         "overcast-graded": "https://overcast.fm/+FXx4aVfvI/27:20",
         "overcast-picked": "https://overcast.fm/+FXx4VfMWE/34:26"
       },
@@ -96,12 +97,12 @@
       },
       {
         "text": "A new base model Mac mini is introduced with the M2 chip...",
-        "notes": "<p><ul><li>\"... The new Mini is at least 30% smaller than the current one. It's thicker, but narrower, making it more similar to an Apple TV or Intel NUC.\"</li><li>In other words, closer to a cubic shape, but not necessarily a cube. Although Federico loves cubes, so that would be great.</li></ul></p>",
+        "notes": "<p><ul><li>\"... The new Mini is at least 30% smaller than the current one. It's thicker, but narrower, making it more similar to an Apple TV or Intel NUC.\"</li><li>In other words, closer to a cubic shape, but not necessarily a cube. Although Federico loves cubes, so that would be great.</li><li>The base model would get updated the next year, but it's the same shape.</li></ul></p>",
         "game": "2022 March Rickies",
         "type": "Ricky",
         "topics": [
           "Mac",
-          "Possible Vindication"
+          "Unvindicatable"
         ],
         "host": "Federico",
         "pick-conditions": 4,
@@ -356,12 +357,13 @@
         "type": "Flexie",
         "topics": [
           "Mac",
-          "Buzzkill",
-          "Possible Vindication"
+          "Ahead of Its Time",
+          "Buzzkill"
         ],
         "host": "Stephen",
         "pick-conditions": 1,
         "score": 0,
+        "ahead-by": 314,
         "overcast-graded": "https://overcast.fm/+FXx4aVfvI/52:19",
         "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:16:57"
       },

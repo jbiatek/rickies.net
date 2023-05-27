@@ -538,16 +538,17 @@
         },
         {
           "text": "Apple TV box gets a price cut",
-          "notes": "",
+          "notes": "<p><ul><li>After many, many years, Apple finally <a href=\"https://www.apple.com/newsroom/2022/10/apple-introduces-the-powerful-next-generation-apple-tv-4k/\" target=\"_blank\">put out a slightly cut down Apple TV 4K for a lower price</a> in 2022.</li></ul></p>",
           "game": "2019 Media Event Predictions",
           "type": "NonGraded",
           "topics": [
-            "Apple TV",
-            "Possible Vindication"
+            "Ahead of Its Time",
+            "Apple TV"
           ],
           "host": "Federico",
           "pick-conditions": 1,
           "score": 0,
+          "ahead-by": 1301,
           "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:29:58"
         },
         {
@@ -3288,12 +3289,13 @@
           "type": "Regular",
           "topics": [
             "Mac",
-            "Live Edited",
-            "Possible Vindication"
+            "Ahead of Its Time",
+            "Live Edited"
           ],
           "host": "Stephen",
           "pick-conditions": 2,
           "score": 0,
+          "ahead-by": 454,
           "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:03:00",
           "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/48:20"
         },
@@ -3746,17 +3748,18 @@
         },
         {
           "text": "The Apple Watch SE gets a price cut",
-          "notes": "",
+          "notes": "<p><ul><li><a href=\"https://www.apple.com/newsroom/2022/09/apple-reveals-apple-watch-series-8-and-the-new-apple-watch-se/\" target=\"_blank\">Next year's model would</a>, but not this year's.</li></ul></p>",
           "game": "2021 September Rickies",
           "type": "Regular",
           "topics": [
+            "Ahead of Its Time",
             "Apple Watch",
-            "Passionate",
-            "Possible Vindication"
+            "Passionate"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
           "score": 0,
+          "ahead-by": 356,
           "overcast-graded": "https://overcast.fm/+FXx6z4vdc/42:32",
           "overcast-picked": "https://overcast.fm/+FXx5Crqo4/40:31"
         },
@@ -3768,11 +3771,12 @@
           "topics": [
             "iPhone",
             "iOS",
-            "Possible Vindication"
+            "Ahead of Its Time"
           ],
           "host": "Myke",
           "pick-conditions": 2,
           "score": -1,
+          "ahead-by": 356,
           "overcast-graded": "https://overcast.fm/+FXx6z4vdc/48:41",
           "overcast-picked": "https://overcast.fm/+FXx5Crqo4/46:48"
         },
@@ -4015,12 +4019,13 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Passionate",
-            "Possible Vindication"
+            "Ahead of Its Time",
+            "Passionate"
           ],
           "host": "Federico",
           "pick-conditions": 2,
           "score": 0,
+          "ahead-by": 397,
           "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:11:29",
           "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:19:37"
         },
@@ -4374,18 +4379,19 @@
         },
         {
           "text": "iOS and iPadOS 15 get native HomeKit widgets",
-          "notes": "",
+          "notes": "<p><ul><li>These came to the iOS 16 lock screen the next year.</li></ul></p>",
           "game": "2021 WWDC Rickies",
           "type": "Flexie",
           "topics": [
             "iOS",
             "iPad",
-            "iPadOS",
-            "Possible Vindication"
+            "Ahead of Its Time",
+            "iPadOS"
           ],
           "host": "Federico",
           "pick-conditions": 2,
           "score": 0,
+          "ahead-by": 459,
           "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:17:12",
           "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:36:05"
         },
@@ -4746,12 +4752,13 @@
           "game": "2022 March Rickies",
           "type": "Regular",
           "topics": [
-            "Services",
-            "Possible Vindication"
+            "Ahead of Its Time",
+            "Services"
           ],
           "host": "Myke",
           "pick-conditions": 1,
           "score": 0,
+          "ahead-by": 365,
           "overcast-graded": "https://overcast.fm/+FXx4aVfvI/27:20",
           "overcast-picked": "https://overcast.fm/+FXx4VfMWE/34:26"
         },
@@ -4771,12 +4778,12 @@
         },
         {
           "text": "A new base model Mac mini is introduced with the M2 chip...",
-          "notes": "<p><ul><li>\"... The new Mini is at least 30% smaller than the current one. It's thicker, but narrower, making it more similar to an Apple TV or Intel NUC.\"</li><li>In other words, closer to a cubic shape, but not necessarily a cube. Although Federico loves cubes, so that would be great.</li></ul></p>",
+          "notes": "<p><ul><li>\"... The new Mini is at least 30% smaller than the current one. It's thicker, but narrower, making it more similar to an Apple TV or Intel NUC.\"</li><li>In other words, closer to a cubic shape, but not necessarily a cube. Although Federico loves cubes, so that would be great.</li><li>The base model would get updated the next year, but it's the same shape.</li></ul></p>",
           "game": "2022 March Rickies",
           "type": "Ricky",
           "topics": [
             "Mac",
-            "Possible Vindication"
+            "Unvindicatable"
           ],
           "host": "Federico",
           "pick-conditions": 4,
@@ -5031,12 +5038,13 @@
           "type": "Flexie",
           "topics": [
             "Mac",
-            "Buzzkill",
-            "Possible Vindication"
+            "Ahead of Its Time",
+            "Buzzkill"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
           "score": 0,
+          "ahead-by": 314,
           "overcast-graded": "https://overcast.fm/+FXx4aVfvI/52:19",
           "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:16:57"
         },
@@ -5689,18 +5697,19 @@
           "game": "2022 September Rickies",
           "type": "Flexie",
           "topics": [
-            "Apple TV+",
-            "Possible Vindication"
+            "Ahead of Its Time",
+            "Apple TV+"
           ],
           "host": "Federico",
           "pick-conditions": 1,
           "score": 0,
+          "ahead-by": 172,
           "overcast-graded": "https://overcast.fm/+FXx650Foc/1:26:11",
           "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:36:02"
         },
         {
           "text": "There will be a system filter for \"always-on display\" in Focus",
-          "notes": "<p><ul><li>Deemed incorrect because it wasn't mentioned and there was no way to find out at the time of grading.</li></ul></p>",
+          "notes": "<p><ul><li>Deemed incorrect because it wasn't mentioned and there was no way to find out at the time of grading. This was in fact the correct decision, as it was not present in iOS 16.</li></ul></p>",
           "game": "2022 September Rickies",
           "type": "Flexie",
           "topics": [
@@ -5716,7 +5725,7 @@
         },
         {
           "text": "You will be able to control which data types show on the always-on lock screen",
-          "notes": "<p><ul><li>Similar to the privacy controls that the always-on Apple Watch has for complications</li><li>This could be a feature, but there was no way to know at the time of grading.</li></ul></p>",
+          "notes": "<p><ul><li>Similar to the privacy controls that the always-on Apple Watch has for complications</li><li>This could have been a feature at the time, but there was no way to know at the time of grading. With the OS now released, we know that it was not present after all.</li></ul></p>",
           "game": "2022 September Rickies",
           "type": "Flexie",
           "topics": [
@@ -6046,8 +6055,7 @@
           "type": "Flexie",
           "topics": [
             "Augmented Reality",
-            "Developer tools",
-            "Possible Vindication"
+            "Developer tools"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
@@ -6076,12 +6084,13 @@
           "game": "2022 WWDC Rickies",
           "type": "Flexie",
           "topics": [
-            "Services",
-            "Possible Vindication"
+            "Ahead of Its Time",
+            "Services"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
           "score": 0,
+          "ahead-by": 293,
           "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:28:41",
           "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:22:12"
         },

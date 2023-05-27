@@ -151,18 +151,19 @@
   },
   {
     "text": "iOS and iPadOS 15 get native HomeKit widgets",
-    "notes": "",
+    "notes": "<p><ul><li>These came to the iOS 16 lock screen the next year.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
     "topics": [
       "iOS",
       "iPad",
-      "iPadOS",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "iPadOS"
     ],
     "host": "Federico",
     "pick-conditions": 2,
     "score": 0,
+    "ahead-by": 459,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:17:12",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:36:05"
   },

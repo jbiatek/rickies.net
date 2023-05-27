@@ -1,5 +1,21 @@
 [
   {
+    "text": "A more powerful Mac Mini is announced, but it is not a \"Mac Mini Pro\"",
+    "notes": "<p><ul><li>The Mac Studio is very close, but this pick was about the name and the Mac Studio, while very reminiscent of the Mini, is not named as such.</li><li>Just 2 weeks after the grading window closed, <a href=\"https://www.apple.com/newsroom/2023/01/apple-introduces-new-mac-mini-with-m2-and-m2-pro-more-powerful-capable-and-versatile-than-ever/\" target=\"_blank\">the M2 Pro Mac mini was announced</a>.</li></ul></p>",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Ahead of Its Time"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 0,
+    "ahead-by": 17,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/35:30",
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:38:50"
+  },
+  {
     "text": "A new AirPods product is announced",
     "notes": "<p><ul><li>This pick was one event early, as the third generation of AirPods came in October.</li></ul></p>",
     "game": "2021 September Rickies",
@@ -98,6 +114,23 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:42:34"
   },
   {
+    "text": "An iPhone gets an always-on display with a UI element that is reminiscent of Apple Watch complications",
+    "notes": "",
+    "game": "2021 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Ahead of Its Time"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "score": -1,
+    "ahead-by": 356,
+    "overcast-graded": "https://overcast.fm/+FXx6z4vdc/48:41",
+    "overcast-picked": "https://overcast.fm/+FXx5Crqo4/46:48"
+  },
+  {
     "text": "AppKit and UIKit give birth to something new and cross-platform",
     "notes": "<p><ul><li>SwiftUI was announced in 2019.</li></ul></p>",
     "game": "2018 Annual Predictions",
@@ -112,6 +145,23 @@
     "ahead-by": 153,
     "overcast-graded": "https://overcast.fm/+FXx495ZrA/11:13",
     "overcast-picked": "https://overcast.fm/+FXx5giTnQ/1:01:21"
+  },
+  {
+    "text": "Apple announces a Mac mini that is more performant than the original M1 model",
+    "notes": "<p><ul><li>Stephen returns to the Mac mini, since it <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20desktop%20Apple%20Silicon%20Mac%20is%20announced\">served him very well last year</a>.</li></ul></p>",
+    "game": "2021 October Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "Ahead of Its Time",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 0,
+    "ahead-by": 454,
+    "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:03:00",
+    "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/48:20"
   },
   {
     "text": "Apple announces a new display that is not the Pro XDR, launching by the end of 2021 somewhere",
@@ -262,6 +312,21 @@
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:41"
   },
   {
+    "text": "Apple TV box gets a price cut",
+    "notes": "<p><ul><li>After many, many years, Apple finally <a href=\"https://www.apple.com/newsroom/2022/10/apple-introduces-the-powerful-next-generation-apple-tv-4k/\" target=\"_blank\">put out a slightly cut down Apple TV 4K for a lower price</a> in 2022.</li></ul></p>",
+    "game": "2019 Media Event Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "Ahead of Its Time",
+      "Apple TV"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 1301,
+    "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:29:58"
+  },
+  {
     "text": "Apple TV+ will be free with another subscription",
     "notes": "<p><ul><li>Apple One, which includes Apple TV+, launched a year later.</li></ul></p>",
     "game": "2019 Fall Rickies",
@@ -397,6 +462,55 @@
     "ahead-by": 127,
     "overcast-graded": "https://overcast.fm/+FXx4vzIxY/28:44",
     "overcast-picked": "https://overcast.fm/+FXx7hS2kY/37:12"
+  },
+  {
+    "text": "Apple will release at least 1 new pro app for iPad that we haven't previously seen on iPad",
+    "notes": "<p><ul><li>\"(The app can be universal.)\"</li><li>After years of waiting, <a href=\"https://www.apple.com/newsroom/2023/05/apple-brings-final-cut-pro-and-logic-pro-to-ipad/\" target=\"_blank\">Final Cut Pro and Logic Pro come to iPad in 2023</a>.</li></ul></p>",
+    "game": "2020 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time",
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": -1,
+    "ahead-by": 858,
+    "overcast-graded": "https://overcast.fm/+FXx4vzIxY/39:53",
+    "overcast-picked": "https://overcast.fm/+FXx7hS2kY/1:04:05"
+  },
+  {
+    "text": "Apple's classical music service is announced",
+    "notes": "",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Ahead of Its Time",
+      "Services"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 293,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:28:41",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:22:12"
+  },
+  {
+    "text": "Apple's classical music service is unveiled",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Regular",
+    "topics": [
+      "Ahead of Its Time",
+      "Services"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 365,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/27:20",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/34:26"
   },
   {
     "text": "At least one of the 2020 iPhones will have a higher refresh rate display (Pro Motion)",
@@ -644,6 +758,24 @@
     "ahead-by": 361,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:22:00",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:40:35"
+  },
+  {
+    "text": "iOS and iPadOS 15 get native HomeKit widgets",
+    "notes": "<p><ul><li>These came to the iOS 16 lock screen the next year.</li></ul></p>",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPad",
+      "Ahead of Its Time",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "ahead-by": 459,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:17:12",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:36:05"
   },
   {
     "text": "iPad Air preorder date announced",
@@ -913,6 +1045,22 @@
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:26:25"
   },
   {
+    "text": "Ted Lasso Season 3 trailer",
+    "notes": "<p><ul><li>Federico goes <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20trailers%20for%20Apple%20TV%2B%20content\">against Myke's earlier pick</a>.</li></ul></p>",
+    "game": "2022 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Ahead of Its Time",
+      "Apple TV+"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 172,
+    "overcast-graded": "https://overcast.fm/+FXx650Foc/1:26:11",
+    "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:36:02"
+  },
+  {
     "text": "The 13 inch MacBook Pro will gain a larger screen",
     "notes": "<p><ul><li>The long-rumored 14\" model finally came out in 2021.</li></ul></p>",
     "game": "2020 Annual Rickies",
@@ -927,6 +1075,23 @@
     "ahead-by": 291,
     "overcast-graded": "https://overcast.fm/+FXx4vzIxY/32:27",
     "overcast-picked": "https://overcast.fm/+FXx7hS2kY/47:20"
+  },
+  {
+    "text": "The 9th generation iPad is introduced with a USB-C connector",
+    "notes": "",
+    "game": "2021 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time",
+      "Passionate"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "ahead-by": 397,
+    "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:11:29",
+    "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:19:37"
   },
   {
     "text": "The AirPods line is split in two, and the lower end version gets a price drop",
@@ -944,6 +1109,40 @@
     "ahead-by": 712,
     "overcast-graded": "https://overcast.fm/+FXx7iyi9k/19:37",
     "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:20:02"
+  },
+  {
+    "text": "The Apple Watch SE gets a price cut",
+    "notes": "<p><ul><li><a href=\"https://www.apple.com/newsroom/2022/09/apple-reveals-apple-watch-series-8-and-the-new-apple-watch-se/\" target=\"_blank\">Next year's model would</a>, but not this year's.</li></ul></p>",
+    "game": "2021 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "Ahead of Its Time",
+      "Apple Watch",
+      "Passionate"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 356,
+    "overcast-graded": "https://overcast.fm/+FXx6z4vdc/42:32",
+    "overcast-picked": "https://overcast.fm/+FXx5Crqo4/40:31"
+  },
+  {
+    "text": "The Intel Mac mini is removed from sale",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Ahead of Its Time",
+      "Buzzkill"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 314,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/52:19",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:16:57"
   },
   {
     "text": "The iPad home screen will continue to change with new elements and additions",

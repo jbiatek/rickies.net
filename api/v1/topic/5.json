@@ -24,11 +24,12 @@
     "topics": [
       "iPhone",
       "iOS",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Myke",
     "pick-conditions": 2,
     "score": -1,
+    "ahead-by": 356,
     "overcast-graded": "https://overcast.fm/+FXx6z4vdc/48:41",
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/46:48"
   },
@@ -538,18 +539,19 @@
   },
   {
     "text": "iOS and iPadOS 15 get native HomeKit widgets",
-    "notes": "",
+    "notes": "<p><ul><li>These came to the iOS 16 lock screen the next year.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
     "topics": [
       "iOS",
       "iPad",
-      "iPadOS",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "iPadOS"
     ],
     "host": "Federico",
     "pick-conditions": 2,
     "score": 0,
+    "ahead-by": 459,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:17:12",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:36:05"
   },
@@ -974,7 +976,7 @@
   },
   {
     "text": "There will be a system filter for \"always-on display\" in Focus",
-    "notes": "<p><ul><li>Deemed incorrect because it wasn't mentioned and there was no way to find out at the time of grading.</li></ul></p>",
+    "notes": "<p><ul><li>Deemed incorrect because it wasn't mentioned and there was no way to find out at the time of grading. This was in fact the correct decision, as it was not present in iOS 16.</li></ul></p>",
     "game": "2022 September Rickies",
     "type": "Flexie",
     "topics": [
@@ -1083,7 +1085,7 @@
   },
   {
     "text": "You will be able to control which data types show on the always-on lock screen",
-    "notes": "<p><ul><li>Similar to the privacy controls that the always-on Apple Watch has for complications</li><li>This could be a feature, but there was no way to know at the time of grading.</li></ul></p>",
+    "notes": "<p><ul><li>Similar to the privacy controls that the always-on Apple Watch has for complications</li><li>This could have been a feature at the time, but there was no way to know at the time of grading. With the OS now released, we know that it was not present after all.</li></ul></p>",
     "game": "2022 September Rickies",
     "type": "Flexie",
     "topics": [

@@ -547,18 +547,19 @@
         "game": "2022 September Rickies",
         "type": "Flexie",
         "topics": [
-          "Apple TV+",
-          "Possible Vindication"
+          "Ahead of Its Time",
+          "Apple TV+"
         ],
         "host": "Federico",
         "pick-conditions": 1,
         "score": 0,
+        "ahead-by": 172,
         "overcast-graded": "https://overcast.fm/+FXx650Foc/1:26:11",
         "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:36:02"
       },
       {
         "text": "There will be a system filter for \"always-on display\" in Focus",
-        "notes": "<p><ul><li>Deemed incorrect because it wasn't mentioned and there was no way to find out at the time of grading.</li></ul></p>",
+        "notes": "<p><ul><li>Deemed incorrect because it wasn't mentioned and there was no way to find out at the time of grading. This was in fact the correct decision, as it was not present in iOS 16.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
         "topics": [
@@ -574,7 +575,7 @@
       },
       {
         "text": "You will be able to control which data types show on the always-on lock screen",
-        "notes": "<p><ul><li>Similar to the privacy controls that the always-on Apple Watch has for complications</li><li>This could be a feature, but there was no way to know at the time of grading.</li></ul></p>",
+        "notes": "<p><ul><li>Similar to the privacy controls that the always-on Apple Watch has for complications</li><li>This could have been a feature at the time, but there was no way to know at the time of grading. With the OS now released, we know that it was not present after all.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
         "topics": [

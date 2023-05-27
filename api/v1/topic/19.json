@@ -311,17 +311,18 @@
   },
   {
     "text": "Apple will release at least 1 new pro app for iPad that we haven't previously seen on iPad",
-    "notes": "<p><ul><li>\"(The app can be universal.)\"</li></ul></p>",
+    "notes": "<p><ul><li>\"(The app can be universal.)\"</li><li>After years of waiting, <a href=\"https://www.apple.com/newsroom/2023/05/apple-brings-final-cut-pro-and-logic-pro-to-ipad/\" target=\"_blank\">Final Cut Pro and Logic Pro come to iPad in 2023</a>.</li></ul></p>",
     "game": "2020 Annual Rickies",
     "type": "Ricky",
     "topics": [
       "iPad",
-      "Apple Apps",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "Apple Apps"
     ],
     "host": "Federico",
     "pick-conditions": 1,
     "score": -1,
+    "ahead-by": 858,
     "overcast-graded": "https://overcast.fm/+FXx4vzIxY/39:53",
     "overcast-picked": "https://overcast.fm/+FXx7hS2kY/1:04:05"
   },

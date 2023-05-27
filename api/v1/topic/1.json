@@ -95,27 +95,28 @@
   },
   {
     "text": "A more powerful Mac Mini is announced, but it is not a \"Mac Mini Pro\"",
-    "notes": "<p><ul><li>The Mac Studio is very close, but this pick was about the name and the Mac Studio, while very reminiscent of the Mini, is not named as such.</li></ul></p>",
+    "notes": "<p><ul><li>The Mac Studio is very close, but this pick was about the name and the Mac Studio, while very reminiscent of the Mini, is not named as such.</li><li>Just 2 weeks after the grading window closed, <a href=\"https://www.apple.com/newsroom/2023/01/apple-introduces-new-mac-mini-with-m2-and-m2-pro-more-powerful-capable-and-versatile-than-ever/\" target=\"_blank\">the M2 Pro Mac mini was announced</a>.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
     "topics": [
       "Mac",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
     "score": 0,
+    "ahead-by": 17,
     "overcast-graded": "https://overcast.fm/+FXx5wv1as/35:30",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:38:50"
   },
   {
     "text": "A new base model Mac mini is introduced with the M2 chip...",
-    "notes": "<p><ul><li>\"... The new Mini is at least 30% smaller than the current one. It's thicker, but narrower, making it more similar to an Apple TV or Intel NUC.\"</li><li>In other words, closer to a cubic shape, but not necessarily a cube. Although Federico loves cubes, so that would be great.</li></ul></p>",
+    "notes": "<p><ul><li>\"... The new Mini is at least 30% smaller than the current one. It's thicker, but narrower, making it more similar to an Apple TV or Intel NUC.\"</li><li>In other words, closer to a cubic shape, but not necessarily a cube. Although Federico loves cubes, so that would be great.</li><li>The base model would get updated the next year, but it's the same shape.</li></ul></p>",
     "game": "2022 March Rickies",
     "type": "Ricky",
     "topics": [
       "Mac",
-      "Possible Vindication"
+      "Unvindicatable"
     ],
     "host": "Federico",
     "pick-conditions": 4,
@@ -253,12 +254,13 @@
     "type": "Regular",
     "topics": [
       "Mac",
-      "Live Edited",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "Live Edited"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
     "score": 0,
+    "ahead-by": 454,
     "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:03:00",
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/48:20"
   },
@@ -1453,12 +1455,13 @@
     "type": "Flexie",
     "topics": [
       "Mac",
-      "Buzzkill",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "Buzzkill"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 314,
     "overcast-graded": "https://overcast.fm/+FXx4aVfvI/52:19",
     "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:16:57"
   },

@@ -5,12 +5,13 @@
   "type": "Flexie",
   "topics": [
     "Mac",
-    "Buzzkill",
-    "Possible Vindication"
+    "Ahead of Its Time",
+    "Buzzkill"
   ],
   "host": "Stephen",
   "pick-conditions": 1,
   "score": 0,
+  "ahead-by": 314,
   "overcast-graded": "https://overcast.fm/+FXx4aVfvI/52:19",
   "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:16:57"
 }
