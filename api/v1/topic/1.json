@@ -625,6 +625,17 @@
     "overcast-picked": "https://overcast.fm/+FXx5giTnQ/1:08:27"
   },
   {
+    "text": "Apple will announce a 15-inch MacBook Air",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "Apple will introduce a new iMac design with an accompanying external display",
     "notes": "<p><ul><li>The new iMac design wouldn't come out until 2021, and the new display came in 2022.</li></ul></p>",
     "game": "2020 Annual Rickies",
@@ -1130,6 +1141,19 @@
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:03:04"
   },
   {
+    "text": "No Mac Pro teaser video",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Buzzkill",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "No Macs",
     "notes": "<p><ul><li>Based on <a href=\"https://overcast.fm/+FXx5Kx09c/1:27:39\" target=\"_blank\">comments in the grading episode</a>, this might have originally been a sub-bullet point of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20iPads%2C%20iPhone%20and%20Apple%20Watch%20only\">the previous pick</a>.</li></ul></p>",
     "game": "2018 iPhone Event Predictions",
@@ -1377,6 +1401,17 @@
     "ahead-by": 291,
     "overcast-graded": "https://overcast.fm/+FXx4vzIxY/32:27",
     "overcast-picked": "https://overcast.fm/+FXx7hS2kY/47:20"
+  },
+  {
+    "text": "The 15-inch MacBook Air will be powered by an M3",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
   },
   {
     "text": "The Apple Silicon Mac Pro allows third-party GPUs to be used",
@@ -1650,6 +1685,31 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:47:59"
   },
   {
+    "text": "The next version of macOS is called Skyline",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The next version of macOS is not called Skyline",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "The next version of macOS will have at least one feature exclusive to Apple Silicon Macs",
     "notes": "<p><ul><li>There are <a href=\"https://www.apple.com/macos/macos-ventura-preview/features/\" target=\"_blank\">a few examples</a>: live captions in FaceTime, using an iPad Pro as a color reference display, and dictating emoji.</li></ul></p>",
     "game": "2022 WWDC Rickies",
@@ -1746,6 +1806,18 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:12",
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:33:27"
+  },
+  {
+    "text": "We see a Mac Pro preview",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "Webcam will be called \"highest quality on a Mac\"",

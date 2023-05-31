@@ -687,6 +687,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/48:30"
   },
   {
+    "text": "Jeff Williams has a major role in introducing the headset",
+    "notes": "<p><ul><li>Was originally Kevin Lynch until Myke, ever the sportsman, pointed out that Lynch is supposedly on the <em>car</em> project, not the headset.</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Augmented Reality",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
+  },
+  {
     "text": "Legacy widgets are completely removed from the system, and there is no longer a place to put widgets to the left of the main home screen",
     "notes": "",
     "game": "2021 WWDC Rickies",
@@ -1189,6 +1203,18 @@
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:32:33"
   },
   {
+    "text": "The Wallet app gets a new design",
+    "notes": "<p><ul><li>Apparently left unfinished in the document, this was originally just \"The Wallet app.\"</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "There are new ways to turn off the alerts that Shortcuts displays constantly",
     "notes": "<p><ul><li>\"Either confirmation banners or the notification when running with automation.\"</li><li>This came with iOS 16, and the Dynamic Island changed some of these interactions as well.</li></ul></p>",
     "game": "2022 Annual Rickies",
@@ -1282,6 +1308,18 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx61sqT4/49:50",
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:13:04"
+  },
+  {
+    "text": "watchOS 10 gets widgets",
+    "notes": "<p><ul><li>Was originally \"A widget-like interface comes to the Apple Watch\" before some workshopping.</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Apple Watch",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   },
   {
     "text": "We get a colour option that is new to the MacBook Pro (name)",

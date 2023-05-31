@@ -1198,6 +1198,18 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/39:07"
   },
   {
+    "text": "We see at least one new Dynamic Island feature",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "You will be able to control which data types show on the always-on lock screen",
     "notes": "<p><ul><li>Similar to the privacy controls that the always-on Apple Watch has for complications</li><li>This could have been a feature at the time, but there was no way to know at the time of grading. With the OS now released, we know that it was not present after all.</li></ul></p>",
     "game": "2022 September Rickies",

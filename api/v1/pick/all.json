@@ -1308,6 +1308,28 @@
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:10:27"
   },
   {
+    "text": "Apple introduces a brand new journaling app",
+    "notes": "<p><ul><li>Not graded: \"location features for friends, ability to take notes and attach images, maybe integration with Music?\"</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
+    "notes": "<p><ul><li>Not graded: \"A feature in Xcode that uses AI/ML to suggest how to improve your code or solve common problems. It will most likely live in a sidebar and will probably be a Beta feature.\"\n</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Developer tools"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "Apple introduces a new Mac mini with an updated design",
     "notes": "<p><ul><li>Myke insists, and Federico seems to agree, that even a change in the ports on the back is \"an updated design\". Stephen seems less convinced, but that's a matter for grading. It's agreed that it has to be the Mac itself and not, say, an accessory or power cord.</li></ul></p>",
     "game": "2022 March Rickies",
@@ -1629,6 +1651,17 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:08:59",
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:42:23"
+  },
+  {
+    "text": "Apple reframes an existing feature as being powered by \"AI\"",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "Apple releases a bigger iPad Pro",
@@ -2292,6 +2325,17 @@
     "ahead-by": 540,
     "overcast-graded": "https://overcast.fm/+FXx75P5Bg/25:36",
     "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:11:45"
+  },
+  {
+    "text": "Apple will announce a 15-inch MacBook Air",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "Apple will announce a new services bundle",
@@ -3836,6 +3880,18 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/48:30"
   },
   {
+    "text": "iPadOS 17 gains Lock Screen customization",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "iPadOS gets improved split view with at least 3 apps at once",
     "notes": "",
     "game": "2022 WWDC Rickies",
@@ -3967,6 +4023,20 @@
     "ahead-by": 187,
     "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:24:25",
     "overcast-picked": "https://overcast.fm/+FXx4E3x_I/42:39"
+  },
+  {
+    "text": "Jeff Williams has a major role in introducing the headset",
+    "notes": "<p><ul><li>Was originally Kevin Lynch until Myke, ever the sportsman, pointed out that Lynch is supposedly on the <em>car</em> project, not the headset.</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Augmented Reality",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
   },
   {
     "text": "Jeff Williams will take a greater role in the keynote",
@@ -4893,6 +4963,19 @@
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:03:04"
   },
   {
+    "text": "No Mac Pro teaser video",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Buzzkill",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "No Macs",
     "notes": "<p><ul><li>Based on <a href=\"https://overcast.fm/+FXx5Kx09c/1:27:39\" target=\"_blank\">comments in the grading episode</a>, this might have originally been a sub-bullet point of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20iPads%2C%20iPhone%20and%20Apple%20Watch%20only\">the previous pick</a>.</li></ul></p>",
     "game": "2018 iPhone Event Predictions",
@@ -5729,6 +5812,18 @@
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:46:35"
   },
   {
+    "text": "Some new Shortcuts features get covered in the State of the Union",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "Some surprise hardware, like a Tile tracker",
     "notes": "<p><ul><li>Apple's tracker would eventually come out in 2021.</li></ul></p>",
     "game": "2019 Fall Rickies",
@@ -5805,6 +5900,18 @@
     "score": 2,
     "overcast-graded": "https://overcast.fm/+FXx7KvDUI/35:44",
     "overcast-picked": "https://overcast.fm/+FXx7FoU8U/57:29"
+  },
+  {
+    "text": "Stage Manager for iPad gets support for clamshell mode with external displays",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "Ted Lasso Season 3 trailer",
@@ -5885,6 +5992,17 @@
     "overcast-picked": "https://overcast.fm/+FXx7hS2kY/47:20"
   },
   {
+    "text": "The 15-inch MacBook Air will be powered by an M3",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
+  },
+  {
     "text": "The 2020 iPhone line will feature at least one 5G phone",
     "notes": "<p><ul><li>\"Stephen is highly skeptical,\" Stephen jokingly predicts it will be called \"iPhone 11S Pro Max 5G\"</li><li><a href=\"https://overcast.fm/+FXx7hS2kY/1:17:45\" target=\"_blank\">Before the prediction episode has even finished</a>, news breaks that <a href=\"https://twitter.com/MemphisFlyer/status/1207782895479336961\" target=\"_blank\">5G service is coming</a> to <em>Stephen's own neighborhood</em>.</li></ul></p>",
     "game": "2020 Annual Rickies",
@@ -5946,6 +6064,17 @@
     "ahead-by": 712,
     "overcast-graded": "https://overcast.fm/+FXx7iyi9k/19:37",
     "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:20:02"
+  },
+  {
+    "text": "The announced price of the headset will be less than $2,500",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Augmented Reality"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "The Apple Silicon Mac Pro allows third-party GPUs to be used",
@@ -6153,6 +6282,42 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx61X3jI/43:40",
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:01:28"
+  },
+  {
+    "text": "The headset is unveiled",
+    "notes": "<p><ul><li>Indeed, this pick has been made <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Augmented%20Reality\">a few times</a>, but the only one Myke is ineligible to pick is his <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20shows%20off%20their%20headset%20in%20March%2C%20they%20announce%20developer%20tools%20at%20WWDC%2C%20then%20show%20it%20off%20again%20at%20an%20event%20in%20September.%20It%20ships%20to%20customers%20in%20October\">much more detailed and already incorrect annual pick</a>.</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Augmented Reality"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The headset portion of the keynote lasts over an hour",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Augmented Reality",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The Health app gets mood tracking and an iPad version",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Passionate"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
   },
   {
     "text": "The Home app gets redesigned",
@@ -6386,6 +6551,18 @@
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:14:15"
   },
   {
+    "text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Augmented Reality",
+      "Developer tools"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3
+  },
+  {
     "text": "The iPhone 14 entry's price is the same or higher than the 13 mini's price of $699",
     "notes": "",
     "game": "2022 September Rickies",
@@ -6598,6 +6775,17 @@
     "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:18:20"
   },
   {
+    "text": "The keynote video runs over 2 hours",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "The laptops will be thicker than the models they replace",
     "notes": "",
     "game": "2021 October Rickies",
@@ -6715,6 +6903,17 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:23:52",
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:22:13"
+  },
+  {
+    "text": "The Messages app gets an easier way to send photos that does not require tapping an iMessage app anymore",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "The Music app gets an updated design in the Listen Now page",
@@ -7009,6 +7208,19 @@
     "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:20:41"
   },
   {
+    "text": "The next version of iOS brings at least one new AirPods-related feature",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Accessories",
+      "AirPods"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "The next version of iOS brings changes to notifications",
     "notes": "<p><ul><li>Ungraded: a new design, better management</li></ul></p>",
     "game": "2022 WWDC Rickies",
@@ -7038,6 +7250,19 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:40:58"
   },
   {
+    "text": "The next version of iPadOS will introduce a brand new audio routing system, with support for selecting different input sources, similar to macOS...",
+    "notes": "<p><ul><li>\"... This feature will finally allow podcasters like me to record local audio while also being on a FaceTime or Zoom call (assuming apps add support for it).\"</li><li>And there's even more that isn't graded: \"Devices that do not require drivers will work out of the box, like in macOS. I think the Sounds page of Settings will be redesigned.\"</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Developer tools",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3
+  },
+  {
     "text": "The next version of macOS comes with a redesigned Today view",
     "notes": "",
     "game": "2021 WWDC Rickies",
@@ -7052,6 +7277,31 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:32:01",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:47:59"
+  },
+  {
+    "text": "The next version of macOS is called Skyline",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The next version of macOS is not called Skyline",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "The next version of macOS will have at least one feature exclusive to Apple Silicon Macs",
@@ -7112,6 +7362,18 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:17:41",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:37:27"
+  },
+  {
+    "text": "The phrase \"one more thing\" will be used before the headset is announced",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Augmented Reality",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
   },
   {
     "text": "The Pro iPhone gets a new camera feature the regular iPhone doesn't get",
@@ -7175,6 +7437,18 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx75P5Bg/37:44",
     "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:31:16"
+  },
+  {
+    "text": "The Wallet app gets a new design",
+    "notes": "<p><ul><li>Apparently left unfinished in the document, this was originally just \"The Wallet app.\"</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "The Weather app comes to iPad",
@@ -7578,6 +7852,19 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:45:01"
   },
   {
+    "text": "tvOS is not covered in the keynote",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple TV",
+      "Buzzkill",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "Twitter will file for bankruptcy",
     "notes": "<p><ul><li>The first ever <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Non-Apple%20Related\">completely non-Apple related</a> pick!</li></ul></p>",
     "game": "2023 Annual Rickies",
@@ -7657,6 +7944,18 @@
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:21:41"
   },
   {
+    "text": "watchOS 10 gets widgets",
+    "notes": "<p><ul><li>Was originally \"A widget-like interface comes to the Apple Watch\" before some workshopping.</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Apple Watch",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "watchOS 7 gets a software feature we haven't seen yet",
     "notes": "",
     "game": "2020 September Rickies",
@@ -7699,6 +7998,18 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx7KvDUI/33:12",
     "overcast-picked": "https://overcast.fm/+FXx7FoU8U/50:29"
+  },
+  {
+    "text": "We do not know what the price of the headset will be",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Augmented Reality",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   },
   {
     "text": "We do not see AirPods Max 2",
@@ -7790,6 +8101,30 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:12",
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:33:27"
+  },
+  {
+    "text": "We see a Mac Pro preview",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "We see at least one new Dynamic Island feature",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "We see Johny Srouji again",

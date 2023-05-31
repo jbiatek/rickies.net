@@ -1056,6 +1056,19 @@
     "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:20:41"
   },
   {
+    "text": "The next version of iOS brings at least one new AirPods-related feature",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Accessories",
+      "AirPods"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "USB-C charging is faster than the new MagSafe",
     "notes": "<p><ul><li>Which charging methods can do what differs between models, but in all cases MagSafe appears to be equally fast or faster than USB-C.</li></ul></p>",
     "game": "2021 October Rickies",

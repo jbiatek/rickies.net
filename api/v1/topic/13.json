@@ -60,6 +60,19 @@
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:48"
   },
   {
+    "text": "tvOS is not covered in the keynote",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple TV",
+      "Buzzkill",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "Updated Apple TV",
     "notes": "<p><ul><li>Finally happened on <a href=\"https://www.apple.com/newsroom/2021/04/apple-unveils-the-next-generation-of-apple-tv-4k/\" target=\"_blank\">April 20, 2021</a>.</li></ul></p>",
     "game": "2020 October Rickies",

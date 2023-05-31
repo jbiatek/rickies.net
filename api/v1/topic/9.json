@@ -366,6 +366,18 @@
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:16:34"
   },
   {
+    "text": "watchOS 10 gets widgets",
+    "notes": "<p><ul><li>Was originally \"A widget-like interface comes to the Apple Watch\" before some workshopping.</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Apple Watch",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "watchOS 7 gets a software feature we haven't seen yet",
     "notes": "",
     "game": "2020 September Rickies",

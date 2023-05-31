@@ -204,6 +204,17 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:39"
   },
   {
+    "text": "Apple reframes an existing feature as being powered by \"AI\"",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "Apple says literally anything about the HomePod",
     "notes": "",
     "game": "2020 Summer Rickies",
@@ -458,6 +469,20 @@
     "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:26:17"
   },
   {
+    "text": "Jeff Williams has a major role in introducing the headset",
+    "notes": "<p><ul><li>Was originally Kevin Lynch until Myke, ever the sportsman, pointed out that Lynch is supposedly on the <em>car</em> project, not the headset.</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Augmented Reality",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
+  },
+  {
     "text": "Jeff Williams will take a greater role in the keynote",
     "notes": "<p><ul><li>More than just the Apple Watch section</li></ul></p>",
     "game": "2019 Fall Rickies",
@@ -596,6 +621,19 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx61sqT4/42:47",
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:03:04"
+  },
+  {
+    "text": "No Mac Pro teaser video",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Buzzkill",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   },
   {
     "text": "No mention of AirTags",
@@ -772,6 +810,18 @@
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:33:56"
   },
   {
+    "text": "Some new Shortcuts features get covered in the State of the Union",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "Someone is wearing the new Apple Watch while riding a skateboard",
     "notes": "<p><ul><li>A reference to the \"Apple Watch Extreme\" rumors. Maybe Tony Hawk?</li></ul></p>",
     "game": "2022 September Rickies",
@@ -803,6 +853,18 @@
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:30:18"
   },
   {
+    "text": "The headset portion of the keynote lasts over an hour",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Augmented Reality",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "The keynote is a pre-recorded video",
     "notes": "",
     "game": "2022 September Rickies",
@@ -832,6 +894,17 @@
     "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:18:20"
   },
   {
+    "text": "The keynote video runs over 2 hours",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "The Mac is not mentioned",
     "notes": "",
     "game": "2019 Fall Rickies",
@@ -848,6 +921,19 @@
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:26:14"
   },
   {
+    "text": "The next version of macOS is called Skyline",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "The only iPhones seen on stage will be the ones we already know about",
     "notes": "<p><ul><li>This seems to have been a sub-bullet point to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20cheaper%20iPhone%20will%20be%20called%20iPhone%209\">the previous pick</a> originally, but was forcibly upgraded to a full pick by Myke during grading. (Again, this \"game\" wasn't even supposed to be a competition originally.)</li></ul></p>",
     "game": "2018 iPhone Event Predictions",
@@ -860,6 +946,18 @@
     "pick-conditions": 1,
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:27:34"
+  },
+  {
+    "text": "The phrase \"one more thing\" will be used before the headset is announced",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Augmented Reality",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
   },
   {
     "text": "The removal of Force Touch on watchOS is framed as the inclusion of Haptic Touch",
@@ -999,6 +1097,19 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:41:06"
   },
   {
+    "text": "tvOS is not covered in the keynote",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple TV",
+      "Buzzkill",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "Universal Control is demoed again",
     "notes": "",
     "game": "2022 March Rickies",
@@ -1016,6 +1127,18 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4aVfvI/50:45",
     "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:14:19"
+  },
+  {
+    "text": "We do not know what the price of the headset will be",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Augmented Reality",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   },
   {
     "text": "We do not see John Ternus",
@@ -1075,6 +1198,18 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:12",
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:33:27"
+  },
+  {
+    "text": "We see a Mac Pro preview",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "We see Johny Srouji again",

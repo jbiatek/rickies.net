@@ -202,6 +202,18 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/48:30"
   },
   {
+    "text": "iPadOS 17 gains Lock Screen customization",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "iPadOS gets improved split view with at least 3 apps at once",
     "notes": "",
     "game": "2022 WWDC Rickies",
@@ -324,6 +336,18 @@
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:46:35"
   },
   {
+    "text": "Stage Manager for iPad gets support for clamshell mode with external displays",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "The big iPad Pro is updated with a feature that is unique to it",
     "notes": "",
     "game": "2021 April Rickies",
@@ -387,6 +411,19 @@
     "ahead-by": 409,
     "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:16:06",
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:05:38"
+  },
+  {
+    "text": "The next version of iPadOS will introduce a brand new audio routing system, with support for selecting different input sources, similar to macOS...",
+    "notes": "<p><ul><li>\"... This feature will finally allow podcasters like me to record local audio while also being on a FaceTime or Zoom call (assuming apps add support for it).\"</li><li>And there's even more that isn't graded: \"Devices that do not require drivers will work out of the box, like in macOS. I think the Sounds page of Settings will be redesigned.\"</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Developer tools",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3
   },
   {
     "text": "There is no additional external display support for iPadOS",

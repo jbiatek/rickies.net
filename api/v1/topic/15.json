@@ -168,6 +168,20 @@
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/59:00"
   },
   {
+    "text": "Jeff Williams has a major role in introducing the headset",
+    "notes": "<p><ul><li>Was originally Kevin Lynch until Myke, ever the sportsman, pointed out that Lynch is supposedly on the <em>car</em> project, not the headset.</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Augmented Reality",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
+  },
+  {
     "text": "No Apple-made headset is seen",
     "notes": "<p><ul><li>Was originally \"AR/VR/MR hardware\" and \"introduced\", but the others wanted some clarifications.</li></ul></p>",
     "game": "2022 WWDC Rickies",
@@ -244,5 +258,75 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx75_MJc/08:55",
     "overcast-picked": "https://overcast.fm/+FXx7nikbQ/41:51"
+  },
+  {
+    "text": "The announced price of the headset will be less than $2,500",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Augmented Reality"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The headset is unveiled",
+    "notes": "<p><ul><li>Indeed, this pick has been made <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Augmented%20Reality\">a few times</a>, but the only one Myke is ineligible to pick is his <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20shows%20off%20their%20headset%20in%20March%2C%20they%20announce%20developer%20tools%20at%20WWDC%2C%20then%20show%20it%20off%20again%20at%20an%20event%20in%20September.%20It%20ships%20to%20customers%20in%20October\">much more detailed and already incorrect annual pick</a>.</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Augmented Reality"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The headset portion of the keynote lasts over an hour",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Augmented Reality",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Augmented Reality",
+      "Developer tools"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3
+  },
+  {
+    "text": "The phrase \"one more thing\" will be used before the headset is announced",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Augmented Reality",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
+  },
+  {
+    "text": "We do not know what the price of the headset will be",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Augmented Reality",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   }
 ]

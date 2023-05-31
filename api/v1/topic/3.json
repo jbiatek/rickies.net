@@ -32,6 +32,20 @@
     "overcast-picked": "https://overcast.fm/+FXx7hS2kY/37:12"
   },
   {
+    "text": "Jeff Williams has a major role in introducing the headset",
+    "notes": "<p><ul><li>Was originally Kevin Lynch until Myke, ever the sportsman, pointed out that Lynch is supposedly on the <em>car</em> project, not the headset.</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Augmented Reality",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
+  },
+  {
     "text": "Someone on Apple's executive website will leave or be fired",
     "notes": "<p><ul><li><a href=\"https://web.archive.org/web/20190110012030/https://www.apple.com/leadership/\" target=\"_blank\">The page as it existed at the time of the pick</a>.</li><li>Above or below \"the line\", but in the end people from both sections did leave.</li></ul></p>",
     "game": "2019 Annual Predictions",

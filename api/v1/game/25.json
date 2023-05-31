@@ -1,0 +1,360 @@
+{
+  "name": "2023 WWDC Rickies",
+  "game-type": "Keynote",
+  "date-graded": "",
+  "date-picked": "2023-05-31",
+  "main-game": {
+    "picks": [
+      {
+        "text": "The Health app gets mood tracking and an iPad version",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPad",
+          "Apple Apps",
+          "Passionate"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2
+      },
+      {
+        "text": "The headset is unveiled",
+        "notes": "<p><ul><li>Indeed, this pick has been made <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Augmented%20Reality\">a few times</a>, but the only one Myke is ineligible to pick is his <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20shows%20off%20their%20headset%20in%20March%2C%20they%20announce%20developer%20tools%20at%20WWDC%2C%20then%20show%20it%20off%20again%20at%20an%20event%20in%20September.%20It%20ships%20to%20customers%20in%20October\">much more detailed and already incorrect annual pick</a>.</li></ul></p>",
+        "game": "2023 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "Augmented Reality"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Apple will announce a 15-inch MacBook Air",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Apple introduces a brand new journaling app",
+        "notes": "<p><ul><li>Not graded: \"location features for friends, ability to take notes and attach images, maybe integration with Music?\"</li></ul></p>",
+        "game": "2023 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "Apple Apps"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "watchOS 10 gets widgets",
+        "notes": "<p><ul><li>Was originally \"A widget-like interface comes to the Apple Watch\" before some workshopping.</li></ul></p>",
+        "game": "2023 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "Apple Watch",
+          "Live Edited"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1
+      },
+      {
+        "text": "The phrase \"one more thing\" will be used before the headset is announced",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "Augmented Reality",
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2
+      },
+      {
+        "text": "The next version of iPadOS will introduce a brand new audio routing system, with support for selecting different input sources, similar to macOS...",
+        "notes": "<p><ul><li>\"... This feature will finally allow podcasters like me to record local audio while also being on a FaceTime or Zoom call (assuming apps add support for it).\"</li><li>And there's even more that isn't graded: \"Devices that do not require drivers will work out of the box, like in macOS. I think the Sounds page of Settings will be redesigned.\"</li></ul></p>",
+        "game": "2023 WWDC Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPad",
+          "Developer tools",
+          "iPadOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 3
+      },
+      {
+        "text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
+        "notes": "<p><ul><li>Not graded: \"A feature in Xcode that uses AI/ML to suggest how to improve your code or solve common problems. It will most likely live in a sidebar and will probably be a Beta feature.\"\n</li></ul></p>",
+        "game": "2023 WWDC Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Developer tools"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1
+      },
+      {
+        "text": "The announced price of the headset will be less than $2,500",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Augmented Reality"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1
+      }
+    ],
+    "coin-flips": [],
+    "winner": "TBD"
+  },
+  "the-flexies": {
+    "picks": [
+      {
+        "text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Augmented Reality",
+          "Developer tools"
+        ],
+        "host": "Myke",
+        "pick-conditions": 3
+      },
+      {
+        "text": "No Mac Pro teaser video",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Buzzkill",
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1
+      },
+      {
+        "text": "We do not know what the price of the headset will be",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Augmented Reality",
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1
+      },
+      {
+        "text": "The headset portion of the keynote lasts over an hour",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Augmented Reality",
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1
+      },
+      {
+        "text": "tvOS is not covered in the keynote",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple TV",
+          "Buzzkill",
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1
+      },
+      {
+        "text": "The Messages app gets an easier way to send photos that does not require tapping an iMessage app anymore",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Apps"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Stage Manager for iPad gets support for clamshell mode with external displays",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "iPadOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "The next version of macOS is called Skyline",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Stagecraft"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "We see at least one new Dynamic Island feature",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "iOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "The Wallet app gets a new design",
+        "notes": "<p><ul><li>Apparently left unfinished in the document, this was originally just \"The Wallet app.\"</li></ul></p>",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Apps",
+          "Live Edited"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Some new Shortcuts features get covered in the State of the Union",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Apps",
+          "Stagecraft"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "The next version of iOS brings at least one new AirPods-related feature",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS",
+          "Accessories",
+          "AirPods"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "The keynote video runs over 2 hours",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1
+      },
+      {
+        "text": "The 15-inch MacBook Air will be powered by an M3",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2
+      },
+      {
+        "text": "Apple reframes an existing feature as being powered by \"AI\"",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Jeff Williams has a major role in introducing the headset",
+        "notes": "<p><ul><li>Was originally Kevin Lynch until Myke, ever the sportsman, pointed out that Lynch is supposedly on the <em>car</em> project, not the headset.</li></ul></p>",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple management",
+          "Augmented Reality",
+          "Live Edited",
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2
+      },
+      {
+        "text": "iPadOS 17 gains Lock Screen customization",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPad",
+          "iPadOS"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1
+      },
+      {
+        "text": "We see a Mac Pro preview",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1
+      },
+      {
+        "text": "The next version of macOS is not called Skyline",
+        "notes": "",
+        "game": "2023 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "macOS"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1
+      }
+    ],
+    "coin-flips": [],
+    "winner": "TBD"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #452: The Rickies (WWDC 2023)",
+      "url": "https://relay.fm/connected/452",
+      "episode-number": 452
+    }
+  ]
+}
