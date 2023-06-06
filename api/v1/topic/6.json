@@ -1207,7 +1207,8 @@
       "iOS"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:34"
   },
   {
     "text": "You will be able to control which data types show on the always-on lock screen",

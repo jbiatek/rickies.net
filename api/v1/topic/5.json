@@ -940,7 +940,8 @@
       "AirPods"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:05:39"
   },
   {
     "text": "The next version of iOS brings changes to notifications",
@@ -1059,7 +1060,8 @@
       "iOS"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:34"
   },
   {
     "text": "WidgetKit will support new widget sizes and more interactivity",

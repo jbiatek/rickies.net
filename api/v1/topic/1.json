@@ -633,7 +633,8 @@
       "Mac"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/23:55"
   },
   {
     "text": "Apple will introduce a new iMac design with an accompanying external display",
@@ -1151,7 +1152,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:00:09"
   },
   {
     "text": "No Macs",
@@ -1411,7 +1413,8 @@
       "Mac"
     ],
     "host": "Stephen",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:09"
   },
   {
     "text": "The Apple Silicon Mac Pro allows third-party GPUs to be used",
@@ -1695,7 +1698,8 @@
       "Stagecraft"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:17"
   },
   {
     "text": "The next version of macOS is not called Skyline",
@@ -1707,7 +1711,8 @@
       "macOS"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:09:19"
   },
   {
     "text": "The next version of macOS will have at least one feature exclusive to Apple Silicon Macs",
@@ -1817,7 +1822,8 @@
       "Stagecraft"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:09:09"
   },
   {
     "text": "Webcam will be called \"highest quality on a Mac\"",

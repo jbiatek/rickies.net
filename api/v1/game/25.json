@@ -16,7 +16,8 @@
           "Passionate"
         ],
         "host": "Federico",
-        "pick-conditions": 2
+        "pick-conditions": 2,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/15:17"
       },
       {
         "text": "The headset is unveiled",
@@ -27,7 +28,8 @@
           "Augmented Reality"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/18:48"
       },
       {
         "text": "Apple will announce a 15-inch MacBook Air",
@@ -38,7 +40,8 @@
           "Mac"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/23:55"
       },
       {
         "text": "Apple introduces a brand new journaling app",
@@ -49,7 +52,8 @@
           "Apple Apps"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/25:34"
       },
       {
         "text": "watchOS 10 gets widgets",
@@ -61,7 +65,8 @@
           "Live Edited"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/30:03"
       },
       {
         "text": "The phrase \"one more thing\" will be used before the headset is announced",
@@ -73,11 +78,12 @@
           "Stagecraft"
         ],
         "host": "Stephen",
-        "pick-conditions": 2
+        "pick-conditions": 2,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/33:24"
       },
       {
         "text": "The next version of iPadOS will introduce a brand new audio routing system, with support for selecting different input sources, similar to macOS...",
-        "notes": "<p><ul><li>\"... This feature will finally allow podcasters like me to record local audio while also being on a FaceTime or Zoom call (assuming apps add support for it).\"</li><li>And there's even more that isn't graded: \"Devices that do not require drivers will work out of the box, like in macOS. I think the Sounds page of Settings will be redesigned.\"</li></ul></p>",
+        "notes": "<p><ul><li>\"... This feature will finally allow podcasters like me to record local audio while also being on a FaceTime or Zoom call (assuming apps add support for it).\"</li><li>And there's even more that isn't graded: \"Devices that do not require drivers will work out of the box, like in macOS. I think the Sounds page of Settings will be redesigned.\"</li><li>Federico guesses that this is his longest-ever Risky Pick, and <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Pick%20Text%20Length\">he's right, this is in fact his longest ever pick period</a>, beating out <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20will%20release%20its%20biggest%20iPad%20ever%20with%20a%20display%20of%20at%20least%2016%20inches...\">this one</a> from earlier the same year.</li></ul></p>",
         "game": "2023 WWDC Rickies",
         "type": "Ricky",
         "topics": [
@@ -86,7 +92,8 @@
           "iPadOS"
         ],
         "host": "Federico",
-        "pick-conditions": 3
+        "pick-conditions": 3,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/38:36"
       },
       {
         "text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
@@ -97,7 +104,8 @@
           "Developer tools"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/42:28"
       },
       {
         "text": "The announced price of the headset will be less than $2,500",
@@ -108,7 +116,8 @@
           "Augmented Reality"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 2,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/47:54"
       }
     ],
     "coin-flips": [],
@@ -126,7 +135,8 @@
           "Developer tools"
         ],
         "host": "Myke",
-        "pick-conditions": 3
+        "pick-conditions": 3,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/59:50"
       },
       {
         "text": "No Mac Pro teaser video",
@@ -139,7 +149,8 @@
           "Stagecraft"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:00:09"
       },
       {
         "text": "We do not know what the price of the headset will be",
@@ -151,7 +162,8 @@
           "Stagecraft"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:26"
       },
       {
         "text": "The headset portion of the keynote lasts over an hour",
@@ -163,7 +175,8 @@
           "Stagecraft"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:31"
       },
       {
         "text": "tvOS is not covered in the keynote",
@@ -176,7 +189,8 @@
           "Stagecraft"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:36"
       },
       {
         "text": "The Messages app gets an easier way to send photos that does not require tapping an iMessage app anymore",
@@ -187,7 +201,8 @@
           "Apple Apps"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:02:22"
       },
       {
         "text": "Stage Manager for iPad gets support for clamshell mode with external displays",
@@ -199,7 +214,8 @@
           "iPadOS"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:00"
       },
       {
         "text": "The next version of macOS is called Skyline",
@@ -212,7 +228,8 @@
           "Stagecraft"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:17"
       },
       {
         "text": "We see at least one new Dynamic Island feature",
@@ -224,7 +241,8 @@
           "iOS"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:34"
       },
       {
         "text": "The Wallet app gets a new design",
@@ -236,7 +254,8 @@
           "Live Edited"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:45"
       },
       {
         "text": "Some new Shortcuts features get covered in the State of the Union",
@@ -248,7 +267,8 @@
           "Stagecraft"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:05:23"
       },
       {
         "text": "The next version of iOS brings at least one new AirPods-related feature",
@@ -261,7 +281,8 @@
           "AirPods"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:05:39"
       },
       {
         "text": "The keynote video runs over 2 hours",
@@ -272,7 +293,8 @@
           "Stagecraft"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:01"
       },
       {
         "text": "The 15-inch MacBook Air will be powered by an M3",
@@ -283,7 +305,8 @@
           "Mac"
         ],
         "host": "Stephen",
-        "pick-conditions": 2
+        "pick-conditions": 2,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:09"
       },
       {
         "text": "Apple reframes an existing feature as being powered by \"AI\"",
@@ -294,7 +317,8 @@
           "Stagecraft"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:25"
       },
       {
         "text": "Jeff Williams has a major role in introducing the headset",
@@ -308,7 +332,8 @@
           "Stagecraft"
         ],
         "host": "Stephen",
-        "pick-conditions": 2
+        "pick-conditions": 2,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:42"
       },
       {
         "text": "iPadOS 17 gains Lock Screen customization",
@@ -320,7 +345,8 @@
           "iPadOS"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:09:02"
       },
       {
         "text": "We see a Mac Pro preview",
@@ -332,7 +358,8 @@
           "Stagecraft"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:09:09"
       },
       {
         "text": "The next version of macOS is not called Skyline",
@@ -344,7 +371,8 @@
           "macOS"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:09:19"
       }
     ],
     "coin-flips": [],

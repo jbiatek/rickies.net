@@ -698,7 +698,8 @@
       "Stagecraft"
     ],
     "host": "Stephen",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:42"
   },
   {
     "text": "Legacy widgets are completely removed from the system, and there is no longer a place to put widgets to the left of the main home screen",
@@ -1212,7 +1213,8 @@
       "Live Edited"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:45"
   },
   {
     "text": "There are new ways to turn off the alerts that Shortcuts displays constantly",
@@ -1319,7 +1321,8 @@
       "Live Edited"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/30:03"
   },
   {
     "text": "We get a colour option that is new to the MacBook Pro (name)",

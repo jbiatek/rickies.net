@@ -179,7 +179,8 @@
       "Stagecraft"
     ],
     "host": "Stephen",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:42"
   },
   {
     "text": "No Apple-made headset is seen",
@@ -268,7 +269,8 @@
       "Augmented Reality"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/47:54"
   },
   {
     "text": "The headset is unveiled",
@@ -279,7 +281,8 @@
       "Augmented Reality"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/18:48"
   },
   {
     "text": "The headset portion of the keynote lasts over an hour",
@@ -291,7 +294,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:31"
   },
   {
     "text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
@@ -303,7 +307,8 @@
       "Developer tools"
     ],
     "host": "Myke",
-    "pick-conditions": 3
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/59:50"
   },
   {
     "text": "The phrase \"one more thing\" will be used before the headset is announced",
@@ -315,7 +320,8 @@
       "Stagecraft"
     ],
     "host": "Stephen",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/33:24"
   },
   {
     "text": "We do not know what the price of the headset will be",
@@ -327,6 +333,7 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:26"
   }
 ]

@@ -329,7 +329,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:00:09"
   },
   {
     "text": "No Macs",
@@ -859,7 +860,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:36"
   },
   {
     "text": "We do not see AirPods Max 2",
