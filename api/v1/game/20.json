@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "The 11\" iPad Pro gets a mini LED display",
+        "full-pick-text": "The 11\" iPad Pro gets a mini LED display",
         "notes": "<p><ul><li>This was originally \"WWDC 2022 will be virtual\", but that was very close to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20in-person%20WWDC%202021\">last year's pick</a>, which was within the 365 day limit. It was a borderline judgement, but ultimately they decided they didn't like the precedent.</li></ul></p>",
         "game": "2022 Annual Rickies",
         "type": "Regular",
@@ -23,6 +24,7 @@
       },
       {
         "text": "At least one AirPods model will support lossless music playback",
+        "full-pick-text": "At least one AirPods model will support lossless music playback",
         "notes": "",
         "game": "2022 Annual Rickies",
         "type": "Regular",
@@ -39,6 +41,7 @@
       },
       {
         "text": "Apple releases a new MacBook Air that comes with some colour options not previously available in this product line",
+        "full-pick-text": "Apple releases a new MacBook Air that comes with some colour options not previously available in this product line",
         "notes": "<p><ul><li>It got Midnight and Starlight.</li><li>This is the beginning of an increasingly musical accompaniment to Stephen's \"correct\" bell, to accommodate Zoom's echo cancellation.</li></ul></p>",
         "game": "2022 Annual Rickies",
         "type": "Regular",
@@ -53,6 +56,7 @@
       },
       {
         "text": "The iPad's external display support goes unchanged",
+        "full-pick-text": "The iPad's external display support goes unchanged",
         "notes": "<p><ul><li>Was originally \"By December 31, 2022, no Intel Macs will remain on sale as new machines\", but this was also <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20has%20Apple%20Silicon%20versions%20of%20all%20of%20its%20Intel%20Macs%20on%20sale%20by%20the%20end%20of%202021\">too close for comfort</a>, although arguably the previous pick was more permissive than this would have been.</li><li>Stage Manager in fact brought major changes.</li></ul></p>",
         "game": "2022 Annual Rickies",
         "type": "Regular",
@@ -70,6 +74,7 @@
       },
       {
         "text": "The next generation Apple Watch will have some kind of body temperature sensor",
+        "full-pick-text": "The next generation Apple Watch will have some kind of body temperature sensor",
         "notes": "",
         "game": "2022 Annual Rickies",
         "type": "Regular",
@@ -84,6 +89,7 @@
       },
       {
         "text": "There will be no iPhone 14 with a 5.4\" display",
+        "full-pick-text": "There will be no iPhone 14 with a 5.4\" display",
         "notes": "<p><ul><li>AKA the iPhone mini.</li><li>😭</li></ul></p>",
         "game": "2022 Annual Rickies",
         "type": "Regular",
@@ -99,6 +105,7 @@
       },
       {
         "text": "Apple (of its own choice, not in direct response to a legal case) will allow developers to use payment methods outside the App Store",
+        "full-pick-text": "Apple (of its own choice, not in direct response to a legal case) will allow developers to use payment methods outside the App Store",
         "notes": "",
         "game": "2022 Annual Rickies",
         "type": "Ricky",
@@ -114,6 +121,7 @@
       },
       {
         "text": "iOS 16 brings major changes for systemwide design customization",
+        "full-pick-text": "iOS 16 brings major changes for systemwide design customization",
         "notes": "<p><ul><li>Also, \"Apple will let users choose their own app icons, and they'll introduce new App Store categories for wallpaper and/or icon apps\"</li><li>A reuse and double down of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#iOS%20gets%20a%20native%20feature%20to%20change%20icons%20for%20any%20app%20you%20want\">last year's Flexie</a>.</li></ul></p>",
         "game": "2022 Annual Rickies",
         "type": "Ricky",
@@ -130,6 +138,7 @@
       },
       {
         "text": "The new Mac Pro will be...",
+        "full-pick-text": "The new Mac Pro will be smaller, not a cube shape, feature no support for the current MPX modules and/or will allow for some form of expandability outside of Thunderbolt. It will be only be available in one color.",
         "notes": "<p><ul><li>\"... smaller, not a cube shape, feature no support for the current MPX modules and/or will allow for some form of expandability outside of Thunderbolt. It will be only be available in one color.\"</li><li>Another \"and/or\" added to a pick, which happened a few times this episode. It applies to just the MPX modules and expandability clause.</li></ul></p>",
         "game": "2022 Annual Rickies",
         "type": "Ricky",
@@ -166,6 +175,7 @@
     "picks": [
       {
         "text": "Tim Cook says \"metaverse\"",
+        "full-pick-text": "Tim Cook says \"metaverse\"",
         "notes": "<p><ul><li><a href=\"https://9to5mac.com/2022/09/30/tim-cook-metaverse-interviews/\" target=\"_blank\">Correct, as reported at 9to5Mac.</a></li></ul></p>",
         "game": "2022 Annual Rickies",
         "type": "Flexie",
@@ -180,6 +190,7 @@
       },
       {
         "text": "New AirPods Max",
+        "full-pick-text": "New AirPods Max",
         "notes": "<p><ul><li>Was originally \"AirPods Max 2\"</li></ul></p>",
         "game": "2022 Annual Rickies",
         "type": "Flexie",
@@ -197,6 +208,7 @@
       },
       {
         "text": "A headset will not be unveiled at WWDC",
+        "full-pick-text": "A headset will not be unveiled at WWDC",
         "notes": "",
         "game": "2022 Annual Rickies",
         "type": "Flexie",
@@ -213,6 +225,7 @@
       },
       {
         "text": "An iMac Pro is unveiled",
+        "full-pick-text": "An iMac Pro is unveiled",
         "notes": "",
         "game": "2022 Annual Rickies",
         "type": "Flexie",
@@ -228,6 +241,7 @@
       },
       {
         "text": "iPadOS multitasking remains unchanged from iOS 15's implementation",
+        "full-pick-text": "iPadOS multitasking remains unchanged from iOS 15's implementation",
         "notes": "",
         "game": "2022 Annual Rickies",
         "type": "Flexie",
@@ -245,6 +259,7 @@
       },
       {
         "text": "iOS 16 will bring a more \"bottom-of-the-screen-centric\" design to at least 1 additional app",
+        "full-pick-text": "iOS 16 will bring a more \"bottom-of-the-screen-centric\" design to at least 1 additional app",
         "notes": "<p><ul><li>Books as well as the Lock Screen were cited.</li></ul></p>",
         "game": "2022 Annual Rickies",
         "type": "Flexie",
@@ -259,6 +274,7 @@
       },
       {
         "text": "Apple announces a new paid service",
+        "full-pick-text": "Apple announces a new paid service",
         "notes": "<p><ul><li><a href=\"https://9to5mac.com/2022/12/20/apple-mls-season-pass-schedule/\" target=\"_blank\">Apple's Major League Soccer deal</a> qualifies.</li></ul></p>",
         "game": "2022 Annual Rickies",
         "type": "Flexie",
@@ -273,6 +289,7 @@
       },
       {
         "text": "A new home-focused device is released",
+        "full-pick-text": "A new home-focused device is released",
         "notes": "",
         "game": "2022 Annual Rickies",
         "type": "Flexie",
@@ -288,6 +305,7 @@
       },
       {
         "text": "Apple announces a developer kit for its headset",
+        "full-pick-text": "Apple announces a developer kit for its headset",
         "notes": "",
         "game": "2022 Annual Rickies",
         "type": "Flexie",
@@ -304,6 +322,7 @@
       },
       {
         "text": "A more powerful Mac Mini is announced, but it is not a \"Mac Mini Pro\"",
+        "full-pick-text": "A more powerful Mac Mini is announced, but it is not a \"Mac Mini Pro\"",
         "notes": "<p><ul><li>The Mac Studio is very close, but this pick was about the name and the Mac Studio, while very reminiscent of the Mini, is not named as such.</li><li>Just 2 weeks after the grading window closed, <a href=\"https://www.apple.com/newsroom/2023/01/apple-introduces-new-mac-mini-with-m2-and-m2-pro-more-powerful-capable-and-versatile-than-ever/\" target=\"_blank\">the M2 Pro Mac mini was announced</a>.</li></ul></p>",
         "game": "2022 Annual Rickies",
         "type": "Flexie",
@@ -320,6 +339,7 @@
       },
       {
         "text": "Apple stops using the iTunes Store app, and moves store content into dedicated apps",
+        "full-pick-text": "Apple stops using the iTunes Store app, and moves store content into dedicated apps",
         "notes": "",
         "game": "2022 Annual Rickies",
         "type": "Flexie",
@@ -336,6 +356,7 @@
       },
       {
         "text": "Apple brings Mail extensions to iOS and iPadOS",
+        "full-pick-text": "Apple brings Mail extensions to iOS and iPadOS",
         "notes": "",
         "game": "2022 Annual Rickies",
         "type": "Flexie",
@@ -354,6 +375,7 @@
       },
       {
         "text": "Apple Notes will borrow some features from the modern generation of note-taking apps",
+        "full-pick-text": "Apple Notes will borrow some features from the modern generation of note-taking apps, like wiki-style links, a quick switcher, or nested pages.",
         "notes": "<p><ul><li>\"...like wiki-style links, a quick switcher, or nested pages.\"</li></ul></p>",
         "game": "2022 Annual Rickies",
         "type": "Flexie",
@@ -369,6 +391,7 @@
       },
       {
         "text": "Some Mac-only Shortcuts actions will become available on iPhone and iPad",
+        "full-pick-text": "Some Mac-only Shortcuts actions will become available on iPhone and iPad",
         "notes": "",
         "game": "2022 Annual Rickies",
         "type": "Flexie",
@@ -387,6 +410,7 @@
       },
       {
         "text": "There are new ways to turn off the alerts that Shortcuts displays constantly",
+        "full-pick-text": "There are new ways to turn off the alerts that Shortcuts displays constantly",
         "notes": "<p><ul><li>\"Either confirmation banners or the notification when running with automation.\"</li><li>This came with iOS 16, and the Dynamic Island changed some of these interactions as well.</li></ul></p>",
         "game": "2022 Annual Rickies",
         "type": "Flexie",
@@ -402,6 +426,7 @@
       },
       {
         "text": "Podcasts will gain audio effects for enhanced sound and trim silence",
+        "full-pick-text": "Podcasts will gain audio effects for enhanced sound and trim silence",
         "notes": "<p><ul><li>Originally was Federico's Risky Pick.</li></ul></p>",
         "game": "2022 Annual Rickies",
         "type": "Flexie",
@@ -418,6 +443,7 @@
       },
       {
         "text": "Apple adds more filters to smart folders in Notes",
+        "full-pick-text": "Apple adds more filters to smart folders in Notes",
         "notes": "",
         "game": "2022 Annual Rickies",
         "type": "Flexie",

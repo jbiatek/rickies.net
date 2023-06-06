@@ -1,6 +1,7 @@
 [
   {
     "text": "2019 iPhones will start at a lower price than the 2018 iPhones",
+    "full-pick-text": "2019 iPhones will start at a lower price than the 2018 iPhones",
     "notes": "",
     "game": "2019 Annual Predictions",
     "type": "NonGraded",
@@ -16,6 +17,7 @@
   },
   {
     "text": "A new iMac has adjustability that is reminiscent of the Pro Display XDR",
+    "full-pick-text": "A new iMac has adjustability that is reminiscent of the Pro Display XDR",
     "notes": "",
     "game": "2021 Annual Rickies",
     "type": "Flexie",
@@ -32,6 +34,7 @@
   },
   {
     "text": "A new iPad mini is introduced with a refreshed design, new colours previously not a part of the product, USB-C, Smart Connector, and 5G support",
+    "full-pick-text": "A new iPad mini is introduced with a refreshed design, new colours previously not a part of the product, USB-C, Smart Connector, and 5G support",
     "notes": "<p><ul><li>Originally a Risky Pick.</li><li>This was <i>very</i> close to coming true, but it was missing a Smart Connector.</li></ul></p>",
     "game": "2021 September Rickies",
     "type": "Flexie",
@@ -48,6 +51,7 @@
   },
   {
     "text": "Apple will also announce a service bundle to get multiple services for one integrated fee",
+    "full-pick-text": "Apple will also announce a service bundle to get multiple services for one integrated fee",
     "notes": "<p><ul><li>Ironically, this was deemed insufficiently risky to be a Risky Pick.</li><li>Federico was a year early on this pick, as Apple One was introduced in October 2020.</li></ul></p>",
     "game": "2019 Media Event Predictions",
     "type": "Regular",
@@ -65,6 +69,7 @@
   },
   {
     "text": "Apple will introduce a new iMac design with an accompanying external display",
+    "full-pick-text": "Apple will introduce a new iMac design with an accompanying external display",
     "notes": "<p><ul><li>The new iMac design wouldn't come out until 2021, and the new display came in 2022.</li></ul></p>",
     "game": "2020 Annual Rickies",
     "type": "NonGraded",
@@ -82,6 +87,7 @@
   },
   {
     "text": "At least one of the Apple Silicon Macs has a Pro Motion display",
+    "full-pick-text": "At least one of the Apple Silicon Macs has a Pro Motion display",
     "notes": "<p><ul><li>Was originally a Risky Pick.</li><li>ProMotion came to the Mac the next year with the MacBook Pro line.</li></ul></p>",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -99,6 +105,7 @@
   },
   {
     "text": "Center Stage comes to the iPhone",
+    "full-pick-text": "Center Stage comes to the iPhone",
     "notes": "<p><ul><li>This was tossed out as a possible replacement Risky pick for this game after Stephen's original got invalidated, but ultimately landed as a Flexie.</li></ul></p>",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -116,6 +123,7 @@
   },
   {
     "text": "iPad multitasking is overhauled again",
+    "full-pick-text": "iPad multitasking is overhauled again",
     "notes": "",
     "game": "2021 Annual Rickies",
     "type": "Flexie",
@@ -132,6 +140,7 @@
   },
   {
     "text": "iPadOS 15 brings organization changes to the home screen that don’t exist on the iPhone, including iOS 15",
+    "full-pick-text": "iPadOS 15 brings organization changes to the home screen that don’t exist on the iPhone, including iOS 15",
     "notes": "<p><ul>\n<li>\"Widgets on home screen and App Library don't count as they are on the iPhone already\"</li>\n<li>This was originally a Risky Pick, but Myke couldn't get enough clarity for what it meant.</li>\n</ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Regular",
@@ -150,6 +159,7 @@
   },
   {
     "text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
+    "full-pick-text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
     "notes": "<p><ul><li>Was originally a Risky pick with the addition of a \"with keyboard and trackpad\" clause, but <a href=\"https://twitter.com/stroughtonsmith/status/1529836983874469891\" target=\"_blank\">some WebKit source code changes</a> made it much less risky. He watered it down further by removing an \"overlapping\" clause as well and not phrasing it as a \"desktop-like mode\", but then decided to just go all the way back to the original pick.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Regular",
@@ -167,6 +177,7 @@
   },
   {
     "text": "Lightning is updated to be faster than USB 2.0",
+    "full-pick-text": "Lightning is updated to be faster than USB 2.0",
     "notes": "<p><ul><li>This was Stephen's original <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#iOS%20gets%20split-view%20support%20for%20multitasking%20to%20use%202%20apps%20at%20once%20(reuse)\">risky pick</a>, but <a href=\"https://9to5mac.com/2022/04/19/sketchy-rumor-claims-iphone-14-pro-will-feature-faster-usb-3-0-lightning-connector/\" target=\"_blank\">it turns out it's in the rumor mill</a>.</li></ul></p>",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -184,6 +195,7 @@
   },
   {
     "text": "New Apple Watch is a 'Series 8' Watch",
+    "full-pick-text": "New Apple Watch is a 'Series 8' Watch",
     "notes": "<p><ul><li>\"It may 'technically' be an Edition, but no new name (like Pro or Max)\"</li><li>As mentioned in <a href=\"https://upgrade.cards/card/apple092022\" target=\"_blank\">the Upgrade Draft earlier in the week</a>, but not chosen there. This was deemed insufficiently Risky, and so was demoted to a Flexie.</li></ul></p>",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -200,6 +212,7 @@
   },
   {
     "text": "No specific date for iOS 14's release",
+    "full-pick-text": "No specific date for iOS 14's release",
     "notes": "<p><ul><li>Originally a candidate for Myke's Risky Pick.</li></ul></p>",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -217,6 +230,7 @@
   },
   {
     "text": "Podcasts will gain audio effects for enhanced sound and trim silence",
+    "full-pick-text": "Podcasts will gain audio effects for enhanced sound and trim silence",
     "notes": "<p><ul><li>Originally was Federico's Risky Pick.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -233,6 +247,7 @@
   },
   {
     "text": "The iPhone 14 Pro switches to titanium for the side rails",
+    "full-pick-text": "The iPhone 14 Pro switches to titanium for the side rails",
     "notes": "<p><ul><li>This was going to be a Risky pick, but <a href=\"https://www.macrumors.com/2021/07/26/iphone-14-2022-pro-models-titanium-case/\" target=\"_blank\">rumors were found before the show</a>.</li></ul></p>",
     "game": "2022 September Rickies",
     "type": "Flexie",

@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "The Mac Pro will ship by the end of 2018",
+        "full-pick-text": "The Mac Pro will ship by the end of 2018",
         "notes": "<p><ul><li>Later in 2018, <a href=\"https://www.apple.com/newsroom/2021/10/apple-unveils-game-changing-macbook-pro/\" target=\"_blank\">Apple dashed Stephen's hopes</a> of getting this correct. As promised, the Mac Pro <a href=\"https://www.apple.com/newsroom/2019/06/apple-unveils-powerful-all-new-mac-pro-and-groundbreaking-pro-display-xdr/\" target=\"_blank\">came out in 2019</a>.</li></ul></p>",
         "game": "2018 Annual Predictions",
         "type": "Regular",
@@ -23,6 +24,7 @@
       },
       {
         "text": "There will be a bigger iPhone X style phone, but it will not have an OLED screen",
+        "full-pick-text": "There will be a bigger iPhone X style phone, but it will not have an OLED screen",
         "notes": "<p><ul><li>The iPhone XR saved Myke here, as the XS Max was OLED which he didn’t think would be possible for such a big display.</li></ul></p>",
         "game": "2018 Annual Predictions",
         "type": "Regular",
@@ -37,6 +39,7 @@
       },
       {
         "text": "iOS 12 will have a focus on \"faster\", speed and performance optimizations being a tentpole feature",
+        "full-pick-text": "iOS 12 will have a focus on \"faster\", speed and performance optimizations being a tentpole feature",
         "notes": "<p><ul><li>\"It will be on a slide.\"</li><li>Ungraded examples: \"faster animations, maybe 64-bit, Swift, Pro Motion, something under the scenes, maybe a built-in cache cleanup feature\"</li></ul></p>",
         "game": "2018 Annual Predictions",
         "type": "Regular",
@@ -51,6 +54,7 @@
       },
       {
         "text": "Apple Watch with an always-on display",
+        "full-pick-text": "Apple Watch with an always-on display",
         "notes": "<p><ul><li>The Series 5 watch added this feature in 2019.</li></ul></p>",
         "game": "2018 Annual Predictions",
         "type": "Regular",
@@ -67,6 +71,7 @@
       },
       {
         "text": "A streaming service announced as Apple Video",
+        "full-pick-text": "A streaming service announced as Apple Video",
         "notes": "<p><ul><li>\"1-2 months for free, bundled with Apple Music as an option\"</li></ul></p>",
         "game": "2018 Annual Predictions",
         "type": "Regular",
@@ -83,6 +88,7 @@
       },
       {
         "text": "No new iPad mini",
+        "full-pick-text": "No new iPad mini",
         "notes": "<p><ul><li>\"(if it's killed, I'm not wrong)\"</li></ul></p>",
         "game": "2018 Annual Predictions",
         "type": "Regular",
@@ -98,6 +104,7 @@
       },
       {
         "text": "Workflow 2 will appear as a system feature or app",
+        "full-pick-text": "Workflow 2 will appear as a system feature or app",
         "notes": "<p><ul><li>\"Heavy on Siri integration, framework for pro apps to talk to each other\"</li><li>Ungraded: probably a migration tool from version 1, the App Store version might be kept around for a while</li><li>Some contention during grading about pro apps talking to each other leads to clarification that the <em>entire</em> pick must be true, but this one is deemed close enough.</li></ul></p>",
         "game": "2018 Annual Predictions",
         "type": "Ricky",
@@ -113,6 +120,7 @@
       },
       {
         "text": "iTunes rewrite or replacement for Mac OS",
+        "full-pick-text": "iTunes rewrite or replacement for Mac OS",
         "notes": "<p><ul><li>iTunes was eventually split up in 2019.</li></ul></p>",
         "game": "2018 Annual Predictions",
         "type": "Ricky",
@@ -131,6 +139,7 @@
       },
       {
         "text": "iOS 12 features a large scale UI redesign across iOS, the biggest since iOS 7",
+        "full-pick-text": "iOS 12 features a large scale UI redesign across iOS, the biggest since iOS 7",
         "notes": "",
         "game": "2018 Annual Predictions",
         "type": "Ricky",
@@ -166,6 +175,7 @@
     "picks": [
       {
         "text": "Reminders will get a major redesign modeled after iOS 11 and Files",
+        "full-pick-text": "Reminders will get a major redesign modeled after iOS 11 and Files",
         "notes": "<p><ul><li>\"With new family sharing features and integration with the HomePod.\"</li><li>The redesign of Reminders did come eventually in 2019, with many more new features in 2021.</li></ul></p>",
         "game": "2018 Annual Predictions",
         "type": "NonGraded",
@@ -182,6 +192,7 @@
       },
       {
         "text": "AppKit and UIKit give birth to something new and cross-platform",
+        "full-pick-text": "AppKit and UIKit give birth to something new and cross-platform",
         "notes": "<p><ul><li>SwiftUI was announced in 2019.</li></ul></p>",
         "game": "2018 Annual Predictions",
         "type": "NonGraded",
@@ -198,6 +209,7 @@
       },
       {
         "text": "A new Apple Pencil with a button of some kind",
+        "full-pick-text": "A new Apple Pencil with a button of some kind",
         "notes": "<p><ul><li>\"(aluminum?)\"</li></ul></p>",
         "game": "2018 Annual Predictions",
         "type": "NonGraded",
@@ -213,6 +225,7 @@
       },
       {
         "text": "A new smart keyboard: new material, backlit keys, a dedicated Siri key",
+        "full-pick-text": "A new smart keyboard: new material, backlit keys, a dedicated Siri key",
         "notes": "<p><ul><li>Apple's Magic Keyboard basically matching this description came out in 2020.</li></ul></p>",
         "game": "2018 Annual Predictions",
         "type": "NonGraded",
@@ -229,6 +242,7 @@
       },
       {
         "text": "iPod Touch updated",
+        "full-pick-text": "iPod Touch updated",
         "notes": "<p><ul><li>The 7th generation update finally came in 2019.</li></ul></p>",
         "game": "2018 Annual Predictions",
         "type": "NonGraded",
@@ -245,6 +259,7 @@
       },
       {
         "text": "On iOS 12, the home screen features more than just app icons",
+        "full-pick-text": "On iOS 12, the home screen features more than just app icons",
         "notes": "<p><ul><li>WIdgets would finally be added to the home screen in iOS 14.</li></ul></p>",
         "game": "2018 Annual Predictions",
         "type": "NonGraded",
@@ -261,6 +276,7 @@
       },
       {
         "text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
+        "full-pick-text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
         "notes": "<p><ul><li>\"Music and Video removed from iTunes on the Mac\"</li><li>iTunes was eventually split up in 2019.</li></ul></p>",
         "game": "2018 Annual Predictions",
         "type": "NonGraded",

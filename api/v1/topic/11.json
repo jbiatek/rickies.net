@@ -1,6 +1,7 @@
 [
   {
     "text": "A CPU transition is announced for the Mac",
+    "full-pick-text": "A CPU transition is announced for the Mac",
     "notes": "<p><ul><li>Federico counsels against specifying ARM, which is good because Apple calls it \"Apple Silicon\" and never uses the term ARM.</li></ul></p>",
     "game": "2020 Summer Rickies",
     "type": "Regular",
@@ -17,6 +18,7 @@
   },
   {
     "text": "Any kind of release timeframe is provided for macOS Monterey",
+    "full-pick-text": "Any kind of release timeframe is provided for macOS Monterey",
     "notes": "<p><ul><li>Apparently feeling humble, Federico admits that this is a \"boring\" pick. It was originally \"release date\", but when some questioning about whether just a month would count came up, he watered it down.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Regular",
@@ -35,6 +37,7 @@
   },
   {
     "text": "Apple announces Windows for ARM coming via virtualization in the future",
+    "full-pick-text": "Apple announces Windows for ARM coming via virtualization in the future",
     "notes": "<p><ul><li>Parallels was updated to do this by 2021, but it wasn't announced at this event.</li></ul></p>",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -52,6 +55,7 @@
   },
   {
     "text": "Apple demos a game running on an Apple Silicon Mac",
+    "full-pick-text": "Apple demos a game running on an Apple Silicon Mac",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -69,6 +73,7 @@
   },
   {
     "text": "Apple demos iOS apps running on a Mac",
+    "full-pick-text": "Apple demos iOS apps running on a Mac",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Regular",
@@ -87,6 +92,7 @@
   },
   {
     "text": "Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together",
+    "full-pick-text": "Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -105,6 +111,7 @@
   },
   {
     "text": "Apple releases new developer APIs for Stage Manager",
+    "full-pick-text": "Apple releases new developer APIs for Stage Manager",
     "notes": "<p><ul><li>At the time of picking there were not <em>any</em> developer APIs for Stage Manager on either macOS or iPadOS, so anything will be \"new\".</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
@@ -121,6 +128,7 @@
   },
   {
     "text": "Apple replaces at least one bundled macOS app with a Marzipan version",
+    "full-pick-text": "Apple replaces at least one bundled macOS app with a Marzipan version",
     "notes": "<p><ul><li>It's called Catalyst, not Marzipan, which is pushed back on a little. Podcasts is cited as fulfilling this (is it <em>replacing</em> a Mac app? Stephen gets away with this a bit) and they say that Messages might now be a Catalyst app, but in fact it isn't.</li><li>The permissive grading may be due to the other hosts not wanting to get <em>too</em> picky when it comes to grading later picks.</li></ul></p>",
     "game": "2019 WWDC Predictions",
     "type": "Regular",
@@ -137,6 +145,7 @@
   },
   {
     "text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
+    "full-pick-text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
     "notes": "<p><ul><li>\"Music and Video removed from iTunes on the Mac\"</li><li>iTunes was eventually split up in 2019.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "NonGraded",
@@ -158,6 +167,7 @@
   },
   {
     "text": "Big Sur gets a release date",
+    "full-pick-text": "Big Sur gets a release date",
     "notes": "<p><ul><li>This pick was just <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Big%20Sur%20gets%20a%20revised%20release%20window\">one event too early</a>.</li></ul></p>",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -175,6 +185,7 @@
   },
   {
     "text": "Big Sur gets a revised release window",
+    "full-pick-text": "Big Sur gets a revised release window",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Regular",
@@ -191,6 +202,7 @@
   },
   {
     "text": "Big Sur on the new Apple Silicon Macs comes with a low power mode feature",
+    "full-pick-text": "Big Sur on the new Apple Silicon Macs comes with a low power mode feature",
     "notes": "<p><ul><li>This was a feature in Monterey the next year.</li></ul></p>",
     "game": "2020 November Rickies",
     "type": "Ricky",
@@ -208,6 +220,7 @@
   },
   {
     "text": "Big Sur released within 48 hours of event",
+    "full-pick-text": "Big Sur released within 48 hours of event",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -223,6 +236,7 @@
   },
   {
     "text": "Catalina gets a release date",
+    "full-pick-text": "Catalina gets a release date",
     "notes": "<p><ul><li>This didn't happen until <a href=\"https://www.theverge.com/2020/11/10/21432429/apple-macos-11-big-sur-release-date-m1-chip\" target=\"_blank\">November 10th</a>.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
@@ -240,6 +254,7 @@
   },
   {
     "text": "Craig demos Big Sur features",
+    "full-pick-text": "Craig demos Big Sur features",
     "notes": "<p><ul><li>The instant wake demo is counted for this.</li></ul></p>",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -256,6 +271,7 @@
   },
   {
     "text": "iOS 15.4 and/or macOS 12.3 get a release date",
+    "full-pick-text": "iOS 15.4 and/or macOS 12.3 get a release date",
     "notes": "<p><ul><li>They did get a <em>window</em> but not an actual date.</li></ul></p>",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -273,6 +289,7 @@
   },
   {
     "text": "iTunes rewrite or replacement for Mac OS",
+    "full-pick-text": "iTunes rewrite or replacement for Mac OS",
     "notes": "<p><ul><li>iTunes was eventually split up in 2019.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "Ricky",
@@ -291,6 +308,7 @@
   },
   {
     "text": "macOS 12.3 does not come out within 48 hours of the event",
+    "full-pick-text": "macOS 12.3 does not come out within 48 hours of the event",
     "notes": "<p><ul><li>This will have to be judged by announced release, since episode recording is a day after the event.</li></ul></p>",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -306,6 +324,7 @@
   },
   {
     "text": "macOS 13 is called \"Mammoth\"",
+    "full-pick-text": "macOS 13 is called \"Mammoth\"",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -322,6 +341,7 @@
   },
   {
     "text": "macOS Monterey features are reviewed",
+    "full-pick-text": "macOS Monterey features are reviewed",
     "notes": "<p><ul><li>Some Mac software features were mentioned, like running iOS apps, but nothing really specific to Monterey.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -339,6 +359,7 @@
   },
   {
     "text": "macOS skips ahead to version 15 to match iOS and iPadOS",
+    "full-pick-text": "macOS skips ahead to version 15 to match iOS and iPadOS",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -355,6 +376,7 @@
   },
   {
     "text": "No date is provided for macOS Monterey",
+    "full-pick-text": "No date is provided for macOS Monterey",
     "notes": "",
     "game": "2021 September Rickies",
     "type": "Flexie",
@@ -372,6 +394,7 @@
   },
   {
     "text": "Shortcuts for the Mac",
+    "full-pick-text": "Shortcuts for the Mac",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Regular",
@@ -388,6 +411,7 @@
   },
   {
     "text": "Something in the default Dock of Catalina becomes a Catalyst app",
+    "full-pick-text": "Something in the default Dock of Catalina becomes a Catalyst app",
     "notes": "",
     "game": "2020 Summer Rickies",
     "type": "Ricky",
@@ -405,6 +429,7 @@
   },
   {
     "text": "The new version of macOS brings back Dashboard as a way to place widgets outside of the current Notification Center",
+    "full-pick-text": "The new version of macOS brings back Dashboard as a way to place widgets outside of the current Notification Center",
     "notes": "<p><ul><li>It has to be called \"Dashboard\" to get the points.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Ricky",
@@ -421,6 +446,7 @@
   },
   {
     "text": "The next version of macOS comes with a redesigned Today view",
+    "full-pick-text": "The next version of macOS comes with a redesigned Today view",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -437,6 +463,7 @@
   },
   {
     "text": "The next version of macOS is called Skyline",
+    "full-pick-text": "The next version of macOS is called Skyline",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -451,6 +478,7 @@
   },
   {
     "text": "The next version of macOS is not called Skyline",
+    "full-pick-text": "The next version of macOS is not called Skyline",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -464,6 +492,7 @@
   },
   {
     "text": "The next version of macOS will have at least one feature exclusive to Apple Silicon Macs",
+    "full-pick-text": "The next version of macOS will have at least one feature exclusive to Apple Silicon Macs",
     "notes": "<p><ul><li>There are <a href=\"https://www.apple.com/macos/macos-ventura-preview/features/\" target=\"_blank\">a few examples</a>: live captions in FaceTime, using an iPad Pro as a color reference display, and dictating emoji.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Regular",
@@ -479,6 +508,7 @@
   },
   {
     "text": "Universal Control is demoed again",
+    "full-pick-text": "Universal Control is demoed again",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -498,6 +528,7 @@
   },
   {
     "text": "We see a Big Sur feature recap",
+    "full-pick-text": "We see a Big Sur feature recap",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -514,6 +545,7 @@
   },
   {
     "text": "WWDC brings no real changes to Mac Catalyst",
+    "full-pick-text": "WWDC brings no real changes to Mac Catalyst",
     "notes": "",
     "game": "2020 Annual Rickies",
     "type": "NonGraded",
@@ -531,6 +563,7 @@
   },
   {
     "text": "WWDC will introduce a multi-year plan to move macOS and iOS closer",
+    "full-pick-text": "WWDC will introduce a multi-year plan to move macOS and iOS closer",
     "notes": "<p><ul><li>Mac Catalyst and SwiftUI deemed to fulfill this</li></ul></p>",
     "game": "2019 Annual Predictions",
     "type": "NonGraded",

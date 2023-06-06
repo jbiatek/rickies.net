@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "Apple announces a new Mac Pro powered by Apple Silicon",
+        "full-pick-text": "Apple announces a new Mac Pro powered by Apple Silicon",
         "notes": "",
         "game": "2021 Annual Rickies",
         "type": "Regular",
@@ -22,6 +23,7 @@
       },
       {
         "text": "The iPad mini does receive the new design language",
+        "full-pick-text": "The iPad mini does receive the new design language",
         "notes": "<p><ul><li>    \"Originally, Stephen said it would <em>not</em> receive it\", but the other hosts criticized him for his negativity.</li></ul></p>",
         "game": "2021 Annual Rickies",
         "type": "Regular",
@@ -37,6 +39,7 @@
       },
       {
         "text": "Apple launches at least one iPad model with a new display technology",
+        "full-pick-text": "Apple launches at least one iPad model with a new display technology",
         "notes": "<p><ul><li>    He initially picked mini LED specifically. And after further discussion it was agreed that this meant a new display technology for the iPad, so for example OLED would also count.</li></ul></p>",
         "game": "2021 Annual Rickies",
         "type": "Regular",
@@ -52,6 +55,7 @@
       },
       {
         "text": "iOS 15 gives users more home screen customization options",
+        "full-pick-text": "iOS 15 gives users more home screen customization options",
         "notes": "<p><ul><li>        Specifically <em>not</em> iPadOS 15. </li><li>This was granted but the customization options were not extensive, just turning on and off home screens, both manually and with focus modes.</li></ul></p>",
         "game": "2021 Annual Rickies",
         "type": "Regular",
@@ -66,6 +70,7 @@
       },
       {
         "text": "No in-person WWDC 2021",
+        "full-pick-text": "No in-person WWDC 2021",
         "notes": "",
         "game": "2021 Annual Rickies",
         "type": "Regular",
@@ -80,6 +85,7 @@
       },
       {
         "text": "Apple launches 'AirTags' accessories for tracking physical objects",
+        "full-pick-text": "Apple launches 'AirTags' accessories for tracking physical objects",
         "notes": "<p><ul><li>    The name was allowed to be different, but Federico nailed it. </li></ul></p>",
         "game": "2021 Annual Rickies",
         "type": "Regular",
@@ -94,6 +100,7 @@
       },
       {
         "text": "A Mac gets a screen that supports touch and/or Apple Pencil input",
+        "full-pick-text": "A Mac gets a screen that supports touch and/or Apple Pencil input",
         "notes": "<p><ul><li> Myke was torn between this and \"<a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#iPad%20multitasking%20is%20overhauled%20again\">iPad multitasking is overhauled again</a>\", but elected to make the more passionate pick.</li></ul></p>",
         "game": "2021 Annual Rickies",
         "type": "Ricky",
@@ -112,6 +119,7 @@
       },
       {
         "text": "Apple has Apple Silicon versions of all of its Intel Macs on sale by the end of 2021",
+        "full-pick-text": "Apple has Apple Silicon versions of all of its Intel Macs on sale by the end of 2021",
         "notes": "<p><ul><li> \"No Intel Macs are available for sale without an Apple Silicon counterpart.\" Myke points out the iMac Pro as a potential spoiler.</li><li>(For pick complexity purposes, I'm counting this as 1 condition for each Mac line that still had no Apple Silicon counterpart at the beginning of 2021: The larger MacBook Pros, the iMac in both sizes, the iMac Pro, and the Mac Pro. The Mac mini is 1 line with a high end and low end, so it already had an \"Apple Silicon counterpart\" although the high end Mac mini was still Intel.)</li><li>The iMac Pro left the lineup entirely, but the Mac Pro remained on Intel by the end of the year.</li></ul></p>",
         "game": "2021 Annual Rickies",
         "type": "Ricky",
@@ -128,6 +136,7 @@
       },
       {
         "text": "Apple will release a new programming app for iPad",
+        "full-pick-text": "Apple will release a new programming app for iPad",
         "notes": "<p><ul><li>Federico asks to be quoted as \"very very positive\" that he will win on the strength of this Ricky Pick.</li>\n    <li>Not Swift Playgrounds, that is not new. As it turns out, they added this functionality to Swift Playgrounds.</li>\n    <li>This was deemed not a reuse of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20will%20release%20at%20least%201%20new%20pro%20app%20for%20iPad%20that%20we%20haven't%20previously%20seen%20on%20iPad\">a previous pick</a> since it is even riskier and more specific.</li>\n</ul></p>",
         "game": "2021 Annual Rickies",
         "type": "Ricky",
@@ -177,6 +186,7 @@
     "picks": [
       {
         "text": "Another variant of over-ear headphones will be released",
+        "full-pick-text": "Another variant of over-ear headphones will be released",
         "notes": "<p><ul><li>Technically <i>Apple</i> wasn't specified, but of course that wasn't the intent.</li></ul></p>",
         "game": "2021 Annual Rickies",
         "type": "Flexie",
@@ -193,6 +203,7 @@
       },
       {
         "text": "Apple releases a weather API",
+        "full-pick-text": "Apple releases a weather API",
         "notes": "<p><ul><li>The revamped weather API was announced at WWDC in 2022.</li></ul></p>",
         "game": "2021 Annual Rickies",
         "type": "Flexie",
@@ -209,6 +220,7 @@
       },
       {
         "text": "New Apple TV released",
+        "full-pick-text": "New Apple TV released",
         "notes": "",
         "game": "2021 Annual Rickies",
         "type": "Flexie",
@@ -223,6 +235,7 @@
       },
       {
         "text": "iPad multitasking is overhauled again",
+        "full-pick-text": "iPad multitasking is overhauled again",
         "notes": "",
         "game": "2021 Annual Rickies",
         "type": "Flexie",
@@ -239,6 +252,7 @@
       },
       {
         "text": "A new iMac has adjustability that is reminiscent of the Pro Display XDR",
+        "full-pick-text": "A new iMac has adjustability that is reminiscent of the Pro Display XDR",
         "notes": "",
         "game": "2021 Annual Rickies",
         "type": "Flexie",
@@ -255,6 +269,7 @@
       },
       {
         "text": "Apple releases its own game controller",
+        "full-pick-text": "Apple releases its own game controller",
         "notes": "",
         "game": "2021 Annual Rickies",
         "type": "Flexie",
@@ -270,6 +285,7 @@
       },
       {
         "text": "iOS gets a native feature to change icons for any app you want",
+        "full-pick-text": "iOS gets a native feature to change icons for any app you want",
         "notes": "",
         "game": "2021 Annual Rickies",
         "type": "Flexie",
@@ -285,6 +301,7 @@
       },
       {
         "text": "Apple releases a bigger iPad Pro",
+        "full-pick-text": "Apple releases a bigger iPad Pro",
         "notes": "",
         "game": "2021 Annual Rickies",
         "type": "Flexie",
@@ -300,6 +317,7 @@
       },
       {
         "text": "At least one new iPhone model has both Face ID and Touch ID",
+        "full-pick-text": "At least one new iPhone model has both Face ID and Touch ID",
         "notes": "",
         "game": "2021 Annual Rickies",
         "type": "Flexie",
@@ -315,6 +333,7 @@
       },
       {
         "text": "WidgetKit will support new widget sizes and more interactivity",
+        "full-pick-text": "WidgetKit will support new widget sizes and more interactivity",
         "notes": "<p><ul><li>The boolean operator \"and\" ends up taking this pick down.</li></ul></p>",
         "game": "2021 Annual Rickies",
         "type": "Flexie",
@@ -331,6 +350,7 @@
       },
       {
         "text": "Apple puts a cheaper display on sale as a sibling to the XDR",
+        "full-pick-text": "Apple puts a cheaper display on sale as a sibling to the XDR",
         "notes": "",
         "game": "2021 Annual Rickies",
         "type": "Flexie",
@@ -347,6 +367,7 @@
       },
       {
         "text": "There will be a chip named M1 followed by a letter",
+        "full-pick-text": "There will be a chip named M1 followed by a letter",
         "notes": "",
         "game": "2021 Annual Rickies",
         "type": "Flexie",
@@ -363,6 +384,7 @@
       },
       {
         "text": "The new iPhone will be the 12S, not the 13",
+        "full-pick-text": "The new iPhone will be the 12S, not the 13",
         "notes": "",
         "game": "2021 Annual Rickies",
         "type": "Flexie",
@@ -378,6 +400,7 @@
       },
       {
         "text": "Apple ships an AR, VR, and/or MR dedicated device",
+        "full-pick-text": "Apple ships an AR, VR, and/or MR dedicated device",
         "notes": "",
         "game": "2021 Annual Rickies",
         "type": "Flexie",
@@ -394,6 +417,7 @@
       },
       {
         "text": "No Mac gets a cellular data option",
+        "full-pick-text": "No Mac gets a cellular data option",
         "notes": "",
         "game": "2021 Annual Rickies",
         "type": "Flexie",
@@ -409,6 +433,7 @@
       },
       {
         "text": "The iPod Touch will be cancelled",
+        "full-pick-text": "The iPod Touch will be cancelled",
         "notes": "<p><ul><li>The other hosts question the word \"cancelled\" here.</li><li><a href=\"https://www.apple.com/newsroom/2022/05/the-music-lives-on/\" target=\"_blank\">Finally came true in 2022</a>.</li></ul></p>",
         "game": "2021 Annual Rickies",
         "type": "Flexie",

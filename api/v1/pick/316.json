@@ -1,5 +1,6 @@
 {
   "text": "A new way to turn off confirmation banners in Shortcuts",
+  "full-pick-text": "A new way to turn off confirmation banners in Shortcuts",
   "notes": "<p><ul><li>This happened later in the iOS 15 cycle in version 15.4.</li></ul></p>",
   "game": "2021 WWDC Rickies",
   "type": "Flexie",

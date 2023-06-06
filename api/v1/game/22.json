@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "The next version of iOS brings changes to notifications",
+        "full-pick-text": "The next version of iOS brings changes to notifications",
         "notes": "<p><ul><li>Ungraded: a new design, better management</li></ul></p>",
         "game": "2022 WWDC Rickies",
         "type": "Regular",
@@ -21,6 +22,7 @@
       },
       {
         "text": "Third party widgets gain interactivity",
+        "full-pick-text": "Third party widgets gain interactivity",
         "notes": "<p><ul><li>Edited to clarify \"third party\" as a few Apple widgets are already interactive.</li></ul></p>",
         "game": "2022 WWDC Rickies",
         "type": "Regular",
@@ -38,6 +40,7 @@
       },
       {
         "text": "No Apple-made headset is seen",
+        "full-pick-text": "No Apple-made headset is seen",
         "notes": "<p><ul><li>Was originally \"AR/VR/MR hardware\" and \"introduced\", but the others wanted some clarifications.</li></ul></p>",
         "game": "2022 WWDC Rickies",
         "type": "Regular",
@@ -54,6 +57,7 @@
       },
       {
         "text": "The next version of macOS will have at least one feature exclusive to Apple Silicon Macs",
+        "full-pick-text": "The next version of macOS will have at least one feature exclusive to Apple Silicon Macs",
         "notes": "<p><ul><li>There are <a href=\"https://www.apple.com/macos/macos-ventura-preview/features/\" target=\"_blank\">a few examples</a>: live captions in FaceTime, using an iPad Pro as a color reference display, and dictating emoji.</li></ul></p>",
         "game": "2022 WWDC Rickies",
         "type": "Regular",
@@ -69,6 +73,7 @@
       },
       {
         "text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
+        "full-pick-text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
         "notes": "<p><ul><li>Was originally a Risky pick with the addition of a \"with keyboard and trackpad\" clause, but <a href=\"https://twitter.com/stroughtonsmith/status/1529836983874469891\" target=\"_blank\">some WebKit source code changes</a> made it much less risky. He watered it down further by removing an \"overlapping\" clause as well and not phrasing it as a \"desktop-like mode\", but then decided to just go all the way back to the original pick.</li></ul></p>",
         "game": "2022 WWDC Rickies",
         "type": "Regular",
@@ -86,6 +91,7 @@
       },
       {
         "text": "New features for Tapback in Messages",
+        "full-pick-text": "New features for Tapback in Messages",
         "notes": "<p><ul><li>Ungraded: more options than just the 5 built in, maybe even arbitrary emoji, better notification controls</li><li>It wasn't mentioned in the keynote, but yes, <a href=\"https://9to5mac.com/2022/06/07/ios-16-tapbacks-will-no-longer-spam-your-sms-group-chats/\" target=\"_blank\">Tapback finally works properly for SMS</a>.</li></ul></p>",
         "game": "2022 WWDC Rickies",
         "type": "Regular",
@@ -100,6 +106,7 @@
       },
       {
         "text": "iOS gets split-view support for multitasking to use 2 apps at once",
+        "full-pick-text": "iOS gets split-view support for multitasking to use 2 apps at once",
         "notes": "<p><ul><li>Ungraded: works in both portrait and landscape, drag and drop between apps.</li><li>That's <em>iOS</em>, as in on the iPhone.</li></ul></p>",
         "game": "2022 WWDC Rickies",
         "type": "Ricky",
@@ -115,6 +122,7 @@
       },
       {
         "text": "The new version of macOS brings back Dashboard as a way to place widgets outside of the current Notification Center",
+        "full-pick-text": "The new version of macOS brings back Dashboard as a way to place widgets outside of the current Notification Center",
         "notes": "<p><ul><li>It has to be called \"Dashboard\" to get the points.</li></ul></p>",
         "game": "2022 WWDC Rickies",
         "type": "Ricky",
@@ -131,6 +139,7 @@
       },
       {
         "text": "Apple gives a sneak peak of the new Mac Pro...",
+        "full-pick-text": "Apple gives a sneak peak of the new Mac Pro. It features a case design inspired by the 2019 Mac Pro. It features more ports than any other Apple Silicon Mac available today. It does not have support for third-party GPUs. It features a chip name that has not appeared in any other product. It has a starting price of at least $6,999. It is coming later this year.",
         "notes": "<p><ul>\n<li>\"...It features a case design inspired by the 2019 Mac Pro. It features more ports than any other Apple Silicon Mac available today. It does not have support for third-party GPUs. It features a chip name that has not appeared in any other product. It has a starting price of at least $6,999. It is coming later this year.\"</li>\n<li>Originally it said \"same case design\", but the change was accepted on air after Myke reconsidered. \"Later this year\" was also demoted from being an exact quote.</li>\n<li>This Mac Pro will have to beat the Mac Studio in terms of ports: 2 USB-C, 2 USB-A, 4 Thunderbolt, SD card, Ethernet, HDMI, and headphone jack, for a total of 12.</li>\n<li>This pick is similar in spirit to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20new%20Mac%20Pro%20will%20be...\">Myke's ongoing Annual pick</a>, but with different conditions. At the time it was the <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Success%20By%20Pick%20Complexity\">most complex graded pick</a> ever made.</li>\n</ul>\n</p>",
         "game": "2022 WWDC Rickies",
         "type": "Ricky",
@@ -181,6 +190,7 @@
     "picks": [
       {
         "text": "A presenter references the fact that some developers are at Apple Park for the keynote",
+        "full-pick-text": "A presenter references the fact that some developers are at Apple Park for the keynote",
         "notes": "<p><ul><li>This is litigated a bit later when <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Tim%20presents%20some%20portion%20of%20the%20keynote%20in%20front%20of%20a%20live%20audience\">Myke's very similar pick got graded</a>, as Tim Cook did address the audience before the video played. He was decided to not be \"a presenter\" at the time, ultimately.</li></ul></p>",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -196,6 +206,7 @@
       },
       {
         "text": "AR-specific features are added to Swift or SwiftUI",
+        "full-pick-text": "AR-specific features are added to Swift or SwiftUI",
         "notes": "<p><ul><li>Nothing in the keynote, but <a href=\"https://developer.apple.com/augmented-reality/roomplan/\" target=\"_blank\">ARKit 6 is adding RoomPlan</a>, a new Swift API for scanning a room with a camera and LiDAR scanner.</li></ul></p>",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -211,6 +222,7 @@
       },
       {
         "text": "At least one iOS system app is redesigned to bring its controls to the bottom of the screen",
+        "full-pick-text": "At least one iOS system app is redesigned to bring its controls to the bottom of the screen",
         "notes": "<p><ul><li>Initially, the other two rejected Stephen's argument that the lock screen counted for this. However, <a href=\"https://overcast.fm/+FXx5r8V-w/1:31:57\" target=\"_blank\">later on while grading</a> <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Tim%20presents%20some%20portion%20of%20the%20keynote%20in%20front%20of%20a%20live%20audience\">another controversial pick</a>, <a href=\"https://twitter.com/stroughtonsmith/status/1534247915337678850\" target=\"_blank\">Steve Troughton-Smith came to Stephen's aid live</a> and helped bolster the case that the lock screen is in fact an app.</li></ul></p>",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -226,6 +238,7 @@
       },
       {
         "text": "Apple's classical music service is announced",
+        "full-pick-text": "Apple's classical music service is announced",
         "notes": "",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -242,6 +255,7 @@
       },
       {
         "text": "macOS 13 is called \"Mammoth\"",
+        "full-pick-text": "macOS 13 is called \"Mammoth\"",
         "notes": "",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -258,6 +272,7 @@
       },
       {
         "text": "Apple announces the first M2 Mac",
+        "full-pick-text": "Apple announces the first M2 Mac",
         "notes": "",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -272,6 +287,7 @@
       },
       {
         "text": "Tim presents some portion of the keynote in front of a live audience",
+        "full-pick-text": "Tim presents some portion of the keynote in front of a live audience",
         "notes": "<p><ul><li>This is very very similar to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20presenter%20references%20the%20fact%20that%20some%20developers%20are%20at%20Apple%20Park%20for%20the%20keynote\">Stephen's Flexie</a> and both ultimately got graded at this point, as well as Stephen's <em>other</em> <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#At%20least%20one%20iOS%20system%20app%20is%20redesigned%20to%20bring%20its%20controls%20to%20the%20bottom%20of%20the%20screen\">controversial pick</a>.</li></ul></p>",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -287,6 +303,7 @@
       },
       {
         "text": "Widgets on tvOS",
+        "full-pick-text": "Widgets on tvOS",
         "notes": "<p><ul><li>As discussed by Myke <a href=\"https://appstories.net/posts/our-watchos-and-tvos-wishes\" target=\"_blank\">on the AppStories podcast</a>.</li></ul></p>",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -302,6 +319,7 @@
       },
       {
         "text": "More apps can use a picture-in-picture-style window on iPadOS",
+        "full-pick-text": "More apps can use a picture-in-picture-style window on iPadOS",
         "notes": "",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -318,6 +336,7 @@
       },
       {
         "text": "Redesign of the Home app... again",
+        "full-pick-text": "Redesign of the Home app... again",
         "notes": "<p><ul><li>A <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Home%20app%20gets%20redesigned\">pick from last year</a> gets (legally) reused.</li></ul></p>",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -332,6 +351,7 @@
       },
       {
         "text": "There is no additional external display support for iPadOS",
+        "full-pick-text": "There is no additional external display support for iPadOS",
         "notes": "",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -349,6 +369,7 @@
       },
       {
         "text": "iPadOS multitasking remains fundamentally the same as the iPadOS 15 version",
+        "full-pick-text": "iPadOS multitasking remains fundamentally the same as the iPadOS 15 version",
         "notes": "",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -366,6 +387,7 @@
       },
       {
         "text": "Big improvements to SwiftUI",
+        "full-pick-text": "Big improvements to SwiftUI",
         "notes": "",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -380,6 +402,7 @@
       },
       {
         "text": "Shortcuts gets an API on iOS and iPadOS for apps to run Shortcuts directly, without URL schemes",
+        "full-pick-text": "Shortcuts gets an API on iOS and iPadOS for apps to run Shortcuts directly, without URL schemes",
         "notes": "",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -400,6 +423,7 @@
       },
       {
         "text": "Shortcuts for Mac gets personal automations",
+        "full-pick-text": "Shortcuts for Mac gets personal automations",
         "notes": "",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -417,6 +441,7 @@
       },
       {
         "text": "You will be able to set light and dark mode on a per-website basis in Safari",
+        "full-pick-text": "You will be able to set light and dark mode on a per-website basis in Safari",
         "notes": "",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -433,6 +458,7 @@
       },
       {
         "text": "Apple brings Quick Note's floating window to iOS",
+        "full-pick-text": "Apple brings Quick Note's floating window to iOS",
         "notes": "",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -449,6 +475,7 @@
       },
       {
         "text": "The Music app gets an updated design in the Listen Now page",
+        "full-pick-text": "The Music app gets an updated design in the Listen Now page",
         "notes": "<p><ul><li>Federico <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20updates%20the%20Listen%20Now%20page%20of%20the%20Music%20app\">still isn't happy with it</a>, it seems.</li></ul></p>",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -466,6 +493,7 @@
       },
       {
         "text": "iPadOS gets improved split view with at least 3 apps at once",
+        "full-pick-text": "iPadOS gets improved split view with at least 3 apps at once",
         "notes": "",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -483,6 +511,7 @@
       },
       {
         "text": "Apple releases a Safari API to deal with cookie consent forms",
+        "full-pick-text": "Apple releases a Safari API to deal with cookie consent forms",
         "notes": "",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -500,6 +529,7 @@
       },
       {
         "text": "You can delete Messages in the Messages app, like in WhatsApp",
+        "full-pick-text": "You can delete Messages in the Messages app, like in WhatsApp",
         "notes": "<p><ul><li>That is, the ability to <em>revoke</em> a sent message so that the recipient can no longer read it.</li></ul></p>",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -515,6 +545,7 @@
       },
       {
         "text": "Apple introduces a proper Reminders API for developers",
+        "full-pick-text": "Apple introduces a proper Reminders API for developers",
         "notes": "",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",
@@ -532,6 +563,7 @@
       },
       {
         "text": "Shortcuts gets an XL widget on iPad",
+        "full-pick-text": "Shortcuts gets an XL widget on iPad",
         "notes": "",
         "game": "2022 WWDC Rickies",
         "type": "Flexie",

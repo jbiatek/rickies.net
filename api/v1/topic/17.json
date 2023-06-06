@@ -1,6 +1,7 @@
 [
   {
     "text": "2017 will see a more powerful iMac at the top of the line that rivals and replaces the Mac Pro",
+    "full-pick-text": "2017 will see a more powerful iMac at the top of the line that rivals and replaces the Mac Pro",
     "notes": "<p><ul><li>\"The Mac Pro will go away, the Mac Mini also goes away, by the end of 2017 the iMac is all that remains.\"</li><li>While explaining, Myke got a little carried away with how complete this transition would be, but when challenged to make it part of the pick, he decided to go for it.</li></ul></p>",
     "game": "2017 Annual Predictions",
     "type": "Regular",
@@ -17,6 +18,7 @@
   },
   {
     "text": "A headset will not be unveiled at WWDC",
+    "full-pick-text": "A headset will not be unveiled at WWDC",
     "notes": "",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -33,6 +35,7 @@
   },
   {
     "text": "Apple mentions at least 1 feature \"coming later\"",
+    "full-pick-text": "Apple mentions at least 1 feature \"coming later\"",
     "notes": "",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -48,6 +51,7 @@
   },
   {
     "text": "Apple will not ship an ARM Mac in 2020",
+    "full-pick-text": "Apple will not ship an ARM Mac in 2020",
     "notes": "<p><ul><li> In 2019, Stephen picked the first ARM Mac to be shipped, so this was his... revenge?</li></ul></p>",
     "game": "2020 Annual Rickies",
     "type": "NonGraded",
@@ -64,6 +68,7 @@
   },
   {
     "text": "Apple will not unveil additional details about the release of the first Apple Silicon Macs",
+    "full-pick-text": "Apple will not unveil additional details about the release of the first Apple Silicon Macs",
     "notes": "<p><ul><li>Myke challenged Stephen to make this a sixth Flexie in the discussion of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Preview%20of%20fall%20Apple%20TV%2B%20content\">his previous pick</a>.</li></ul></p>",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -80,6 +85,7 @@
   },
   {
     "text": "Bands for the new Apple Watch \"Pro\" are not backward compatible with other Apple Watches",
+    "full-pick-text": "Bands for the new Apple Watch \"Pro\" are not backward compatible with other Apple Watches",
     "notes": "<p><ul><li><a href=\"https://9to5mac.com/2022/09/07/apple-watch-ultra-band-compatibility-explained/\" target=\"_blank\">It does appear to be compatible</a> at the time of grading.</li></ul></p>",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -96,6 +102,7 @@
   },
   {
     "text": "iPadOS multitasking remains fundamentally the same as the iPadOS 15 version",
+    "full-pick-text": "iPadOS multitasking remains fundamentally the same as the iPadOS 15 version",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -113,6 +120,7 @@
   },
   {
     "text": "iPadOS multitasking remains unchanged from iOS 15's implementation",
+    "full-pick-text": "iPadOS multitasking remains unchanged from iOS 15's implementation",
     "notes": "",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -130,6 +138,7 @@
   },
   {
     "text": "MacBook Pro colors don't include anything radically new for the line",
+    "full-pick-text": "MacBook Pro colors don't include anything radically new for the line",
     "notes": "",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -145,6 +154,7 @@
   },
   {
     "text": "Major publications noticeably absent from News+",
+    "full-pick-text": "Major publications noticeably absent from News+",
     "notes": "",
     "game": "2019 Media Event Predictions",
     "type": "NonGraded",
@@ -159,6 +169,7 @@
   },
   {
     "text": "New Apple Watch is not a part of the presentation",
+    "full-pick-text": "New Apple Watch is not a part of the presentation",
     "notes": "",
     "game": "2021 September Rickies",
     "type": "Flexie",
@@ -175,6 +186,7 @@
   },
   {
     "text": "New Macs follow current design trends, no large scale redesign",
+    "full-pick-text": "New Macs follow current design trends, no large scale redesign",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -190,6 +202,7 @@
   },
   {
     "text": "No Apple Services bundle announced",
+    "full-pick-text": "No Apple Services bundle announced",
     "notes": "",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",
@@ -206,6 +219,7 @@
   },
   {
     "text": "No Apple-made headset is seen",
+    "full-pick-text": "No Apple-made headset is seen",
     "notes": "<p><ul><li>Was originally \"AR/VR/MR hardware\" and \"introduced\", but the others wanted some clarifications.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Regular",
@@ -222,6 +236,7 @@
   },
   {
     "text": "No date is provided for macOS Monterey",
+    "full-pick-text": "No date is provided for macOS Monterey",
     "notes": "",
     "game": "2021 September Rickies",
     "type": "Flexie",
@@ -239,6 +254,7 @@
   },
   {
     "text": "No iMac Pro or bigger iMac",
+    "full-pick-text": "No iMac Pro or bigger iMac",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -254,6 +270,7 @@
   },
   {
     "text": "No iPads, iPhone and Apple Watch only",
+    "full-pick-text": "No iPads, iPhone and Apple Watch only",
     "notes": "",
     "game": "2018 iPhone Event Predictions",
     "type": "NonGraded",
@@ -271,6 +288,7 @@
   },
   {
     "text": "No Mac gets 5G",
+    "full-pick-text": "No Mac gets 5G",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -286,6 +304,7 @@
   },
   {
     "text": "No Mac gets a cellular data option",
+    "full-pick-text": "No Mac gets a cellular data option",
     "notes": "",
     "game": "2021 Annual Rickies",
     "type": "Flexie",
@@ -301,6 +320,7 @@
   },
   {
     "text": "No Mac or iPad hardware in the keynote",
+    "full-pick-text": "No Mac or iPad hardware in the keynote",
     "notes": "<p><ul><li>10.2” iPad was announced</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "Regular",
@@ -320,6 +340,7 @@
   },
   {
     "text": "No Mac Pro teaser video",
+    "full-pick-text": "No Mac Pro teaser video",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -334,6 +355,7 @@
   },
   {
     "text": "No Macs",
+    "full-pick-text": "No Macs",
     "notes": "<p><ul><li>Based on <a href=\"https://overcast.fm/+FXx5Kx09c/1:27:39\" target=\"_blank\">comments in the grading episode</a>, this might have originally been a sub-bullet point of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20iPads%2C%20iPhone%20and%20Apple%20Watch%20only\">the previous pick</a>.</li></ul></p>",
     "game": "2018 iPhone Event Predictions",
     "type": "NonGraded",
@@ -349,6 +371,7 @@
   },
   {
     "text": "No mention of AirTags",
+    "full-pick-text": "No mention of AirTags",
     "notes": "",
     "game": "2021 April Rickies",
     "type": "Flexie",
@@ -366,6 +389,7 @@
   },
   {
     "text": "No mention of cellular Macs",
+    "full-pick-text": "No mention of cellular Macs",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -382,6 +406,7 @@
   },
   {
     "text": "No new iPad mini",
+    "full-pick-text": "No new iPad mini",
     "notes": "<p><ul><li>\"(if it's killed, I'm not wrong)\"</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "Regular",
@@ -397,6 +422,7 @@
   },
   {
     "text": "No new Mac announced will have a touchscreen",
+    "full-pick-text": "No new Mac announced will have a touchscreen",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Regular",
@@ -413,6 +439,7 @@
   },
   {
     "text": "No new Mac notebooks are announced",
+    "full-pick-text": "No new Mac notebooks are announced",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -428,6 +455,7 @@
   },
   {
     "text": "No new Macs announced",
+    "full-pick-text": "No new Macs announced",
     "notes": "",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -444,6 +472,7 @@
   },
   {
     "text": "No preview of an Apple Silicon Mac Pro",
+    "full-pick-text": "No preview of an Apple Silicon Mac Pro",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -460,6 +489,7 @@
   },
   {
     "text": "No preview of an AR headset",
+    "full-pick-text": "No preview of an AR headset",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -476,6 +506,7 @@
   },
   {
     "text": "No preview of AR/VR/MR-focused hardware",
+    "full-pick-text": "No preview of AR/VR/MR-focused hardware",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Regular",
@@ -492,6 +523,7 @@
   },
   {
     "text": "No service bundle announced",
+    "full-pick-text": "No service bundle announced",
     "notes": "<p><ul><li>“including any service being free with another, or some sort of content being added to the iPhone upgrade program”</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn’t really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "Ricky",
@@ -509,6 +541,7 @@
   },
   {
     "text": "No word on an Apple Silicon Mac Pro",
+    "full-pick-text": "No word on an Apple Silicon Mac Pro",
     "notes": "<p><ul><li>Stephen originally had a Risky Pick stating that we'd get a release date, but did a complete reversal because of late breaking rumors</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Regular",
@@ -524,6 +557,7 @@
   },
   {
     "text": "Nothing about the Mac",
+    "full-pick-text": "Nothing about the Mac",
     "notes": "<p><ul><li>The mention of Mojave's release is deemed insufficient to make this wrong.</li></ul></p>",
     "game": "2018 iPhone Event Predictions",
     "type": "NonGraded",
@@ -540,6 +574,7 @@
   },
   {
     "text": "One of the new iPhones will not have the USB charger in the box",
+    "full-pick-text": "One of the new iPhones will not have the USB charger in the box",
     "notes": "",
     "game": "2020 October Rickies",
     "type": "Regular",
@@ -556,6 +591,7 @@
   },
   {
     "text": "ProMotion does not come to new iPhones",
+    "full-pick-text": "ProMotion does not come to new iPhones",
     "notes": "",
     "game": "2020 October Rickies",
     "type": "Regular",
@@ -572,6 +608,7 @@
   },
   {
     "text": "The 12\" MacBook does not return",
+    "full-pick-text": "The 12\" MacBook does not return",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -587,6 +624,7 @@
   },
   {
     "text": "The Apple Watch SE, announced in 2020, moves down in price with no feature changes",
+    "full-pick-text": "The Apple Watch SE, announced in 2020, moves down in price with no feature changes",
     "notes": "<p><ul><li>Not graded: Series 7 or SE 2 takes the middle price point where the SE is now</li></ul></p>",
     "game": "2022 September Rickies",
     "type": "Regular",
@@ -603,6 +641,7 @@
   },
   {
     "text": "The Intel Mac mini is removed from sale",
+    "full-pick-text": "The Intel Mac mini is removed from sale",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -620,6 +659,7 @@
   },
   {
     "text": "The iPad's external display support goes unchanged",
+    "full-pick-text": "The iPad's external display support goes unchanged",
     "notes": "<p><ul><li>Was originally \"By December 31, 2022, no Intel Macs will remain on sale as new machines\", but this was also <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20has%20Apple%20Silicon%20versions%20of%20all%20of%20its%20Intel%20Macs%20on%20sale%20by%20the%20end%20of%202021\">too close for comfort</a>, although arguably the previous pick was more permissive than this would have been.</li><li>Stage Manager in fact brought major changes.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Regular",
@@ -637,6 +677,7 @@
   },
   {
     "text": "The iPhone 14 entry's price is the same or higher than the 13 mini's price of $699",
+    "full-pick-text": "The iPhone 14 entry's price is the same or higher than the 13 mini's price of $699",
     "notes": "",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -652,6 +693,7 @@
   },
   {
     "text": "The iPhone 7S and 7S+ will look like the 7 and 7+, not this edge to edge unicorn phone that has been rumored",
+    "full-pick-text": "The iPhone 7S and 7S+ will look like the 7 and 7+, not this edge to edge unicorn phone that has been rumored",
     "notes": "<p><ul><li>This was deemed correct during grading, allowing for the \"7S\" actually being named the 8.</li><li>During grading, Myke wondered if Stephen had been thinking that there would be <em>a</em> phone with the traditional design, or if he was thinking that there would be no \"unicorn\" phone at all. Of course, it is impossible to read his mind, but in the original pick, Stephen seems to imply that it will just be the \"7S\".</li></ul></p>",
     "game": "2017 Annual Predictions",
     "type": "Regular",
@@ -667,6 +709,7 @@
   },
   {
     "text": "The iPod Touch is taken down from sale in the wake of the event",
+    "full-pick-text": "The iPod Touch is taken down from sale in the wake of the event",
     "notes": "<p><ul><li><a href=\"https://www.apple.com/newsroom/2022/05/the-music-lives-on/\" target=\"_blank\">Finally came true in 2022</a>.</li></ul></p>",
     "game": "2021 April Rickies",
     "type": "Flexie",
@@ -684,6 +727,7 @@
   },
   {
     "text": "The iPod Touch will be cancelled",
+    "full-pick-text": "The iPod Touch will be cancelled",
     "notes": "<p><ul><li>The other hosts question the word \"cancelled\" here.</li><li><a href=\"https://www.apple.com/newsroom/2022/05/the-music-lives-on/\" target=\"_blank\">Finally came true in 2022</a>.</li></ul></p>",
     "game": "2021 Annual Rickies",
     "type": "Flexie",
@@ -701,6 +745,7 @@
   },
   {
     "text": "The Mac is not mentioned",
+    "full-pick-text": "The Mac is not mentioned",
     "notes": "",
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
@@ -717,6 +762,7 @@
   },
   {
     "text": "The MacBook Escape will go away",
+    "full-pick-text": "The MacBook Escape will go away",
     "notes": "",
     "game": "2019 Annual Predictions",
     "type": "Regular",
@@ -732,6 +778,7 @@
   },
   {
     "text": "The new Apple Silicon MacBook Pro will not be announced at this event",
+    "full-pick-text": "The new Apple Silicon MacBook Pro will not be announced at this event",
     "notes": "<p><ul><li>This was originally going to be \"<a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20Macs\">No Macs</a>\", but at this point everyone was on the lookout for reused picks and <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20Mac%20or%20iPad%20hardware%20in%20the%20keynote\">this</a> one <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20new%20Mac%20notebooks%20are%20announced\">has</a> come <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Nothing%20about%20the%20Mac\">up a</a> few <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Mac%20is%20not%20mentioned\">times</a>.</li></ul></p>",
     "game": "2021 September Rickies",
     "type": "Regular",
@@ -748,6 +795,7 @@
   },
   {
     "text": "The Pro iPhone gets a new camera feature the regular iPhone doesn't get",
+    "full-pick-text": "The Pro iPhone gets a new camera feature the regular iPhone doesn't get",
     "notes": "",
     "game": "2021 September Rickies",
     "type": "Regular",
@@ -764,6 +812,7 @@
   },
   {
     "text": "There is no additional external display support for iPadOS",
+    "full-pick-text": "There is no additional external display support for iPadOS",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -781,6 +830,7 @@
   },
   {
     "text": "There is no iPad bigger than 12.9 inches",
+    "full-pick-text": "There is no iPad bigger than 12.9 inches",
     "notes": "",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
@@ -794,6 +844,7 @@
   },
   {
     "text": "There is no second generation Apple Watch Ultra this year",
+    "full-pick-text": "There is no second generation Apple Watch Ultra this year",
     "notes": "",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
@@ -807,6 +858,7 @@
   },
   {
     "text": "There will be no iPhone 14 with a 5.4\" display",
+    "full-pick-text": "There will be no iPhone 14 with a 5.4\" display",
     "notes": "<p><ul><li>AKA the iPhone mini.</li><li>😭</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Regular",
@@ -822,6 +874,7 @@
   },
   {
     "text": "There will not be an iPhone 15 mini",
+    "full-pick-text": "There will not be an iPhone 15 mini",
     "notes": "",
     "game": "2023 Annual Rickies",
     "type": "Regular",
@@ -836,6 +889,7 @@
   },
   {
     "text": "There won't be a mini iPhone in the iPhone 14 family",
+    "full-pick-text": "There won't be a mini iPhone in the iPhone 14 family",
     "notes": "<p><ul><li>Federico basically steals <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#There%20will%20be%20no%20iPhone%2014%20with%20a%205.4%22%20display\">one of Myke's ongoing annual picks</a>, which is allowed by <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Bill%20of%20Rickies\">the rules</a>.</li><li>😭</li></ul></p>",
     "game": "2022 September Rickies",
     "type": "Regular",
@@ -851,6 +905,7 @@
   },
   {
     "text": "tvOS is not covered in the keynote",
+    "full-pick-text": "tvOS is not covered in the keynote",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -865,6 +920,7 @@
   },
   {
     "text": "We do not see AirPods Max 2",
+    "full-pick-text": "We do not see AirPods Max 2",
     "notes": "<p><ul><li>Another counter-pick <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#AirPods%20Max%202%20can%20be%20folded%20to%20store%20more%20compactly\">to one of Myke's picks</a>, this time his Risky Pick.</li></ul></p>",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -881,6 +937,7 @@
   },
   {
     "text": "WWDC brings no real changes to Mac Catalyst",
+    "full-pick-text": "WWDC brings no real changes to Mac Catalyst",
     "notes": "",
     "game": "2020 Annual Rickies",
     "type": "NonGraded",

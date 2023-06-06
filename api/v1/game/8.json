@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "AirPower will come out before the 2018 iPhone event",
+        "full-pick-text": "AirPower will come out before the 2018 iPhone event",
         "notes": "<p><ul><li>Confidence remained high even days before the event in episode 208.</li></ul></p>",
         "game": "The AirPower Game",
         "type": "NonGraded",
@@ -22,6 +23,7 @@
       },
       {
         "text": "AirPower will come out the first week of December 2018",
+        "full-pick-text": "AirPower will come out the first week of December 2018",
         "notes": "<p><ul><li>This wasn't actually an option, but Stephen felt confident. (Really, he changed it to just be \"after the 2018 iPhone event\" as well, but that's not as fun.)</li></ul></p>",
         "game": "The AirPower Game",
         "type": "NonGraded",
@@ -37,6 +39,7 @@
       },
       {
         "text": "AirPower will come out after the 2018 iPhone event",
+        "full-pick-text": "AirPower will come out after the 2018 iPhone event",
         "notes": "",
         "game": "The AirPower Game",
         "type": "NonGraded",

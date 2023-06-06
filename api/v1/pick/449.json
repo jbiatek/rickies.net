@@ -1,5 +1,6 @@
 {
   "text": "You can delete Messages in the Messages app, like in WhatsApp",
+  "full-pick-text": "You can delete Messages in the Messages app, like in WhatsApp",
   "notes": "<p><ul><li>That is, the ability to <em>revoke</em> a sent message so that the recipient can no longer read it.</li></ul></p>",
   "game": "2022 WWDC Rickies",
   "type": "Flexie",

@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "A new iPad Air is introduced with a better system-on-a-chip and 5G support",
+        "full-pick-text": "A new iPad Air is introduced with a better system-on-a-chip and 5G support",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Regular",
@@ -21,6 +22,7 @@
       },
       {
         "text": "Apple introduces a new Mac mini with an updated design",
+        "full-pick-text": "Apple introduces a new Mac mini with an updated design",
         "notes": "<p><ul><li>Myke insists, and Federico seems to agree, that even a change in the ports on the back is \"an updated design\". Stephen seems less convinced, but that's a matter for grading. It's agreed that it has to be the Mac itself and not, say, an accessory or power cord.</li></ul></p>",
         "game": "2022 March Rickies",
         "type": "Regular",
@@ -36,6 +38,7 @@
       },
       {
         "text": "Larger, more powerful iMac is introduced",
+        "full-pick-text": "Larger, more powerful iMac is introduced",
         "notes": "<p><ul><li>Not only was this wrong, the larger iMac disappeared entirely from the Mac lineup.</li></ul></p>",
         "game": "2022 March Rickies",
         "type": "Regular",
@@ -51,6 +54,7 @@
       },
       {
         "text": "New iPhone case colors and/or watch band colors are introduced at or after the event",
+        "full-pick-text": "New iPhone case colors and/or watch band colors are introduced at or after the event",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Regular",
@@ -67,6 +71,7 @@
       },
       {
         "text": "Apple's classical music service is unveiled",
+        "full-pick-text": "Apple's classical music service is unveiled",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Regular",
@@ -83,6 +88,7 @@
       },
       {
         "text": "A new iPhone SE with 5G support is announced",
+        "full-pick-text": "A new iPhone SE with 5G support is announced",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Regular",
@@ -97,6 +103,7 @@
       },
       {
         "text": "A new base model Mac mini is introduced with the M2 chip...",
+        "full-pick-text": "A new base model Mac mini is introduced with the M2 chip. The new Mini is at least 30% smaller than the current one. It's thicker, but narrower, making it more similar to an Apple TV or Intel NUC.",
         "notes": "<p><ul><li>\"... The new Mini is at least 30% smaller than the current one. It's thicker, but narrower, making it more similar to an Apple TV or Intel NUC.\"</li><li>In other words, closer to a cubic shape, but not necessarily a cube. Although Federico loves cubes, so that would be great.</li><li>The base model would get updated the next year, but it's the same shape.</li></ul></p>",
         "game": "2022 March Rickies",
         "type": "Ricky",
@@ -112,6 +119,7 @@
       },
       {
         "text": "The new iPhone SE has a design influenced by the iPhone mini, it does not feature Face ID, it has a Touch ID power button",
+        "full-pick-text": "The new iPhone SE has a design influenced by the iPhone mini, it does not feature Face ID, it has a Touch ID power button",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Ricky",
@@ -127,6 +135,7 @@
       },
       {
         "text": "Apple announces an update to AirPods Max, that support wireless lossless playback, to take full advantage of Apple's new classical music service",
+        "full-pick-text": "Apple announces an update to AirPods Max, that support wireless lossless playback, to take full advantage of Apple's new classical music service",
         "notes": "<p><ul><li>Working with Apple Classical is part of the pick, meaning that if Classical is not introduced it will be incorrect.</li><li>This was edited to be any AirPods, but then Stephen went back to the more passionate original pick.</li><li>Not a reuse of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20unveils%20a%20new%20high-end%20audio%20product\">the infamous DAC pick</a>, but in a similar vein.</li></ul></p>",
         "game": "2022 March Rickies",
         "type": "Ricky",
@@ -164,6 +173,7 @@
     "picks": [
       {
         "text": "Tim Cook mentions the war in Ukraine",
+        "full-pick-text": "Tim Cook mentions the war in Ukraine",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Flexie",
@@ -179,6 +189,7 @@
       },
       {
         "text": "No iMac Pro or bigger iMac",
+        "full-pick-text": "No iMac Pro or bigger iMac",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Flexie",
@@ -194,6 +205,7 @@
       },
       {
         "text": "John Ternus is wearing a black T-shirt",
+        "full-pick-text": "John Ternus is wearing a black T-shirt",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Flexie",
@@ -209,6 +221,7 @@
       },
       {
         "text": "Apple unveils the first Mac powered by an M2 chip",
+        "full-pick-text": "Apple unveils the first Mac powered by an M2 chip",
         "notes": "<p><ul><li>Apple waited until WWDC to announce the M2 MacBook Air.</li></ul></p>",
         "game": "2022 March Rickies",
         "type": "Flexie",
@@ -225,6 +238,7 @@
       },
       {
         "text": "No Mac gets 5G",
+        "full-pick-text": "No Mac gets 5G",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Flexie",
@@ -240,6 +254,7 @@
       },
       {
         "text": "No preview of an AR headset",
+        "full-pick-text": "No preview of an AR headset",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Flexie",
@@ -256,6 +271,7 @@
       },
       {
         "text": "macOS 12.3 does not come out within 48 hours of the event",
+        "full-pick-text": "macOS 12.3 does not come out within 48 hours of the event",
         "notes": "<p><ul><li>This will have to be judged by announced release, since episode recording is a day after the event.</li></ul></p>",
         "game": "2022 March Rickies",
         "type": "Flexie",
@@ -271,6 +287,7 @@
       },
       {
         "text": "Universal Control is demoed again",
+        "full-pick-text": "Universal Control is demoed again",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Flexie",
@@ -290,6 +307,7 @@
       },
       {
         "text": "The new Mac mini comes in more colors than silver and grey",
+        "full-pick-text": "The new Mac mini comes in more colors than silver and grey",
         "notes": "<p><ul><li>Was originally \"in multiple colors\".</li></ul></p>",
         "game": "2022 March Rickies",
         "type": "Flexie",
@@ -306,6 +324,7 @@
       },
       {
         "text": "Apple releases new AirPods colors",
+        "full-pick-text": "Apple releases new AirPods colors",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Flexie",
@@ -322,6 +341,7 @@
       },
       {
         "text": "Craig is wearing a blue shirt",
+        "full-pick-text": "Craig is wearing a blue shirt",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Flexie",
@@ -337,6 +357,7 @@
       },
       {
         "text": "A new color of iPhone 13 (family) is announced",
+        "full-pick-text": "A new color of iPhone 13 (family) is announced",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Flexie",
@@ -352,6 +373,7 @@
       },
       {
         "text": "The Intel Mac mini is removed from sale",
+        "full-pick-text": "The Intel Mac mini is removed from sale",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Flexie",
@@ -369,6 +391,7 @@
       },
       {
         "text": "We do not see Joz during this event",
+        "full-pick-text": "We do not see Joz during this event",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Flexie",
@@ -383,6 +406,7 @@
       },
       {
         "text": "A revised 13\" MBP drops the Touch Bar but does not add MagSafe",
+        "full-pick-text": "A revised 13\" MBP drops the Touch Bar but does not add MagSafe",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Flexie",
@@ -398,6 +422,7 @@
       },
       {
         "text": "iOS 15.4 and/or macOS 12.3 get a release date",
+        "full-pick-text": "iOS 15.4 and/or macOS 12.3 get a release date",
         "notes": "<p><ul><li>They did get a <em>window</em> but not an actual date.</li></ul></p>",
         "game": "2022 March Rickies",
         "type": "Flexie",
@@ -415,6 +440,7 @@
       },
       {
         "text": "No preview of an Apple Silicon Mac Pro",
+        "full-pick-text": "No preview of an Apple Silicon Mac Pro",
         "notes": "",
         "game": "2022 March Rickies",
         "type": "Flexie",

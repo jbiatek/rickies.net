@@ -1,6 +1,7 @@
 [
   {
     "text": "A more powerful Mac Mini is announced, but it is not a \"Mac Mini Pro\"",
+    "full-pick-text": "A more powerful Mac Mini is announced, but it is not a \"Mac Mini Pro\"",
     "notes": "<p><ul><li>The Mac Studio is very close, but this pick was about the name and the Mac Studio, while very reminiscent of the Mini, is not named as such.</li><li>Just 2 weeks after the grading window closed, <a href=\"https://www.apple.com/newsroom/2023/01/apple-introduces-new-mac-mini-with-m2-and-m2-pro-more-powerful-capable-and-versatile-than-ever/\" target=\"_blank\">the M2 Pro Mac mini was announced</a>.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -17,6 +18,7 @@
   },
   {
     "text": "A new AirPods product is announced",
+    "full-pick-text": "A new AirPods product is announced",
     "notes": "<p><ul><li>This pick was one event early, as the third generation of AirPods came in October.</li></ul></p>",
     "game": "2021 September Rickies",
     "type": "Flexie",
@@ -34,6 +36,7 @@
   },
   {
     "text": "A new Apple Display",
+    "full-pick-text": "A new Apple Display",
     "notes": "",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",
@@ -50,6 +53,7 @@
   },
   {
     "text": "A new iPad comes in a new color for its line",
+    "full-pick-text": "A new iPad comes in a new color for its line",
     "notes": "<p><ul><li>The iPad mini would eventually fit this bill, coming in lots of fun new colors, but it wasn't released until September.</li></ul></p>",
     "game": "2021 April Rickies",
     "type": "Flexie",
@@ -66,6 +70,7 @@
   },
   {
     "text": "A new Smart Keyboard",
+    "full-pick-text": "A new Smart Keyboard",
     "notes": "",
     "game": "2018 iPhone Event Predictions",
     "type": "NonGraded",
@@ -82,6 +87,7 @@
   },
   {
     "text": "A new smart keyboard: new material, backlit keys, a dedicated Siri key",
+    "full-pick-text": "A new smart keyboard: new material, backlit keys, a dedicated Siri key",
     "notes": "<p><ul><li>Apple's Magic Keyboard basically matching this description came out in 2020.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "NonGraded",
@@ -98,6 +104,7 @@
   },
   {
     "text": "A new way to turn off confirmation banners in Shortcuts",
+    "full-pick-text": "A new way to turn off confirmation banners in Shortcuts",
     "notes": "<p><ul><li>This happened later in the iOS 15 cycle in version 15.4.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -115,6 +122,7 @@
   },
   {
     "text": "An iPhone gets an always-on display with a UI element that is reminiscent of Apple Watch complications",
+    "full-pick-text": "An iPhone gets an always-on display with a UI element that is reminiscent of Apple Watch complications",
     "notes": "",
     "game": "2021 September Rickies",
     "type": "Ricky",
@@ -132,6 +140,7 @@
   },
   {
     "text": "AppKit and UIKit give birth to something new and cross-platform",
+    "full-pick-text": "AppKit and UIKit give birth to something new and cross-platform",
     "notes": "<p><ul><li>SwiftUI was announced in 2019.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "NonGraded",
@@ -148,6 +157,7 @@
   },
   {
     "text": "Apple announces a Mac mini that is more performant than the original M1 model",
+    "full-pick-text": "Apple announces a Mac mini that is more performant than the original M1 model",
     "notes": "<p><ul><li>Stephen returns to the Mac mini, since it <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20desktop%20Apple%20Silicon%20Mac%20is%20announced\">served him very well last year</a>.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Regular",
@@ -165,6 +175,7 @@
   },
   {
     "text": "Apple announces a new display that is not the Pro XDR, launching by the end of 2021 somewhere",
+    "full-pick-text": "Apple announces a new display that is not the Pro XDR, launching by the end of 2021 somewhere",
     "notes": "<p><ul><li>This was originally a pick about the Mac Pro being fully announced, but it was too close to Myke's risky pick.</li><li>The long-wished-for cheaper Apple display finally came out in 2022.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Ricky",
@@ -182,6 +193,7 @@
   },
   {
     "text": "Apple announces original podcast content",
+    "full-pick-text": "Apple announces original podcast content",
     "notes": "<p><ul><li>In 2020, Apple did come out with Apple News Today, and has since introduced other shows as well.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
@@ -198,6 +210,7 @@
   },
   {
     "text": "Apple announces Windows for ARM coming via virtualization in the future",
+    "full-pick-text": "Apple announces Windows for ARM coming via virtualization in the future",
     "notes": "<p><ul><li>Parallels was updated to do this by 2021, but it wasn't announced at this event.</li></ul></p>",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -215,6 +228,7 @@
   },
   {
     "text": "Apple launches a new HD tier for Apple Music",
+    "full-pick-text": "Apple launches a new HD tier for Apple Music",
     "notes": "<p><ul><li>This feature <a href=\"https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/\" target=\"_blank\">did come eventually</a>, in 2021.</li></ul></p>",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -231,6 +245,7 @@
   },
   {
     "text": "Apple launches an AR navigation mode for Apple Maps",
+    "full-pick-text": "Apple launches an AR navigation mode for Apple Maps",
     "notes": "<p><ul><li>A year too early, this was a feature in iOS 15.</li></ul></p>",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -248,6 +263,7 @@
   },
   {
     "text": "Apple makes changes to the rules on in-app purchases, removing restrictions on linking to external websites for account creation, etc.",
+    "full-pick-text": "Apple makes changes to the rules on in-app purchases, removing restrictions on linking to external websites for account creation, etc.",
     "notes": "<p><ul><li>This came later in the year as a result of an antitrust settlement with Japan.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Ricky",
@@ -265,6 +281,7 @@
   },
   {
     "text": "Apple Music will be redesigned again",
+    "full-pick-text": "Apple Music will be redesigned again",
     "notes": "<p><ul><li>\"Will gain more Spotify-like algorithmic features\"</li><li>\"An Apple version of the Daily Mix and a way to discover back catalog songs from artists you don't know (Discover Weekly?)\"</li><li>The <a href=\"https://www.engadget.com/2019-08-23-apple-music-new-music-daily.html\" target=\"_blank\">New Music Daily</a> feature would eventually come in 2019.</li></ul></p>",
     "game": "2017 Annual Predictions",
     "type": "Regular",
@@ -281,6 +298,7 @@
   },
   {
     "text": "Apple puts a cheaper display on sale as a sibling to the XDR",
+    "full-pick-text": "Apple puts a cheaper display on sale as a sibling to the XDR",
     "notes": "",
     "game": "2021 Annual Rickies",
     "type": "Flexie",
@@ -297,6 +315,7 @@
   },
   {
     "text": "Apple releases a weather API",
+    "full-pick-text": "Apple releases a weather API",
     "notes": "<p><ul><li>The revamped weather API was announced at WWDC in 2022.</li></ul></p>",
     "game": "2021 Annual Rickies",
     "type": "Flexie",
@@ -313,6 +332,7 @@
   },
   {
     "text": "Apple TV box gets a price cut",
+    "full-pick-text": "Apple TV box gets a price cut",
     "notes": "<p><ul><li>After many, many years, Apple finally <a href=\"https://www.apple.com/newsroom/2022/10/apple-introduces-the-powerful-next-generation-apple-tv-4k/\" target=\"_blank\">put out a slightly cut down Apple TV 4K for a lower price</a> in 2022.</li></ul></p>",
     "game": "2019 Media Event Predictions",
     "type": "NonGraded",
@@ -328,6 +348,7 @@
   },
   {
     "text": "Apple TV+ will be free with another subscription",
+    "full-pick-text": "Apple TV+ will be free with another subscription",
     "notes": "<p><ul><li>Apple One, which includes Apple TV+, launched a year later.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
@@ -345,6 +366,7 @@
   },
   {
     "text": "Apple unveils a new external display",
+    "full-pick-text": "Apple unveils a new external display",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -361,6 +383,7 @@
   },
   {
     "text": "Apple unveils the first Mac powered by an M2 chip",
+    "full-pick-text": "Apple unveils the first Mac powered by an M2 chip",
     "notes": "<p><ul><li>Apple waited until WWDC to announce the M2 MacBook Air.</li></ul></p>",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -377,6 +400,7 @@
   },
   {
     "text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
+    "full-pick-text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
     "notes": "<p><ul><li>\"Music and Video removed from iTunes on the Mac\"</li><li>iTunes was eventually split up in 2019.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "NonGraded",
@@ -398,6 +422,7 @@
   },
   {
     "text": "Apple Watch with an always-on display",
+    "full-pick-text": "Apple Watch with an always-on display",
     "notes": "<p><ul><li>The Series 5 watch added this feature in 2019.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "Regular",
@@ -414,6 +439,7 @@
   },
   {
     "text": "Apple will also announce a service bundle to get multiple services for one integrated fee",
+    "full-pick-text": "Apple will also announce a service bundle to get multiple services for one integrated fee",
     "notes": "<p><ul><li>Ironically, this was deemed insufficiently risky to be a Risky Pick.</li><li>Federico was a year early on this pick, as Apple One was introduced in October 2020.</li></ul></p>",
     "game": "2019 Media Event Predictions",
     "type": "Regular",
@@ -431,6 +457,7 @@
   },
   {
     "text": "Apple will introduce a new iMac design with an accompanying external display",
+    "full-pick-text": "Apple will introduce a new iMac design with an accompanying external display",
     "notes": "<p><ul><li>The new iMac design wouldn't come out until 2021, and the new display came in 2022.</li></ul></p>",
     "game": "2020 Annual Rickies",
     "type": "NonGraded",
@@ -448,6 +475,7 @@
   },
   {
     "text": "Apple will name a successor to Steve Dowling, former head of public relations at Apple",
+    "full-pick-text": "Apple will name a successor to Steve Dowling, former head of public relations at Apple",
     "notes": "<p><ul><li>\"Either named by Apple officially, or reported by more than one outlet that a person has been appointed.\"</li><li>Clearly in no hurry to do this, Apple finally <a href=\"https://www.imore.com/apple-hires-stella-low-new-vp-worldwide-corporate-communications\" target=\"_blank\">hired Stella Low to the role</a> in 2021.</li></ul></p>",
     "game": "2020 Annual Rickies",
     "type": "Regular",
@@ -465,6 +493,7 @@
   },
   {
     "text": "Apple will release at least 1 new pro app for iPad that we haven't previously seen on iPad",
+    "full-pick-text": "Apple will release at least 1 new pro app for iPad that we haven't previously seen on iPad",
     "notes": "<p><ul><li>\"(The app can be universal.)\"</li><li>After years of waiting, <a href=\"https://www.apple.com/newsroom/2023/05/apple-brings-final-cut-pro-and-logic-pro-to-ipad/\" target=\"_blank\">Final Cut Pro and Logic Pro come to iPad in 2023</a>.</li></ul></p>",
     "game": "2020 Annual Rickies",
     "type": "Ricky",
@@ -482,6 +511,7 @@
   },
   {
     "text": "Apple's classical music service is announced",
+    "full-pick-text": "Apple's classical music service is announced",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -498,6 +528,7 @@
   },
   {
     "text": "Apple's classical music service is unveiled",
+    "full-pick-text": "Apple's classical music service is unveiled",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Regular",
@@ -514,6 +545,7 @@
   },
   {
     "text": "At least one of the 2020 iPhones will have a higher refresh rate display (Pro Motion)",
+    "full-pick-text": "At least one of the 2020 iPhones will have a higher refresh rate display (Pro Motion)",
     "notes": "<p><ul><li>This feature did show up in the iPhone 13 line.</li></ul></p>",
     "game": "2020 Annual Rickies",
     "type": "Regular",
@@ -530,6 +562,7 @@
   },
   {
     "text": "At least one of the Apple Silicon Macs has a Pro Motion display",
+    "full-pick-text": "At least one of the Apple Silicon Macs has a Pro Motion display",
     "notes": "<p><ul><li>Was originally a Risky Pick.</li><li>ProMotion came to the Mac the next year with the MacBook Pro line.</li></ul></p>",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -547,6 +580,7 @@
   },
   {
     "text": "Better external display support on iPad",
+    "full-pick-text": "Better external display support on iPad",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -564,6 +598,7 @@
   },
   {
     "text": "Better incorporation of Apple News into the audio ecosystem",
+    "full-pick-text": "Better incorporation of Apple News into the audio ecosystem",
     "notes": "<p><ul><li>For example, asking Siri for the news on a HomePod</li><li>This did eventually happen, but in 2020.</li></ul></p>",
     "game": "Audio Predictions",
     "type": "Regular",
@@ -580,6 +615,7 @@
   },
   {
     "text": "Big Sur gets a release date",
+    "full-pick-text": "Big Sur gets a release date",
     "notes": "<p><ul><li>This pick was just <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Big%20Sur%20gets%20a%20revised%20release%20window\">one event too early</a>.</li></ul></p>",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -597,6 +633,7 @@
   },
   {
     "text": "Big Sur on the new Apple Silicon Macs comes with a low power mode feature",
+    "full-pick-text": "Big Sur on the new Apple Silicon Macs comes with a low power mode feature",
     "notes": "<p><ul><li>This was a feature in Monterey the next year.</li></ul></p>",
     "game": "2020 November Rickies",
     "type": "Ricky",
@@ -614,6 +651,7 @@
   },
   {
     "text": "Catalina gets a release date",
+    "full-pick-text": "Catalina gets a release date",
     "notes": "<p><ul><li>This didn't happen until <a href=\"https://www.theverge.com/2020/11/10/21432429/apple-macos-11-big-sur-release-date-m1-chip\" target=\"_blank\">November 10th</a>.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
@@ -631,6 +669,7 @@
   },
   {
     "text": "Details of a new iPad mini",
+    "full-pick-text": "Details of a new iPad mini",
     "notes": "<p><ul><li>Also one year too early.</li></ul></p>",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -647,6 +686,7 @@
   },
   {
     "text": "Developers will get tools for more control over refresh rate/frame rate in apps",
+    "full-pick-text": "Developers will get tools for more control over refresh rate/frame rate in apps",
     "notes": "<p><ul><li>Myke got points for <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Tools%20for%20developers%20to%20make%20smoother%20or%20faster%20animations%20in%20iOS\">a similar prediction</a> the next year.</li></ul></p>",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",
@@ -663,6 +703,7 @@
   },
   {
     "text": "First ARM Mac ships",
+    "full-pick-text": "First ARM Mac ships",
     "notes": "<p><ul><li>Halfway through the year, Myke ups the ante: \"If Stephen gets this right, I will buy you one, if the Mac Pro is an ARM Mac I will buy you the top of the line model.\"</li></ul></p>",
     "game": "2019 Annual Predictions",
     "type": "Ricky",
@@ -679,6 +720,7 @@
   },
   {
     "text": "iCloud family photo sharing",
+    "full-pick-text": "iCloud family photo sharing",
     "notes": "<p><ul><li><em>Finally</em> got added in 2022 at WWDC.</li></ul></p>",
     "game": "2019 WWDC Predictions",
     "type": "NonGraded",
@@ -695,6 +737,7 @@
   },
   {
     "text": "Improved external display support for iPadOS",
+    "full-pick-text": "Improved external display support for iPadOS",
     "notes": "<p><ul><li>Finally came true in 2022 at WWDC.</li></ul></p>",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",
@@ -712,6 +755,7 @@
   },
   {
     "text": "iOS 10.3 with a redesigned split screen revealing the home screen and the app switcher instead of the vertical slider we have now",
+    "full-pick-text": "iOS 10.3 with a redesigned split screen revealing the home screen and the app switcher instead of the vertical slider we have now",
     "notes": "<p><ul><li>Two iPad multitasking refreshes later, a version that shows the home screen finally arrived in iPadOS 15.</li></ul></p>",
     "game": "2017 Annual Predictions",
     "type": "NonGraded",
@@ -728,6 +772,7 @@
   },
   {
     "text": "iOS 14.5 will drop within 24 hours of the event",
+    "full-pick-text": "iOS 14.5 will drop within 24 hours of the event",
     "notes": "<p><ul><li>It was a week later.</li></ul></p>",
     "game": "2021 April Rickies",
     "type": "Flexie",
@@ -744,6 +789,7 @@
   },
   {
     "text": "iOS 15 drops support for the iPhone 6S",
+    "full-pick-text": "iOS 15 drops support for the iPhone 6S",
     "notes": "<p><ul><li>iOS 15 kept the 6S around for one more year, but iOS 16 finally dropped it.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -761,6 +807,7 @@
   },
   {
     "text": "iOS and iPadOS 15 get native HomeKit widgets",
+    "full-pick-text": "iOS and iPadOS 15 get native HomeKit widgets",
     "notes": "<p><ul><li>These came to the iOS 16 lock screen the next year.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -779,6 +826,7 @@
   },
   {
     "text": "iPad Air preorder date announced",
+    "full-pick-text": "iPad Air preorder date announced",
     "notes": "<p><ul><li>Orders began on <a href=\"https://www.apple.com/newsroom/2020/10/all-new-ipad-air-with-advanced-a14-bionic-chip-available-to-order-starting-today/\" target=\"_blank\">October 16th</a>, with no advanced notice. Unfortunately, the picks had already been graded by then.</li></ul></p>",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -796,6 +844,7 @@
   },
   {
     "text": "iPod Touch updated",
+    "full-pick-text": "iPod Touch updated",
     "notes": "<p><ul><li>The 7th generation update finally came in 2019.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "NonGraded",
@@ -812,6 +861,7 @@
   },
   {
     "text": "iTunes rewrite or replacement for Mac OS",
+    "full-pick-text": "iTunes rewrite or replacement for Mac OS",
     "notes": "<p><ul><li>iTunes was eventually split up in 2019.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "Ricky",
@@ -830,6 +880,7 @@
   },
   {
     "text": "iWork updates for iOS 12",
+    "full-pick-text": "iWork updates for iOS 12",
     "notes": "<p><ul><li>The big iWork update <a href=\"https://www.apple.com/newsroom/2019/03/all-new-ipad-air-and-ipad-mini-deliver-dramatic-power-and-capability/\" target=\"_blank\">eventually came in 2019</a>.</li></ul></p>",
     "game": "2018 iPhone Event Predictions",
     "type": "NonGraded",
@@ -847,6 +898,7 @@
   },
   {
     "text": "Mail.app will get modern features like snoozing",
+    "full-pick-text": "Mail.app will get modern features like snoozing",
     "notes": "<p><ul><li>Threads can be muted, which isn't what he was talking about, really.</li><li>As these are \"ungraded picks\" being, uh, graded, Stephen is given a half point because why not.</li><li>Apple finally added a few features to Mail in 2022 including snoozing.</li></ul></p>",
     "game": "2019 WWDC Predictions",
     "type": "NonGraded",
@@ -863,6 +915,7 @@
   },
   {
     "text": "New AirPods announced with a MagSafe compatible case",
+    "full-pick-text": "New AirPods announced with a MagSafe compatible case",
     "notes": "",
     "game": "2021 September Rickies",
     "type": "Flexie",
@@ -881,6 +934,7 @@
   },
   {
     "text": "New AirPods or AirPods Pro",
+    "full-pick-text": "New AirPods or AirPods Pro",
     "notes": "<p><ul><li>Not until <a href=\"https://www.apple.com/newsroom/2021/10/introducing-the-next-generation-of-airpods/\" target=\"_blank\">October 18, 2021</a>.</li></ul></p>",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -899,6 +953,7 @@
   },
   {
     "text": "New iMessage features, including the ability to retract sent messages",
+    "full-pick-text": "New iMessage features, including the ability to retract sent messages",
     "notes": "<p><ul><li>Message retraction arrived in 2022 at WWDC.</li></ul></p>",
     "game": "2020 Summer Rickies",
     "type": "Regular",
@@ -915,6 +970,7 @@
   },
   {
     "text": "New iPads",
+    "full-pick-text": "New iPads",
     "notes": "<p><ul><li>Again, there was <a href=\"https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/\" target=\"_blank\">a separate event for the iPad</a>.</li></ul></p>",
     "game": "2018 iPhone Event Predictions",
     "type": "NonGraded",
@@ -931,6 +987,7 @@
   },
   {
     "text": "New MacBook Pro",
+    "full-pick-text": "New MacBook Pro",
     "notes": "<p><ul><li>Not until <a href=\"https://www.apple.com/newsroom/2021/10/apple-unveils-game-changing-macbook-pro/\" target=\"_blank\">the October event</a>.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -947,6 +1004,7 @@
   },
   {
     "text": "New MagSafe charging case for existing AirPods",
+    "full-pick-text": "New MagSafe charging case for existing AirPods",
     "notes": "<p><ul><li>MagSafe came to the AirPods line the next year.</li></ul></p>",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -964,6 +1022,7 @@
   },
   {
     "text": "New pencil and keyboard",
+    "full-pick-text": "New pencil and keyboard",
     "notes": "<p><ul><li>This also happened in <a href=\"https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/\" target=\"_blank\">the October iPad event</a>, which wasn't the subject of a game.</li></ul></p>",
     "game": "2018 iPhone Event Predictions",
     "type": "NonGraded",
@@ -981,6 +1040,7 @@
   },
   {
     "text": "On iOS 12, the home screen features more than just app icons",
+    "full-pick-text": "On iOS 12, the home screen features more than just app icons",
     "notes": "<p><ul><li>WIdgets would finally be added to the home screen in iOS 14.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "NonGraded",
@@ -997,6 +1057,7 @@
   },
   {
     "text": "Over-ear headphones (i.e. HeadPods)",
+    "full-pick-text": "Over-ear headphones (i.e. HeadPods)",
     "notes": "<p><ul><li>Myke was a year off, as AirPods Max came out at the end of 2020.</li></ul></p>",
     "game": "2019 Annual Predictions",
     "type": "NonGraded",
@@ -1014,6 +1075,7 @@
   },
   {
     "text": "Reminders will get a major redesign modeled after iOS 11 and Files",
+    "full-pick-text": "Reminders will get a major redesign modeled after iOS 11 and Files",
     "notes": "<p><ul><li>\"With new family sharing features and integration with the HomePod.\"</li><li>The redesign of Reminders did come eventually in 2019, with many more new features in 2021.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "NonGraded",
@@ -1030,6 +1092,7 @@
   },
   {
     "text": "Some surprise hardware, like a Tile tracker",
+    "full-pick-text": "Some surprise hardware, like a Tile tracker",
     "notes": "<p><ul><li>Apple's tracker would eventually come out in 2021.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
@@ -1046,6 +1109,7 @@
   },
   {
     "text": "Ted Lasso Season 3 trailer",
+    "full-pick-text": "Ted Lasso Season 3 trailer",
     "notes": "<p><ul><li>Federico goes <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20trailers%20for%20Apple%20TV%2B%20content\">against Myke's earlier pick</a>.</li></ul></p>",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -1062,6 +1126,7 @@
   },
   {
     "text": "The 13 inch MacBook Pro will gain a larger screen",
+    "full-pick-text": "The 13 inch MacBook Pro will gain a larger screen",
     "notes": "<p><ul><li>The long-rumored 14\" model finally came out in 2021.</li></ul></p>",
     "game": "2020 Annual Rickies",
     "type": "Regular",
@@ -1078,6 +1143,7 @@
   },
   {
     "text": "The 9th generation iPad is introduced with a USB-C connector",
+    "full-pick-text": "The 9th generation iPad is introduced with a USB-C connector",
     "notes": "",
     "game": "2021 September Rickies",
     "type": "Flexie",
@@ -1095,6 +1161,7 @@
   },
   {
     "text": "The AirPods line is split in two, and the lower end version gets a price drop",
+    "full-pick-text": "The AirPods line is split in two, and the lower end version gets a price drop",
     "notes": "<p><ul><li>The additional condition is an intentionally risky choice by Federico</li><li>Ultimately this is in fact his undoing. While AirPods Pro were released to split the line, the normal AirPods 2 didn't drop from their original $159 price until the 3rd generation was released in October 2021.</li></ul></p>",
     "game": "Audio Predictions",
     "type": "Regular",
@@ -1112,6 +1179,7 @@
   },
   {
     "text": "The Apple Watch SE gets a price cut",
+    "full-pick-text": "The Apple Watch SE gets a price cut",
     "notes": "<p><ul><li><a href=\"https://www.apple.com/newsroom/2022/09/apple-reveals-apple-watch-series-8-and-the-new-apple-watch-se/\" target=\"_blank\">Next year's model would</a>, but not this year's.</li></ul></p>",
     "game": "2021 September Rickies",
     "type": "Regular",
@@ -1129,6 +1197,7 @@
   },
   {
     "text": "The Intel Mac mini is removed from sale",
+    "full-pick-text": "The Intel Mac mini is removed from sale",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -1146,6 +1215,7 @@
   },
   {
     "text": "The iPad home screen will continue to change with new elements and additions",
+    "full-pick-text": "The iPad home screen will continue to change with new elements and additions",
     "notes": "<p><ul><li>The iPad went mostly unchanged in 2020, but iPadOS 15 did bring changes the next year.</li></ul></p>",
     "game": "2020 Annual Rickies",
     "type": "NonGraded",
@@ -1163,6 +1233,7 @@
   },
   {
     "text": "The iPad mini will be updated with a new design inspired by the iPad Pro's design",
+    "full-pick-text": "The iPad mini will be updated with a new design inspired by the iPad Pro's design",
     "notes": "<p><ul><li>Stephen was almost exactly one year too early, as this would finally come true in 2021.</li></ul></p>",
     "game": "2020 September Rickies",
     "type": "Ricky",
@@ -1181,6 +1252,7 @@
   },
   {
     "text": "The iPad Pro, with an updated USB-4/Thunderbolt port, features a new kind of support for external displays",
+    "full-pick-text": "The iPad Pro, with an updated USB-4/Thunderbolt port, features a new kind of support for external displays",
     "notes": "<p><ul><li>Ungraded: the multitasking system gets redesigned to better support external displays</li><li>The external display support finally came in 2022.</li></ul></p>",
     "game": "2021 April Rickies",
     "type": "Ricky",
@@ -1198,6 +1270,7 @@
   },
   {
     "text": "The iPhone Pro comes in 5 colors/finishes, not the traditional 4",
+    "full-pick-text": "The iPhone Pro comes in 5 colors/finishes, not the traditional 4",
     "notes": "<p><ul><li>This unexpectedly came true in spring 2022, when Apple added a new green color to the Pro line.</li></ul></p>",
     "game": "2021 September Rickies",
     "type": "Flexie",
@@ -1214,6 +1287,7 @@
   },
   {
     "text": "The iPod Touch is taken down from sale in the wake of the event",
+    "full-pick-text": "The iPod Touch is taken down from sale in the wake of the event",
     "notes": "<p><ul><li><a href=\"https://www.apple.com/newsroom/2022/05/the-music-lives-on/\" target=\"_blank\">Finally came true in 2022</a>.</li></ul></p>",
     "game": "2021 April Rickies",
     "type": "Flexie",
@@ -1231,6 +1305,7 @@
   },
   {
     "text": "The iPod Touch will be cancelled",
+    "full-pick-text": "The iPod Touch will be cancelled",
     "notes": "<p><ul><li>The other hosts question the word \"cancelled\" here.</li><li><a href=\"https://www.apple.com/newsroom/2022/05/the-music-lives-on/\" target=\"_blank\">Finally came true in 2022</a>.</li></ul></p>",
     "game": "2021 Annual Rickies",
     "type": "Flexie",
@@ -1248,6 +1323,7 @@
   },
   {
     "text": "The Mac Pro will ship by the end of 2018",
+    "full-pick-text": "The Mac Pro will ship by the end of 2018",
     "notes": "<p><ul><li>Later in 2018, <a href=\"https://www.apple.com/newsroom/2021/10/apple-unveils-game-changing-macbook-pro/\" target=\"_blank\">Apple dashed Stephen's hopes</a> of getting this correct. As promised, the Mac Pro <a href=\"https://www.apple.com/newsroom/2019/06/apple-unveils-powerful-all-new-mac-pro-and-groundbreaking-pro-display-xdr/\" target=\"_blank\">came out in 2019</a>.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "Regular",
@@ -1264,6 +1340,7 @@
   },
   {
     "text": "The next HomePod is a mini HomePod",
+    "full-pick-text": "The next HomePod is a mini HomePod",
     "notes": "<p><ul><li>True, but too late. The HomePod mini wasn't released until 2020.</li></ul></p>",
     "game": "Audio Predictions",
     "type": "Regular",
@@ -1280,6 +1357,7 @@
   },
   {
     "text": "The Weather app comes to iPad",
+    "full-pick-text": "The Weather app comes to iPad",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -1297,6 +1375,7 @@
   },
   {
     "text": "Two new iPad Pros",
+    "full-pick-text": "Two new iPad Pros",
     "notes": "<p><ul><li>\"Maybe more of a hope\"</li><li>As it turns out, there would later be <a href=\"https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/\" target=\"_blank\">a separate event for the iPad</a>.</li></ul></p>",
     "game": "2018 iPhone Event Predictions",
     "type": "NonGraded",
@@ -1313,6 +1392,7 @@
   },
   {
     "text": "Updated Apple TV",
+    "full-pick-text": "Updated Apple TV",
     "notes": "<p><ul><li>Finally happened on <a href=\"https://www.apple.com/newsroom/2021/04/apple-unveils-the-next-generation-of-apple-tv-4k/\" target=\"_blank\">April 20, 2021</a>.</li></ul></p>",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -1329,6 +1409,7 @@
   },
   {
     "text": "watchOS 7 will feature mental health features",
+    "full-pick-text": "watchOS 7 will feature mental health features",
     "notes": "<p><ul><li>watchOS 8 later added a Mindfulness app, expanding on the old Breathe app.</li></ul></p>",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",

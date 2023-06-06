@@ -1,6 +1,7 @@
 [
   {
     "text": "iPod Touch updated",
+    "full-pick-text": "iPod Touch updated",
     "notes": "<p><ul><li>The 7th generation update finally came in 2019.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "NonGraded",
@@ -17,6 +18,7 @@
   },
   {
     "text": "The iPod Touch is taken down from sale in the wake of the event",
+    "full-pick-text": "The iPod Touch is taken down from sale in the wake of the event",
     "notes": "<p><ul><li><a href=\"https://www.apple.com/newsroom/2022/05/the-music-lives-on/\" target=\"_blank\">Finally came true in 2022</a>.</li></ul></p>",
     "game": "2021 April Rickies",
     "type": "Flexie",
@@ -34,6 +36,7 @@
   },
   {
     "text": "The iPod Touch will be cancelled",
+    "full-pick-text": "The iPod Touch will be cancelled",
     "notes": "<p><ul><li>The other hosts question the word \"cancelled\" here.</li><li><a href=\"https://www.apple.com/newsroom/2022/05/the-music-lives-on/\" target=\"_blank\">Finally came true in 2022</a>.</li></ul></p>",
     "game": "2021 Annual Rickies",
     "type": "Flexie",

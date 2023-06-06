@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "In the next version of iPadOS, you can put widgets in more places (out of the left column)",
+        "full-pick-text": "In the next version of iPadOS, you can put widgets in more places (out of the left column)",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Regular",
@@ -22,6 +23,7 @@
       },
       {
         "text": "No preview of AR/VR/MR-focused hardware",
+        "full-pick-text": "No preview of AR/VR/MR-focused hardware",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Regular",
@@ -38,6 +40,7 @@
       },
       {
         "text": "iPadOS 15 brings organization changes to the home screen that don’t exist on the iPhone, including iOS 15",
+        "full-pick-text": "iPadOS 15 brings organization changes to the home screen that don’t exist on the iPhone, including iOS 15",
         "notes": "<p><ul>\n<li>\"Widgets on home screen and App Library don't count as they are on the iPhone already\"</li>\n<li>This was originally a Risky Pick, but Myke couldn't get enough clarity for what it meant.</li>\n</ul></p>",
         "game": "2021 WWDC Rickies",
         "type": "Regular",
@@ -56,6 +59,7 @@
       },
       {
         "text": "WidgetKit gains new interactivity features that allow you to perform actions inside widgets without launching the associated app",
+        "full-pick-text": "WidgetKit gains new interactivity features that allow you to perform actions inside widgets without launching the associated app",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Regular",
@@ -71,6 +75,7 @@
       },
       {
         "text": "Shortcuts for the Mac",
+        "full-pick-text": "Shortcuts for the Mac",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Regular",
@@ -87,6 +92,7 @@
       },
       {
         "text": "No word on an Apple Silicon Mac Pro",
+        "full-pick-text": "No word on an Apple Silicon Mac Pro",
         "notes": "<p><ul><li>Stephen originally had a Risky Pick stating that we'd get a release date, but did a complete reversal because of late breaking rumors</li></ul></p>",
         "game": "2021 WWDC Rickies",
         "type": "Regular",
@@ -102,6 +108,7 @@
       },
       {
         "text": "Legacy widgets are completely removed from the system, and there is no longer a place to put widgets to the left of the main home screen",
+        "full-pick-text": "Legacy widgets are completely removed from the system, and there is no longer a place to put widgets to the left of the main home screen",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Ricky",
@@ -119,6 +126,7 @@
       },
       {
         "text": "Apple makes changes to the rules on in-app purchases, removing restrictions on linking to external websites for account creation, etc.",
+        "full-pick-text": "Apple makes changes to the rules on in-app purchases, removing restrictions on linking to external websites for account creation, etc.",
         "notes": "<p><ul><li>This came later in the year as a result of an antitrust settlement with Japan.</li></ul></p>",
         "game": "2021 WWDC Rickies",
         "type": "Ricky",
@@ -136,6 +144,7 @@
       },
       {
         "text": "Apple unveils a new high-end audio product",
+        "full-pick-text": "Apple unveils a new high-end audio product",
         "notes": "<p><ul><li>\"As defined by a price of over $399, or it's a stand-alone DAC.\"</li><li>The idea of an official Apple DAC sparks a <i>lot</i> of discussion.</li></ul></p>",
         "game": "2021 WWDC Rickies",
         "type": "Ricky",
@@ -185,6 +194,7 @@
     "picks": [
       {
         "text": "The Weather app comes to iPad",
+        "full-pick-text": "The Weather app comes to iPad",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -202,6 +212,7 @@
       },
       {
         "text": "The Files app gets new features",
+        "full-pick-text": "The Files app gets new features",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -216,6 +227,7 @@
       },
       {
         "text": "Shortcuts gets new Files actions",
+        "full-pick-text": "Shortcuts gets new Files actions",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -230,6 +242,7 @@
       },
       {
         "text": "Better external display support on iPad",
+        "full-pick-text": "Better external display support on iPad",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -247,6 +260,7 @@
       },
       {
         "text": "iOS and iPadOS 15 get native HomeKit widgets",
+        "full-pick-text": "iOS and iPadOS 15 get native HomeKit widgets",
         "notes": "<p><ul><li>These came to the iOS 16 lock screen the next year.</li></ul></p>",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -265,6 +279,7 @@
       },
       {
         "text": "The Passwords feature of Settings becomes a standalone app",
+        "full-pick-text": "The Passwords feature of Settings becomes a standalone app",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -281,6 +296,7 @@
       },
       {
         "text": "Apple updates the Listen Now page of the Music app",
+        "full-pick-text": "Apple updates the Listen Now page of the Music app",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -296,6 +312,7 @@
       },
       {
         "text": "iOS 15 drops support for the iPhone 6S",
+        "full-pick-text": "iOS 15 drops support for the iPhone 6S",
         "notes": "<p><ul><li>iOS 15 kept the 6S around for one more year, but iOS 16 finally dropped it.</li></ul></p>",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -313,6 +330,7 @@
       },
       {
         "text": "The next version of iOS lets you change icons for apps natively",
+        "full-pick-text": "The next version of iOS lets you change icons for apps natively",
         "notes": "<p><ul><li>\"Without Shortcuts or custom profiles.\"</li></ul></p>",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -328,6 +346,7 @@
       },
       {
         "text": "A new way to turn off confirmation banners in Shortcuts",
+        "full-pick-text": "A new way to turn off confirmation banners in Shortcuts",
         "notes": "<p><ul><li>This happened later in the iOS 15 cycle in version 15.4.</li></ul></p>",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -345,6 +364,7 @@
       },
       {
         "text": "New MacBook Pro",
+        "full-pick-text": "New MacBook Pro",
         "notes": "<p><ul><li>Not until <a href=\"https://www.apple.com/newsroom/2021/10/apple-unveils-game-changing-macbook-pro/\" target=\"_blank\">the October event</a>.</li></ul></p>",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -361,6 +381,7 @@
       },
       {
         "text": "Preview of the new Apple Silicon Mac Pro",
+        "full-pick-text": "Preview of the new Apple Silicon Mac Pro",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -376,6 +397,7 @@
       },
       {
         "text": "The Home app gets redesigned",
+        "full-pick-text": "The Home app gets redesigned",
         "notes": "<p><ul><li>The <em>watch</em> version of Home did get redesigned, so this pick is deemed technically correct. Myke made the same pick in the <a href=\"https://upgrade.cards/card/apple062021\" target=\"_blank\">Upgrade Draft</a>, but didn't get credit there as it was in the iOS and iPadOS section.</li></ul></p>",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -390,6 +412,7 @@
       },
       {
         "text": "New features for FaceTime",
+        "full-pick-text": "New features for FaceTime",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -405,6 +428,7 @@
       },
       {
         "text": "New notification management options",
+        "full-pick-text": "New notification management options",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -419,6 +443,7 @@
       },
       {
         "text": "Tools for developers to make smoother or faster animations in iOS",
+        "full-pick-text": "Tools for developers to make smoother or faster animations in iOS",
         "notes": "<p><ul><li>As seen <a href=\"https://developer.apple.com/videos/play/wwdc2021/10147/\" target=\"_blank\">in this WWDC session</a>.</li></ul></p>",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -434,6 +459,7 @@
       },
       {
         "text": "macOS skips ahead to version 15 to match iOS and iPadOS",
+        "full-pick-text": "macOS skips ahead to version 15 to match iOS and iPadOS",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -450,6 +476,7 @@
       },
       {
         "text": "No new Mac notebooks are announced",
+        "full-pick-text": "No new Mac notebooks are announced",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -465,6 +492,7 @@
       },
       {
         "text": "The next version of macOS comes with a redesigned Today view",
+        "full-pick-text": "The next version of macOS comes with a redesigned Today view",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -481,6 +509,7 @@
       },
       {
         "text": "We get some happy messaging from Apple about how much they value developers",
+        "full-pick-text": "We get some happy messaging from Apple about how much they value developers",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",
@@ -495,6 +524,7 @@
       },
       {
         "text": "Apple unveils a new external display",
+        "full-pick-text": "Apple unveils a new external display",
         "notes": "",
         "game": "2021 WWDC Rickies",
         "type": "Flexie",

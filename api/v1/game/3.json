@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "There will be a new Apple news subscription service for content from select publications",
+        "full-pick-text": "There will be a new Apple news subscription service for content from select publications",
         "notes": "",
         "game": "2019 Annual Predictions",
         "type": "Regular",
@@ -21,6 +22,7 @@
       },
       {
         "text": "The Mac Pro will ship (in 2019 this time)",
+        "full-pick-text": "The Mac Pro will ship (in 2019 this time)",
         "notes": "<p><ul><li><a href=\"https://overcast.fm/+FXx6RiXe0/42:31\" target=\"_blank\">Added mid-year</a>: Must be able to order a Mac Pro by the end of 2019, they do not have to arrive in customer hands by the end of the year.</li><li>Ungraded: \"I waffle on sticking with my iMac Pro\"; he bought one almost immediately. Myke predicted that Stephen would buy a Mac Pro, exchange it for an iMac Pro, then buy another Mac Pro in 6 months.</li></ul></p>",
         "game": "2019 Annual Predictions",
         "type": "Regular",
@@ -36,6 +38,7 @@
       },
       {
         "text": "Apple will launch a subscription service featuring original video content",
+        "full-pick-text": "Apple will launch a subscription service featuring original video content",
         "notes": "",
         "game": "2019 Annual Predictions",
         "type": "Regular",
@@ -51,6 +54,7 @@
       },
       {
         "text": "iOS gets a tabbed windows feature that all apps can implement",
+        "full-pick-text": "iOS gets a tabbed windows feature that all apps can implement",
         "notes": "<p><ul><li>\"Tabbed windows\" was acknowledged as an unclear phrase, and was intended to convey that one app could show two separate documents or views, similar to Safari's special side by side mode at the time.</li></ul></p>",
         "game": "2019 Annual Predictions",
         "type": "Regular",
@@ -65,6 +69,7 @@
       },
       {
         "text": "The MacBook Escape will go away",
+        "full-pick-text": "The MacBook Escape will go away",
         "notes": "",
         "game": "2019 Annual Predictions",
         "type": "Regular",
@@ -80,6 +85,7 @@
       },
       {
         "text": "On iOS 13, the iPad home screen features more than just app icons",
+        "full-pick-text": "On iOS 13, the iPad home screen features more than just app icons",
         "notes": "",
         "game": "2019 Annual Predictions",
         "type": "Regular",
@@ -95,6 +101,7 @@
       },
       {
         "text": "Reminders gets a major update",
+        "full-pick-text": "Reminders gets a major update",
         "notes": "<p><ul><li>\"(how do we decide major? — on stage at WWDC or we decide past that)\"</li><li>Ungraded: \"some features that Federico would like to see\", the actual features that Federico talked about were not recorded in the document, but were: a new, more flexible design, easier and faster to add dates and notes, tags, saved searches, better Files integration</li></ul></p>",
         "game": "2019 Annual Predictions",
         "type": "Ricky",
@@ -110,6 +117,7 @@
       },
       {
         "text": "First ARM Mac ships",
+        "full-pick-text": "First ARM Mac ships",
         "notes": "<p><ul><li>Halfway through the year, Myke ups the ante: \"If Stephen gets this right, I will buy you one, if the Mac Pro is an ARM Mac I will buy you the top of the line model.\"</li></ul></p>",
         "game": "2019 Annual Predictions",
         "type": "Ricky",
@@ -126,6 +134,7 @@
       },
       {
         "text": "Apple releases an iPhone subscription service that bundles a device, AppleCare, and a selection of other Apple content services into one monthly payment",
+        "full-pick-text": "Apple releases an iPhone subscription service that bundles a device, AppleCare, and a selection of other Apple content services into one monthly payment",
         "notes": "<p><ul><li>\"(Not just additional iCloud space)\"</li><li>The free AppleTV+ trial with new devices combined with an iPhone Upgrade Program purchase is deemed to not count during grading.</li></ul></p>",
         "game": "2019 Annual Predictions",
         "type": "Ricky",
@@ -175,6 +184,7 @@
     "picks": [
       {
         "text": "AirPower is released and new AirPods are released",
+        "full-pick-text": "AirPower is released and new AirPods are released",
         "notes": "",
         "game": "2019 Annual Predictions",
         "type": "NonGraded",
@@ -191,6 +201,7 @@
       },
       {
         "text": "Someone on Apple's executive website will leave or be fired",
+        "full-pick-text": "Someone on Apple's executive website will leave or be fired",
         "notes": "<p><ul><li><a href=\"https://web.archive.org/web/20190110012030/https://www.apple.com/leadership/\" target=\"_blank\">The page as it existed at the time of the pick</a>.</li><li>Above or below \"the line\", but in the end people from both sections did leave.</li></ul></p>",
         "game": "2019 Annual Predictions",
         "type": "NonGraded",
@@ -205,6 +216,7 @@
       },
       {
         "text": "Over-ear headphones (i.e. HeadPods)",
+        "full-pick-text": "Over-ear headphones (i.e. HeadPods)",
         "notes": "<p><ul><li>Myke was a year off, as AirPods Max came out at the end of 2020.</li></ul></p>",
         "game": "2019 Annual Predictions",
         "type": "NonGraded",
@@ -222,6 +234,7 @@
       },
       {
         "text": "Shortcuts 2.0 is showed off at WWDC with a new developer framework for apps",
+        "full-pick-text": "Shortcuts 2.0 is showed off at WWDC with a new developer framework for apps",
         "notes": "<p><ul><li>\"Shortcuts also gets folders and AirPlay actions in 2019.\"</li></ul></p>",
         "game": "2019 Annual Predictions",
         "type": "NonGraded",
@@ -238,6 +251,7 @@
       },
       {
         "text": "WWDC will introduce a multi-year plan to move macOS and iOS closer",
+        "full-pick-text": "WWDC will introduce a multi-year plan to move macOS and iOS closer",
         "notes": "<p><ul><li>Mac Catalyst and SwiftUI deemed to fulfill this</li></ul></p>",
         "game": "2019 Annual Predictions",
         "type": "NonGraded",
@@ -254,6 +268,7 @@
       },
       {
         "text": "2019 iPhones will start at a lower price than the 2018 iPhones",
+        "full-pick-text": "2019 iPhones will start at a lower price than the 2018 iPhones",
         "notes": "",
         "game": "2019 Annual Predictions",
         "type": "NonGraded",

@@ -1,6 +1,7 @@
 [
   {
     "text": "A streaming service announced as Apple Video",
+    "full-pick-text": "A streaming service announced as Apple Video",
     "notes": "<p><ul><li>\"1-2 months for free, bundled with Apple Music as an option\"</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "Regular",
@@ -17,6 +18,7 @@
   },
   {
     "text": "Apple (of its own choice, not in direct response to a legal case) will allow developers to use payment methods outside the App Store",
+    "full-pick-text": "Apple (of its own choice, not in direct response to a legal case) will allow developers to use payment methods outside the App Store",
     "notes": "",
     "game": "2022 Annual Rickies",
     "type": "Ricky",
@@ -32,6 +34,7 @@
   },
   {
     "text": "Apple announces a new paid service",
+    "full-pick-text": "Apple announces a new paid service",
     "notes": "<p><ul><li><a href=\"https://9to5mac.com/2022/12/20/apple-mls-season-pass-schedule/\" target=\"_blank\">Apple's Major League Soccer deal</a> qualifies.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -46,6 +49,7 @@
   },
   {
     "text": "Apple announces a video game subscription service",
+    "full-pick-text": "Apple announces a video game subscription service",
     "notes": "",
     "game": "2019 Media Event Predictions",
     "type": "Ricky",
@@ -60,6 +64,7 @@
   },
   {
     "text": "Apple announces an update to AirPods Max, that support wireless lossless playback, to take full advantage of Apple's new classical music service",
+    "full-pick-text": "Apple announces an update to AirPods Max, that support wireless lossless playback, to take full advantage of Apple's new classical music service",
     "notes": "<p><ul><li>Working with Apple Classical is part of the pick, meaning that if Classical is not introduced it will be incorrect.</li><li>This was edited to be any AirPods, but then Stephen went back to the more passionate original pick.</li><li>Not a reuse of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20unveils%20a%20new%20high-end%20audio%20product\">the infamous DAC pick</a>, but in a similar vein.</li></ul></p>",
     "game": "2022 March Rickies",
     "type": "Ricky",
@@ -77,6 +82,7 @@
   },
   {
     "text": "Apple announces original podcast content",
+    "full-pick-text": "Apple announces original podcast content",
     "notes": "<p><ul><li>In 2020, Apple did come out with Apple News Today, and has since introduced other shows as well.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
@@ -93,6 +99,7 @@
   },
   {
     "text": "Apple announces something with podcasts",
+    "full-pick-text": "Apple announces something with podcasts",
     "notes": "",
     "game": "2021 April Rickies",
     "type": "Flexie",
@@ -107,6 +114,7 @@
   },
   {
     "text": "Apple gives another extended free period of TV+ with new product purchases, even if you already had a trial",
+    "full-pick-text": "Apple gives another extended free period of TV+ with new product purchases, even if you already had a trial",
     "notes": "<p><ul><li>The pick <a href=\"https://overcast.fm/+FXx5SWQQA/46:32\" target=\"_blank\">went through a little more revision</a> after round 2 ended.</li><li>Apple extended the existing free period for TV+, which does not count</li><li>Myke notes that, since this extension was announced via press release before the event, a differently-worded pick may have been ambiguous based on the rules at the time, so an explicit rule about the scoring window is added.</li></ul></p>",
     "game": "2020 October Rickies",
     "type": "Regular",
@@ -125,6 +133,7 @@
   },
   {
     "text": "Apple introduces new Fitness+ workouts",
+    "full-pick-text": "Apple introduces new Fitness+ workouts",
     "notes": "<p><ul><li><a href=\"https://www.apple.com/newsroom/2022/09/apple-fitness-plus-available-to-all-iphone-users-in-21-countries-later-this-fall/\" target=\"_blank\">Announced in a press release</a>.</li></ul></p>",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -139,6 +148,7 @@
   },
   {
     "text": "Apple launches a new HD tier for Apple Music",
+    "full-pick-text": "Apple launches a new HD tier for Apple Music",
     "notes": "<p><ul><li>This feature <a href=\"https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/\" target=\"_blank\">did come eventually</a>, in 2021.</li></ul></p>",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -155,6 +165,7 @@
   },
   {
     "text": "Apple launches a new subscription service for virtual fitness classes",
+    "full-pick-text": "Apple launches a new subscription service for virtual fitness classes",
     "notes": "",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -169,6 +180,7 @@
   },
   {
     "text": "Apple makes changes to the rules on in-app purchases, removing restrictions on linking to external websites for account creation, etc.",
+    "full-pick-text": "Apple makes changes to the rules on in-app purchases, removing restrictions on linking to external websites for account creation, etc.",
     "notes": "<p><ul><li>This came later in the year as a result of an antitrust settlement with Japan.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Ricky",
@@ -186,6 +198,7 @@
   },
   {
     "text": "Apple Music Classical ships",
+    "full-pick-text": "Apple Music Classical ships",
     "notes": "<p><ul><li>Was originally written \"Apple Music Classic\", but Myke pointed out that it isn't called \"classic music\".</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
@@ -200,6 +213,7 @@
   },
   {
     "text": "Apple Music will be redesigned again",
+    "full-pick-text": "Apple Music will be redesigned again",
     "notes": "<p><ul><li>\"Will gain more Spotify-like algorithmic features\"</li><li>\"An Apple version of the Daily Mix and a way to discover back catalog songs from artists you don't know (Discover Weekly?)\"</li><li>The <a href=\"https://www.engadget.com/2019-08-23-apple-music-new-music-daily.html\" target=\"_blank\">New Music Daily</a> feature would eventually come in 2019.</li></ul></p>",
     "game": "2017 Annual Predictions",
     "type": "Regular",
@@ -216,6 +230,7 @@
   },
   {
     "text": "Apple News service for magazines",
+    "full-pick-text": "Apple News service for magazines",
     "notes": "",
     "game": "2019 Media Event Predictions",
     "type": "Regular",
@@ -230,6 +245,7 @@
   },
   {
     "text": "Apple News will expand internationally",
+    "full-pick-text": "Apple News will expand internationally",
     "notes": "<p><ul><li>It expanded to Canada <a href=\"https://support.apple.com/en-us/HT209084#122\" target=\"_blank\">in iOS 12.2</a>, released the day of the keynote.</li></ul></p>",
     "game": "2019 Media Event Predictions",
     "type": "NonGraded",
@@ -243,6 +259,7 @@
   },
   {
     "text": "Apple Podcast app launches on Android",
+    "full-pick-text": "Apple Podcast app launches on Android",
     "notes": "",
     "game": "2020 Annual Rickies",
     "type": "Ricky",
@@ -259,6 +276,7 @@
   },
   {
     "text": "Apple releases an iPhone subscription service that bundles a device, AppleCare, and a selection of other Apple content services into one monthly payment",
+    "full-pick-text": "Apple releases an iPhone subscription service that bundles a device, AppleCare, and a selection of other Apple content services into one monthly payment",
     "notes": "<p><ul><li>\"(Not just additional iCloud space)\"</li><li>The free AppleTV+ trial with new devices combined with an iPhone Upgrade Program purchase is deemed to not count during grading.</li></ul></p>",
     "game": "2019 Annual Predictions",
     "type": "Ricky",
@@ -275,6 +293,7 @@
   },
   {
     "text": "Apple stops using the iTunes Store app, and moves store content into dedicated apps",
+    "full-pick-text": "Apple stops using the iTunes Store app, and moves store content into dedicated apps",
     "notes": "",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -291,6 +310,7 @@
   },
   {
     "text": "Apple TV+ trailers are shown",
+    "full-pick-text": "Apple TV+ trailers are shown",
     "notes": "",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -308,6 +328,7 @@
   },
   {
     "text": "Apple TV+ will be free with another subscription",
+    "full-pick-text": "Apple TV+ will be free with another subscription",
     "notes": "<p><ul><li>Apple One, which includes Apple TV+, launched a year later.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
@@ -325,6 +346,7 @@
   },
   {
     "text": "Apple updates the Listen Now page of the Music app",
+    "full-pick-text": "Apple updates the Listen Now page of the Music app",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -340,6 +362,7 @@
   },
   {
     "text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
+    "full-pick-text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
     "notes": "<p><ul><li>\"Music and Video removed from iTunes on the Mac\"</li><li>iTunes was eventually split up in 2019.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "NonGraded",
@@ -361,6 +384,7 @@
   },
   {
     "text": "Apple will also announce a service bundle to get multiple services for one integrated fee",
+    "full-pick-text": "Apple will also announce a service bundle to get multiple services for one integrated fee",
     "notes": "<p><ul><li>Ironically, this was deemed insufficiently risky to be a Risky Pick.</li><li>Federico was a year early on this pick, as Apple One was introduced in October 2020.</li></ul></p>",
     "game": "2019 Media Event Predictions",
     "type": "Regular",
@@ -378,6 +402,7 @@
   },
   {
     "text": "Apple will announce a new services bundle",
+    "full-pick-text": "Apple will announce a new services bundle",
     "notes": "",
     "game": "2020 Annual Rickies",
     "type": "NonGraded",
@@ -392,6 +417,7 @@
   },
   {
     "text": "Apple will announce a video streaming service",
+    "full-pick-text": "Apple will announce a video streaming service which includes content from other providers, this will either be free content or paying for a subscription from within the app",
     "notes": "<p><ul><li>\"...which includes content from other providers, this will either be free content or paying for a subscription from within the app\"</li></ul></p>",
     "game": "2019 Media Event Predictions",
     "type": "Regular",
@@ -407,6 +433,7 @@
   },
   {
     "text": "Apple will launch a subscription service featuring original video content",
+    "full-pick-text": "Apple will launch a subscription service featuring original video content",
     "notes": "",
     "game": "2019 Annual Predictions",
     "type": "Regular",
@@ -422,6 +449,7 @@
   },
   {
     "text": "Apple will launch its own podcast content beyond its existing deal with Oprah",
+    "full-pick-text": "Apple will launch its own podcast content beyond its existing deal with Oprah",
     "notes": "",
     "game": "2020 Annual Rickies",
     "type": "Regular",
@@ -437,6 +465,7 @@
   },
   {
     "text": "Apple will mention Apple Arcade during the keynote",
+    "full-pick-text": "Apple will mention Apple Arcade during the keynote",
     "notes": "",
     "game": "2019 WWDC Predictions",
     "type": "Regular",
@@ -452,6 +481,7 @@
   },
   {
     "text": "Apple's classical music service is announced",
+    "full-pick-text": "Apple's classical music service is announced",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -468,6 +498,7 @@
   },
   {
     "text": "Apple's classical music service is unveiled",
+    "full-pick-text": "Apple's classical music service is unveiled",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Regular",
@@ -484,6 +515,7 @@
   },
   {
     "text": "Apple's original content will premiere after the service itself launches",
+    "full-pick-text": "Apple's original content will premiere after the service itself launches",
     "notes": "<p><ul><li>\"non original content will come first, excluding existing programs\"</li></ul></p>",
     "game": "2019 Media Event Predictions",
     "type": "Regular",
@@ -500,6 +532,7 @@
   },
   {
     "text": "At least one Twitter app update will be rejected from the App Store",
+    "full-pick-text": "At least one Twitter app update will be rejected from the App Store",
     "notes": "",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
@@ -512,6 +545,7 @@
   },
   {
     "text": "Better incorporation of Apple News into the audio ecosystem",
+    "full-pick-text": "Better incorporation of Apple News into the audio ecosystem",
     "notes": "<p><ul><li>For example, asking Siri for the news on a HomePod</li><li>This did eventually happen, but in 2020.</li></ul></p>",
     "game": "Audio Predictions",
     "type": "Regular",
@@ -528,6 +562,7 @@
   },
   {
     "text": "iCloud family photo sharing",
+    "full-pick-text": "iCloud family photo sharing",
     "notes": "<p><ul><li><em>Finally</em> got added in 2022 at WWDC.</li></ul></p>",
     "game": "2019 WWDC Predictions",
     "type": "NonGraded",
@@ -544,6 +579,7 @@
   },
   {
     "text": "iCloud free 5 GB limit will be increased",
+    "full-pick-text": "iCloud free 5 GB limit will be increased",
     "notes": "",
     "game": "2017 Annual Predictions",
     "type": "Regular",
@@ -559,6 +595,7 @@
   },
   {
     "text": "Major publications noticeably absent from News+",
+    "full-pick-text": "Major publications noticeably absent from News+",
     "notes": "",
     "game": "2019 Media Event Predictions",
     "type": "NonGraded",
@@ -573,6 +610,7 @@
   },
   {
     "text": "New iMessage features, including the ability to retract sent messages",
+    "full-pick-text": "New iMessage features, including the ability to retract sent messages",
     "notes": "<p><ul><li>Message retraction arrived in 2022 at WWDC.</li></ul></p>",
     "game": "2020 Summer Rickies",
     "type": "Regular",
@@ -589,6 +627,7 @@
   },
   {
     "text": "No Apple Services bundle announced",
+    "full-pick-text": "No Apple Services bundle announced",
     "notes": "",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",
@@ -605,6 +644,7 @@
   },
   {
     "text": "No service bundle announced",
+    "full-pick-text": "No service bundle announced",
     "notes": "<p><ul><li>“including any service being free with another, or some sort of content being added to the iPhone upgrade program”</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn’t really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "Ricky",
@@ -622,6 +662,7 @@
   },
   {
     "text": "One major video game developer will bring an exclusive title to Apple Arcade",
+    "full-pick-text": "One major video game developer will bring an exclusive title to Apple Arcade",
     "notes": "",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",
@@ -637,6 +678,7 @@
   },
   {
     "text": "Preview of fall Apple TV+ content",
+    "full-pick-text": "Preview of fall Apple TV+ content",
     "notes": "",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -654,6 +696,7 @@
   },
   {
     "text": "The Music app gets an updated design in the Listen Now page",
+    "full-pick-text": "The Music app gets an updated design in the Listen Now page",
     "notes": "<p><ul><li>Federico <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20updates%20the%20Listen%20Now%20page%20of%20the%20Music%20app\">still isn't happy with it</a>, it seems.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -671,6 +714,7 @@
   },
   {
     "text": "The video streaming service does not launch until at least May 1",
+    "full-pick-text": "The video streaming service does not launch until at least May 1",
     "notes": "",
     "game": "2019 Media Event Predictions",
     "type": "Regular",
@@ -686,6 +730,7 @@
   },
   {
     "text": "The video streaming service will come to Roku and Fire TV products",
+    "full-pick-text": "The video streaming service will come to Roku and Fire TV products",
     "notes": "",
     "game": "2019 Media Event Predictions",
     "type": "NonGraded",
@@ -701,6 +746,7 @@
   },
   {
     "text": "There will be a new Apple news subscription service for content from select publications",
+    "full-pick-text": "There will be a new Apple news subscription service for content from select publications",
     "notes": "",
     "game": "2019 Annual Predictions",
     "type": "Regular",
@@ -715,6 +761,7 @@
   },
   {
     "text": "There will be new ways to invoke Siri by voice instead of saying \"Hey Siri\"",
+    "full-pick-text": "There will be new ways to invoke Siri by voice instead of saying \"Hey Siri\"",
     "notes": "",
     "game": "2023 Annual Rickies",
     "type": "Flexie",

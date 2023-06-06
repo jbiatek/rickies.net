@@ -1,5 +1,6 @@
 {
   "text": "iOS gets split-view support for multitasking to use 2 apps at once",
+  "full-pick-text": "iOS gets split-view support for multitasking to use 2 apps at once",
   "notes": "<p><ul><li>Ungraded: works in both portrait and landscape, drag and drop between apps.</li><li>That's <em>iOS</em>, as in on the iPhone.</li></ul></p>",
   "game": "2022 WWDC Rickies",
   "type": "Ricky",

@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "Apple releases a larger MacBook Air",
+        "full-pick-text": "Apple releases a larger MacBook Air",
         "notes": "",
         "game": "2023 Annual Rickies",
         "type": "Regular",
@@ -20,6 +21,7 @@
       },
       {
         "text": "Apple releases a new Mac mini",
+        "full-pick-text": "Apple releases a new Mac mini",
         "notes": "<p><ul><li>Ungraded: Probably the same design but with an M2 chip. More Thunderbolt ports would be nice.</li></ul></p>",
         "game": "2023 Annual Rickies",
         "type": "Regular",
@@ -33,6 +35,7 @@
       },
       {
         "text": "WWDC 2023 follows the same format as WWDC 2022, with a small number of people invited in person",
+        "full-pick-text": "WWDC 2023 follows the same format as WWDC 2022, with a small number of people invited in person",
         "notes": "<p><ul><li>No convention center, no ticket lottery, just like in 2022.</li></ul></p>",
         "game": "2023 Annual Rickies",
         "type": "Regular",
@@ -46,6 +49,7 @@
       },
       {
         "text": "An iPhone gets USB-C",
+        "full-pick-text": "An iPhone gets USB-C",
         "notes": "<p><ul><li>Seems inevitable but it might be a bit <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ahead%20of%20Its%20Time\">ahead of its time</a>.</li><li>Ungraded: might just be the Pro phones, to advertise the improved transfer speeds.</li></ul></p>",
         "game": "2023 Annual Rickies",
         "type": "Regular",
@@ -58,6 +62,7 @@
       },
       {
         "text": "There will not be an iPhone 15 mini",
+        "full-pick-text": "There will not be an iPhone 15 mini",
         "notes": "",
         "game": "2023 Annual Rickies",
         "type": "Regular",
@@ -72,6 +77,7 @@
       },
       {
         "text": "No Intel Macs are left on sale (as new) at the end of 2023",
+        "full-pick-text": "No Intel Macs are left on sale (as new) at the end of 2023",
         "notes": "<p><ul><li>\"Does not include the refurbished or educational stores.\" Or, in other words, the Intel Mac Minis and Mac Pro are not sold as new anymore (and of course they don't introduce a <em>new</em> Intel Mac).</li></ul></p>",
         "game": "2023 Annual Rickies",
         "type": "Regular",
@@ -84,6 +90,7 @@
       },
       {
         "text": "Apple shows off their headset in March, they announce developer tools at WWDC, then show it off again at an event in September. It ships to customers in October",
+        "full-pick-text": "Apple shows off their headset in March, they announce developer tools at WWDC, then show it off again at an event in September. It ships to customers in October",
         "notes": "",
         "game": "2023 Annual Rickies",
         "type": "Ricky",
@@ -97,6 +104,7 @@
       },
       {
         "text": "Apple will release its biggest iPad ever with a display of at least 16 inches...",
+        "full-pick-text": "Apple will release its biggest iPad ever with a display of at least 16 inches. It won't be OLED, it'll have the front-facing camera on the landscape side, and two USB-C ports at least. It'll be called iPad Studio.",
         "notes": "<p><ul><li>\"... It won't be OLED, it'll have the front-facing camera on the landscape side, and two USB-C ports at least. It'll be called iPad Studio.\"</li></ul></p>",
         "game": "2023 Annual Rickies",
         "type": "Ricky",
@@ -110,6 +118,7 @@
       },
       {
         "text": "Apple releases an iPad Pro with a screen between 15.0 and 15.9999 inches which replaces the 11-inch model",
+        "full-pick-text": "Apple releases an iPad Pro with a screen between 15.0 and 15.9999 inches which replaces the 11-inch model",
         "notes": "<p><ul><li>Was originally just \"15 inch\" but a specific range was requested after Federico's pick was read.</li></ul></p>",
         "game": "2023 Annual Rickies",
         "type": "Ricky",
@@ -129,6 +138,7 @@
     "picks": [
       {
         "text": "There is no iPad bigger than 12.9 inches",
+        "full-pick-text": "There is no iPad bigger than 12.9 inches",
         "notes": "",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -142,6 +152,7 @@
       },
       {
         "text": "An iPhone gets a periscope camera",
+        "full-pick-text": "An iPhone gets a periscope camera",
         "notes": "",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -154,6 +165,7 @@
       },
       {
         "text": "Apple's headset has widgets that look similar to iOS",
+        "full-pick-text": "Apple's headset has widgets that look similar to iOS",
         "notes": "",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -166,6 +178,7 @@
       },
       {
         "text": "Apple releases an iMac with a larger screen",
+        "full-pick-text": "Apple releases an iMac with a larger screen",
         "notes": "",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -178,6 +191,7 @@
       },
       {
         "text": "AirPods Max 2 feature a foldable design, and come with a new case that fully encloses them",
+        "full-pick-text": "AirPods Max 2 feature a foldable design, and come with a new case that fully encloses them",
         "notes": "",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -191,6 +205,7 @@
       },
       {
         "text": "The iPad mini gets updated, featuring either a mini LED or OLED screen",
+        "full-pick-text": "The iPad mini gets updated, featuring either a mini LED or OLED screen",
         "notes": "",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -203,6 +218,7 @@
       },
       {
         "text": "Apple will release a new monitor",
+        "full-pick-text": "Apple will release a new monitor",
         "notes": "<p><ul><li>Myke wanted an additional pick to match the 7 of the other hosts, so this was thrown in after the others had gone.</li></ul></p>",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -216,6 +232,7 @@
       },
       {
         "text": "The iPad mini will be updated",
+        "full-pick-text": "The iPad mini will be updated",
         "notes": "",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -228,6 +245,7 @@
       },
       {
         "text": "Apple Music Classical ships",
+        "full-pick-text": "Apple Music Classical ships",
         "notes": "<p><ul><li>Was originally written \"Apple Music Classic\", but Myke pointed out that it isn't called \"classic music\".</li></ul></p>",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -242,6 +260,7 @@
       },
       {
         "text": "Twitter will file for bankruptcy",
+        "full-pick-text": "Twitter will file for bankruptcy",
         "notes": "<p><ul><li>The first ever <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Non-Apple%20Related\">completely non-Apple related</a> pick!</li></ul></p>",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -254,6 +273,7 @@
       },
       {
         "text": "The iPhone 15 and 15 Pro use the same generation system-on-a-chip",
+        "full-pick-text": "The iPhone 15 and 15 Pro use the same generation system-on-a-chip",
         "notes": "<p><ul><li>They could be different chips with different branding, but not, say, an A16 and an A15.</li></ul></p>",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -266,6 +286,7 @@
       },
       {
         "text": "Apple sells an \"iPhone 15 Ultra\"",
+        "full-pick-text": "Apple sells an \"iPhone 15 Ultra\"",
         "notes": "",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -278,6 +299,7 @@
       },
       {
         "text": "The Apple Silicon Mac Pro allows third-party GPUs to be used",
+        "full-pick-text": "The Apple Silicon Mac Pro allows third-party GPUs to be used",
         "notes": "",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -290,6 +312,7 @@
       },
       {
         "text": "The Mac Mini is updated to include more than one system-on-a-chip option",
+        "full-pick-text": "The Mac Mini is updated to include more than one system-on-a-chip option",
         "notes": "<p><ul><li>e.g. M2 and M2 Pro.</li></ul></p>",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -302,6 +325,7 @@
       },
       {
         "text": "There will be new ways to invoke Siri by voice instead of saying \"Hey Siri\"",
+        "full-pick-text": "There will be new ways to invoke Siri by voice instead of saying \"Hey Siri\"",
         "notes": "",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -314,6 +338,7 @@
       },
       {
         "text": "Apple will revive the HomePod line with new devices",
+        "full-pick-text": "Apple will revive the HomePod line with new devices",
         "notes": "<p><ul><li>New deviceS, <em>plural</em>. Must be at least 2 and must be new products, not product refreshes like a new HomePod mini.</li></ul></p>",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -326,6 +351,7 @@
       },
       {
         "text": "Second-generation AirPods Max will ship during the year",
+        "full-pick-text": "Second-generation AirPods Max will ship during the year",
         "notes": "<p><ul><li>Was originally \"AirPods Max 2\" specifically.</li></ul></p>",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -340,6 +366,7 @@
       },
       {
         "text": "There is no second generation Apple Watch Ultra this year",
+        "full-pick-text": "There is no second generation Apple Watch Ultra this year",
         "notes": "",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -353,6 +380,7 @@
       },
       {
         "text": "Apple brings new actions to Shortcuts to control windows on iPadOS",
+        "full-pick-text": "Apple brings new actions to Shortcuts to control windows on iPadOS",
         "notes": "",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -367,6 +395,7 @@
       },
       {
         "text": "Apple releases new developer APIs for Stage Manager",
+        "full-pick-text": "Apple releases new developer APIs for Stage Manager",
         "notes": "<p><ul><li>At the time of picking there were not <em>any</em> developer APIs for Stage Manager on either macOS or iPadOS, so anything will be \"new\".</li></ul></p>",
         "game": "2023 Annual Rickies",
         "type": "Flexie",
@@ -383,6 +412,7 @@
       },
       {
         "text": "At least one Twitter app update will be rejected from the App Store",
+        "full-pick-text": "At least one Twitter app update will be rejected from the App Store",
         "notes": "",
         "game": "2023 Annual Rickies",
         "type": "Flexie",

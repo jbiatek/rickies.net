@@ -1,5 +1,6 @@
 {
   "text": "A CPU transition is announced for the Mac",
+  "full-pick-text": "A CPU transition is announced for the Mac",
   "notes": "<p><ul><li>Federico counsels against specifying ARM, which is good because Apple calls it \"Apple Silicon\" and never uses the term ARM.</li></ul></p>",
   "game": "2020 Summer Rickies",
   "type": "Regular",

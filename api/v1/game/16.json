@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "Apple News service for magazines",
+        "full-pick-text": "Apple News service for magazines",
         "notes": "",
         "game": "2019 Media Event Predictions",
         "type": "Regular",
@@ -21,6 +22,7 @@
       },
       {
         "text": "Apple will announce a video streaming service",
+        "full-pick-text": "Apple will announce a video streaming service which includes content from other providers, this will either be free content or paying for a subscription from within the app",
         "notes": "<p><ul><li>\"...which includes content from other providers, this will either be free content or paying for a subscription from within the app\"</li></ul></p>",
         "game": "2019 Media Event Predictions",
         "type": "Regular",
@@ -36,6 +38,7 @@
       },
       {
         "text": "The video streaming service does not launch until at least May 1",
+        "full-pick-text": "The video streaming service does not launch until at least May 1",
         "notes": "",
         "game": "2019 Media Event Predictions",
         "type": "Regular",
@@ -51,6 +54,7 @@
       },
       {
         "text": "Apple will also announce a service bundle to get multiple services for one integrated fee",
+        "full-pick-text": "Apple will also announce a service bundle to get multiple services for one integrated fee",
         "notes": "<p><ul><li>Ironically, this was deemed insufficiently risky to be a Risky Pick.</li><li>Federico was a year early on this pick, as Apple One was introduced in October 2020.</li></ul></p>",
         "game": "2019 Media Event Predictions",
         "type": "Regular",
@@ -68,6 +72,7 @@
       },
       {
         "text": "Apple's original content will premiere after the service itself launches",
+        "full-pick-text": "Apple's original content will premiere after the service itself launches",
         "notes": "<p><ul><li>\"non original content will come first, excluding existing programs\"</li></ul></p>",
         "game": "2019 Media Event Predictions",
         "type": "Regular",
@@ -84,6 +89,7 @@
       },
       {
         "text": "Tim Cook interacts with a celebrity",
+        "full-pick-text": "Tim Cook interacts with a celebrity",
         "notes": "",
         "game": "2019 Media Event Predictions",
         "type": "Regular",
@@ -98,6 +104,7 @@
       },
       {
         "text": "Apple will mention at least one new feature coming to the HomePod",
+        "full-pick-text": "Apple will mention at least one new feature coming to the HomePod",
         "notes": "<p><ul><li>\"HomePod\" needs to be mentioned by name.</li><li>The HomePod <a href=\"https://www.apple.com/newsroom/2018/09/homepod-adds-new-features-and-siri-languages/\" target=\"_blank\">got a few new features the year before</a>, but not much else before being discontinued.</li></ul></p>",
         "game": "2019 Media Event Predictions",
         "type": "Ricky",
@@ -114,6 +121,7 @@
       },
       {
         "text": "Apple announces a video game subscription service",
+        "full-pick-text": "Apple announces a video game subscription service",
         "notes": "",
         "game": "2019 Media Event Predictions",
         "type": "Ricky",
@@ -128,6 +136,7 @@
       },
       {
         "text": "Apple TV app will receive a refreshed design",
+        "full-pick-text": "Apple TV app will receive a refreshed design",
         "notes": "",
         "game": "2019 Media Event Predictions",
         "type": "Ricky",
@@ -201,6 +210,7 @@
     "picks": [
       {
         "text": "Apple News will expand internationally",
+        "full-pick-text": "Apple News will expand internationally",
         "notes": "<p><ul><li>It expanded to Canada <a href=\"https://support.apple.com/en-us/HT209084#122\" target=\"_blank\">in iOS 12.2</a>, released the day of the keynote.</li></ul></p>",
         "game": "2019 Media Event Predictions",
         "type": "NonGraded",
@@ -214,6 +224,7 @@
       },
       {
         "text": "Apple TV box gets a price cut",
+        "full-pick-text": "Apple TV box gets a price cut",
         "notes": "<p><ul><li>After many, many years, Apple finally <a href=\"https://www.apple.com/newsroom/2022/10/apple-introduces-the-powerful-next-generation-apple-tv-4k/\" target=\"_blank\">put out a slightly cut down Apple TV 4K for a lower price</a> in 2022.</li></ul></p>",
         "game": "2019 Media Event Predictions",
         "type": "NonGraded",
@@ -229,6 +240,7 @@
       },
       {
         "text": "Apple gives a quick tour of improvements to next round of software updates",
+        "full-pick-text": "Apple gives a quick tour of improvements to next round of software updates",
         "notes": "",
         "game": "2019 Media Event Predictions",
         "type": "NonGraded",
@@ -243,6 +255,7 @@
       },
       {
         "text": "The video streaming service will come to Roku and Fire TV products",
+        "full-pick-text": "The video streaming service will come to Roku and Fire TV products",
         "notes": "",
         "game": "2019 Media Event Predictions",
         "type": "NonGraded",
@@ -258,6 +271,7 @@
       },
       {
         "text": "All the celebrities will come out at the end and take a picture together",
+        "full-pick-text": "All the celebrities will come out at the end and take a picture together",
         "notes": "",
         "game": "2019 Media Event Predictions",
         "type": "NonGraded",
@@ -271,6 +285,7 @@
       },
       {
         "text": "Major publications noticeably absent from News+",
+        "full-pick-text": "Major publications noticeably absent from News+",
         "notes": "",
         "game": "2019 Media Event Predictions",
         "type": "NonGraded",

@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "New colours in the iPhone line as compared to the previous year",
+        "full-pick-text": "New colours in the iPhone line as compared to the previous year",
         "notes": "",
         "game": "2019 Fall Rickies",
         "type": "Regular",
@@ -22,6 +23,7 @@
       },
       {
         "text": "The iPhone XR will become the iPhone 11",
+        "full-pick-text": "The iPhone XR will become the iPhone 11",
         "notes": "",
         "game": "2019 Fall Rickies",
         "type": "Regular",
@@ -36,6 +38,7 @@
       },
       {
         "text": "The biggest phone will not be called Pro Max",
+        "full-pick-text": "The biggest phone will not be called Pro Max",
         "notes": "",
         "game": "2019 Fall Rickies",
         "type": "Regular",
@@ -51,6 +54,7 @@
       },
       {
         "text": "There will be 3 cameras on the high end phones",
+        "full-pick-text": "There will be 3 cameras on the high end phones",
         "notes": "<p><ul><li>Ungraded: \"the cameras will be ultrawide, 'the camera', and telephoto\"</li></ul></p>",
         "game": "2019 Fall Rickies",
         "type": "Regular",
@@ -65,6 +69,7 @@
       },
       {
         "text": "No Mac or iPad hardware in the keynote",
+        "full-pick-text": "No Mac or iPad hardware in the keynote",
         "notes": "<p><ul><li>10.2” iPad was announced</li></ul></p>",
         "game": "2019 Fall Rickies",
         "type": "Regular",
@@ -84,6 +89,7 @@
       },
       {
         "text": "The new phone will offer some kind of night mode for shooting photos in the dark",
+        "full-pick-text": "The new phone will offer some kind of night mode for shooting photos in the dark",
         "notes": "",
         "game": "2019 Fall Rickies",
         "type": "Regular",
@@ -98,6 +104,7 @@
       },
       {
         "text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand",
+        "full-pick-text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand",
         "notes": "",
         "game": "2019 Fall Rickies",
         "type": "Ricky",
@@ -114,6 +121,7 @@
       },
       {
         "text": "No service bundle announced",
+        "full-pick-text": "No service bundle announced",
         "notes": "<p><ul><li>“including any service being free with another, or some sort of content being added to the iPhone upgrade program”</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn’t really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
         "game": "2019 Fall Rickies",
         "type": "Ricky",
@@ -131,6 +139,7 @@
       },
       {
         "text": "Apple announces Apple TV and game controller bundle",
+        "full-pick-text": "Apple announces Apple TV and game controller bundle",
         "notes": "<p><ul><li>Federico spins a vivid tale of how actually this was announced, but the other guys don’t buy it.</li></ul></p>",
         "game": "2019 Fall Rickies",
         "type": "Ricky",
@@ -166,6 +175,7 @@
     "picks": [
       {
         "text": "Apple TV+ will be free with another subscription",
+        "full-pick-text": "Apple TV+ will be free with another subscription",
         "notes": "<p><ul><li>Apple One, which includes Apple TV+, launched a year later.</li></ul></p>",
         "game": "2019 Fall Rickies",
         "type": "NonGraded",
@@ -183,6 +193,7 @@
       },
       {
         "text": "The Mac is not mentioned",
+        "full-pick-text": "The Mac is not mentioned",
         "notes": "",
         "game": "2019 Fall Rickies",
         "type": "NonGraded",
@@ -199,6 +210,7 @@
       },
       {
         "text": "Some surprise hardware, like a Tile tracker",
+        "full-pick-text": "Some surprise hardware, like a Tile tracker",
         "notes": "<p><ul><li>Apple's tracker would eventually come out in 2021.</li></ul></p>",
         "game": "2019 Fall Rickies",
         "type": "NonGraded",
@@ -215,6 +227,7 @@
       },
       {
         "text": "Jeff Williams will take a greater role in the keynote",
+        "full-pick-text": "Jeff Williams will take a greater role in the keynote",
         "notes": "<p><ul><li>More than just the Apple Watch section</li></ul></p>",
         "game": "2019 Fall Rickies",
         "type": "NonGraded",
@@ -230,6 +243,7 @@
       },
       {
         "text": "No mention or word from Jony Ive",
+        "full-pick-text": "No mention or word from Jony Ive",
         "notes": "",
         "game": "2019 Fall Rickies",
         "type": "NonGraded",
@@ -244,6 +258,7 @@
       },
       {
         "text": "Apple gives a release date for iOS 13.1 and mentions the update on stage",
+        "full-pick-text": "Apple gives a release date for iOS 13.1 and mentions the update on stage",
         "notes": "",
         "game": "2019 Fall Rickies",
         "type": "NonGraded",
@@ -260,6 +275,7 @@
       },
       {
         "text": "Apple announces new environmental efforts, such as a new recycling robot",
+        "full-pick-text": "Apple announces new environmental efforts, such as a new recycling robot",
         "notes": "",
         "game": "2019 Fall Rickies",
         "type": "NonGraded",
@@ -275,6 +291,7 @@
       },
       {
         "text": "Catalina gets a release date",
+        "full-pick-text": "Catalina gets a release date",
         "notes": "<p><ul><li>This didn't happen until <a href=\"https://www.theverge.com/2020/11/10/21432429/apple-macos-11-big-sur-release-date-m1-chip\" target=\"_blank\">November 10th</a>.</li></ul></p>",
         "game": "2019 Fall Rickies",
         "type": "NonGraded",
@@ -292,6 +309,7 @@
       },
       {
         "text": "Apple announces original podcast content",
+        "full-pick-text": "Apple announces original podcast content",
         "notes": "<p><ul><li>In 2020, Apple did come out with Apple News Today, and has since introduced other shows as well.</li></ul></p>",
         "game": "2019 Fall Rickies",
         "type": "NonGraded",

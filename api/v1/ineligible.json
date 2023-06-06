@@ -2,6 +2,7 @@
   "Stephen": [
     {
       "text": "Apple releases an iPad Pro with a screen between 15.0 and 15.9999 inches which replaces the 11-inch model",
+      "full-pick-text": "Apple releases an iPad Pro with a screen between 15.0 and 15.9999 inches which replaces the 11-inch model",
       "notes": "<p><ul><li>Was originally just \"15 inch\" but a specific range was requested after Federico's pick was read.</li></ul></p>",
       "game": "2023 Annual Rickies",
       "type": "Ricky",
@@ -15,6 +16,7 @@
     },
     {
       "text": "No Intel Macs are left on sale (as new) at the end of 2023",
+      "full-pick-text": "No Intel Macs are left on sale (as new) at the end of 2023",
       "notes": "<p><ul><li>\"Does not include the refurbished or educational stores.\" Or, in other words, the Intel Mac Minis and Mac Pro are not sold as new anymore (and of course they don't introduce a <em>new</em> Intel Mac).</li></ul></p>",
       "game": "2023 Annual Rickies",
       "type": "Regular",
@@ -27,6 +29,7 @@
     },
     {
       "text": "WWDC 2023 follows the same format as WWDC 2022, with a small number of people invited in person",
+      "full-pick-text": "WWDC 2023 follows the same format as WWDC 2022, with a small number of people invited in person",
       "notes": "<p><ul><li>No convention center, no ticket lottery, just like in 2022.</li></ul></p>",
       "game": "2023 Annual Rickies",
       "type": "Regular",
@@ -40,6 +43,7 @@
     },
     {
       "text": "Apple shows off at least one iOS 16 feature that we haven’t seen before",
+      "full-pick-text": "Apple shows off at least one iOS 16 feature that we haven’t seen before",
       "notes": "",
       "game": "2022 September Rickies",
       "type": "Regular",
@@ -54,6 +58,7 @@
     },
     {
       "text": "iOS gets split-view support for multitasking to use 2 apps at once (reuse)",
+      "full-pick-text": "iOS gets split-view support for multitasking to use 2 apps at once (reuse)",
       "notes": "<p><ul><li>Was originally \"The Lightning port on the iPhone 14 Pro is upgraded to at least USB 3.0\", but <a href=\"https://9to5mac.com/2022/04/19/sketchy-rumor-claims-iphone-14-pro-will-feature-faster-usb-3-0-lightning-connector/\" target=\"_blank\">it turns out this has been rumored</a>. This prompts <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Connected%20%23413%3A%20The%20Rickies%20(September%202022)\">a rule change</a>. Stephen thought of a few options which became Flexies, but ultimately opts to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#iOS%20gets%20split-view%20support%20for%20multitasking%20to%20use%202%20apps%20at%20once\">reuse Federico's Risky pick from the last game, word for word</a> (a <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ineligible%20Picks\">legal choice under the Bill</a>).</li><li>Federico, oddly, argues <em>for</em> this being correct, with the Dynamic Island allowing multiple app use. But the others agree that, while funny, that isn't it.</li></ul></p>",
       "game": "2022 September Rickies",
       "type": "Ricky",
@@ -70,6 +75,7 @@
     },
     {
       "text": "The Apple Watch SE, announced in 2020, moves down in price with no feature changes",
+      "full-pick-text": "The Apple Watch SE, announced in 2020, moves down in price with no feature changes",
       "notes": "<p><ul><li>Not graded: Series 7 or SE 2 takes the middle price point where the SE is now</li></ul></p>",
       "game": "2022 September Rickies",
       "type": "Regular",
@@ -88,6 +94,7 @@
   "Myke": [
     {
       "text": "An iPhone gets USB-C",
+      "full-pick-text": "An iPhone gets USB-C",
       "notes": "<p><ul><li>Seems inevitable but it might be a bit <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ahead%20of%20Its%20Time\">ahead of its time</a>.</li><li>Ungraded: might just be the Pro phones, to advertise the improved transfer speeds.</li></ul></p>",
       "game": "2023 Annual Rickies",
       "type": "Regular",
@@ -100,6 +107,7 @@
     },
     {
       "text": "Apple releases a larger MacBook Air",
+      "full-pick-text": "Apple releases a larger MacBook Air",
       "notes": "",
       "game": "2023 Annual Rickies",
       "type": "Regular",
@@ -113,6 +121,7 @@
     },
     {
       "text": "Apple shows off their headset in March, they announce developer tools at WWDC, then show it off again at an event in September. It ships to customers in October",
+      "full-pick-text": "Apple shows off their headset in March, they announce developer tools at WWDC, then show it off again at an event in September. It ships to customers in October",
       "notes": "",
       "game": "2023 Annual Rickies",
       "type": "Ricky",
@@ -126,6 +135,7 @@
     },
     {
       "text": "AirPods Max 2 can be folded to store more compactly",
+      "full-pick-text": "AirPods Max 2 can be folded to store more compactly",
       "notes": "<p><ul><li>Myke doesn't seem to have much confidence in this risky pick, but his other choices were shot down as insufficiently risky in negotiations.</li></ul></p>",
       "game": "2022 September Rickies",
       "type": "Ricky",
@@ -142,6 +152,7 @@
     },
     {
       "text": "At least one iPhone gets an upgraded main camera",
+      "full-pick-text": "At least one iPhone gets an upgraded main camera",
       "notes": "",
       "game": "2022 September Rickies",
       "type": "Regular",
@@ -156,6 +167,7 @@
     },
     {
       "text": "At least one iPhone will have the notch removed, replaced by a cut-out(s) for the camera and sensors, free-floating from the border",
+      "full-pick-text": "At least one iPhone will have the notch removed, replaced by a cut-out(s) for the camera and sensors, free-floating from the border",
       "notes": "<p><ul><li>Or, as Stephen so poetically put it, \"AKA an island of black glass in an ocean of pixels.\" Little did he know that Apple would <em>actually</em> call it \"the Dynamic Island\".</li></ul></p>",
       "game": "2022 September Rickies",
       "type": "Regular",
@@ -173,6 +185,7 @@
   "Federico": [
     {
       "text": "Apple releases a new Mac mini",
+      "full-pick-text": "Apple releases a new Mac mini",
       "notes": "<p><ul><li>Ungraded: Probably the same design but with an M2 chip. More Thunderbolt ports would be nice.</li></ul></p>",
       "game": "2023 Annual Rickies",
       "type": "Regular",
@@ -186,6 +199,7 @@
     },
     {
       "text": "Apple will release its biggest iPad ever with a display of at least 16 inches...",
+      "full-pick-text": "Apple will release its biggest iPad ever with a display of at least 16 inches. It won't be OLED, it'll have the front-facing camera on the landscape side, and two USB-C ports at least. It'll be called iPad Studio.",
       "notes": "<p><ul><li>\"... It won't be OLED, it'll have the front-facing camera on the landscape side, and two USB-C ports at least. It'll be called iPad Studio.\"</li></ul></p>",
       "game": "2023 Annual Rickies",
       "type": "Ricky",
@@ -199,6 +213,7 @@
     },
     {
       "text": "There will not be an iPhone 15 mini",
+      "full-pick-text": "There will not be an iPhone 15 mini",
       "notes": "",
       "game": "2023 Annual Rickies",
       "type": "Regular",
@@ -213,6 +228,7 @@
     },
     {
       "text": "At least one of the next 'Pro' iPhones will have an always-on display",
+      "full-pick-text": "At least one of the next 'Pro' iPhones will have an always-on display",
       "notes": "",
       "game": "2022 September Rickies",
       "type": "Regular",
@@ -227,6 +243,7 @@
     },
     {
       "text": "The iPhone 14 Pro Camera app introduces some kind of 3D capturing functionality",
+      "full-pick-text": "The iPhone 14 Pro Camera app introduces some kind of 3D capturing functionality",
       "notes": "",
       "game": "2022 September Rickies",
       "type": "Ricky",
@@ -244,6 +261,7 @@
     },
     {
       "text": "There won't be a mini iPhone in the iPhone 14 family",
+      "full-pick-text": "There won't be a mini iPhone in the iPhone 14 family",
       "notes": "<p><ul><li>Federico basically steals <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#There%20will%20be%20no%20iPhone%2014%20with%20a%205.4%22%20display\">one of Myke's ongoing annual picks</a>, which is allowed by <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Bill%20of%20Rickies\">the rules</a>.</li><li>😭</li></ul></p>",
       "game": "2022 September Rickies",
       "type": "Regular",

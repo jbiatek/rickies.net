@@ -1,6 +1,7 @@
 [
   {
     "text": "An Apple Silicon Mac is available to order in November 2020",
+    "full-pick-text": "An Apple Silicon Mac is available to order in November 2020",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Regular",
@@ -17,6 +18,7 @@
   },
   {
     "text": "Any kind of release timeframe is provided for macOS Monterey",
+    "full-pick-text": "Any kind of release timeframe is provided for macOS Monterey",
     "notes": "<p><ul><li>Apparently feeling humble, Federico admits that this is a \"boring\" pick. It was originally \"release date\", but when some questioning about whether just a month would count came up, he watered it down.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Regular",
@@ -35,6 +37,7 @@
   },
   {
     "text": "Apple releases a larger MacBook Air",
+    "full-pick-text": "Apple releases a larger MacBook Air",
     "notes": "",
     "game": "2023 Annual Rickies",
     "type": "Regular",
@@ -48,6 +51,7 @@
   },
   {
     "text": "Apple releases a new Mac mini",
+    "full-pick-text": "Apple releases a new Mac mini",
     "notes": "<p><ul><li>Ungraded: Probably the same design but with an M2 chip. More Thunderbolt ports would be nice.</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Regular",
@@ -61,6 +65,7 @@
   },
   {
     "text": "Apple unveils a new Apple Watch",
+    "full-pick-text": "Apple unveils a new Apple Watch",
     "notes": "<p><ul><li>While Federico had some criticism of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20iPad%20home%20screen%20gets%20new%20features\">a couple</a> of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Memoji%20will%20get%20updated%20to%20include%20face%20coverings\">Myke's picks</a> in <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#2020%20Summer%20Rickies\">the previous game</a> along the same lines, this was the very first time that Federico specifically called out a lack of \"passion\" in a pick.</li></ul></p>",
     "game": "2020 September Rickies",
     "type": "Regular",
@@ -76,6 +81,7 @@
   },
   {
     "text": "Apple unveils a new iPad, not Pro",
+    "full-pick-text": "Apple unveils a new iPad, not Pro",
     "notes": "",
     "game": "2020 September Rickies",
     "type": "Regular",
@@ -91,6 +97,7 @@
   },
   {
     "text": "There will not be an iPhone 15 mini",
+    "full-pick-text": "There will not be an iPhone 15 mini",
     "notes": "",
     "game": "2023 Annual Rickies",
     "type": "Regular",
@@ -105,6 +112,7 @@
   },
   {
     "text": "WWDC 2023 follows the same format as WWDC 2022, with a small number of people invited in person",
+    "full-pick-text": "WWDC 2023 follows the same format as WWDC 2022, with a small number of people invited in person",
     "notes": "<p><ul><li>No convention center, no ticket lottery, just like in 2022.</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Regular",

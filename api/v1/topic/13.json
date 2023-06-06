@@ -1,6 +1,7 @@
 [
   {
     "text": "Apple announces Apple TV and game controller bundle",
+    "full-pick-text": "Apple announces Apple TV and game controller bundle",
     "notes": "<p><ul><li>Federico spins a vivid tale of how actually this was announced, but the other guys don’t buy it.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "Ricky",
@@ -16,6 +17,7 @@
   },
   {
     "text": "Apple TV app will receive a refreshed design",
+    "full-pick-text": "Apple TV app will receive a refreshed design",
     "notes": "",
     "game": "2019 Media Event Predictions",
     "type": "Ricky",
@@ -32,6 +34,7 @@
   },
   {
     "text": "Apple TV box gets a price cut",
+    "full-pick-text": "Apple TV box gets a price cut",
     "notes": "<p><ul><li>After many, many years, Apple finally <a href=\"https://www.apple.com/newsroom/2022/10/apple-introduces-the-powerful-next-generation-apple-tv-4k/\" target=\"_blank\">put out a slightly cut down Apple TV 4K for a lower price</a> in 2022.</li></ul></p>",
     "game": "2019 Media Event Predictions",
     "type": "NonGraded",
@@ -47,6 +50,7 @@
   },
   {
     "text": "New Apple TV released",
+    "full-pick-text": "New Apple TV released",
     "notes": "",
     "game": "2021 Annual Rickies",
     "type": "Flexie",
@@ -61,6 +65,7 @@
   },
   {
     "text": "tvOS is not covered in the keynote",
+    "full-pick-text": "tvOS is not covered in the keynote",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -75,6 +80,7 @@
   },
   {
     "text": "Updated Apple TV",
+    "full-pick-text": "Updated Apple TV",
     "notes": "<p><ul><li>Finally happened on <a href=\"https://www.apple.com/newsroom/2021/04/apple-unveils-the-next-generation-of-apple-tv-4k/\" target=\"_blank\">April 20, 2021</a>.</li></ul></p>",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -91,6 +97,7 @@
   },
   {
     "text": "Widgets on tvOS",
+    "full-pick-text": "Widgets on tvOS",
     "notes": "<p><ul><li>As discussed by Myke <a href=\"https://appstories.net/posts/our-watchos-and-tvos-wishes\" target=\"_blank\">on the AppStories podcast</a>.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",

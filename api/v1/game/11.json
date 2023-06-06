@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "The new iPhones will carry a new design inspired by the iPad Pro/iPhone 4",
+        "full-pick-text": "The new iPhones will carry a new design inspired by the iPad Pro/iPhone 4",
         "notes": "<p><ul><li>\"Flat sides\"</li></ul></p>",
         "game": "2020 October Rickies",
         "type": "Regular",
@@ -23,6 +24,7 @@
       },
       {
         "text": "Apple announces 4 phones, but in only 3 sizes",
+        "full-pick-text": "Apple announces 4 phones, but in only 3 sizes",
         "notes": "",
         "game": "2020 October Rickies",
         "type": "Regular",
@@ -37,6 +39,7 @@
       },
       {
         "text": "ProMotion does not come to new iPhones",
+        "full-pick-text": "ProMotion does not come to new iPhones",
         "notes": "",
         "game": "2020 October Rickies",
         "type": "Regular",
@@ -53,6 +56,7 @@
       },
       {
         "text": "One of the new iPhones will not have the USB charger in the box",
+        "full-pick-text": "One of the new iPhones will not have the USB charger in the box",
         "notes": "",
         "game": "2020 October Rickies",
         "type": "Regular",
@@ -69,6 +73,7 @@
       },
       {
         "text": "Apple gives another extended free period of TV+ with new product purchases, even if you already had a trial",
+        "full-pick-text": "Apple gives another extended free period of TV+ with new product purchases, even if you already had a trial",
         "notes": "<p><ul><li>The pick <a href=\"https://overcast.fm/+FXx5SWQQA/46:32\" target=\"_blank\">went through a little more revision</a> after round 2 ended.</li><li>Apple extended the existing free period for TV+, which does not count</li><li>Myke notes that, since this extension was announced via press release before the event, a differently-worded pick may have been ambiguous based on the rules at the time, so an explicit rule about the scoring window is added.</li></ul></p>",
         "game": "2020 October Rickies",
         "type": "Regular",
@@ -87,6 +92,7 @@
       },
       {
         "text": "The iPhone Pro will come in at least 1 new color",
+        "full-pick-text": "The iPhone Pro will come in at least 1 new color",
         "notes": "",
         "game": "2020 October Rickies",
         "type": "Regular",
@@ -101,6 +107,7 @@
       },
       {
         "text": "One of the new iPhones with LIDAR has a new portrait feature thanks to new sensors",
+        "full-pick-text": "One of the new iPhones with LIDAR has a new portrait feature thanks to new sensors",
         "notes": "",
         "game": "2020 October Rickies",
         "type": "Ricky",
@@ -117,6 +124,7 @@
       },
       {
         "text": "The new iPhone will have a Touch ID sensor",
+        "full-pick-text": "The new iPhone will have a Touch ID sensor",
         "notes": "",
         "game": "2020 October Rickies",
         "type": "Ricky",
@@ -133,6 +141,7 @@
       },
       {
         "text": "The iPhone Pro moves to USB-C",
+        "full-pick-text": "The iPhone Pro moves to USB-C",
         "notes": "<p><ul><li>Stephen was <em>very</em> sure of this pick.</li></ul></p>",
         "game": "2020 October Rickies",
         "type": "Ricky",
@@ -168,6 +177,7 @@
     "picks": [
       {
         "text": "Apple launches a new HD tier for Apple Music",
+        "full-pick-text": "Apple launches a new HD tier for Apple Music",
         "notes": "<p><ul><li>This feature <a href=\"https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/\" target=\"_blank\">did come eventually</a>, in 2021.</li></ul></p>",
         "game": "2020 October Rickies",
         "type": "Flexie",
@@ -184,6 +194,7 @@
       },
       {
         "text": "Apple launches an AR navigation mode for Apple Maps",
+        "full-pick-text": "Apple launches an AR navigation mode for Apple Maps",
         "notes": "<p><ul><li>A year too early, this was a feature in iOS 15.</li></ul></p>",
         "game": "2020 October Rickies",
         "type": "Flexie",
@@ -201,6 +212,7 @@
       },
       {
         "text": "Apple launches a new AirPods app for iPhone, similar to Watch app",
+        "full-pick-text": "Apple launches a new AirPods app for iPhone, similar to Watch app",
         "notes": "<p><ul><li>Instead of an app, Apple made a section in Settings at the next WWDC.</li></ul></p>",
         "game": "2020 October Rickies",
         "type": "Flexie",
@@ -219,6 +231,7 @@
       },
       {
         "text": "iOS 14.2's Shazam recognition is demoed",
+        "full-pick-text": "iOS 14.2's Shazam recognition is demoed",
         "notes": "",
         "game": "2020 October Rickies",
         "type": "Flexie",
@@ -235,6 +248,7 @@
       },
       {
         "text": "Apple introduces a new proximity-based software feature for iPhone based on the U1 chip",
+        "full-pick-text": "Apple introduces a new proximity-based software feature for iPhone based on the U1 chip",
         "notes": "",
         "game": "2020 October Rickies",
         "type": "Flexie",
@@ -249,6 +263,7 @@
       },
       {
         "text": "Updated Apple TV",
+        "full-pick-text": "Updated Apple TV",
         "notes": "<p><ul><li>Finally happened on <a href=\"https://www.apple.com/newsroom/2021/04/apple-unveils-the-next-generation-of-apple-tv-4k/\" target=\"_blank\">April 20, 2021</a>.</li></ul></p>",
         "game": "2020 October Rickies",
         "type": "Flexie",
@@ -265,6 +280,7 @@
       },
       {
         "text": "No new Macs announced",
+        "full-pick-text": "No new Macs announced",
         "notes": "",
         "game": "2020 October Rickies",
         "type": "Flexie",
@@ -281,6 +297,7 @@
       },
       {
         "text": "New HomePod model",
+        "full-pick-text": "New HomePod model",
         "notes": "",
         "game": "2020 October Rickies",
         "type": "Flexie",
@@ -295,6 +312,7 @@
       },
       {
         "text": "Apple TV+ trailers are shown",
+        "full-pick-text": "Apple TV+ trailers are shown",
         "notes": "",
         "game": "2020 October Rickies",
         "type": "Flexie",
@@ -312,6 +330,7 @@
       },
       {
         "text": "Over-ear AirPods are offered with multiple material options",
+        "full-pick-text": "Over-ear AirPods are offered with multiple material options",
         "notes": "",
         "game": "2020 October Rickies",
         "type": "Flexie",
@@ -328,6 +347,7 @@
       },
       {
         "text": "Joz presents a new product",
+        "full-pick-text": "Joz presents a new product",
         "notes": "",
         "game": "2020 October Rickies",
         "type": "Flexie",
@@ -342,6 +362,7 @@
       },
       {
         "text": "An AR demo is shown",
+        "full-pick-text": "An AR demo is shown",
         "notes": "",
         "game": "2020 October Rickies",
         "type": "Flexie",
@@ -357,6 +378,7 @@
       },
       {
         "text": "Big Sur gets a release date",
+        "full-pick-text": "Big Sur gets a release date",
         "notes": "<p><ul><li>This pick was just <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Big%20Sur%20gets%20a%20revised%20release%20window\">one event too early</a>.</li></ul></p>",
         "game": "2020 October Rickies",
         "type": "Flexie",
@@ -374,6 +396,7 @@
       },
       {
         "text": "iPad Air preorder date announced",
+        "full-pick-text": "iPad Air preorder date announced",
         "notes": "<p><ul><li>Orders began on <a href=\"https://www.apple.com/newsroom/2020/10/all-new-ipad-air-with-advanced-a14-bionic-chip-available-to-order-starting-today/\" target=\"_blank\">October 16th</a>, with no advanced notice. Unfortunately, the picks had already been graded by then.</li></ul></p>",
         "game": "2020 October Rickies",
         "type": "Flexie",
@@ -391,6 +414,7 @@
       },
       {
         "text": "At least some of the new iPhones have 5G",
+        "full-pick-text": "At least some of the new iPhones have 5G",
         "notes": "",
         "game": "2020 October Rickies",
         "type": "Flexie",

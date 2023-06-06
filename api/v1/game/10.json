@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "Apple releases at least 2 different Mac models that run on Apple Silicon",
+        "full-pick-text": "Apple releases at least 2 different Mac models that run on Apple Silicon",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Regular",
@@ -21,6 +22,7 @@
       },
       {
         "text": "Big Sur gets a revised release window",
+        "full-pick-text": "Big Sur gets a revised release window",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Regular",
@@ -37,6 +39,7 @@
       },
       {
         "text": "An Apple Silicon Mac is available to order in November 2020",
+        "full-pick-text": "An Apple Silicon Mac is available to order in November 2020",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Regular",
@@ -53,6 +56,7 @@
       },
       {
         "text": "The first Apple Silicon chip is a variant of the A14 family",
+        "full-pick-text": "The first Apple Silicon chip is a variant of the A14 family",
         "notes": "<p><ul><li>The M1 could be related, but Apple never said so, and instead say that it was built specifically for the Mac.</li></ul></p>",
         "game": "2020 November Rickies",
         "type": "Regular",
@@ -68,6 +72,7 @@
       },
       {
         "text": "No new Mac announced will have a touchscreen",
+        "full-pick-text": "No new Mac announced will have a touchscreen",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Regular",
@@ -84,6 +89,7 @@
       },
       {
         "text": "Apple demos iOS apps running on a Mac",
+        "full-pick-text": "Apple demos iOS apps running on a Mac",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Regular",
@@ -102,6 +108,7 @@
       },
       {
         "text": "Big Sur on the new Apple Silicon Macs comes with a low power mode feature",
+        "full-pick-text": "Big Sur on the new Apple Silicon Macs comes with a low power mode feature",
         "notes": "<p><ul><li>This was a feature in Monterey the next year.</li></ul></p>",
         "game": "2020 November Rickies",
         "type": "Ricky",
@@ -119,6 +126,7 @@
       },
       {
         "text": "A desktop Apple Silicon Mac is announced",
+        "full-pick-text": "A desktop Apple Silicon Mac is announced",
         "notes": "<p><ul><li>This pick literally came to Stephen in a dream, in which Tim Cook announced the Mac mini as a \"bad little b****\".</li></ul></p>",
         "game": "2020 November Rickies",
         "type": "Ricky",
@@ -133,6 +141,7 @@
       },
       {
         "text": "An Apple Silicon Mac is cheaper than the product it replaces",
+        "full-pick-text": "An Apple Silicon Mac is cheaper than the product it replaces",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Ricky",
@@ -167,6 +176,7 @@
     "picks": [
       {
         "text": "Phil Schiller is nowhere to be seen",
+        "full-pick-text": "Phil Schiller is nowhere to be seen",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Flexie",
@@ -181,6 +191,7 @@
       },
       {
         "text": "We see a Big Sur feature recap",
+        "full-pick-text": "We see a Big Sur feature recap",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Flexie",
@@ -197,6 +208,7 @@
       },
       {
         "text": "We see Johny Srouji again",
+        "full-pick-text": "We see Johny Srouji again",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Flexie",
@@ -211,6 +223,7 @@
       },
       {
         "text": "No mention of cellular Macs",
+        "full-pick-text": "No mention of cellular Macs",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Flexie",
@@ -227,6 +240,7 @@
       },
       {
         "text": "Apple announces Windows for ARM coming via virtualization in the future",
+        "full-pick-text": "Apple announces Windows for ARM coming via virtualization in the future",
         "notes": "<p><ul><li>Parallels was updated to do this by 2021, but it wasn't announced at this event.</li></ul></p>",
         "game": "2020 November Rickies",
         "type": "Flexie",
@@ -244,6 +258,7 @@
       },
       {
         "text": "The 12\" MacBook does not return",
+        "full-pick-text": "The 12\" MacBook does not return",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Flexie",
@@ -259,6 +274,7 @@
       },
       {
         "text": "New Macs follow current design trends, no large scale redesign",
+        "full-pick-text": "New Macs follow current design trends, no large scale redesign",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Flexie",
@@ -274,6 +290,7 @@
       },
       {
         "text": "Big Sur released within 48 hours of event",
+        "full-pick-text": "Big Sur released within 48 hours of event",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Flexie",
@@ -289,6 +306,7 @@
       },
       {
         "text": "New AirPods or AirPods Pro",
+        "full-pick-text": "New AirPods or AirPods Pro",
         "notes": "<p><ul><li>Not until <a href=\"https://www.apple.com/newsroom/2021/10/introducing-the-next-generation-of-airpods/\" target=\"_blank\">October 18, 2021</a>.</li></ul></p>",
         "game": "2020 November Rickies",
         "type": "Flexie",
@@ -307,6 +325,7 @@
       },
       {
         "text": "New MagSafe charging case for existing AirPods",
+        "full-pick-text": "New MagSafe charging case for existing AirPods",
         "notes": "<p><ul><li>MagSafe came to the AirPods line the next year.</li></ul></p>",
         "game": "2020 November Rickies",
         "type": "Flexie",
@@ -324,6 +343,7 @@
       },
       {
         "text": "Craig demos Big Sur features",
+        "full-pick-text": "Craig demos Big Sur features",
         "notes": "<p><ul><li>The instant wake demo is counted for this.</li></ul></p>",
         "game": "2020 November Rickies",
         "type": "Flexie",
@@ -340,6 +360,7 @@
       },
       {
         "text": "Apple compares the performance of Apple Silicon Macs to \"most PCs sold today\"",
+        "full-pick-text": "Apple compares the performance of Apple Silicon Macs to \"most PCs sold today\"",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Flexie",
@@ -355,6 +376,7 @@
       },
       {
         "text": "Apple demos a game running on an Apple Silicon Mac",
+        "full-pick-text": "Apple demos a game running on an Apple Silicon Mac",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Flexie",
@@ -372,6 +394,7 @@
       },
       {
         "text": "One of the new Mac models supports WiFi 6",
+        "full-pick-text": "One of the new Mac models supports WiFi 6",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Flexie",
@@ -386,6 +409,7 @@
       },
       {
         "text": "At least one of the Apple Silicon Macs has a Pro Motion display",
+        "full-pick-text": "At least one of the Apple Silicon Macs has a Pro Motion display",
         "notes": "<p><ul><li>Was originally a Risky Pick.</li><li>ProMotion came to the Mac the next year with the MacBook Pro line.</li></ul></p>",
         "game": "2020 November Rickies",
         "type": "Flexie",
@@ -403,6 +427,7 @@
       },
       {
         "text": "Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together",
+        "full-pick-text": "Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together",
         "notes": "",
         "game": "2020 November Rickies",
         "type": "Flexie",

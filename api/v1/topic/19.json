@@ -1,6 +1,7 @@
 [
   {
     "text": "A new Apple Watch has at least one new built-in app because of an exclusive feature not found on existing watches",
+    "full-pick-text": "A new Apple Watch has at least one new built-in app because of an exclusive feature not found on existing watches",
     "notes": "",
     "game": "2020 September Rickies",
     "type": "Ricky",
@@ -17,6 +18,7 @@
   },
   {
     "text": "A new way to turn off confirmation banners in Shortcuts",
+    "full-pick-text": "A new way to turn off confirmation banners in Shortcuts",
     "notes": "<p><ul><li>This happened later in the iOS 15 cycle in version 15.4.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -34,6 +36,7 @@
   },
   {
     "text": "Apple adds more filters to smart folders in Notes",
+    "full-pick-text": "Apple adds more filters to smart folders in Notes",
     "notes": "",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -48,6 +51,7 @@
   },
   {
     "text": "Apple brings Mail extensions to iOS and iPadOS",
+    "full-pick-text": "Apple brings Mail extensions to iOS and iPadOS",
     "notes": "",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -66,6 +70,7 @@
   },
   {
     "text": "Apple brings new actions to Shortcuts to control windows on iPadOS",
+    "full-pick-text": "Apple brings new actions to Shortcuts to control windows on iPadOS",
     "notes": "",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
@@ -80,6 +85,7 @@
   },
   {
     "text": "Apple brings Quick Note's floating window to iOS",
+    "full-pick-text": "Apple brings Quick Note's floating window to iOS",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -96,6 +102,7 @@
   },
   {
     "text": "Apple introduces a brand new journaling app",
+    "full-pick-text": "Apple introduces a brand new journaling app",
     "notes": "<p><ul><li>Not graded: \"location features for friends, ability to take notes and attach images, maybe integration with Music?\"</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Regular",
@@ -108,6 +115,7 @@
   },
   {
     "text": "Apple introduces a proper Reminders API for developers",
+    "full-pick-text": "Apple introduces a proper Reminders API for developers",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -125,6 +133,7 @@
   },
   {
     "text": "Apple launches a new AirPods app for iPhone, similar to Watch app",
+    "full-pick-text": "Apple launches a new AirPods app for iPhone, similar to Watch app",
     "notes": "<p><ul><li>Instead of an app, Apple made a section in Settings at the next WWDC.</li></ul></p>",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -143,6 +152,7 @@
   },
   {
     "text": "Apple Music Classical ships",
+    "full-pick-text": "Apple Music Classical ships",
     "notes": "<p><ul><li>Was originally written \"Apple Music Classic\", but Myke pointed out that it isn't called \"classic music\".</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
@@ -157,6 +167,7 @@
   },
   {
     "text": "Apple Notes will borrow some features from the modern generation of note-taking apps",
+    "full-pick-text": "Apple Notes will borrow some features from the modern generation of note-taking apps, like wiki-style links, a quick switcher, or nested pages.",
     "notes": "<p><ul><li>\"...like wiki-style links, a quick switcher, or nested pages.\"</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -172,6 +183,7 @@
   },
   {
     "text": "Apple Podcast app launches on Android",
+    "full-pick-text": "Apple Podcast app launches on Android",
     "notes": "",
     "game": "2020 Annual Rickies",
     "type": "Ricky",
@@ -188,6 +200,7 @@
   },
   {
     "text": "Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together",
+    "full-pick-text": "Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -206,6 +219,7 @@
   },
   {
     "text": "Apple releases a Safari API to deal with cookie consent forms",
+    "full-pick-text": "Apple releases a Safari API to deal with cookie consent forms",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -223,6 +237,7 @@
   },
   {
     "text": "Apple replaces at least one bundled macOS app with a Marzipan version",
+    "full-pick-text": "Apple replaces at least one bundled macOS app with a Marzipan version",
     "notes": "<p><ul><li>It's called Catalyst, not Marzipan, which is pushed back on a little. Podcasts is cited as fulfilling this (is it <em>replacing</em> a Mac app? Stephen gets away with this a bit) and they say that Messages might now be a Catalyst app, but in fact it isn't.</li><li>The permissive grading may be due to the other hosts not wanting to get <em>too</em> picky when it comes to grading later picks.</li></ul></p>",
     "game": "2019 WWDC Predictions",
     "type": "Regular",
@@ -239,6 +254,7 @@
   },
   {
     "text": "Apple stops using the iTunes Store app, and moves store content into dedicated apps",
+    "full-pick-text": "Apple stops using the iTunes Store app, and moves store content into dedicated apps",
     "notes": "",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -255,6 +271,7 @@
   },
   {
     "text": "Apple TV app will receive a refreshed design",
+    "full-pick-text": "Apple TV app will receive a refreshed design",
     "notes": "",
     "game": "2019 Media Event Predictions",
     "type": "Ricky",
@@ -271,6 +288,7 @@
   },
   {
     "text": "Apple updates the Listen Now page of the Music app",
+    "full-pick-text": "Apple updates the Listen Now page of the Music app",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -286,6 +304,7 @@
   },
   {
     "text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
+    "full-pick-text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
     "notes": "<p><ul><li>\"Music and Video removed from iTunes on the Mac\"</li><li>iTunes was eventually split up in 2019.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "NonGraded",
@@ -307,6 +326,7 @@
   },
   {
     "text": "Apple will release a new programming app for iPad",
+    "full-pick-text": "Apple will release a new programming app for iPad",
     "notes": "<p><ul><li>Federico asks to be quoted as \"very very positive\" that he will win on the strength of this Ricky Pick.</li>\n    <li>Not Swift Playgrounds, that is not new. As it turns out, they added this functionality to Swift Playgrounds.</li>\n    <li>This was deemed not a reuse of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20will%20release%20at%20least%201%20new%20pro%20app%20for%20iPad%20that%20we%20haven't%20previously%20seen%20on%20iPad\">a previous pick</a> since it is even riskier and more specific.</li>\n</ul></p>",
     "game": "2021 Annual Rickies",
     "type": "Ricky",
@@ -323,6 +343,7 @@
   },
   {
     "text": "Apple will release at least 1 new pro app for iPad that we haven't previously seen on iPad",
+    "full-pick-text": "Apple will release at least 1 new pro app for iPad that we haven't previously seen on iPad",
     "notes": "<p><ul><li>\"(The app can be universal.)\"</li><li>After years of waiting, <a href=\"https://www.apple.com/newsroom/2023/05/apple-brings-final-cut-pro-and-logic-pro-to-ipad/\" target=\"_blank\">Final Cut Pro and Logic Pro come to iPad in 2023</a>.</li></ul></p>",
     "game": "2020 Annual Rickies",
     "type": "Ricky",
@@ -340,6 +361,7 @@
   },
   {
     "text": "At least one iOS system app is redesigned to bring its controls to the bottom of the screen",
+    "full-pick-text": "At least one iOS system app is redesigned to bring its controls to the bottom of the screen",
     "notes": "<p><ul><li>Initially, the other two rejected Stephen's argument that the lock screen counted for this. However, <a href=\"https://overcast.fm/+FXx5r8V-w/1:31:57\" target=\"_blank\">later on while grading</a> <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Tim%20presents%20some%20portion%20of%20the%20keynote%20in%20front%20of%20a%20live%20audience\">another controversial pick</a>, <a href=\"https://twitter.com/stroughtonsmith/status/1534247915337678850\" target=\"_blank\">Steve Troughton-Smith came to Stephen's aid live</a> and helped bolster the case that the lock screen is in fact an app.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -355,6 +377,7 @@
   },
   {
     "text": "Improved support for ZIP archives in the Files app and framework",
+    "full-pick-text": "Improved support for ZIP archives in the Files app and framework",
     "notes": "",
     "game": "2019 WWDC Predictions",
     "type": "NonGraded",
@@ -370,6 +393,7 @@
   },
   {
     "text": "iTunes rewrite or replacement for Mac OS",
+    "full-pick-text": "iTunes rewrite or replacement for Mac OS",
     "notes": "<p><ul><li>iTunes was eventually split up in 2019.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "Ricky",
@@ -388,6 +412,7 @@
   },
   {
     "text": "iWork updates for iOS 12",
+    "full-pick-text": "iWork updates for iOS 12",
     "notes": "<p><ul><li>The big iWork update <a href=\"https://www.apple.com/newsroom/2019/03/all-new-ipad-air-and-ipad-mini-deliver-dramatic-power-and-capability/\" target=\"_blank\">eventually came in 2019</a>.</li></ul></p>",
     "game": "2018 iPhone Event Predictions",
     "type": "NonGraded",
@@ -405,6 +430,7 @@
   },
   {
     "text": "Mail.app will get modern features like snoozing",
+    "full-pick-text": "Mail.app will get modern features like snoozing",
     "notes": "<p><ul><li>Threads can be muted, which isn't what he was talking about, really.</li><li>As these are \"ungraded picks\" being, uh, graded, Stephen is given a half point because why not.</li><li>Apple finally added a few features to Mail in 2022 including snoozing.</li></ul></p>",
     "game": "2019 WWDC Predictions",
     "type": "NonGraded",
@@ -421,6 +447,7 @@
   },
   {
     "text": "New features for FaceTime",
+    "full-pick-text": "New features for FaceTime",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -436,6 +463,7 @@
   },
   {
     "text": "New features for Tapback in Messages",
+    "full-pick-text": "New features for Tapback in Messages",
     "notes": "<p><ul><li>Ungraded: more options than just the 5 built in, maybe even arbitrary emoji, better notification controls</li><li>It wasn't mentioned in the keynote, but yes, <a href=\"https://9to5mac.com/2022/06/07/ios-16-tapbacks-will-no-longer-spam-your-sms-group-chats/\" target=\"_blank\">Tapback finally works properly for SMS</a>.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Regular",
@@ -450,6 +478,7 @@
   },
   {
     "text": "Podcasts will gain audio effects for enhanced sound and trim silence",
+    "full-pick-text": "Podcasts will gain audio effects for enhanced sound and trim silence",
     "notes": "<p><ul><li>Originally was Federico's Risky Pick.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -466,6 +495,7 @@
   },
   {
     "text": "Redesign of the Home app... again",
+    "full-pick-text": "Redesign of the Home app... again",
     "notes": "<p><ul><li>A <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Home%20app%20gets%20redesigned\">pick from last year</a> gets (legally) reused.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -480,6 +510,7 @@
   },
   {
     "text": "Reminders gets a major update",
+    "full-pick-text": "Reminders gets a major update",
     "notes": "<p><ul><li>\"(how do we decide major? — on stage at WWDC or we decide past that)\"</li><li>Ungraded: \"some features that Federico would like to see\", the actual features that Federico talked about were not recorded in the document, but were: a new, more flexible design, easier and faster to add dates and notes, tags, saved searches, better Files integration</li></ul></p>",
     "game": "2019 Annual Predictions",
     "type": "Ricky",
@@ -495,6 +526,7 @@
   },
   {
     "text": "Reminders will get a major redesign modeled after iOS 11 and Files",
+    "full-pick-text": "Reminders will get a major redesign modeled after iOS 11 and Files",
     "notes": "<p><ul><li>\"With new family sharing features and integration with the HomePod.\"</li><li>The redesign of Reminders did come eventually in 2019, with many more new features in 2021.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "NonGraded",
@@ -511,6 +543,7 @@
   },
   {
     "text": "Shortcuts 2.0 is showed off at WWDC with a new developer framework for apps",
+    "full-pick-text": "Shortcuts 2.0 is showed off at WWDC with a new developer framework for apps",
     "notes": "<p><ul><li>\"Shortcuts also gets folders and AirPlay actions in 2019.\"</li></ul></p>",
     "game": "2019 Annual Predictions",
     "type": "NonGraded",
@@ -527,6 +560,7 @@
   },
   {
     "text": "Shortcuts for Mac gets personal automations",
+    "full-pick-text": "Shortcuts for Mac gets personal automations",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -544,6 +578,7 @@
   },
   {
     "text": "Shortcuts for the Mac",
+    "full-pick-text": "Shortcuts for the Mac",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Regular",
@@ -560,6 +595,7 @@
   },
   {
     "text": "Shortcuts gets an API on iOS and iPadOS for apps to run Shortcuts directly, without URL schemes",
+    "full-pick-text": "Shortcuts gets an API on iOS and iPadOS for apps to run Shortcuts directly, without URL schemes",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -580,6 +616,7 @@
   },
   {
     "text": "Shortcuts gets an XL widget on iPad",
+    "full-pick-text": "Shortcuts gets an XL widget on iPad",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -597,6 +634,7 @@
   },
   {
     "text": "Shortcuts gets folders",
+    "full-pick-text": "Shortcuts gets folders",
     "notes": "",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",
@@ -611,6 +649,7 @@
   },
   {
     "text": "Shortcuts gets new actions or triggers for USB connections",
+    "full-pick-text": "Shortcuts gets new actions or triggers for USB connections",
     "notes": "",
     "game": "2021 April Rickies",
     "type": "Flexie",
@@ -627,6 +666,7 @@
   },
   {
     "text": "Shortcuts gets new Files actions",
+    "full-pick-text": "Shortcuts gets new Files actions",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -641,6 +681,7 @@
   },
   {
     "text": "Shortcuts gets new Files integration, ability to run bookmarks in 3rd party actions",
+    "full-pick-text": "Shortcuts gets new Files integration, ability to run bookmarks in 3rd party actions",
     "notes": "",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",
@@ -656,6 +697,7 @@
   },
   {
     "text": "Shortcuts will gain folders and/or new ways to run Shortcuts",
+    "full-pick-text": "Shortcuts will gain folders and/or new ways to run Shortcuts",
     "notes": "",
     "game": "2020 Annual Rickies",
     "type": "NonGraded",
@@ -670,6 +712,7 @@
   },
   {
     "text": "Shortcuts will gain new HomePod/AirPlay 2 actions to play audio on HomePod more quickly",
+    "full-pick-text": "Shortcuts will gain new HomePod/AirPlay 2 actions to play audio on HomePod more quickly",
     "notes": "",
     "game": "Audio Predictions",
     "type": "Regular",
@@ -685,6 +728,7 @@
   },
   {
     "text": "Some Mac-only Shortcuts actions will become available on iPhone and iPad",
+    "full-pick-text": "Some Mac-only Shortcuts actions will become available on iPhone and iPad",
     "notes": "",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -703,6 +747,7 @@
   },
   {
     "text": "Some new Shortcuts features get covered in the State of the Union",
+    "full-pick-text": "Some new Shortcuts features get covered in the State of the Union",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -716,6 +761,7 @@
   },
   {
     "text": "Something in the default Dock of Catalina becomes a Catalyst app",
+    "full-pick-text": "Something in the default Dock of Catalina becomes a Catalyst app",
     "notes": "",
     "game": "2020 Summer Rickies",
     "type": "Ricky",
@@ -733,6 +779,7 @@
   },
   {
     "text": "The Files app gets new features",
+    "full-pick-text": "The Files app gets new features",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -747,6 +794,7 @@
   },
   {
     "text": "The Health app gets mood tracking and an iPad version",
+    "full-pick-text": "The Health app gets mood tracking and an iPad version",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Regular",
@@ -761,6 +809,7 @@
   },
   {
     "text": "The Home app gets redesigned",
+    "full-pick-text": "The Home app gets redesigned",
     "notes": "<p><ul><li>The <em>watch</em> version of Home did get redesigned, so this pick is deemed technically correct. Myke made the same pick in the <a href=\"https://upgrade.cards/card/apple062021\" target=\"_blank\">Upgrade Draft</a>, but didn't get credit there as it was in the iOS and iPadOS section.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -775,6 +824,7 @@
   },
   {
     "text": "The iPad gets a new development tool to write code, on device, that is not Swift Playgrounds",
+    "full-pick-text": "The iPad gets a new development tool to write code, on device, that is not Swift Playgrounds",
     "notes": "",
     "game": "2020 Summer Rickies",
     "type": "Ricky",
@@ -792,6 +842,7 @@
   },
   {
     "text": "The Messages app gets an easier way to send photos that does not require tapping an iMessage app anymore",
+    "full-pick-text": "The Messages app gets an easier way to send photos that does not require tapping an iMessage app anymore",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -804,6 +855,7 @@
   },
   {
     "text": "The Music app gets an updated design in the Listen Now page",
+    "full-pick-text": "The Music app gets an updated design in the Listen Now page",
     "notes": "<p><ul><li>Federico <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20updates%20the%20Listen%20Now%20page%20of%20the%20Music%20app\">still isn't happy with it</a>, it seems.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -821,6 +873,7 @@
   },
   {
     "text": "The Passwords feature of Settings becomes a standalone app",
+    "full-pick-text": "The Passwords feature of Settings becomes a standalone app",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -837,6 +890,7 @@
   },
   {
     "text": "The Wallet app gets a new design",
+    "full-pick-text": "The Wallet app gets a new design",
     "notes": "<p><ul><li>Apparently left unfinished in the document, this was originally just \"The Wallet app.\"</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -850,6 +904,7 @@
   },
   {
     "text": "The Weather app comes to iPad",
+    "full-pick-text": "The Weather app comes to iPad",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -867,6 +922,7 @@
   },
   {
     "text": "There are new ways to turn off the alerts that Shortcuts displays constantly",
+    "full-pick-text": "There are new ways to turn off the alerts that Shortcuts displays constantly",
     "notes": "<p><ul><li>\"Either confirmation banners or the notification when running with automation.\"</li><li>This came with iOS 16, and the Dynamic Island changed some of these interactions as well.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -882,6 +938,7 @@
   },
   {
     "text": "Workflow 2 will appear as a system feature or app",
+    "full-pick-text": "Workflow 2 will appear as a system feature or app",
     "notes": "<p><ul><li>\"Heavy on Siri integration, framework for pro apps to talk to each other\"</li><li>Ungraded: probably a migration tool from version 1, the App Store version might be kept around for a while</li><li>Some contention during grading about pro apps talking to each other leads to clarification that the <em>entire</em> pick must be true, but this one is deemed close enough.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "Ricky",
@@ -897,6 +954,7 @@
   },
   {
     "text": "You can delete Messages in the Messages app, like in WhatsApp",
+    "full-pick-text": "You can delete Messages in the Messages app, like in WhatsApp",
     "notes": "<p><ul><li>That is, the ability to <em>revoke</em> a sent message so that the recipient can no longer read it.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -912,6 +970,7 @@
   },
   {
     "text": "You will be able to set light and dark mode on a per-website basis in Safari",
+    "full-pick-text": "You will be able to set light and dark mode on a per-website basis in Safari",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",

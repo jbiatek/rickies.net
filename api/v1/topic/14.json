@@ -1,6 +1,7 @@
 [
   {
     "text": "AppKit and UIKit give birth to something new and cross-platform",
+    "full-pick-text": "AppKit and UIKit give birth to something new and cross-platform",
     "notes": "<p><ul><li>SwiftUI was announced in 2019.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "NonGraded",
@@ -17,6 +18,7 @@
   },
   {
     "text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
+    "full-pick-text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
     "notes": "<p><ul><li>Not graded: \"A feature in Xcode that uses AI/ML to suggest how to improve your code or solve common problems. It will most likely live in a sidebar and will probably be a Beta feature.\"\n</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Ricky",
@@ -29,6 +31,7 @@
   },
   {
     "text": "Apple introduces a proper Reminders API for developers",
+    "full-pick-text": "Apple introduces a proper Reminders API for developers",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -46,6 +49,7 @@
   },
   {
     "text": "Apple makes changes to the rules on in-app purchases, removing restrictions on linking to external websites for account creation, etc.",
+    "full-pick-text": "Apple makes changes to the rules on in-app purchases, removing restrictions on linking to external websites for account creation, etc.",
     "notes": "<p><ul><li>This came later in the year as a result of an antitrust settlement with Japan.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Ricky",
@@ -63,6 +67,7 @@
   },
   {
     "text": "Apple releases a Safari API to deal with cookie consent forms",
+    "full-pick-text": "Apple releases a Safari API to deal with cookie consent forms",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -80,6 +85,7 @@
   },
   {
     "text": "Apple releases a weather API",
+    "full-pick-text": "Apple releases a weather API",
     "notes": "<p><ul><li>The revamped weather API was announced at WWDC in 2022.</li></ul></p>",
     "game": "2021 Annual Rickies",
     "type": "Flexie",
@@ -96,6 +102,7 @@
   },
   {
     "text": "Apple releases new developer APIs for Stage Manager",
+    "full-pick-text": "Apple releases new developer APIs for Stage Manager",
     "notes": "<p><ul><li>At the time of picking there were not <em>any</em> developer APIs for Stage Manager on either macOS or iPadOS, so anything will be \"new\".</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
@@ -112,6 +119,7 @@
   },
   {
     "text": "Apple shows off their headset in March, they announce developer tools at WWDC, then show it off again at an event in September. It ships to customers in October",
+    "full-pick-text": "Apple shows off their headset in March, they announce developer tools at WWDC, then show it off again at an event in September. It ships to customers in October",
     "notes": "",
     "game": "2023 Annual Rickies",
     "type": "Ricky",
@@ -125,6 +133,7 @@
   },
   {
     "text": "AR-specific features are added to Swift or SwiftUI",
+    "full-pick-text": "AR-specific features are added to Swift or SwiftUI",
     "notes": "<p><ul><li>Nothing in the keynote, but <a href=\"https://developer.apple.com/augmented-reality/roomplan/\" target=\"_blank\">ARKit 6 is adding RoomPlan</a>, a new Swift API for scanning a room with a camera and LiDAR scanner.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -140,6 +149,7 @@
   },
   {
     "text": "Big improvements to SwiftUI",
+    "full-pick-text": "Big improvements to SwiftUI",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -154,6 +164,7 @@
   },
   {
     "text": "Developers will get tools for more control over refresh rate/frame rate in apps",
+    "full-pick-text": "Developers will get tools for more control over refresh rate/frame rate in apps",
     "notes": "<p><ul><li>Myke got points for <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Tools%20for%20developers%20to%20make%20smoother%20or%20faster%20animations%20in%20iOS\">a similar prediction</a> the next year.</li></ul></p>",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",
@@ -170,6 +181,7 @@
   },
   {
     "text": "DriverKit comes to iPadOS to let more kinds of accessories be supported on iPad",
+    "full-pick-text": "DriverKit comes to iPadOS to let more kinds of accessories be supported on iPad",
     "notes": "",
     "game": "2021 April Rickies",
     "type": "Flexie",
@@ -188,6 +200,7 @@
   },
   {
     "text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
+    "full-pick-text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
     "notes": "<p><ul><li>Was originally a Risky pick with the addition of a \"with keyboard and trackpad\" clause, but <a href=\"https://twitter.com/stroughtonsmith/status/1529836983874469891\" target=\"_blank\">some WebKit source code changes</a> made it much less risky. He watered it down further by removing an \"overlapping\" clause as well and not phrasing it as a \"desktop-like mode\", but then decided to just go all the way back to the original pick.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Regular",
@@ -205,6 +218,7 @@
   },
   {
     "text": "New Notes framework for developers",
+    "full-pick-text": "New Notes framework for developers",
     "notes": "",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",
@@ -220,6 +234,7 @@
   },
   {
     "text": "Shortcuts 2.0 is showed off at WWDC with a new developer framework for apps",
+    "full-pick-text": "Shortcuts 2.0 is showed off at WWDC with a new developer framework for apps",
     "notes": "<p><ul><li>\"Shortcuts also gets folders and AirPlay actions in 2019.\"</li></ul></p>",
     "game": "2019 Annual Predictions",
     "type": "NonGraded",
@@ -236,6 +251,7 @@
   },
   {
     "text": "Shortcuts gets an API on iOS and iPadOS for apps to run Shortcuts directly, without URL schemes",
+    "full-pick-text": "Shortcuts gets an API on iOS and iPadOS for apps to run Shortcuts directly, without URL schemes",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -256,6 +272,7 @@
   },
   {
     "text": "The iPad gets a new development tool to write code, on device, that is not Swift Playgrounds",
+    "full-pick-text": "The iPad gets a new development tool to write code, on device, that is not Swift Playgrounds",
     "notes": "",
     "game": "2020 Summer Rickies",
     "type": "Ricky",
@@ -273,6 +290,7 @@
   },
   {
     "text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
+    "full-pick-text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -286,6 +304,7 @@
   },
   {
     "text": "The next version of iPadOS will introduce a brand new audio routing system, with support for selecting different input sources, similar to macOS...",
+    "full-pick-text": "The next version of iPadOS will introduce a brand new audio routing system, with support for selecting different input sources, similar to macOS. This feature will finally allow podcasters like me to record local audio while also being on a FaceTime or Zoom call (assuming apps add support for it).",
     "notes": "<p><ul><li>\"... This feature will finally allow podcasters like me to record local audio while also being on a FaceTime or Zoom call (assuming apps add support for it).\"</li><li>And there's even more that isn't graded: \"Devices that do not require drivers will work out of the box, like in macOS. I think the Sounds page of Settings will be redesigned.\"</li><li>Federico guesses that this is his longest-ever Risky Pick, and <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Pick%20Text%20Length\">he's right, this is in fact his longest ever pick period</a>, beating out <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20will%20release%20its%20biggest%20iPad%20ever%20with%20a%20display%20of%20at%20least%2016%20inches...\">this one</a> from earlier the same year.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Ricky",
@@ -300,6 +319,7 @@
   },
   {
     "text": "Third party widgets gain interactivity",
+    "full-pick-text": "Third party widgets gain interactivity",
     "notes": "<p><ul><li>Edited to clarify \"third party\" as a few Apple widgets are already interactive.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Regular",
@@ -317,6 +337,7 @@
   },
   {
     "text": "Tools for developers to make smoother or faster animations in iOS",
+    "full-pick-text": "Tools for developers to make smoother or faster animations in iOS",
     "notes": "<p><ul><li>As seen <a href=\"https://developer.apple.com/videos/play/wwdc2021/10147/\" target=\"_blank\">in this WWDC session</a>.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -332,6 +353,7 @@
   },
   {
     "text": "WidgetKit gains new interactivity features that allow you to perform actions inside widgets without launching the associated app",
+    "full-pick-text": "WidgetKit gains new interactivity features that allow you to perform actions inside widgets without launching the associated app",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Regular",
@@ -347,6 +369,7 @@
   },
   {
     "text": "WidgetKit will support new widget sizes and more interactivity",
+    "full-pick-text": "WidgetKit will support new widget sizes and more interactivity",
     "notes": "<p><ul><li>The boolean operator \"and\" ends up taking this pick down.</li></ul></p>",
     "game": "2021 Annual Rickies",
     "type": "Flexie",

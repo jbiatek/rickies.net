@@ -1,6 +1,7 @@
 [
   {
     "text": "A Mac gets a screen that supports touch and/or Apple Pencil input",
+    "full-pick-text": "A Mac gets a screen that supports touch and/or Apple Pencil input",
     "notes": "<p><ul><li> Myke was torn between this and \"<a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#iPad%20multitasking%20is%20overhauled%20again\">iPad multitasking is overhauled again</a>\", but elected to make the more passionate pick.</li></ul></p>",
     "game": "2021 Annual Rickies",
     "type": "Ricky",
@@ -19,6 +20,7 @@
   },
   {
     "text": "Apple brings Quick Note's floating window to iOS",
+    "full-pick-text": "Apple brings Quick Note's floating window to iOS",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -35,6 +37,7 @@
   },
   {
     "text": "Apple gives another extended free period of TV+ with new product purchases, even if you already had a trial",
+    "full-pick-text": "Apple gives another extended free period of TV+ with new product purchases, even if you already had a trial",
     "notes": "<p><ul><li>The pick <a href=\"https://overcast.fm/+FXx5SWQQA/46:32\" target=\"_blank\">went through a little more revision</a> after round 2 ended.</li><li>Apple extended the existing free period for TV+, which does not count</li><li>Myke notes that, since this extension was announced via press release before the event, a differently-worded pick may have been ambiguous based on the rules at the time, so an explicit rule about the scoring window is added.</li></ul></p>",
     "game": "2020 October Rickies",
     "type": "Regular",
@@ -53,6 +56,7 @@
   },
   {
     "text": "Apple introduces a proper Reminders API for developers",
+    "full-pick-text": "Apple introduces a proper Reminders API for developers",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -70,6 +74,7 @@
   },
   {
     "text": "Apple releases a Safari API to deal with cookie consent forms",
+    "full-pick-text": "Apple releases a Safari API to deal with cookie consent forms",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -87,6 +92,7 @@
   },
   {
     "text": "Apple will announce at least 1 new feature that will be coming later in the iOS 15 cycle",
+    "full-pick-text": "Apple will announce at least 1 new feature that will be coming later in the iOS 15 cycle",
     "notes": "<p><ul><li>ProRes video recording on the iPhone 13 Pro models will be coming \"later this fall\".</li></ul></p>",
     "game": "2021 September Rickies",
     "type": "Flexie",
@@ -102,6 +108,7 @@
   },
   {
     "text": "Apple will release its biggest iPad ever with a display of at least 16 inches...",
+    "full-pick-text": "Apple will release its biggest iPad ever with a display of at least 16 inches. It won't be OLED, it'll have the front-facing camera on the landscape side, and two USB-C ports at least. It'll be called iPad Studio.",
     "notes": "<p><ul><li>\"... It won't be OLED, it'll have the front-facing camera on the landscape side, and two USB-C ports at least. It'll be called iPad Studio.\"</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Ricky",
@@ -115,6 +122,7 @@
   },
   {
     "text": "At least one new non-Pro iPad will switch to USB-C",
+    "full-pick-text": "At least one new non-Pro iPad will switch to USB-C",
     "notes": "",
     "game": "2020 September Rickies",
     "type": "Regular",
@@ -131,6 +139,7 @@
   },
   {
     "text": "iOS 15 releases the following week to the public",
+    "full-pick-text": "iOS 15 releases the following week to the public",
     "notes": "<p><ul><li>In other words, the week of Monday September 20th.</li></ul></p>",
     "game": "2021 September Rickies",
     "type": "Flexie",
@@ -146,6 +155,7 @@
   },
   {
     "text": "iPadOS gets improved split view with at least 3 apps at once",
+    "full-pick-text": "iPadOS gets improved split view with at least 3 apps at once",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -163,6 +173,7 @@
   },
   {
     "text": "Legacy widgets are completely removed from the system, and there is no longer a place to put widgets to the left of the main home screen",
+    "full-pick-text": "Legacy widgets are completely removed from the system, and there is no longer a place to put widgets to the left of the main home screen",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Ricky",
@@ -180,6 +191,7 @@
   },
   {
     "text": "New AirPods announced with a MagSafe compatible case",
+    "full-pick-text": "New AirPods announced with a MagSafe compatible case",
     "notes": "",
     "game": "2021 September Rickies",
     "type": "Flexie",
@@ -198,6 +210,7 @@
   },
   {
     "text": "No date is provided for macOS Monterey",
+    "full-pick-text": "No date is provided for macOS Monterey",
     "notes": "",
     "game": "2021 September Rickies",
     "type": "Flexie",
@@ -215,6 +228,7 @@
   },
   {
     "text": "No specific date for iOS 14's release",
+    "full-pick-text": "No specific date for iOS 14's release",
     "notes": "<p><ul><li>Originally a candidate for Myke's Risky Pick.</li></ul></p>",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -232,6 +246,7 @@
   },
   {
     "text": "ProMotion does not come to new iPhones",
+    "full-pick-text": "ProMotion does not come to new iPhones",
     "notes": "",
     "game": "2020 October Rickies",
     "type": "Regular",
@@ -248,6 +263,7 @@
   },
   {
     "text": "Shortcuts for Mac gets personal automations",
+    "full-pick-text": "Shortcuts for Mac gets personal automations",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -265,6 +281,7 @@
   },
   {
     "text": "Shortcuts gets an API on iOS and iPadOS for apps to run Shortcuts directly, without URL schemes",
+    "full-pick-text": "Shortcuts gets an API on iOS and iPadOS for apps to run Shortcuts directly, without URL schemes",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -285,6 +302,7 @@
   },
   {
     "text": "Shortcuts gets an XL widget on iPad",
+    "full-pick-text": "Shortcuts gets an XL widget on iPad",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -302,6 +320,7 @@
   },
   {
     "text": "The 9th generation iPad is introduced with a USB-C connector",
+    "full-pick-text": "The 9th generation iPad is introduced with a USB-C connector",
     "notes": "",
     "game": "2021 September Rickies",
     "type": "Flexie",
@@ -319,6 +338,7 @@
   },
   {
     "text": "The Apple Watch SE gets a price cut",
+    "full-pick-text": "The Apple Watch SE gets a price cut",
     "notes": "<p><ul><li><a href=\"https://www.apple.com/newsroom/2022/09/apple-reveals-apple-watch-series-8-and-the-new-apple-watch-se/\" target=\"_blank\">Next year's model would</a>, but not this year's.</li></ul></p>",
     "game": "2021 September Rickies",
     "type": "Regular",
@@ -336,6 +356,7 @@
   },
   {
     "text": "The Health app gets mood tracking and an iPad version",
+    "full-pick-text": "The Health app gets mood tracking and an iPad version",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Regular",
@@ -350,6 +371,7 @@
   },
   {
     "text": "The iPad mini will be updated with a new design inspired by the iPad Pro's design",
+    "full-pick-text": "The iPad mini will be updated with a new design inspired by the iPad Pro's design",
     "notes": "<p><ul><li>Stephen was almost exactly one year too early, as this would finally come true in 2021.</li></ul></p>",
     "game": "2020 September Rickies",
     "type": "Ricky",
@@ -368,6 +390,7 @@
   },
   {
     "text": "The Music app gets an updated design in the Listen Now page",
+    "full-pick-text": "The Music app gets an updated design in the Listen Now page",
     "notes": "<p><ul><li>Federico <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20updates%20the%20Listen%20Now%20page%20of%20the%20Music%20app\">still isn't happy with it</a>, it seems.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -385,6 +408,7 @@
   },
   {
     "text": "The new iPad Air supports the Magic Keyboard",
+    "full-pick-text": "The new iPad Air supports the Magic Keyboard",
     "notes": "",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -401,6 +425,7 @@
   },
   {
     "text": "The new iPhone will have a Touch ID sensor",
+    "full-pick-text": "The new iPhone will have a Touch ID sensor",
     "notes": "",
     "game": "2020 October Rickies",
     "type": "Ricky",
@@ -417,6 +442,7 @@
   },
   {
     "text": "The new iPhones will carry a new design inspired by the iPad Pro/iPhone 4",
+    "full-pick-text": "The new iPhones will carry a new design inspired by the iPad Pro/iPhone 4",
     "notes": "<p><ul><li>\"Flat sides\"</li></ul></p>",
     "game": "2020 October Rickies",
     "type": "Regular",
@@ -433,6 +459,7 @@
   },
   {
     "text": "You can delete Messages in the Messages app, like in WhatsApp",
+    "full-pick-text": "You can delete Messages in the Messages app, like in WhatsApp",
     "notes": "<p><ul><li>That is, the ability to <em>revoke</em> a sent message so that the recipient can no longer read it.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -448,6 +475,7 @@
   },
   {
     "text": "You will be able to set light and dark mode on a per-website basis in Safari",
+    "full-pick-text": "You will be able to set light and dark mode on a per-website basis in Safari",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",

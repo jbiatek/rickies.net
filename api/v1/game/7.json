@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "The iPad Pro is updated to a variant of the A14 chip",
+        "full-pick-text": "The iPad Pro is updated to a variant of the A14 chip",
         "notes": "<p><ul><li>If it's the M1, Apple would have to also mention that the M1 is an A14 variant to get the pick.</li></ul></p>",
         "game": "2021 April Rickies",
         "type": "Regular",
@@ -22,6 +23,7 @@
       },
       {
         "text": "The 12.9\" iPad Pro ships later than the 11\" iPad Pro",
+        "full-pick-text": "The 12.9\" iPad Pro ships later than the 11\" iPad Pro",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Regular",
@@ -37,6 +39,7 @@
       },
       {
         "text": "At least one of the new iPad Pros will have a Thunderbolt/USB4 port",
+        "full-pick-text": "At least one of the new iPad Pros will have a Thunderbolt/USB4 port",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Regular",
@@ -51,6 +54,7 @@
       },
       {
         "text": "The big iPad Pro is updated with a feature that is unique to it",
+        "full-pick-text": "The big iPad Pro is updated with a feature that is unique to it",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Regular",
@@ -67,6 +71,7 @@
       },
       {
         "text": "The iPad Pro gets 5G",
+        "full-pick-text": "The iPad Pro gets 5G",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Regular",
@@ -81,6 +86,7 @@
       },
       {
         "text": "Only the big iPad Pro gets the new display technology",
+        "full-pick-text": "Only the big iPad Pro gets the new display technology",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Regular",
@@ -96,6 +102,7 @@
       },
       {
         "text": "At this event, we see some sort of AR-focused hardware",
+        "full-pick-text": "At this event, we see some sort of AR-focused hardware",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Ricky",
@@ -112,6 +119,7 @@
       },
       {
         "text": "2 sizes of iMac announced",
+        "full-pick-text": "2 sizes of iMac announced",
         "notes": "<p><ul><li>An iMac even being announced was fairly risky. However, it came in just one size.</li></ul></p>",
         "game": "2021 April Rickies",
         "type": "Ricky",
@@ -127,6 +135,7 @@
       },
       {
         "text": "The iPad Pro, with an updated USB-4/Thunderbolt port, features a new kind of support for external displays",
+        "full-pick-text": "The iPad Pro, with an updated USB-4/Thunderbolt port, features a new kind of support for external displays",
         "notes": "<p><ul><li>Ungraded: the multitasking system gets redesigned to better support external displays</li><li>The external display support finally came in 2022.</li></ul></p>",
         "game": "2021 April Rickies",
         "type": "Ricky",
@@ -177,6 +186,7 @@
     "picks": [
       {
         "text": "The iPod Touch is taken down from sale in the wake of the event",
+        "full-pick-text": "The iPod Touch is taken down from sale in the wake of the event",
         "notes": "<p><ul><li><a href=\"https://www.apple.com/newsroom/2022/05/the-music-lives-on/\" target=\"_blank\">Finally came true in 2022</a>.</li></ul></p>",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -194,6 +204,7 @@
       },
       {
         "text": "We see Joz introduce something",
+        "full-pick-text": "We see Joz introduce something",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -209,6 +220,7 @@
       },
       {
         "text": "The Magic Keyboard for iPad goes unchanged",
+        "full-pick-text": "The Magic Keyboard for iPad goes unchanged",
         "notes": "<p><ul><li>Ungraded: what if it got a camera on the long edge? That'd be incredible.</li></ul></p>",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -225,6 +237,7 @@
       },
       {
         "text": "No mention of AirTags",
+        "full-pick-text": "No mention of AirTags",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -242,6 +255,7 @@
       },
       {
         "text": "A new iPad comes in a new color for its line",
+        "full-pick-text": "A new iPad comes in a new color for its line",
         "notes": "<p><ul><li>The iPad mini would eventually fit this bill, coming in lots of fun new colors, but it wasn't released until September.</li></ul></p>",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -258,6 +272,7 @@
       },
       {
         "text": "Apple announces something with podcasts",
+        "full-pick-text": "Apple announces something with podcasts",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -272,6 +287,7 @@
       },
       {
         "text": "Apple talks about App Tracking Transparency in iOS 14.5",
+        "full-pick-text": "Apple talks about App Tracking Transparency in iOS 14.5",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -288,6 +304,7 @@
       },
       {
         "text": "New iPad Pro accessory",
+        "full-pick-text": "New iPad Pro accessory",
         "notes": "<p><ul><li>\"Something we haven't seen before, or is redesigned significantly, e.g. Apple Pencil 1 to 2.\"</li></ul></p>",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -304,6 +321,7 @@
       },
       {
         "text": "iOS 14.5 will drop within 24 hours of the event",
+        "full-pick-text": "iOS 14.5 will drop within 24 hours of the event",
         "notes": "<p><ul><li>It was a week later.</li></ul></p>",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -320,6 +338,7 @@
       },
       {
         "text": "AirTags unveiled",
+        "full-pick-text": "AirTags unveiled",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -334,6 +353,7 @@
       },
       {
         "text": "You can buy AirTags in a 3-pack",
+        "full-pick-text": "You can buy AirTags in a 3-pack",
         "notes": "<p><ul><li>It was a 4 pack instead.</li></ul></p>",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -349,6 +369,7 @@
       },
       {
         "text": "The camera on the iPad Pro moves to the long side",
+        "full-pick-text": "The camera on the iPad Pro moves to the long side",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -364,6 +385,7 @@
       },
       {
         "text": "New case colors for the iPhone",
+        "full-pick-text": "New case colors for the iPhone",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -379,6 +401,7 @@
       },
       {
         "text": "DriverKit comes to iPadOS to let more kinds of accessories be supported on iPad",
+        "full-pick-text": "DriverKit comes to iPadOS to let more kinds of accessories be supported on iPad",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -397,6 +420,7 @@
       },
       {
         "text": "Shortcuts gets new actions or triggers for USB connections",
+        "full-pick-text": "Shortcuts gets new actions or triggers for USB connections",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -413,6 +437,7 @@
       },
       {
         "text": "Hypervisor comes to iPad",
+        "full-pick-text": "Hypervisor comes to iPad",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -429,6 +454,7 @@
       },
       {
         "text": "Apple updates the standard Bluetooth Magic Keyboard",
+        "full-pick-text": "Apple updates the standard Bluetooth Magic Keyboard",
         "notes": "<p><ul><li>Jason Snell had to be called in to adjudicate this one. Stephen contended that it was just the <em>iMac’s</em> keyboard that was updated, not the “standard” one. To be fair, when describing this pick, Federico seemed to be using \"standard\" to differentiate from the \"extended\" keyboard with number pad, but of course it's what's written that matters.</li></ul></p>",
         "game": "2021 April Rickies",
         "type": "Flexie",
@@ -443,6 +469,7 @@
       },
       {
         "text": "The new iPad Pro comes with a fancy new GaN charger",
+        "full-pick-text": "The new iPad Pro comes with a fancy new GaN charger",
         "notes": "",
         "game": "2021 April Rickies",
         "type": "Flexie",

@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "Siri on iOS will gain more verbal responses, speak more than it does now when activated with your voice",
+        "full-pick-text": "Siri on iOS will gain more verbal responses, speak more than it does now when activated with your voice",
         "notes": "<p><ul><li>\"It can hold longer conversations without the user needing to look at the screen.\"</li><li>This was graded as a half point or a \"kinda\".</li></ul></p>",
         "game": "2017 Annual Predictions",
         "type": "Regular",
@@ -21,6 +22,7 @@
       },
       {
         "text": "The iPhone 7S and 7S+ will look like the 7 and 7+, not this edge to edge unicorn phone that has been rumored",
+        "full-pick-text": "The iPhone 7S and 7S+ will look like the 7 and 7+, not this edge to edge unicorn phone that has been rumored",
         "notes": "<p><ul><li>This was deemed correct during grading, allowing for the \"7S\" actually being named the 8.</li><li>During grading, Myke wondered if Stephen had been thinking that there would be <em>a</em> phone with the traditional design, or if he was thinking that there would be no \"unicorn\" phone at all. Of course, it is impossible to read his mind, but in the original pick, Stephen seems to imply that it will just be the \"7S\".</li></ul></p>",
         "game": "2017 Annual Predictions",
         "type": "Regular",
@@ -36,6 +38,7 @@
       },
       {
         "text": "2017 will see a more powerful iMac at the top of the line that rivals and replaces the Mac Pro",
+        "full-pick-text": "2017 will see a more powerful iMac at the top of the line that rivals and replaces the Mac Pro",
         "notes": "<p><ul><li>\"The Mac Pro will go away, the Mac Mini also goes away, by the end of 2017 the iMac is all that remains.\"</li><li>While explaining, Myke got a little carried away with how complete this transition would be, but when challenged to make it part of the pick, he decided to go for it.</li></ul></p>",
         "game": "2017 Annual Predictions",
         "type": "Regular",
@@ -52,6 +55,7 @@
       },
       {
         "text": "iCloud free 5 GB limit will be increased",
+        "full-pick-text": "iCloud free 5 GB limit will be increased",
         "notes": "",
         "game": "2017 Annual Predictions",
         "type": "Regular",
@@ -67,6 +71,7 @@
       },
       {
         "text": "An iPhone Pro with Apple Pencil support, 2 Apple Pencils",
+        "full-pick-text": "An iPhone Pro with Apple Pencil support, 2 Apple Pencils",
         "notes": "<p><ul><li>\"2 Apple Pencils: the standard and a short one that supports the iPhone and iPad mini\"</li><li>During grading, Federico proposes what will become Risky Picks, including 2 points for correct picks and losing a point for being wrong, as Myke describes how he wanted to go big with this pick.</li></ul></p>",
         "game": "2017 Annual Predictions",
         "type": "Regular",
@@ -83,6 +88,7 @@
       },
       {
         "text": "Apple Music will be redesigned again",
+        "full-pick-text": "Apple Music will be redesigned again",
         "notes": "<p><ul><li>\"Will gain more Spotify-like algorithmic features\"</li><li>\"An Apple version of the Daily Mix and a way to discover back catalog songs from artists you don't know (Discover Weekly?)\"</li><li>The <a href=\"https://www.engadget.com/2019-08-23-apple-music-new-music-daily.html\" target=\"_blank\">New Music Daily</a> feature would eventually come in 2019.</li></ul></p>",
         "game": "2017 Annual Predictions",
         "type": "Regular",
@@ -99,6 +105,7 @@
       },
       {
         "text": "Some element of an AR focused device from Apple",
+        "full-pick-text": "Some element of an AR focused device from Apple",
         "notes": "<p><ul><li>The iPhone X and ARKit is deemed to fulfill this</li></ul></p>",
         "game": "2017 Annual Predictions",
         "type": "Regular",
@@ -113,6 +120,7 @@
       },
       {
         "text": "An executive shakeup in the iOS or Mac OS software teams",
+        "full-pick-text": "An executive shakeup in the iOS or Mac OS software teams",
         "notes": "",
         "game": "2017 Annual Predictions",
         "type": "Regular",
@@ -128,6 +136,7 @@
       },
       {
         "text": "Redesigned Mac Pro",
+        "full-pick-text": "Redesigned Mac Pro",
         "notes": "",
         "game": "2017 Annual Predictions",
         "type": "Regular",
@@ -162,6 +171,7 @@
     "picks": [
       {
         "text": "A 10.9\" bezel-less iPad Pro",
+        "full-pick-text": "A 10.9\" bezel-less iPad Pro",
         "notes": "",
         "game": "2017 Annual Predictions",
         "type": "NonGraded",
@@ -176,6 +186,7 @@
       },
       {
         "text": "iOS 10.3 with a redesigned split screen revealing the home screen and the app switcher instead of the vertical slider we have now",
+        "full-pick-text": "iOS 10.3 with a redesigned split screen revealing the home screen and the app switcher instead of the vertical slider we have now",
         "notes": "<p><ul><li>Two iPad multitasking refreshes later, a version that shows the home screen finally arrived in iPadOS 15.</li></ul></p>",
         "game": "2017 Annual Predictions",
         "type": "NonGraded",
@@ -192,6 +203,7 @@
       },
       {
         "text": "Multi-user on iPad support for the masses",
+        "full-pick-text": "Multi-user on iPad support for the masses",
         "notes": "",
         "game": "2017 Annual Predictions",
         "type": "NonGraded",
@@ -207,6 +219,7 @@
       },
       {
         "text": "New iPad accessories: Keyboard + protection + pencil holder",
+        "full-pick-text": "New iPad accessories: Keyboard + protection + pencil holder",
         "notes": "",
         "game": "2017 Annual Predictions",
         "type": "NonGraded",

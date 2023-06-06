@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "At least one of the next 'Pro' iPhones will have an always-on display",
+        "full-pick-text": "At least one of the next 'Pro' iPhones will have an always-on display",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Regular",
@@ -21,6 +22,7 @@
       },
       {
         "text": "At least one iPhone will have the notch removed, replaced by a cut-out(s) for the camera and sensors, free-floating from the border",
+        "full-pick-text": "At least one iPhone will have the notch removed, replaced by a cut-out(s) for the camera and sensors, free-floating from the border",
         "notes": "<p><ul><li>Or, as Stephen so poetically put it, \"AKA an island of black glass in an ocean of pixels.\" Little did he know that Apple would <em>actually</em> call it \"the Dynamic Island\".</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Regular",
@@ -36,6 +38,7 @@
       },
       {
         "text": "Apple shows off at least one iOS 16 feature that we haven’t seen before",
+        "full-pick-text": "Apple shows off at least one iOS 16 feature that we haven’t seen before",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Regular",
@@ -50,6 +53,7 @@
       },
       {
         "text": "There won't be a mini iPhone in the iPhone 14 family",
+        "full-pick-text": "There won't be a mini iPhone in the iPhone 14 family",
         "notes": "<p><ul><li>Federico basically steals <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#There%20will%20be%20no%20iPhone%2014%20with%20a%205.4%22%20display\">one of Myke's ongoing annual picks</a>, which is allowed by <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Bill%20of%20Rickies\">the rules</a>.</li><li>😭</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Regular",
@@ -65,6 +69,7 @@
       },
       {
         "text": "At least one iPhone gets an upgraded main camera",
+        "full-pick-text": "At least one iPhone gets an upgraded main camera",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Regular",
@@ -79,6 +84,7 @@
       },
       {
         "text": "The Apple Watch SE, announced in 2020, moves down in price with no feature changes",
+        "full-pick-text": "The Apple Watch SE, announced in 2020, moves down in price with no feature changes",
         "notes": "<p><ul><li>Not graded: Series 7 or SE 2 takes the middle price point where the SE is now</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Regular",
@@ -95,6 +101,7 @@
       },
       {
         "text": "The iPhone 14 Pro Camera app introduces some kind of 3D capturing functionality",
+        "full-pick-text": "The iPhone 14 Pro Camera app introduces some kind of 3D capturing functionality",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Ricky",
@@ -112,6 +119,7 @@
       },
       {
         "text": "AirPods Max 2 can be folded to store more compactly",
+        "full-pick-text": "AirPods Max 2 can be folded to store more compactly",
         "notes": "<p><ul><li>Myke doesn't seem to have much confidence in this risky pick, but his other choices were shot down as insufficiently risky in negotiations.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Ricky",
@@ -128,6 +136,7 @@
       },
       {
         "text": "iOS gets split-view support for multitasking to use 2 apps at once (reuse)",
+        "full-pick-text": "iOS gets split-view support for multitasking to use 2 apps at once (reuse)",
         "notes": "<p><ul><li>Was originally \"The Lightning port on the iPhone 14 Pro is upgraded to at least USB 3.0\", but <a href=\"https://9to5mac.com/2022/04/19/sketchy-rumor-claims-iphone-14-pro-will-feature-faster-usb-3-0-lightning-connector/\" target=\"_blank\">it turns out this has been rumored</a>. This prompts <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Connected%20%23413%3A%20The%20Rickies%20(September%202022)\">a rule change</a>. Stephen thought of a few options which became Flexies, but ultimately opts to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#iOS%20gets%20split-view%20support%20for%20multitasking%20to%20use%202%20apps%20at%20once\">reuse Federico's Risky pick from the last game, word for word</a> (a <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ineligible%20Picks\">legal choice under the Bill</a>).</li><li>Federico, oddly, argues <em>for</em> this being correct, with the Dynamic Island allowing multiple app use. But the others agree that, while funny, that isn't it.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Ricky",
@@ -177,6 +186,7 @@
     "picks": [
       {
         "text": "The keynote is a pre-recorded video",
+        "full-pick-text": "The keynote is a pre-recorded video",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -191,6 +201,7 @@
       },
       {
         "text": "The iPhone 14 entry's price is the same or higher than the 13 mini's price of $699",
+        "full-pick-text": "The iPhone 14 entry's price is the same or higher than the 13 mini's price of $699",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -206,6 +217,7 @@
       },
       {
         "text": "The iPhone 14 Pro comes in a total of five colors",
+        "full-pick-text": "The iPhone 14 Pro comes in a total of five colors",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -221,6 +233,7 @@
       },
       {
         "text": "Apple mentions at least 1 feature \"coming later\"",
+        "full-pick-text": "Apple mentions at least 1 feature \"coming later\"",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -236,6 +249,7 @@
       },
       {
         "text": "Apple shows off at least one new MagSafe accessory",
+        "full-pick-text": "Apple shows off at least one new MagSafe accessory",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -252,6 +266,7 @@
       },
       {
         "text": "The A16 is built on a 3 nanometer process",
+        "full-pick-text": "The A16 is built on a 3 nanometer process",
         "notes": "<p><ul><li>Very very close: it was 4 nm.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -267,6 +282,7 @@
       },
       {
         "text": "The new high-end Apple Watch is named the \"Apple Watch Pro\"",
+        "full-pick-text": "The new high-end Apple Watch is named the \"Apple Watch Pro\"",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -282,6 +298,7 @@
       },
       {
         "text": "The iPhone 14 Pro switches to titanium for the side rails",
+        "full-pick-text": "The iPhone 14 Pro switches to titanium for the side rails",
         "notes": "<p><ul><li>This was going to be a Risky pick, but <a href=\"https://www.macrumors.com/2021/07/26/iphone-14-2022-pro-models-titanium-case/\" target=\"_blank\">rumors were found before the show</a>.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -298,6 +315,7 @@
       },
       {
         "text": "Center Stage comes to the iPhone",
+        "full-pick-text": "Center Stage comes to the iPhone",
         "notes": "<p><ul><li>This was tossed out as a possible replacement Risky pick for this game after Stephen's original got invalidated, but ultimately landed as a Flexie.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -315,6 +333,7 @@
       },
       {
         "text": "Lightning is updated to be faster than USB 2.0",
+        "full-pick-text": "Lightning is updated to be faster than USB 2.0",
         "notes": "<p><ul><li>This was Stephen's original <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#iOS%20gets%20split-view%20support%20for%20multitasking%20to%20use%202%20apps%20at%20once%20(reuse)\">risky pick</a>, but <a href=\"https://9to5mac.com/2022/04/19/sketchy-rumor-claims-iphone-14-pro-will-feature-faster-usb-3-0-lightning-connector/\" target=\"_blank\">it turns out it's in the rumor mill</a>.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -332,6 +351,7 @@
       },
       {
         "text": "A new iPhone Pro colour is Purple",
+        "full-pick-text": "A new iPhone Pro colour is Purple",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -347,6 +367,7 @@
       },
       {
         "text": "Astrophotography feature",
+        "full-pick-text": "Astrophotography feature",
         "notes": "<p><ul><li>No verb necessary, Myke decides.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -362,6 +383,7 @@
       },
       {
         "text": "Satellite communication features for iPhone and/or Apple Watch",
+        "full-pick-text": "Satellite communication features for iPhone and/or Apple Watch",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -377,6 +399,7 @@
       },
       {
         "text": "Apple gives a new name to the A15 chip found in the non-Pro iPhones",
+        "full-pick-text": "Apple gives a new name to the A15 chip found in the non-Pro iPhones",
         "notes": "<p><ul><li>For example, instead of A15 Bionic, the A15 <em>Tri</em>onic, just to make it sound newer.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -392,6 +415,7 @@
       },
       {
         "text": "New Apple Watch is a 'Series 8' Watch",
+        "full-pick-text": "New Apple Watch is a 'Series 8' Watch",
         "notes": "<p><ul><li>\"It may 'technically' be an Edition, but no new name (like Pro or Max)\"</li><li>As mentioned in <a href=\"https://upgrade.cards/card/apple092022\" target=\"_blank\">the Upgrade Draft earlier in the week</a>, but not chosen there. This was deemed insufficiently Risky, and so was demoted to a Flexie.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -408,6 +432,7 @@
       },
       {
         "text": "At least one iPhone model does not have a shipping date of September 16",
+        "full-pick-text": "At least one iPhone model does not have a shipping date of September 16",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -422,6 +447,7 @@
       },
       {
         "text": "Someone is wearing the new Apple Watch while riding a skateboard",
+        "full-pick-text": "Someone is wearing the new Apple Watch while riding a skateboard",
         "notes": "<p><ul><li>A reference to the \"Apple Watch Extreme\" rumors. Maybe Tony Hawk?</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -438,6 +464,7 @@
       },
       {
         "text": "We do not see John Ternus",
+        "full-pick-text": "We do not see John Ternus",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -453,6 +480,7 @@
       },
       {
         "text": "No trailers for Apple TV+ content",
+        "full-pick-text": "No trailers for Apple TV+ content",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -468,6 +496,7 @@
       },
       {
         "text": "Tim Cook says \"good morning\"",
+        "full-pick-text": "Tim Cook says \"good morning\"",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -483,6 +512,7 @@
       },
       {
         "text": "On the always-on Lock Screen for iPhone 14 Pro, you see notifications in Count mode",
+        "full-pick-text": "On the always-on Lock Screen for iPhone 14 Pro, you see notifications in Count mode",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -499,6 +529,7 @@
       },
       {
         "text": "Faster MagSafe charging in at least one of the new iPhones",
+        "full-pick-text": "Faster MagSafe charging in at least one of the new iPhones",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -514,6 +545,7 @@
       },
       {
         "text": "iOS 16 is released on Monday, September 12",
+        "full-pick-text": "iOS 16 is released on Monday, September 12",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -529,6 +561,7 @@
       },
       {
         "text": "At least one new watchOS feature or app is introduced alongside the new Apple Watch",
+        "full-pick-text": "At least one new watchOS feature or app is introduced alongside the new Apple Watch",
         "notes": "",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -543,6 +576,7 @@
       },
       {
         "text": "Ted Lasso Season 3 trailer",
+        "full-pick-text": "Ted Lasso Season 3 trailer",
         "notes": "<p><ul><li>Federico goes <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20trailers%20for%20Apple%20TV%2B%20content\">against Myke's earlier pick</a>.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -559,6 +593,7 @@
       },
       {
         "text": "There will be a system filter for \"always-on display\" in Focus",
+        "full-pick-text": "There will be a system filter for \"always-on display\" in Focus",
         "notes": "<p><ul><li>Deemed incorrect because it wasn't mentioned and there was no way to find out at the time of grading. This was in fact the correct decision, as it was not present in iOS 16.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -575,6 +610,7 @@
       },
       {
         "text": "You will be able to control which data types show on the always-on lock screen",
+        "full-pick-text": "You will be able to control which data types show on the always-on lock screen",
         "notes": "<p><ul><li>Similar to the privacy controls that the always-on Apple Watch has for complications</li><li>This could have been a feature at the time, but there was no way to know at the time of grading. With the OS now released, we know that it was not present after all.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -591,6 +627,7 @@
       },
       {
         "text": "The new big non-pro iPhone 14 is called the iPhone 14 Plus",
+        "full-pick-text": "The new big non-pro iPhone 14 is called the iPhone 14 Plus",
         "notes": "<p><ul><li>As it turns out, this <a href=\"https://9to5mac.com/2022/08/31/iphone-14-plus-or-iphoen-14-max/\" target=\"_blank\"> is actually a rumor floating around</a> (which is fine for the Flexies).</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -605,6 +642,7 @@
       },
       {
         "text": "Bands for the new Apple Watch \"Pro\" are not backward compatible with other Apple Watches",
+        "full-pick-text": "Bands for the new Apple Watch \"Pro\" are not backward compatible with other Apple Watches",
         "notes": "<p><ul><li><a href=\"https://9to5mac.com/2022/09/07/apple-watch-ultra-band-compatibility-explained/\" target=\"_blank\">It does appear to be compatible</a> at the time of grading.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -621,6 +659,7 @@
       },
       {
         "text": "We do not see AirPods Max 2",
+        "full-pick-text": "We do not see AirPods Max 2",
         "notes": "<p><ul><li>Another counter-pick <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#AirPods%20Max%202%20can%20be%20folded%20to%20store%20more%20compactly\">to one of Myke's picks</a>, this time his Risky Pick.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -637,6 +676,7 @@
       },
       {
         "text": "Apple introduces new Fitness+ workouts",
+        "full-pick-text": "Apple introduces new Fitness+ workouts",
         "notes": "<p><ul><li><a href=\"https://www.apple.com/newsroom/2022/09/apple-fitness-plus-available-to-all-iphone-users-in-21-countries-later-this-fall/\" target=\"_blank\">Announced in a press release</a>.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
@@ -651,6 +691,7 @@
       },
       {
         "text": "Tony Hawk will make an appearance at the event",
+        "full-pick-text": "Tony Hawk will make an appearance at the event",
         "notes": "<p><ul><li>This was originally a near-exact copy of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20shows%20off%20at%20least%20one%20new%20MagSafe%20accessory\">one of Stephen's earlier Flexies</a>, and refers to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Someone%20is%20wearing%20the%20new%20Apple%20Watch%20while%20riding%20a%20skateboard\">Myke's earlier skateboarding pick</a>.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",

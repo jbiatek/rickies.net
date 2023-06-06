@@ -1,6 +1,7 @@
 [
   {
     "text": "2 sizes of iMac announced",
+    "full-pick-text": "2 sizes of iMac announced",
     "notes": "<p><ul><li>An iMac even being announced was fairly risky. However, it came in just one size.</li></ul></p>",
     "game": "2021 April Rickies",
     "type": "Ricky",
@@ -16,6 +17,7 @@
   },
   {
     "text": "2017 will see a more powerful iMac at the top of the line that rivals and replaces the Mac Pro",
+    "full-pick-text": "2017 will see a more powerful iMac at the top of the line that rivals and replaces the Mac Pro",
     "notes": "<p><ul><li>\"The Mac Pro will go away, the Mac Mini also goes away, by the end of 2017 the iMac is all that remains.\"</li><li>While explaining, Myke got a little carried away with how complete this transition would be, but when challenged to make it part of the pick, he decided to go for it.</li></ul></p>",
     "game": "2017 Annual Predictions",
     "type": "Regular",
@@ -32,6 +34,7 @@
   },
   {
     "text": "5G becomes an option on at least one MacBook",
+    "full-pick-text": "5G becomes an option on at least one MacBook",
     "notes": "",
     "game": "2021 October Rickies",
     "type": "Ricky",
@@ -47,6 +50,7 @@
   },
   {
     "text": "A CPU transition is announced for the Mac",
+    "full-pick-text": "A CPU transition is announced for the Mac",
     "notes": "<p><ul><li>Federico counsels against specifying ARM, which is good because Apple calls it \"Apple Silicon\" and never uses the term ARM.</li></ul></p>",
     "game": "2020 Summer Rickies",
     "type": "Regular",
@@ -63,6 +67,7 @@
   },
   {
     "text": "A desktop Apple Silicon Mac is announced",
+    "full-pick-text": "A desktop Apple Silicon Mac is announced",
     "notes": "<p><ul><li>This pick literally came to Stephen in a dream, in which Tim Cook announced the Mac mini as a \"bad little b****\".</li></ul></p>",
     "game": "2020 November Rickies",
     "type": "Ricky",
@@ -77,6 +82,7 @@
   },
   {
     "text": "A Mac gets a screen that supports touch and/or Apple Pencil input",
+    "full-pick-text": "A Mac gets a screen that supports touch and/or Apple Pencil input",
     "notes": "<p><ul><li> Myke was torn between this and \"<a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#iPad%20multitasking%20is%20overhauled%20again\">iPad multitasking is overhauled again</a>\", but elected to make the more passionate pick.</li></ul></p>",
     "game": "2021 Annual Rickies",
     "type": "Ricky",
@@ -95,6 +101,7 @@
   },
   {
     "text": "A more powerful Mac Mini is announced, but it is not a \"Mac Mini Pro\"",
+    "full-pick-text": "A more powerful Mac Mini is announced, but it is not a \"Mac Mini Pro\"",
     "notes": "<p><ul><li>The Mac Studio is very close, but this pick was about the name and the Mac Studio, while very reminiscent of the Mini, is not named as such.</li><li>Just 2 weeks after the grading window closed, <a href=\"https://www.apple.com/newsroom/2023/01/apple-introduces-new-mac-mini-with-m2-and-m2-pro-more-powerful-capable-and-versatile-than-ever/\" target=\"_blank\">the M2 Pro Mac mini was announced</a>.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -111,6 +118,7 @@
   },
   {
     "text": "A new base model Mac mini is introduced with the M2 chip...",
+    "full-pick-text": "A new base model Mac mini is introduced with the M2 chip. The new Mini is at least 30% smaller than the current one. It's thicker, but narrower, making it more similar to an Apple TV or Intel NUC.",
     "notes": "<p><ul><li>\"... The new Mini is at least 30% smaller than the current one. It's thicker, but narrower, making it more similar to an Apple TV or Intel NUC.\"</li><li>In other words, closer to a cubic shape, but not necessarily a cube. Although Federico loves cubes, so that would be great.</li><li>The base model would get updated the next year, but it's the same shape.</li></ul></p>",
     "game": "2022 March Rickies",
     "type": "Ricky",
@@ -126,6 +134,7 @@
   },
   {
     "text": "A new iMac has adjustability that is reminiscent of the Pro Display XDR",
+    "full-pick-text": "A new iMac has adjustability that is reminiscent of the Pro Display XDR",
     "notes": "",
     "game": "2021 Annual Rickies",
     "type": "Flexie",
@@ -142,6 +151,7 @@
   },
   {
     "text": "A new iMac is announced with Intel CPUs",
+    "full-pick-text": "A new iMac is announced with Intel CPUs",
     "notes": "<p><ul><li>While it could still happen, as of 2022 the Apple Silicon transition appears to be complete for the iMac with no last Intel version.</li></ul></p>",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",
@@ -157,6 +167,7 @@
   },
   {
     "text": "A new MacBook comes with at least one new non-USB-C/Thunderbolt port on the laptop itself",
+    "full-pick-text": "A new MacBook comes with at least one new non-USB-C/Thunderbolt port on the laptop itself",
     "notes": "",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -171,6 +182,7 @@
   },
   {
     "text": "A revised 13\" MBP drops the Touch Bar but does not add MagSafe",
+    "full-pick-text": "A revised 13\" MBP drops the Touch Bar but does not add MagSafe",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -186,6 +198,7 @@
   },
   {
     "text": "An Apple Silicon Mac is available to order in November 2020",
+    "full-pick-text": "An Apple Silicon Mac is available to order in November 2020",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Regular",
@@ -202,6 +215,7 @@
   },
   {
     "text": "An Apple Silicon Mac is cheaper than the product it replaces",
+    "full-pick-text": "An Apple Silicon Mac is cheaper than the product it replaces",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Ricky",
@@ -216,6 +230,7 @@
   },
   {
     "text": "An iMac Pro is unveiled",
+    "full-pick-text": "An iMac Pro is unveiled",
     "notes": "",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -231,6 +246,7 @@
   },
   {
     "text": "Any kind of release timeframe is provided for macOS Monterey",
+    "full-pick-text": "Any kind of release timeframe is provided for macOS Monterey",
     "notes": "<p><ul><li>Apparently feeling humble, Federico admits that this is a \"boring\" pick. It was originally \"release date\", but when some questioning about whether just a month would count came up, he watered it down.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Regular",
@@ -249,6 +265,7 @@
   },
   {
     "text": "Apple announces a Mac mini that is more performant than the original M1 model",
+    "full-pick-text": "Apple announces a Mac mini that is more performant than the original M1 model",
     "notes": "<p><ul><li>Stephen returns to the Mac mini, since it <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20desktop%20Apple%20Silicon%20Mac%20is%20announced\">served him very well last year</a>.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Regular",
@@ -266,6 +283,7 @@
   },
   {
     "text": "Apple announces a new Mac Pro powered by Apple Silicon",
+    "full-pick-text": "Apple announces a new Mac Pro powered by Apple Silicon",
     "notes": "",
     "game": "2021 Annual Rickies",
     "type": "Regular",
@@ -281,6 +299,7 @@
   },
   {
     "text": "Apple announces the first M2 Mac",
+    "full-pick-text": "Apple announces the first M2 Mac",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -295,6 +314,7 @@
   },
   {
     "text": "Apple announces Windows for ARM coming via virtualization in the future",
+    "full-pick-text": "Apple announces Windows for ARM coming via virtualization in the future",
     "notes": "<p><ul><li>Parallels was updated to do this by 2021, but it wasn't announced at this event.</li></ul></p>",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -312,6 +332,7 @@
   },
   {
     "text": "Apple compares the performance of Apple Silicon Macs to \"most PCs sold today\"",
+    "full-pick-text": "Apple compares the performance of Apple Silicon Macs to \"most PCs sold today\"",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -327,6 +348,7 @@
   },
   {
     "text": "Apple demos a game running on an Apple Silicon Mac",
+    "full-pick-text": "Apple demos a game running on an Apple Silicon Mac",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -344,6 +366,7 @@
   },
   {
     "text": "Apple demos a Mac app that takes advantage of the updated Neural Engine",
+    "full-pick-text": "Apple demos a Mac app that takes advantage of the updated Neural Engine",
     "notes": "",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -360,6 +383,7 @@
   },
   {
     "text": "Apple demos iOS apps running on a Mac",
+    "full-pick-text": "Apple demos iOS apps running on a Mac",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Regular",
@@ -378,6 +402,7 @@
   },
   {
     "text": "Apple gives a sneak peak of the new Mac Pro...",
+    "full-pick-text": "Apple gives a sneak peak of the new Mac Pro. It features a case design inspired by the 2019 Mac Pro. It features more ports than any other Apple Silicon Mac available today. It does not have support for third-party GPUs. It features a chip name that has not appeared in any other product. It has a starting price of at least $6,999. It is coming later this year.",
     "notes": "<p><ul>\n<li>\"...It features a case design inspired by the 2019 Mac Pro. It features more ports than any other Apple Silicon Mac available today. It does not have support for third-party GPUs. It features a chip name that has not appeared in any other product. It has a starting price of at least $6,999. It is coming later this year.\"</li>\n<li>Originally it said \"same case design\", but the change was accepted on air after Myke reconsidered. \"Later this year\" was also demoted from being an exact quote.</li>\n<li>This Mac Pro will have to beat the Mac Studio in terms of ports: 2 USB-C, 2 USB-A, 4 Thunderbolt, SD card, Ethernet, HDMI, and headphone jack, for a total of 12.</li>\n<li>This pick is similar in spirit to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20new%20Mac%20Pro%20will%20be...\">Myke's ongoing Annual pick</a>, but with different conditions. At the time it was the <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Success%20By%20Pick%20Complexity\">most complex graded pick</a> ever made.</li>\n</ul>\n</p>",
     "game": "2022 WWDC Rickies",
     "type": "Ricky",
@@ -395,6 +420,7 @@
   },
   {
     "text": "Apple has Apple Silicon versions of all of its Intel Macs on sale by the end of 2021",
+    "full-pick-text": "Apple has Apple Silicon versions of all of its Intel Macs on sale by the end of 2021",
     "notes": "<p><ul><li> \"No Intel Macs are available for sale without an Apple Silicon counterpart.\" Myke points out the iMac Pro as a potential spoiler.</li><li>(For pick complexity purposes, I'm counting this as 1 condition for each Mac line that still had no Apple Silicon counterpart at the beginning of 2021: The larger MacBook Pros, the iMac in both sizes, the iMac Pro, and the Mac Pro. The Mac mini is 1 line with a high end and low end, so it already had an \"Apple Silicon counterpart\" although the high end Mac mini was still Intel.)</li><li>The iMac Pro left the lineup entirely, but the Mac Pro remained on Intel by the end of the year.</li></ul></p>",
     "game": "2021 Annual Rickies",
     "type": "Ricky",
@@ -411,6 +437,7 @@
   },
   {
     "text": "Apple introduces a new Mac mini with an updated design",
+    "full-pick-text": "Apple introduces a new Mac mini with an updated design",
     "notes": "<p><ul><li>Myke insists, and Federico seems to agree, that even a change in the ports on the back is \"an updated design\". Stephen seems less convinced, but that's a matter for grading. It's agreed that it has to be the Mac itself and not, say, an accessory or power cord.</li></ul></p>",
     "game": "2022 March Rickies",
     "type": "Regular",
@@ -426,6 +453,7 @@
   },
   {
     "text": "Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together",
+    "full-pick-text": "Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -444,6 +472,7 @@
   },
   {
     "text": "Apple releases a larger MacBook Air",
+    "full-pick-text": "Apple releases a larger MacBook Air",
     "notes": "",
     "game": "2023 Annual Rickies",
     "type": "Regular",
@@ -457,6 +486,7 @@
   },
   {
     "text": "Apple releases a new Mac mini",
+    "full-pick-text": "Apple releases a new Mac mini",
     "notes": "<p><ul><li>Ungraded: Probably the same design but with an M2 chip. More Thunderbolt ports would be nice.</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Regular",
@@ -470,6 +500,7 @@
   },
   {
     "text": "Apple releases a new MacBook Air that comes with some colour options not previously available in this product line",
+    "full-pick-text": "Apple releases a new MacBook Air that comes with some colour options not previously available in this product line",
     "notes": "<p><ul><li>It got Midnight and Starlight.</li><li>This is the beginning of an increasingly musical accompaniment to Stephen's \"correct\" bell, to accommodate Zoom's echo cancellation.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Regular",
@@ -484,6 +515,7 @@
   },
   {
     "text": "Apple releases an iMac with a larger screen",
+    "full-pick-text": "Apple releases an iMac with a larger screen",
     "notes": "",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
@@ -496,6 +528,7 @@
   },
   {
     "text": "Apple releases at least 2 different Mac models that run on Apple Silicon",
+    "full-pick-text": "Apple releases at least 2 different Mac models that run on Apple Silicon",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Regular",
@@ -510,6 +543,7 @@
   },
   {
     "text": "Apple releases new developer APIs for Stage Manager",
+    "full-pick-text": "Apple releases new developer APIs for Stage Manager",
     "notes": "<p><ul><li>At the time of picking there were not <em>any</em> developer APIs for Stage Manager on either macOS or iPadOS, so anything will be \"new\".</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
@@ -526,6 +560,7 @@
   },
   {
     "text": "Apple replaces at least one bundled macOS app with a Marzipan version",
+    "full-pick-text": "Apple replaces at least one bundled macOS app with a Marzipan version",
     "notes": "<p><ul><li>It's called Catalyst, not Marzipan, which is pushed back on a little. Podcasts is cited as fulfilling this (is it <em>replacing</em> a Mac app? Stephen gets away with this a bit) and they say that Messages might now be a Catalyst app, but in fact it isn't.</li><li>The permissive grading may be due to the other hosts not wanting to get <em>too</em> picky when it comes to grading later picks.</li></ul></p>",
     "game": "2019 WWDC Predictions",
     "type": "Regular",
@@ -542,6 +577,7 @@
   },
   {
     "text": "Apple teases another Mac, that is not for sale right now, with Pro in the name, and says that it is coming next year",
+    "full-pick-text": "Apple teases another Mac, that is not for sale right now, with Pro in the name, and says that it is coming next year",
     "notes": "<p><ul><li>It was originally \"Mac product\", but there was some controversy over whether that includes accessories and displays. Ultimately, Myke upped the difficulty and removed the word \"product\".</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Ricky",
@@ -559,6 +595,7 @@
   },
   {
     "text": "Apple unveils a \"Space Black\" MacBook Pro",
+    "full-pick-text": "Apple unveils a \"Space Black\" MacBook Pro",
     "notes": "",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -575,6 +612,7 @@
   },
   {
     "text": "Apple unveils a new MacBook Pro",
+    "full-pick-text": "Apple unveils a new MacBook Pro",
     "notes": "<p><ul><li>And Myke unveils a new strategy for picks: obvious, passionate, risky. This is clearly the first.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Regular",
@@ -589,6 +627,7 @@
   },
   {
     "text": "Apple unveils the first Mac powered by an M2 chip",
+    "full-pick-text": "Apple unveils the first Mac powered by an M2 chip",
     "notes": "<p><ul><li>Apple waited until WWDC to announce the M2 MacBook Air.</li></ul></p>",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -605,6 +644,7 @@
   },
   {
     "text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
+    "full-pick-text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
     "notes": "<p><ul><li>\"Music and Video removed from iTunes on the Mac\"</li><li>iTunes was eventually split up in 2019.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "NonGraded",
@@ -626,6 +666,7 @@
   },
   {
     "text": "Apple will announce a 15-inch MacBook Air",
+    "full-pick-text": "Apple will announce a 15-inch MacBook Air",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Regular",
@@ -638,6 +679,7 @@
   },
   {
     "text": "Apple will introduce a new iMac design with an accompanying external display",
+    "full-pick-text": "Apple will introduce a new iMac design with an accompanying external display",
     "notes": "<p><ul><li>The new iMac design wouldn't come out until 2021, and the new display came in 2022.</li></ul></p>",
     "game": "2020 Annual Rickies",
     "type": "NonGraded",
@@ -655,6 +697,7 @@
   },
   {
     "text": "Apple will not ship an ARM Mac in 2020",
+    "full-pick-text": "Apple will not ship an ARM Mac in 2020",
     "notes": "<p><ul><li> In 2019, Stephen picked the first ARM Mac to be shipped, so this was his... revenge?</li></ul></p>",
     "game": "2020 Annual Rickies",
     "type": "NonGraded",
@@ -671,6 +714,7 @@
   },
   {
     "text": "Apple will not unveil additional details about the release of the first Apple Silicon Macs",
+    "full-pick-text": "Apple will not unveil additional details about the release of the first Apple Silicon Macs",
     "notes": "<p><ul><li>Myke challenged Stephen to make this a sixth Flexie in the discussion of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Preview%20of%20fall%20Apple%20TV%2B%20content\">his previous pick</a>.</li></ul></p>",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -687,6 +731,7 @@
   },
   {
     "text": "At least 1 new Mac model announced ships in November",
+    "full-pick-text": "At least 1 new Mac model announced ships in November",
     "notes": "<p><ul><li>All of them shipped in October.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Regular",
@@ -702,6 +747,7 @@
   },
   {
     "text": "At least one new MacBook Pro model has an upgraded webcam with a higher resolution",
+    "full-pick-text": "At least one new MacBook Pro model has an upgraded webcam with a higher resolution",
     "notes": "<p><ul><li>Must be better than the current 720p. Ungraded, Federico expects a 1080p camera.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Regular",
@@ -717,6 +763,7 @@
   },
   {
     "text": "At least one of the Apple Silicon Macs has a Pro Motion display",
+    "full-pick-text": "At least one of the Apple Silicon Macs has a Pro Motion display",
     "notes": "<p><ul><li>Was originally a Risky Pick.</li><li>ProMotion came to the Mac the next year with the MacBook Pro line.</li></ul></p>",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -734,6 +781,7 @@
   },
   {
     "text": "Big Sur gets a release date",
+    "full-pick-text": "Big Sur gets a release date",
     "notes": "<p><ul><li>This pick was just <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Big%20Sur%20gets%20a%20revised%20release%20window\">one event too early</a>.</li></ul></p>",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -751,6 +799,7 @@
   },
   {
     "text": "Big Sur gets a revised release window",
+    "full-pick-text": "Big Sur gets a revised release window",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Regular",
@@ -767,6 +816,7 @@
   },
   {
     "text": "Big Sur on the new Apple Silicon Macs comes with a low power mode feature",
+    "full-pick-text": "Big Sur on the new Apple Silicon Macs comes with a low power mode feature",
     "notes": "<p><ul><li>This was a feature in Monterey the next year.</li></ul></p>",
     "game": "2020 November Rickies",
     "type": "Ricky",
@@ -784,6 +834,7 @@
   },
   {
     "text": "Big Sur released within 48 hours of event",
+    "full-pick-text": "Big Sur released within 48 hours of event",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -799,6 +850,7 @@
   },
   {
     "text": "Catalina gets a release date",
+    "full-pick-text": "Catalina gets a release date",
     "notes": "<p><ul><li>This didn't happen until <a href=\"https://www.theverge.com/2020/11/10/21432429/apple-macos-11-big-sur-release-date-m1-chip\" target=\"_blank\">November 10th</a>.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
@@ -816,6 +868,7 @@
   },
   {
     "text": "Craig demos Big Sur features",
+    "full-pick-text": "Craig demos Big Sur features",
     "notes": "<p><ul><li>The instant wake demo is counted for this.</li></ul></p>",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -832,6 +885,7 @@
   },
   {
     "text": "First ARM Mac ships",
+    "full-pick-text": "First ARM Mac ships",
     "notes": "<p><ul><li>Halfway through the year, Myke ups the ante: \"If Stephen gets this right, I will buy you one, if the Mac Pro is an ARM Mac I will buy you the top of the line model.\"</li></ul></p>",
     "game": "2019 Annual Predictions",
     "type": "Ricky",
@@ -848,6 +902,7 @@
   },
   {
     "text": "HDMI and SD Card reader are back on the MacBook Pro",
+    "full-pick-text": "HDMI and SD Card reader are back on the MacBook Pro",
     "notes": "",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -862,6 +917,7 @@
   },
   {
     "text": "iOS 15.4 and/or macOS 12.3 get a release date",
+    "full-pick-text": "iOS 15.4 and/or macOS 12.3 get a release date",
     "notes": "<p><ul><li>They did get a <em>window</em> but not an actual date.</li></ul></p>",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -879,6 +935,7 @@
   },
   {
     "text": "iTunes rewrite or replacement for Mac OS",
+    "full-pick-text": "iTunes rewrite or replacement for Mac OS",
     "notes": "<p><ul><li>iTunes was eventually split up in 2019.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "Ricky",
@@ -897,6 +954,7 @@
   },
   {
     "text": "Larger, more powerful iMac is introduced",
+    "full-pick-text": "Larger, more powerful iMac is introduced",
     "notes": "<p><ul><li>Not only was this wrong, the larger iMac disappeared entirely from the Mac lineup.</li></ul></p>",
     "game": "2022 March Rickies",
     "type": "Regular",
@@ -912,6 +970,7 @@
   },
   {
     "text": "MacBook Pro colors don't include anything radically new for the line",
+    "full-pick-text": "MacBook Pro colors don't include anything radically new for the line",
     "notes": "",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -927,6 +986,7 @@
   },
   {
     "text": "MacBook Pro has a mini-LED screen",
+    "full-pick-text": "MacBook Pro has a mini-LED screen",
     "notes": "",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -941,6 +1001,7 @@
   },
   {
     "text": "macOS 12.3 does not come out within 48 hours of the event",
+    "full-pick-text": "macOS 12.3 does not come out within 48 hours of the event",
     "notes": "<p><ul><li>This will have to be judged by announced release, since episode recording is a day after the event.</li></ul></p>",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -956,6 +1017,7 @@
   },
   {
     "text": "macOS 13 is called \"Mammoth\"",
+    "full-pick-text": "macOS 13 is called \"Mammoth\"",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -972,6 +1034,7 @@
   },
   {
     "text": "macOS Monterey features are reviewed",
+    "full-pick-text": "macOS Monterey features are reviewed",
     "notes": "<p><ul><li>Some Mac software features were mentioned, like running iOS apps, but nothing really specific to Monterey.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -989,6 +1052,7 @@
   },
   {
     "text": "macOS skips ahead to version 15 to match iOS and iPadOS",
+    "full-pick-text": "macOS skips ahead to version 15 to match iOS and iPadOS",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -1005,6 +1069,7 @@
   },
   {
     "text": "New MacBook Pro",
+    "full-pick-text": "New MacBook Pro",
     "notes": "<p><ul><li>Not until <a href=\"https://www.apple.com/newsroom/2021/10/apple-unveils-game-changing-macbook-pro/\" target=\"_blank\">the October event</a>.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -1021,6 +1086,7 @@
   },
   {
     "text": "New MacBook Pro displays run at a native 2x",
+    "full-pick-text": "New MacBook Pro displays run at a native 2x",
     "notes": "",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -1035,6 +1101,7 @@
   },
   {
     "text": "New Macs follow current design trends, no large scale redesign",
+    "full-pick-text": "New Macs follow current design trends, no large scale redesign",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -1050,6 +1117,7 @@
   },
   {
     "text": "No date is provided for macOS Monterey",
+    "full-pick-text": "No date is provided for macOS Monterey",
     "notes": "",
     "game": "2021 September Rickies",
     "type": "Flexie",
@@ -1067,6 +1135,7 @@
   },
   {
     "text": "No iMac Pro or bigger iMac",
+    "full-pick-text": "No iMac Pro or bigger iMac",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -1082,6 +1151,7 @@
   },
   {
     "text": "No Intel Macs are left on sale (as new) at the end of 2023",
+    "full-pick-text": "No Intel Macs are left on sale (as new) at the end of 2023",
     "notes": "<p><ul><li>\"Does not include the refurbished or educational stores.\" Or, in other words, the Intel Mac Minis and Mac Pro are not sold as new anymore (and of course they don't introduce a <em>new</em> Intel Mac).</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Regular",
@@ -1094,6 +1164,7 @@
   },
   {
     "text": "No Mac gets 5G",
+    "full-pick-text": "No Mac gets 5G",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -1109,6 +1180,7 @@
   },
   {
     "text": "No Mac gets a cellular data option",
+    "full-pick-text": "No Mac gets a cellular data option",
     "notes": "",
     "game": "2021 Annual Rickies",
     "type": "Flexie",
@@ -1124,6 +1196,7 @@
   },
   {
     "text": "No Mac or iPad hardware in the keynote",
+    "full-pick-text": "No Mac or iPad hardware in the keynote",
     "notes": "<p><ul><li>10.2” iPad was announced</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "Regular",
@@ -1143,6 +1216,7 @@
   },
   {
     "text": "No Mac Pro teaser video",
+    "full-pick-text": "No Mac Pro teaser video",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -1157,6 +1231,7 @@
   },
   {
     "text": "No Macs",
+    "full-pick-text": "No Macs",
     "notes": "<p><ul><li>Based on <a href=\"https://overcast.fm/+FXx5Kx09c/1:27:39\" target=\"_blank\">comments in the grading episode</a>, this might have originally been a sub-bullet point of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20iPads%2C%20iPhone%20and%20Apple%20Watch%20only\">the previous pick</a>.</li></ul></p>",
     "game": "2018 iPhone Event Predictions",
     "type": "NonGraded",
@@ -1172,6 +1247,7 @@
   },
   {
     "text": "No mention of cellular Macs",
+    "full-pick-text": "No mention of cellular Macs",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -1188,6 +1264,7 @@
   },
   {
     "text": "No new Mac announced will have a touchscreen",
+    "full-pick-text": "No new Mac announced will have a touchscreen",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Regular",
@@ -1204,6 +1281,7 @@
   },
   {
     "text": "No new Mac notebooks are announced",
+    "full-pick-text": "No new Mac notebooks are announced",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -1219,6 +1297,7 @@
   },
   {
     "text": "No new Macs announced",
+    "full-pick-text": "No new Macs announced",
     "notes": "",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -1235,6 +1314,7 @@
   },
   {
     "text": "No preview of an Apple Silicon Mac Pro",
+    "full-pick-text": "No preview of an Apple Silicon Mac Pro",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -1251,6 +1331,7 @@
   },
   {
     "text": "No word on an Apple Silicon Mac Pro",
+    "full-pick-text": "No word on an Apple Silicon Mac Pro",
     "notes": "<p><ul><li>Stephen originally had a Risky Pick stating that we'd get a release date, but did a complete reversal because of late breaking rumors</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Regular",
@@ -1266,6 +1347,7 @@
   },
   {
     "text": "Nothing about the Mac",
+    "full-pick-text": "Nothing about the Mac",
     "notes": "<p><ul><li>The mention of Mojave's release is deemed insufficient to make this wrong.</li></ul></p>",
     "game": "2018 iPhone Event Predictions",
     "type": "NonGraded",
@@ -1282,6 +1364,7 @@
   },
   {
     "text": "One of the new Mac models supports WiFi 6",
+    "full-pick-text": "One of the new Mac models supports WiFi 6",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -1296,6 +1379,7 @@
   },
   {
     "text": "Preview of the new Apple Silicon Mac Pro",
+    "full-pick-text": "Preview of the new Apple Silicon Mac Pro",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -1311,6 +1395,7 @@
   },
   {
     "text": "Redesigned Mac Pro",
+    "full-pick-text": "Redesigned Mac Pro",
     "notes": "",
     "game": "2017 Annual Predictions",
     "type": "Regular",
@@ -1325,6 +1410,7 @@
   },
   {
     "text": "Shortcuts for Mac gets personal automations",
+    "full-pick-text": "Shortcuts for Mac gets personal automations",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -1342,6 +1428,7 @@
   },
   {
     "text": "Shortcuts for the Mac",
+    "full-pick-text": "Shortcuts for the Mac",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Regular",
@@ -1358,6 +1445,7 @@
   },
   {
     "text": "Something in the default Dock of Catalina becomes a Catalyst app",
+    "full-pick-text": "Something in the default Dock of Catalina becomes a Catalyst app",
     "notes": "",
     "game": "2020 Summer Rickies",
     "type": "Ricky",
@@ -1375,6 +1463,7 @@
   },
   {
     "text": "The 12\" MacBook does not return",
+    "full-pick-text": "The 12\" MacBook does not return",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -1390,6 +1479,7 @@
   },
   {
     "text": "The 13 inch MacBook Pro will gain a larger screen",
+    "full-pick-text": "The 13 inch MacBook Pro will gain a larger screen",
     "notes": "<p><ul><li>The long-rumored 14\" model finally came out in 2021.</li></ul></p>",
     "game": "2020 Annual Rickies",
     "type": "Regular",
@@ -1406,6 +1496,7 @@
   },
   {
     "text": "The 15-inch MacBook Air will be powered by an M3",
+    "full-pick-text": "The 15-inch MacBook Air will be powered by an M3",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -1418,6 +1509,7 @@
   },
   {
     "text": "The Apple Silicon Mac Pro allows third-party GPUs to be used",
+    "full-pick-text": "The Apple Silicon Mac Pro allows third-party GPUs to be used",
     "notes": "",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
@@ -1430,6 +1522,7 @@
   },
   {
     "text": "The ARM transition box will be a Mac mini",
+    "full-pick-text": "The ARM transition box will be a Mac mini",
     "notes": "",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",
@@ -1444,6 +1537,7 @@
   },
   {
     "text": "The chip is called the M1X",
+    "full-pick-text": "The chip is called the M1X",
     "notes": "",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -1459,6 +1553,7 @@
   },
   {
     "text": "The chip is not called M1X",
+    "full-pick-text": "The chip is not called M1X",
     "notes": "",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -1473,6 +1568,7 @@
   },
   {
     "text": "The first Apple Silicon chip is a variant of the A14 family",
+    "full-pick-text": "The first Apple Silicon chip is a variant of the A14 family",
     "notes": "<p><ul><li>The M1 could be related, but Apple never said so, and instead say that it was built specifically for the Mac.</li></ul></p>",
     "game": "2020 November Rickies",
     "type": "Regular",
@@ -1488,6 +1584,7 @@
   },
   {
     "text": "The Intel Mac mini is removed from sale",
+    "full-pick-text": "The Intel Mac mini is removed from sale",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -1505,6 +1602,7 @@
   },
   {
     "text": "The laptops will be thicker than the models they replace",
+    "full-pick-text": "The laptops will be thicker than the models they replace",
     "notes": "",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -1519,6 +1617,7 @@
   },
   {
     "text": "The Mac is not mentioned",
+    "full-pick-text": "The Mac is not mentioned",
     "notes": "",
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
@@ -1535,6 +1634,7 @@
   },
   {
     "text": "The Mac Mini is updated to include more than one system-on-a-chip option",
+    "full-pick-text": "The Mac Mini is updated to include more than one system-on-a-chip option",
     "notes": "<p><ul><li>e.g. M2 and M2 Pro.</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
@@ -1547,6 +1647,7 @@
   },
   {
     "text": "The Mac Pro will ship (in 2019 this time)",
+    "full-pick-text": "The Mac Pro will ship (in 2019 this time)",
     "notes": "<p><ul><li><a href=\"https://overcast.fm/+FXx6RiXe0/42:31\" target=\"_blank\">Added mid-year</a>: Must be able to order a Mac Pro by the end of 2019, they do not have to arrive in customer hands by the end of the year.</li><li>Ungraded: \"I waffle on sticking with my iMac Pro\"; he bought one almost immediately. Myke predicted that Stephen would buy a Mac Pro, exchange it for an iMac Pro, then buy another Mac Pro in 6 months.</li></ul></p>",
     "game": "2019 Annual Predictions",
     "type": "Regular",
@@ -1562,6 +1663,7 @@
   },
   {
     "text": "The Mac Pro will ship by the end of 2018",
+    "full-pick-text": "The Mac Pro will ship by the end of 2018",
     "notes": "<p><ul><li>Later in 2018, <a href=\"https://www.apple.com/newsroom/2021/10/apple-unveils-game-changing-macbook-pro/\" target=\"_blank\">Apple dashed Stephen's hopes</a> of getting this correct. As promised, the Mac Pro <a href=\"https://www.apple.com/newsroom/2019/06/apple-unveils-powerful-all-new-mac-pro-and-groundbreaking-pro-display-xdr/\" target=\"_blank\">came out in 2019</a>.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "Regular",
@@ -1578,6 +1680,7 @@
   },
   {
     "text": "The MacBook Escape will go away",
+    "full-pick-text": "The MacBook Escape will go away",
     "notes": "",
     "game": "2019 Annual Predictions",
     "type": "Regular",
@@ -1593,6 +1696,7 @@
   },
   {
     "text": "The new Apple Silicon MacBook Pro will not be announced at this event",
+    "full-pick-text": "The new Apple Silicon MacBook Pro will not be announced at this event",
     "notes": "<p><ul><li>This was originally going to be \"<a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20Macs\">No Macs</a>\", but at this point everyone was on the lookout for reused picks and <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20Mac%20or%20iPad%20hardware%20in%20the%20keynote\">this</a> one <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20new%20Mac%20notebooks%20are%20announced\">has</a> come <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Nothing%20about%20the%20Mac\">up a</a> few <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Mac%20is%20not%20mentioned\">times</a>.</li></ul></p>",
     "game": "2021 September Rickies",
     "type": "Regular",
@@ -1609,6 +1713,7 @@
   },
   {
     "text": "The new Mac mini comes in more colors than silver and grey",
+    "full-pick-text": "The new Mac mini comes in more colors than silver and grey",
     "notes": "<p><ul><li>Was originally \"in multiple colors\".</li></ul></p>",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -1625,6 +1730,7 @@
   },
   {
     "text": "The new Mac Pro will be...",
+    "full-pick-text": "The new Mac Pro will be smaller, not a cube shape, feature no support for the current MPX modules and/or will allow for some form of expandability outside of Thunderbolt. It will be only be available in one color.",
     "notes": "<p><ul><li>\"... smaller, not a cube shape, feature no support for the current MPX modules and/or will allow for some form of expandability outside of Thunderbolt. It will be only be available in one color.\"</li><li>Another \"and/or\" added to a pick, which happened a few times this episode. It applies to just the MPX modules and expandability clause.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Ricky",
@@ -1641,6 +1747,7 @@
   },
   {
     "text": "The new MacBook Pro power bricks have ports on them, like the iMac does for Ethernet",
+    "full-pick-text": "The new MacBook Pro power bricks have ports on them, like the iMac does for Ethernet",
     "notes": "",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -1657,6 +1764,7 @@
   },
   {
     "text": "The new version of macOS brings back Dashboard as a way to place widgets outside of the current Notification Center",
+    "full-pick-text": "The new version of macOS brings back Dashboard as a way to place widgets outside of the current Notification Center",
     "notes": "<p><ul><li>It has to be called \"Dashboard\" to get the points.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Ricky",
@@ -1673,6 +1781,7 @@
   },
   {
     "text": "The next version of macOS comes with a redesigned Today view",
+    "full-pick-text": "The next version of macOS comes with a redesigned Today view",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -1689,6 +1798,7 @@
   },
   {
     "text": "The next version of macOS is called Skyline",
+    "full-pick-text": "The next version of macOS is called Skyline",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -1703,6 +1813,7 @@
   },
   {
     "text": "The next version of macOS is not called Skyline",
+    "full-pick-text": "The next version of macOS is not called Skyline",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -1716,6 +1827,7 @@
   },
   {
     "text": "The next version of macOS will have at least one feature exclusive to Apple Silicon Macs",
+    "full-pick-text": "The next version of macOS will have at least one feature exclusive to Apple Silicon Macs",
     "notes": "<p><ul><li>There are <a href=\"https://www.apple.com/macos/macos-ventura-preview/features/\" target=\"_blank\">a few examples</a>: live captions in FaceTime, using an iPad Pro as a color reference display, and dictating emoji.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Regular",
@@ -1731,6 +1843,7 @@
   },
   {
     "text": "There will be a chip named M1 followed by a letter",
+    "full-pick-text": "There will be a chip named M1 followed by a letter",
     "notes": "",
     "game": "2021 Annual Rickies",
     "type": "Flexie",
@@ -1747,6 +1860,7 @@
   },
   {
     "text": "Universal Control is demoed again",
+    "full-pick-text": "Universal Control is demoed again",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -1766,6 +1880,7 @@
   },
   {
     "text": "USB-C charging is faster than the new MagSafe",
+    "full-pick-text": "USB-C charging is faster than the new MagSafe",
     "notes": "<p><ul><li>Which charging methods can do what differs between models, but in all cases MagSafe appears to be equally fast or faster than USB-C.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -1782,6 +1897,7 @@
   },
   {
     "text": "We get a colour option that is new to the MacBook Pro (name)",
+    "full-pick-text": "We get a colour option that is new to the MacBook Pro (name)",
     "notes": "<p><ul><li>This was originally \"new in name or hue\", but some questioning of what a new hue would be resulted in relying solely on a new colour name.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Regular",
@@ -1798,6 +1914,7 @@
   },
   {
     "text": "We see a Big Sur feature recap",
+    "full-pick-text": "We see a Big Sur feature recap",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -1814,6 +1931,7 @@
   },
   {
     "text": "We see a Mac Pro preview",
+    "full-pick-text": "We see a Mac Pro preview",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -1827,6 +1945,7 @@
   },
   {
     "text": "Webcam will be called \"highest quality on a Mac\"",
+    "full-pick-text": "Webcam will be called \"highest quality on a Mac\"",
     "notes": "<p><ul><li>It was \"Mac <em>notebook</em>\".</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -1843,6 +1962,7 @@
   },
   {
     "text": "WWDC brings no real changes to Mac Catalyst",
+    "full-pick-text": "WWDC brings no real changes to Mac Catalyst",
     "notes": "",
     "game": "2020 Annual Rickies",
     "type": "NonGraded",
@@ -1860,6 +1980,7 @@
   },
   {
     "text": "WWDC will introduce a multi-year plan to move macOS and iOS closer",
+    "full-pick-text": "WWDC will introduce a multi-year plan to move macOS and iOS closer",
     "notes": "<p><ul><li>Mac Catalyst and SwiftUI deemed to fulfill this</li></ul></p>",
     "game": "2019 Annual Predictions",
     "type": "NonGraded",

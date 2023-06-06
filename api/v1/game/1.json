@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "Apple will name a successor to Steve Dowling, former head of public relations at Apple",
+        "full-pick-text": "Apple will name a successor to Steve Dowling, former head of public relations at Apple",
         "notes": "<p><ul><li>\"Either named by Apple officially, or reported by more than one outlet that a person has been appointed.\"</li><li>Clearly in no hurry to do this, Apple finally <a href=\"https://www.imore.com/apple-hires-stella-low-new-vp-worldwide-corporate-communications\" target=\"_blank\">hired Stella Low to the role</a> in 2021.</li></ul></p>",
         "game": "2020 Annual Rickies",
         "type": "Regular",
@@ -24,6 +25,7 @@
       },
       {
         "text": "The 2020 iPhone line will feature at least one 5G phone",
+        "full-pick-text": "The 2020 iPhone line will feature at least one 5G phone",
         "notes": "<p><ul><li>\"Stephen is highly skeptical,\" Stephen jokingly predicts it will be called \"iPhone 11S Pro Max 5G\"</li><li><a href=\"https://overcast.fm/+FXx7hS2kY/1:17:45\" target=\"_blank\">Before the prediction episode has even finished</a>, news breaks that <a href=\"https://twitter.com/MemphisFlyer/status/1207782895479336961\" target=\"_blank\">5G service is coming</a> to <em>Stephen's own neighborhood</em>.</li></ul></p>",
         "game": "2020 Annual Rickies",
         "type": "Regular",
@@ -38,6 +40,7 @@
       },
       {
         "text": "The 13 inch MacBook Pro will gain a larger screen",
+        "full-pick-text": "The 13 inch MacBook Pro will gain a larger screen",
         "notes": "<p><ul><li>The long-rumored 14\" model finally came out in 2021.</li></ul></p>",
         "game": "2020 Annual Rickies",
         "type": "Regular",
@@ -54,6 +57,7 @@
       },
       {
         "text": "At least one of the 2020 iPhones will have a higher refresh rate display (Pro Motion)",
+        "full-pick-text": "At least one of the 2020 iPhones will have a higher refresh rate display (Pro Motion)",
         "notes": "<p><ul><li>This feature did show up in the iPhone 13 line.</li></ul></p>",
         "game": "2020 Annual Rickies",
         "type": "Regular",
@@ -70,6 +74,7 @@
       },
       {
         "text": "The iPad Pro line is updated before the iPhone with a hardware feature that's not on any current iPhone in 2019 or 2020",
+        "full-pick-text": "The iPad Pro line is updated before the iPhone with a hardware feature that's not on any current iPhone in 2019 or 2020",
         "notes": "<p><ul><li>Myke says during grading that he originally expected 5G to get him this point but LIDAR did instead, but he actually focused on LIDAR when originally explaining this pick. (During the grading, Federico delivers his impromptu review of the 2020 iPad Pro.)\n</li></ul></p>",
         "game": "2020 Annual Rickies",
         "type": "Regular",
@@ -86,6 +91,7 @@
       },
       {
         "text": "Apple will launch its own podcast content beyond its existing deal with Oprah",
+        "full-pick-text": "Apple will launch its own podcast content beyond its existing deal with Oprah",
         "notes": "",
         "game": "2020 Annual Rickies",
         "type": "Regular",
@@ -101,6 +107,7 @@
       },
       {
         "text": "Apple will release at least 1 new pro app for iPad that we haven't previously seen on iPad",
+        "full-pick-text": "Apple will release at least 1 new pro app for iPad that we haven't previously seen on iPad",
         "notes": "<p><ul><li>\"(The app can be universal.)\"</li><li>After years of waiting, <a href=\"https://www.apple.com/newsroom/2023/05/apple-brings-final-cut-pro-and-logic-pro-to-ipad/\" target=\"_blank\">Final Cut Pro and Logic Pro come to iPad in 2023</a>.</li></ul></p>",
         "game": "2020 Annual Rickies",
         "type": "Ricky",
@@ -118,6 +125,7 @@
       },
       {
         "text": "The notch on the iPhone will get physically smaller in at least one of the 2020 iPhones",
+        "full-pick-text": "The notch on the iPhone will get physically smaller in at least one of the 2020 iPhones",
         "notes": "<p><ul><li> Grading for this was tricky, but Stephen discovered that the <a href=\"https://developer.apple.com/accessories/Accessory-Design-Guidelines.pdf\" target=\"_blank\">Apple Accessory Design Guidelines</a> indicate that the notch got <em>very</em> slightly smaller, by millimeters, mostly due to the switch from LCD to OLED in the iPhone 12. The consensus is that it's a technical victory but not an honorable one.\n</li></ul></p>",
         "game": "2020 Annual Rickies",
         "type": "Ricky",
@@ -133,6 +141,7 @@
       },
       {
         "text": "Apple Podcast app launches on Android",
+        "full-pick-text": "Apple Podcast app launches on Android",
         "notes": "",
         "game": "2020 Annual Rickies",
         "type": "Ricky",
@@ -169,6 +178,7 @@
     "picks": [
       {
         "text": "Shortcuts will gain folders and/or new ways to run Shortcuts",
+        "full-pick-text": "Shortcuts will gain folders and/or new ways to run Shortcuts",
         "notes": "",
         "game": "2020 Annual Rickies",
         "type": "NonGraded",
@@ -183,6 +193,7 @@
       },
       {
         "text": "Apple will announce a new services bundle",
+        "full-pick-text": "Apple will announce a new services bundle",
         "notes": "",
         "game": "2020 Annual Rickies",
         "type": "NonGraded",
@@ -197,6 +208,7 @@
       },
       {
         "text": "WWDC brings no real changes to Mac Catalyst",
+        "full-pick-text": "WWDC brings no real changes to Mac Catalyst",
         "notes": "",
         "game": "2020 Annual Rickies",
         "type": "NonGraded",
@@ -214,6 +226,7 @@
       },
       {
         "text": "The iPad home screen will continue to change with new elements and additions",
+        "full-pick-text": "The iPad home screen will continue to change with new elements and additions",
         "notes": "<p><ul><li>The iPad went mostly unchanged in 2020, but iPadOS 15 did bring changes the next year.</li></ul></p>",
         "game": "2020 Annual Rickies",
         "type": "NonGraded",
@@ -231,6 +244,7 @@
       },
       {
         "text": "Apple will introduce a new iMac design with an accompanying external display",
+        "full-pick-text": "Apple will introduce a new iMac design with an accompanying external display",
         "notes": "<p><ul><li>The new iMac design wouldn't come out until 2021, and the new display came in 2022.</li></ul></p>",
         "game": "2020 Annual Rickies",
         "type": "NonGraded",
@@ -248,6 +262,7 @@
       },
       {
         "text": "Apple will not ship an ARM Mac in 2020",
+        "full-pick-text": "Apple will not ship an ARM Mac in 2020",
         "notes": "<p><ul><li> In 2019, Stephen picked the first ARM Mac to be shipped, so this was his... revenge?</li></ul></p>",
         "game": "2020 Annual Rickies",
         "type": "NonGraded",

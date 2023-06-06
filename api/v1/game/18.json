@@ -7,6 +7,7 @@
     "picks": [
       {
         "text": "At least one iPhone gets a 120 hz refresh rate display",
+        "full-pick-text": "At least one iPhone gets a 120 hz refresh rate display",
         "notes": "<p><ul><li>This was nearly a reuse of a <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#At%20least%20one%20of%20the%202020%20iPhones%20will%20have%20a%20higher%20refresh%20rate%20display%20(Pro%20Motion)\">previous pick</a> before the live chat caught it. The fix was to specify an exact refresh rate to make it more specific.</li></ul></p>",
         "game": "2021 September Rickies",
         "type": "Regular",
@@ -22,6 +23,7 @@
       },
       {
         "text": "There will be a setting to disable the higher refresh rate in at least one of the new iPhones",
+        "full-pick-text": "There will be a setting to disable the higher refresh rate in at least one of the new iPhones",
         "notes": "<p><ul><li>Was originally just a pick about a new, as-yet-unannounced iOS 15 feature, but the hosts suspected that was another reuse.</li><li>In retrospect, this was a tricky pick to grade because how would we <em>know</em> the day after the event? Federico provides some insider information indicating that the setting does exist, but can it be said to have \"come true\", as the rule states, without proof? The meaning of truth itself is debated, perhaps a philosophical high point for the Rickies. The point is ultimately granted, with the understanding that in the future, the rules will be amended to clarify that picks must be publicly verifiable to earn points.</li></ul></p>",
         "game": "2021 September Rickies",
         "type": "Regular",
@@ -37,6 +39,7 @@
       },
       {
         "text": "The Pro iPhone gets a new camera feature the regular iPhone doesn't get",
+        "full-pick-text": "The Pro iPhone gets a new camera feature the regular iPhone doesn't get",
         "notes": "",
         "game": "2021 September Rickies",
         "type": "Regular",
@@ -53,6 +56,7 @@
       },
       {
         "text": "The new Apple Silicon MacBook Pro will not be announced at this event",
+        "full-pick-text": "The new Apple Silicon MacBook Pro will not be announced at this event",
         "notes": "<p><ul><li>This was originally going to be \"<a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20Macs\">No Macs</a>\", but at this point everyone was on the lookout for reused picks and <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20Mac%20or%20iPad%20hardware%20in%20the%20keynote\">this</a> one <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20new%20Mac%20notebooks%20are%20announced\">has</a> come <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Nothing%20about%20the%20Mac\">up a</a> few <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Mac%20is%20not%20mentioned\">times</a>.</li></ul></p>",
         "game": "2021 September Rickies",
         "type": "Regular",
@@ -69,6 +73,7 @@
       },
       {
         "text": "The new iPhones keep the same screen sizes as last year",
+        "full-pick-text": "The new iPhones keep the same screen sizes as last year",
         "notes": "",
         "game": "2021 September Rickies",
         "type": "Regular",
@@ -83,6 +88,7 @@
       },
       {
         "text": "The Apple Watch SE gets a price cut",
+        "full-pick-text": "The Apple Watch SE gets a price cut",
         "notes": "<p><ul><li><a href=\"https://www.apple.com/newsroom/2022/09/apple-reveals-apple-watch-series-8-and-the-new-apple-watch-se/\" target=\"_blank\">Next year's model would</a>, but not this year's.</li></ul></p>",
         "game": "2021 September Rickies",
         "type": "Regular",
@@ -100,6 +106,7 @@
       },
       {
         "text": "An iPhone gets an always-on display with a UI element that is reminiscent of Apple Watch complications",
+        "full-pick-text": "An iPhone gets an always-on display with a UI element that is reminiscent of Apple Watch complications",
         "notes": "",
         "game": "2021 September Rickies",
         "type": "Ricky",
@@ -117,6 +124,7 @@
       },
       {
         "text": "An iPhone gets an updated Face ID sensor that supports partially occluded faces",
+        "full-pick-text": "An iPhone gets an updated Face ID sensor that supports partially occluded faces",
         "notes": "<p><ul><li>Cannot be a feature that comes to existing iPhones</li><li>This feature did come in 2022, but didn't require new hardware.</li></ul></p>",
         "game": "2021 September Rickies",
         "type": "Ricky",
@@ -132,6 +140,7 @@
       },
       {
         "text": "MagSafe is updated to support 20 watt charging or higher, but a new puck is required",
+        "full-pick-text": "MagSafe is updated to support 20 watt charging or higher, but a new puck is required",
         "notes": "<p><ul><li>This was originally just \"faster charging\", but the live chat pointed out <a href=\"https://9to5mac.com/2021/09/06/apple-fcc-filings-reveal-revised-magsafe-charger-ahead-of-iphone-13-event/\" target=\"_blank\">a recent FCC filing by Apple</a> which undercut the riskiness of the pick. Stephen added a specific wattage target and also had to decide whether the existing MagSafe puck will support the higher wattage.</li></ul></p>",
         "game": "2021 September Rickies",
         "type": "Ricky",
@@ -182,6 +191,7 @@
     "picks": [
       {
         "text": "A new iPad mini is introduced with a refreshed design, new colours previously not a part of the product, USB-C, Smart Connector, and 5G support",
+        "full-pick-text": "A new iPad mini is introduced with a refreshed design, new colours previously not a part of the product, USB-C, Smart Connector, and 5G support",
         "notes": "<p><ul><li>Originally a Risky Pick.</li><li>This was <i>very</i> close to coming true, but it was missing a Smart Connector.</li></ul></p>",
         "game": "2021 September Rickies",
         "type": "Flexie",
@@ -198,6 +208,7 @@
       },
       {
         "text": "There is a ceramic Apple Watch",
+        "full-pick-text": "There is a ceramic Apple Watch",
         "notes": "",
         "game": "2021 September Rickies",
         "type": "Flexie",
@@ -213,6 +224,7 @@
       },
       {
         "text": "The new iPhone colour will be a new version of a colour they've already used",
+        "full-pick-text": "The new iPhone colour will be a new version of a colour they've already used",
         "notes": "<p><ul><li>e.g. a new shade of blue, green, gold, black, etc.</li></ul></p>",
         "game": "2021 September Rickies",
         "type": "Flexie",
@@ -227,6 +239,7 @@
       },
       {
         "text": "New Apple Watch is not a part of the presentation",
+        "full-pick-text": "New Apple Watch is not a part of the presentation",
         "notes": "",
         "game": "2021 September Rickies",
         "type": "Flexie",
@@ -243,6 +256,7 @@
       },
       {
         "text": "Release date for iOS 15 is announced and it's later than 24 hours away",
+        "full-pick-text": "Release date for iOS 15 is announced and it's later than 24 hours away",
         "notes": "",
         "game": "2021 September Rickies",
         "type": "Flexie",
@@ -257,6 +271,7 @@
       },
       {
         "text": "The iPhone Pro comes in 5 colors/finishes, not the traditional 4",
+        "full-pick-text": "The iPhone Pro comes in 5 colors/finishes, not the traditional 4",
         "notes": "<p><ul><li>This unexpectedly came true in spring 2022, when Apple added a new green color to the Pro line.</li></ul></p>",
         "game": "2021 September Rickies",
         "type": "Flexie",
@@ -273,6 +288,7 @@
       },
       {
         "text": "The Apple Watch moves to 5G networking",
+        "full-pick-text": "The Apple Watch moves to 5G networking",
         "notes": "",
         "game": "2021 September Rickies",
         "type": "Flexie",
@@ -288,6 +304,7 @@
       },
       {
         "text": "A new AirPods product is announced",
+        "full-pick-text": "A new AirPods product is announced",
         "notes": "<p><ul><li>This pick was one event early, as the third generation of AirPods came in October.</li></ul></p>",
         "game": "2021 September Rickies",
         "type": "Flexie",
@@ -305,6 +322,7 @@
       },
       {
         "text": "Apple TV+ content is featured in the keynote",
+        "full-pick-text": "Apple TV+ content is featured in the keynote",
         "notes": "",
         "game": "2021 September Rickies",
         "type": "Flexie",
@@ -320,6 +338,7 @@
       },
       {
         "text": "No specific preorder date is set for the Apple Watch",
+        "full-pick-text": "No specific preorder date is set for the Apple Watch",
         "notes": "",
         "game": "2021 September Rickies",
         "type": "Flexie",
@@ -334,6 +353,7 @@
       },
       {
         "text": "iOS 15 releases the following week to the public",
+        "full-pick-text": "iOS 15 releases the following week to the public",
         "notes": "<p><ul><li>In other words, the week of Monday September 20th.</li></ul></p>",
         "game": "2021 September Rickies",
         "type": "Flexie",
@@ -349,6 +369,7 @@
       },
       {
         "text": "The 9th generation iPad is introduced with a USB-C connector",
+        "full-pick-text": "The 9th generation iPad is introduced with a USB-C connector",
         "notes": "",
         "game": "2021 September Rickies",
         "type": "Flexie",
@@ -366,6 +387,7 @@
       },
       {
         "text": "No date is provided for macOS Monterey",
+        "full-pick-text": "No date is provided for macOS Monterey",
         "notes": "",
         "game": "2021 September Rickies",
         "type": "Flexie",
@@ -383,6 +405,7 @@
       },
       {
         "text": "New AirPods announced with a MagSafe compatible case",
+        "full-pick-text": "New AirPods announced with a MagSafe compatible case",
         "notes": "",
         "game": "2021 September Rickies",
         "type": "Flexie",
@@ -401,6 +424,7 @@
       },
       {
         "text": "Apple will announce at least 1 new feature that will be coming later in the iOS 15 cycle",
+        "full-pick-text": "Apple will announce at least 1 new feature that will be coming later in the iOS 15 cycle",
         "notes": "<p><ul><li>ProRes video recording on the iPhone 13 Pro models will be coming \"later this fall\".</li></ul></p>",
         "game": "2021 September Rickies",
         "type": "Flexie",

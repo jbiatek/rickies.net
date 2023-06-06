@@ -1,6 +1,7 @@
 [
   {
     "text": "A presenter references the fact that some developers are at Apple Park for the keynote",
+    "full-pick-text": "A presenter references the fact that some developers are at Apple Park for the keynote",
     "notes": "<p><ul><li>This is litigated a bit later when <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Tim%20presents%20some%20portion%20of%20the%20keynote%20in%20front%20of%20a%20live%20audience\">Myke's very similar pick got graded</a>, as Tim Cook did address the audience before the video played. He was decided to not be \"a presenter\" at the time, ultimately.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -16,6 +17,7 @@
   },
   {
     "text": "All the celebrities will come out at the end and take a picture together",
+    "full-pick-text": "All the celebrities will come out at the end and take a picture together",
     "notes": "",
     "game": "2019 Media Event Predictions",
     "type": "NonGraded",
@@ -29,6 +31,7 @@
   },
   {
     "text": "An AR demo is shown",
+    "full-pick-text": "An AR demo is shown",
     "notes": "",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -44,6 +47,7 @@
   },
   {
     "text": "Any kind of release timeframe is provided for macOS Monterey",
+    "full-pick-text": "Any kind of release timeframe is provided for macOS Monterey",
     "notes": "<p><ul><li>Apparently feeling humble, Federico admits that this is a \"boring\" pick. It was originally \"release date\", but when some questioning about whether just a month would count came up, he watered it down.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Regular",
@@ -62,6 +66,7 @@
   },
   {
     "text": "Apple announces new environmental efforts, such as a new recycling robot",
+    "full-pick-text": "Apple announces new environmental efforts, such as a new recycling robot",
     "notes": "",
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
@@ -77,6 +82,7 @@
   },
   {
     "text": "Apple compares the performance of Apple Silicon Macs to \"most PCs sold today\"",
+    "full-pick-text": "Apple compares the performance of Apple Silicon Macs to \"most PCs sold today\"",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -92,6 +98,7 @@
   },
   {
     "text": "Apple demos a game running on an Apple Silicon Mac",
+    "full-pick-text": "Apple demos a game running on an Apple Silicon Mac",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -109,6 +116,7 @@
   },
   {
     "text": "Apple demos a Mac app that takes advantage of the updated Neural Engine",
+    "full-pick-text": "Apple demos a Mac app that takes advantage of the updated Neural Engine",
     "notes": "",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -125,6 +133,7 @@
   },
   {
     "text": "Apple demos iOS apps running on a Mac",
+    "full-pick-text": "Apple demos iOS apps running on a Mac",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Regular",
@@ -143,6 +152,7 @@
   },
   {
     "text": "Apple gives a quick tour of improvements to next round of software updates",
+    "full-pick-text": "Apple gives a quick tour of improvements to next round of software updates",
     "notes": "",
     "game": "2019 Media Event Predictions",
     "type": "NonGraded",
@@ -157,6 +167,7 @@
   },
   {
     "text": "Apple gives a release date for iOS 13.1 and mentions the update on stage",
+    "full-pick-text": "Apple gives a release date for iOS 13.1 and mentions the update on stage",
     "notes": "",
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
@@ -173,6 +184,7 @@
   },
   {
     "text": "Apple gives a sneak peak of the new Mac Pro...",
+    "full-pick-text": "Apple gives a sneak peak of the new Mac Pro. It features a case design inspired by the 2019 Mac Pro. It features more ports than any other Apple Silicon Mac available today. It does not have support for third-party GPUs. It features a chip name that has not appeared in any other product. It has a starting price of at least $6,999. It is coming later this year.",
     "notes": "<p><ul>\n<li>\"...It features a case design inspired by the 2019 Mac Pro. It features more ports than any other Apple Silicon Mac available today. It does not have support for third-party GPUs. It features a chip name that has not appeared in any other product. It has a starting price of at least $6,999. It is coming later this year.\"</li>\n<li>Originally it said \"same case design\", but the change was accepted on air after Myke reconsidered. \"Later this year\" was also demoted from being an exact quote.</li>\n<li>This Mac Pro will have to beat the Mac Studio in terms of ports: 2 USB-C, 2 USB-A, 4 Thunderbolt, SD card, Ethernet, HDMI, and headphone jack, for a total of 12.</li>\n<li>This pick is similar in spirit to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20new%20Mac%20Pro%20will%20be...\">Myke's ongoing Annual pick</a>, but with different conditions. At the time it was the <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Success%20By%20Pick%20Complexity\">most complex graded pick</a> ever made.</li>\n</ul>\n</p>",
     "game": "2022 WWDC Rickies",
     "type": "Ricky",
@@ -190,6 +202,7 @@
   },
   {
     "text": "Apple mentions at least 1 feature \"coming later\"",
+    "full-pick-text": "Apple mentions at least 1 feature \"coming later\"",
     "notes": "",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -205,6 +218,7 @@
   },
   {
     "text": "Apple reframes an existing feature as being powered by \"AI\"",
+    "full-pick-text": "Apple reframes an existing feature as being powered by \"AI\"",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -217,6 +231,7 @@
   },
   {
     "text": "Apple says literally anything about the HomePod",
+    "full-pick-text": "Apple says literally anything about the HomePod",
     "notes": "",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",
@@ -232,6 +247,7 @@
   },
   {
     "text": "Apple showcases at least one new feature coming in iOS or iPadOS 14.1",
+    "full-pick-text": "Apple showcases at least one new feature coming in iOS or iPadOS 14.1",
     "notes": "<p><ul><li>The version number wasn't stated explicitly, otherwise Fitness+ would have counted.</li></ul></p>",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -251,6 +267,7 @@
   },
   {
     "text": "Apple somehow sets expectations for when the iPhone will be announced",
+    "full-pick-text": "Apple somehow sets expectations for when the iPhone will be announced",
     "notes": "",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -267,6 +284,7 @@
   },
   {
     "text": "Apple talks about App Tracking Transparency in iOS 14.5",
+    "full-pick-text": "Apple talks about App Tracking Transparency in iOS 14.5",
     "notes": "",
     "game": "2021 April Rickies",
     "type": "Flexie",
@@ -283,6 +301,7 @@
   },
   {
     "text": "Apple teases another Mac, that is not for sale right now, with Pro in the name, and says that it is coming next year",
+    "full-pick-text": "Apple teases another Mac, that is not for sale right now, with Pro in the name, and says that it is coming next year",
     "notes": "<p><ul><li>It was originally \"Mac product\", but there was some controversy over whether that includes accessories and displays. Ultimately, Myke upped the difficulty and removed the word \"product\".</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Ricky",
@@ -300,6 +319,7 @@
   },
   {
     "text": "Apple TV+ content is featured in the keynote",
+    "full-pick-text": "Apple TV+ content is featured in the keynote",
     "notes": "",
     "game": "2021 September Rickies",
     "type": "Flexie",
@@ -315,6 +335,7 @@
   },
   {
     "text": "Apple TV+ trailers are shown",
+    "full-pick-text": "Apple TV+ trailers are shown",
     "notes": "",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -332,6 +353,7 @@
   },
   {
     "text": "Apple will mention Apple Arcade during the keynote",
+    "full-pick-text": "Apple will mention Apple Arcade during the keynote",
     "notes": "",
     "game": "2019 WWDC Predictions",
     "type": "Regular",
@@ -347,6 +369,7 @@
   },
   {
     "text": "Apple will mention at least one new feature coming to the HomePod",
+    "full-pick-text": "Apple will mention at least one new feature coming to the HomePod",
     "notes": "<p><ul><li>\"HomePod\" needs to be mentioned by name.</li><li>The HomePod <a href=\"https://www.apple.com/newsroom/2018/09/homepod-adds-new-features-and-siri-languages/\" target=\"_blank\">got a few new features the year before</a>, but not much else before being discontinued.</li></ul></p>",
     "game": "2019 Media Event Predictions",
     "type": "Ricky",
@@ -363,6 +386,7 @@
   },
   {
     "text": "At least one segment of the keynote is shot inside Apple's own fitness labs",
+    "full-pick-text": "At least one segment of the keynote is shot inside Apple's own fitness labs",
     "notes": "<p><ul><li>It isn't quite clear if what they showed was the <em>lab</em>, but it doesn't matter to the scoring anyway so the point is given.</li></ul></p>",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -377,6 +401,7 @@
   },
   {
     "text": "At this event, we see some sort of AR-focused hardware",
+    "full-pick-text": "At this event, we see some sort of AR-focused hardware",
     "notes": "",
     "game": "2021 April Rickies",
     "type": "Ricky",
@@ -393,6 +418,7 @@
   },
   {
     "text": "Craig demos Big Sur features",
+    "full-pick-text": "Craig demos Big Sur features",
     "notes": "<p><ul><li>The instant wake demo is counted for this.</li></ul></p>",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -409,6 +435,7 @@
   },
   {
     "text": "Craig is wearing a blue shirt",
+    "full-pick-text": "Craig is wearing a blue shirt",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -424,6 +451,7 @@
   },
   {
     "text": "Event looks mostly like WWDC",
+    "full-pick-text": "Event looks mostly like WWDC",
     "notes": "<p><ul><li>\"Not all on stage in a theater but using different parts of the campus or outside world\"</li></ul>\n</p>",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -438,6 +466,7 @@
   },
   {
     "text": "iOS 14.2's Shazam recognition is demoed",
+    "full-pick-text": "iOS 14.2's Shazam recognition is demoed",
     "notes": "",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -454,6 +483,7 @@
   },
   {
     "text": "iPad Air preorder date announced",
+    "full-pick-text": "iPad Air preorder date announced",
     "notes": "<p><ul><li>Orders began on <a href=\"https://www.apple.com/newsroom/2020/10/all-new-ipad-air-with-advanced-a14-bionic-chip-available-to-order-starting-today/\" target=\"_blank\">October 16th</a>, with no advanced notice. Unfortunately, the picks had already been graded by then.</li></ul></p>",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -471,6 +501,7 @@
   },
   {
     "text": "Jeff Williams has a major role in introducing the headset",
+    "full-pick-text": "Jeff Williams has a major role in introducing the headset",
     "notes": "<p><ul><li>Was originally Kevin Lynch until Myke, ever the sportsman, pointed out that Lynch is supposedly on the <em>car</em> project, not the headset.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -486,6 +517,7 @@
   },
   {
     "text": "Jeff Williams will take a greater role in the keynote",
+    "full-pick-text": "Jeff Williams will take a greater role in the keynote",
     "notes": "<p><ul><li>More than just the Apple Watch section</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
@@ -501,6 +533,7 @@
   },
   {
     "text": "John Ternus is wearing a black T-shirt",
+    "full-pick-text": "John Ternus is wearing a black T-shirt",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -516,6 +549,7 @@
   },
   {
     "text": "John Ternus is wearing jeans and a black t-shirt",
+    "full-pick-text": "John Ternus is wearing jeans and a black t-shirt",
     "notes": "<p><ul><li>It was a blue t-shirt.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -531,6 +565,7 @@
   },
   {
     "text": "Joz presents a new product",
+    "full-pick-text": "Joz presents a new product",
     "notes": "",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -545,6 +580,7 @@
   },
   {
     "text": "Joz wears a non-solid-color shirt",
+    "full-pick-text": "Joz wears a non-solid-color shirt",
     "notes": "",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -560,6 +596,7 @@
   },
   {
     "text": "macOS Monterey features are reviewed",
+    "full-pick-text": "macOS Monterey features are reviewed",
     "notes": "<p><ul><li>Some Mac software features were mentioned, like running iOS apps, but nothing really specific to Monterey.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -577,6 +614,7 @@
   },
   {
     "text": "No Apple Services bundle announced",
+    "full-pick-text": "No Apple Services bundle announced",
     "notes": "",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",
@@ -593,6 +631,7 @@
   },
   {
     "text": "No in-person WWDC 2021",
+    "full-pick-text": "No in-person WWDC 2021",
     "notes": "",
     "game": "2021 Annual Rickies",
     "type": "Regular",
@@ -607,6 +646,7 @@
   },
   {
     "text": "No Mac or iPad hardware in the keynote",
+    "full-pick-text": "No Mac or iPad hardware in the keynote",
     "notes": "<p><ul><li>10.2” iPad was announced</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "Regular",
@@ -626,6 +666,7 @@
   },
   {
     "text": "No Mac Pro teaser video",
+    "full-pick-text": "No Mac Pro teaser video",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -640,6 +681,7 @@
   },
   {
     "text": "No mention of AirTags",
+    "full-pick-text": "No mention of AirTags",
     "notes": "",
     "game": "2021 April Rickies",
     "type": "Flexie",
@@ -657,6 +699,7 @@
   },
   {
     "text": "No mention of cellular Macs",
+    "full-pick-text": "No mention of cellular Macs",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -673,6 +716,7 @@
   },
   {
     "text": "No mention or word from Jony Ive",
+    "full-pick-text": "No mention or word from Jony Ive",
     "notes": "",
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
@@ -687,6 +731,7 @@
   },
   {
     "text": "No new Macs announced",
+    "full-pick-text": "No new Macs announced",
     "notes": "",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -703,6 +748,7 @@
   },
   {
     "text": "No preview of an Apple Silicon Mac Pro",
+    "full-pick-text": "No preview of an Apple Silicon Mac Pro",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -719,6 +765,7 @@
   },
   {
     "text": "No preview of an AR headset",
+    "full-pick-text": "No preview of an AR headset",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -735,6 +782,7 @@
   },
   {
     "text": "No service bundle announced",
+    "full-pick-text": "No service bundle announced",
     "notes": "<p><ul><li>“including any service being free with another, or some sort of content being added to the iPhone upgrade program”</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn’t really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "Ricky",
@@ -752,6 +800,7 @@
   },
   {
     "text": "No trailers for Apple TV+ content",
+    "full-pick-text": "No trailers for Apple TV+ content",
     "notes": "",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -767,6 +816,7 @@
   },
   {
     "text": "Nothing about the Mac",
+    "full-pick-text": "Nothing about the Mac",
     "notes": "<p><ul><li>The mention of Mojave's release is deemed insufficient to make this wrong.</li></ul></p>",
     "game": "2018 iPhone Event Predictions",
     "type": "NonGraded",
@@ -783,6 +833,7 @@
   },
   {
     "text": "Phil Schiller is nowhere to be seen",
+    "full-pick-text": "Phil Schiller is nowhere to be seen",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -797,6 +848,7 @@
   },
   {
     "text": "Preview of fall Apple TV+ content",
+    "full-pick-text": "Preview of fall Apple TV+ content",
     "notes": "",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -814,6 +866,7 @@
   },
   {
     "text": "Some new Shortcuts features get covered in the State of the Union",
+    "full-pick-text": "Some new Shortcuts features get covered in the State of the Union",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -827,6 +880,7 @@
   },
   {
     "text": "Someone is wearing the new Apple Watch while riding a skateboard",
+    "full-pick-text": "Someone is wearing the new Apple Watch while riding a skateboard",
     "notes": "<p><ul><li>A reference to the \"Apple Watch Extreme\" rumors. Maybe Tony Hawk?</li></ul></p>",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -843,6 +897,7 @@
   },
   {
     "text": "Someone washes their hands during the presentation",
+    "full-pick-text": "Someone washes their hands during the presentation",
     "notes": "",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -858,6 +913,7 @@
   },
   {
     "text": "The headset portion of the keynote lasts over an hour",
+    "full-pick-text": "The headset portion of the keynote lasts over an hour",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -871,6 +927,7 @@
   },
   {
     "text": "The keynote is a pre-recorded video",
+    "full-pick-text": "The keynote is a pre-recorded video",
     "notes": "",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -885,6 +942,7 @@
   },
   {
     "text": "The keynote is held outside on the stage Apple uses for concerts at Apple Park",
+    "full-pick-text": "The keynote is held outside on the stage Apple uses for concerts at Apple Park",
     "notes": "",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",
@@ -900,6 +958,7 @@
   },
   {
     "text": "The keynote video runs over 2 hours",
+    "full-pick-text": "The keynote video runs over 2 hours",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -912,6 +971,7 @@
   },
   {
     "text": "The Mac is not mentioned",
+    "full-pick-text": "The Mac is not mentioned",
     "notes": "",
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
@@ -928,6 +988,7 @@
   },
   {
     "text": "The next version of macOS is called Skyline",
+    "full-pick-text": "The next version of macOS is called Skyline",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -942,6 +1003,7 @@
   },
   {
     "text": "The only iPhones seen on stage will be the ones we already know about",
+    "full-pick-text": "The only iPhones seen on stage will be the ones we already know about",
     "notes": "<p><ul><li>This seems to have been a sub-bullet point to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20cheaper%20iPhone%20will%20be%20called%20iPhone%209\">the previous pick</a> originally, but was forcibly upgraded to a full pick by Myke during grading. (Again, this \"game\" wasn't even supposed to be a competition originally.)</li></ul></p>",
     "game": "2018 iPhone Event Predictions",
     "type": "NonGraded",
@@ -956,6 +1018,7 @@
   },
   {
     "text": "The phrase \"one more thing\" will be used before the headset is announced",
+    "full-pick-text": "The phrase \"one more thing\" will be used before the headset is announced",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Regular",
@@ -969,6 +1032,7 @@
   },
   {
     "text": "The removal of Force Touch on watchOS is framed as the inclusion of Haptic Touch",
+    "full-pick-text": "The removal of Force Touch on watchOS is framed as the inclusion of Haptic Touch",
     "notes": "",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -986,6 +1050,7 @@
   },
   {
     "text": "There is going to be a funny scene involving one of the characters of Ted Lasso",
+    "full-pick-text": "There is going to be a funny scene involving one of the characters of Ted Lasso",
     "notes": "<p><ul><li>Federico originally had \"Universal Control has been postponed to a future macOS Monterey update\", but during the show a new macOS beta was released with the feature not available, but at least mentioned in an unselectable check box.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -1002,6 +1067,7 @@
   },
   {
     "text": "Tim Cook interacts with a celebrity",
+    "full-pick-text": "Tim Cook interacts with a celebrity",
     "notes": "",
     "game": "2019 Media Event Predictions",
     "type": "Regular",
@@ -1016,6 +1082,7 @@
   },
   {
     "text": "Tim Cook mentions the war in Ukraine",
+    "full-pick-text": "Tim Cook mentions the war in Ukraine",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -1031,6 +1098,7 @@
   },
   {
     "text": "Tim Cook says \"good morning\"",
+    "full-pick-text": "Tim Cook says \"good morning\"",
     "notes": "",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -1046,6 +1114,7 @@
   },
   {
     "text": "Tim Cook says \"metaverse\"",
+    "full-pick-text": "Tim Cook says \"metaverse\"",
     "notes": "<p><ul><li><a href=\"https://9to5mac.com/2022/09/30/tim-cook-metaverse-interviews/\" target=\"_blank\">Correct, as reported at 9to5Mac.</a></li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -1060,6 +1129,7 @@
   },
   {
     "text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand",
+    "full-pick-text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand",
     "notes": "",
     "game": "2019 Fall Rickies",
     "type": "Ricky",
@@ -1076,6 +1146,7 @@
   },
   {
     "text": "Tim presents some portion of the keynote in front of a live audience",
+    "full-pick-text": "Tim presents some portion of the keynote in front of a live audience",
     "notes": "<p><ul><li>This is very very similar to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20presenter%20references%20the%20fact%20that%20some%20developers%20are%20at%20Apple%20Park%20for%20the%20keynote\">Stephen's Flexie</a> and both ultimately got graded at this point, as well as Stephen's <em>other</em> <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#At%20least%20one%20iOS%20system%20app%20is%20redesigned%20to%20bring%20its%20controls%20to%20the%20bottom%20of%20the%20screen\">controversial pick</a>.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -1091,6 +1162,7 @@
   },
   {
     "text": "Tony Hawk will make an appearance at the event",
+    "full-pick-text": "Tony Hawk will make an appearance at the event",
     "notes": "<p><ul><li>This was originally a near-exact copy of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20shows%20off%20at%20least%20one%20new%20MagSafe%20accessory\">one of Stephen's earlier Flexies</a>, and refers to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Someone%20is%20wearing%20the%20new%20Apple%20Watch%20while%20riding%20a%20skateboard\">Myke's earlier skateboarding pick</a>.</li></ul></p>",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -1106,6 +1178,7 @@
   },
   {
     "text": "tvOS is not covered in the keynote",
+    "full-pick-text": "tvOS is not covered in the keynote",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -1120,6 +1193,7 @@
   },
   {
     "text": "Universal Control is demoed again",
+    "full-pick-text": "Universal Control is demoed again",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -1139,6 +1213,7 @@
   },
   {
     "text": "We do not know what the price of the headset will be",
+    "full-pick-text": "We do not know what the price of the headset will be",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -1152,6 +1227,7 @@
   },
   {
     "text": "We do not see John Ternus",
+    "full-pick-text": "We do not see John Ternus",
     "notes": "",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -1167,6 +1243,7 @@
   },
   {
     "text": "We do not see Joz during this event",
+    "full-pick-text": "We do not see Joz during this event",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -1181,6 +1258,7 @@
   },
   {
     "text": "We get some happy messaging from Apple about how much they value developers",
+    "full-pick-text": "We get some happy messaging from Apple about how much they value developers",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -1195,6 +1273,7 @@
   },
   {
     "text": "We see a Big Sur feature recap",
+    "full-pick-text": "We see a Big Sur feature recap",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -1211,6 +1290,7 @@
   },
   {
     "text": "We see a Mac Pro preview",
+    "full-pick-text": "We see a Mac Pro preview",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -1224,6 +1304,7 @@
   },
   {
     "text": "We see Johny Srouji again",
+    "full-pick-text": "We see Johny Srouji again",
     "notes": "",
     "game": "2020 November Rickies",
     "type": "Flexie",
@@ -1238,6 +1319,7 @@
   },
   {
     "text": "We see Joz introduce something",
+    "full-pick-text": "We see Joz introduce something",
     "notes": "",
     "game": "2021 April Rickies",
     "type": "Flexie",
@@ -1253,6 +1335,7 @@
   },
   {
     "text": "Webcam will be called \"highest quality on a Mac\"",
+    "full-pick-text": "Webcam will be called \"highest quality on a Mac\"",
     "notes": "<p><ul><li>It was \"Mac <em>notebook</em>\".</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Flexie",
@@ -1269,6 +1352,7 @@
   },
   {
     "text": "WWDC 2023 follows the same format as WWDC 2022, with a small number of people invited in person",
+    "full-pick-text": "WWDC 2023 follows the same format as WWDC 2022, with a small number of people invited in person",
     "notes": "<p><ul><li>No convention center, no ticket lottery, just like in 2022.</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Regular",

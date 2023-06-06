@@ -1,6 +1,7 @@
 [
   {
     "text": "A headset will not be unveiled at WWDC",
+    "full-pick-text": "A headset will not be unveiled at WWDC",
     "notes": "",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -17,6 +18,7 @@
   },
   {
     "text": "A non-Pro iPad gets a LIDAR sensor",
+    "full-pick-text": "A non-Pro iPad gets a LIDAR sensor",
     "notes": "",
     "game": "2020 September Rickies",
     "type": "Ricky",
@@ -33,6 +35,7 @@
   },
   {
     "text": "An AR demo is shown",
+    "full-pick-text": "An AR demo is shown",
     "notes": "",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -48,6 +51,7 @@
   },
   {
     "text": "Apple announces a developer kit for its headset",
+    "full-pick-text": "Apple announces a developer kit for its headset",
     "notes": "",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -64,6 +68,7 @@
   },
   {
     "text": "Apple launches an AR navigation mode for Apple Maps",
+    "full-pick-text": "Apple launches an AR navigation mode for Apple Maps",
     "notes": "<p><ul><li>A year too early, this was a feature in iOS 15.</li></ul></p>",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -81,6 +86,7 @@
   },
   {
     "text": "Apple shares a video touting the benefits of the time-of-flight sensor found in the 2020 iPad Pros for AR",
+    "full-pick-text": "Apple shares a video touting the benefits of the time-of-flight sensor found in the 2020 iPad Pros for AR",
     "notes": "<p><ul><li>He was talking about LIDAR, that's accepted. <a href=\"https://developer.apple.com/videos/play/wwdc2020/10612/\" target=\"_blank\">And Myke tracks down the video as well</a>.</li></ul></p>",
     "game": "2020 Summer Rickies",
     "type": "Regular",
@@ -97,6 +103,7 @@
   },
   {
     "text": "Apple ships an AR, VR, and/or MR dedicated device",
+    "full-pick-text": "Apple ships an AR, VR, and/or MR dedicated device",
     "notes": "",
     "game": "2021 Annual Rickies",
     "type": "Flexie",
@@ -113,6 +120,7 @@
   },
   {
     "text": "Apple shows off their headset in March, they announce developer tools at WWDC, then show it off again at an event in September. It ships to customers in October",
+    "full-pick-text": "Apple shows off their headset in March, they announce developer tools at WWDC, then show it off again at an event in September. It ships to customers in October",
     "notes": "",
     "game": "2023 Annual Rickies",
     "type": "Ricky",
@@ -126,6 +134,7 @@
   },
   {
     "text": "Apple's headset has widgets that look similar to iOS",
+    "full-pick-text": "Apple's headset has widgets that look similar to iOS",
     "notes": "",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
@@ -138,6 +147,7 @@
   },
   {
     "text": "AR-specific features are added to Swift or SwiftUI",
+    "full-pick-text": "AR-specific features are added to Swift or SwiftUI",
     "notes": "<p><ul><li>Nothing in the keynote, but <a href=\"https://developer.apple.com/augmented-reality/roomplan/\" target=\"_blank\">ARKit 6 is adding RoomPlan</a>, a new Swift API for scanning a room with a camera and LiDAR scanner.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -153,6 +163,7 @@
   },
   {
     "text": "At this event, we see some sort of AR-focused hardware",
+    "full-pick-text": "At this event, we see some sort of AR-focused hardware",
     "notes": "",
     "game": "2021 April Rickies",
     "type": "Ricky",
@@ -169,6 +180,7 @@
   },
   {
     "text": "Jeff Williams has a major role in introducing the headset",
+    "full-pick-text": "Jeff Williams has a major role in introducing the headset",
     "notes": "<p><ul><li>Was originally Kevin Lynch until Myke, ever the sportsman, pointed out that Lynch is supposedly on the <em>car</em> project, not the headset.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -184,6 +196,7 @@
   },
   {
     "text": "No Apple-made headset is seen",
+    "full-pick-text": "No Apple-made headset is seen",
     "notes": "<p><ul><li>Was originally \"AR/VR/MR hardware\" and \"introduced\", but the others wanted some clarifications.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Regular",
@@ -200,6 +213,7 @@
   },
   {
     "text": "No preview of an AR headset",
+    "full-pick-text": "No preview of an AR headset",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",
@@ -216,6 +230,7 @@
   },
   {
     "text": "No preview of AR/VR/MR-focused hardware",
+    "full-pick-text": "No preview of AR/VR/MR-focused hardware",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Regular",
@@ -232,6 +247,7 @@
   },
   {
     "text": "One of the new iPhones with LIDAR has a new portrait feature thanks to new sensors",
+    "full-pick-text": "One of the new iPhones with LIDAR has a new portrait feature thanks to new sensors",
     "notes": "",
     "game": "2020 October Rickies",
     "type": "Ricky",
@@ -248,6 +264,7 @@
   },
   {
     "text": "Some element of an AR focused device from Apple",
+    "full-pick-text": "Some element of an AR focused device from Apple",
     "notes": "<p><ul><li>The iPhone X and ARKit is deemed to fulfill this</li></ul></p>",
     "game": "2017 Annual Predictions",
     "type": "Regular",
@@ -262,6 +279,7 @@
   },
   {
     "text": "The announced price of the headset will be less than $2,500",
+    "full-pick-text": "The announced price of the headset will be less than $2,500",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Ricky",
@@ -274,6 +292,7 @@
   },
   {
     "text": "The headset is unveiled",
+    "full-pick-text": "The headset is unveiled",
     "notes": "<p><ul><li>Indeed, this pick has been made <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Augmented%20Reality\">a few times</a>, but the only one Myke is ineligible to pick is his <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20shows%20off%20their%20headset%20in%20March%2C%20they%20announce%20developer%20tools%20at%20WWDC%2C%20then%20show%20it%20off%20again%20at%20an%20event%20in%20September.%20It%20ships%20to%20customers%20in%20October\">much more detailed and already incorrect annual pick</a>.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Regular",
@@ -286,6 +305,7 @@
   },
   {
     "text": "The headset portion of the keynote lasts over an hour",
+    "full-pick-text": "The headset portion of the keynote lasts over an hour",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -299,6 +319,7 @@
   },
   {
     "text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
+    "full-pick-text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -312,6 +333,7 @@
   },
   {
     "text": "The phrase \"one more thing\" will be used before the headset is announced",
+    "full-pick-text": "The phrase \"one more thing\" will be used before the headset is announced",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Regular",
@@ -325,6 +347,7 @@
   },
   {
     "text": "We do not know what the price of the headset will be",
+    "full-pick-text": "We do not know what the price of the headset will be",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",

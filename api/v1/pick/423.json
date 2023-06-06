@@ -1,5 +1,6 @@
 {
   "text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
+  "full-pick-text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
   "notes": "<p><ul><li>Was originally a Risky pick with the addition of a \"with keyboard and trackpad\" clause, but <a href=\"https://twitter.com/stroughtonsmith/status/1529836983874469891\" target=\"_blank\">some WebKit source code changes</a> made it much less risky. He watered it down further by removing an \"overlapping\" clause as well and not phrasing it as a \"desktop-like mode\", but then decided to just go all the way back to the original pick.</li></ul></p>",
   "game": "2022 WWDC Rickies",
   "type": "Regular",

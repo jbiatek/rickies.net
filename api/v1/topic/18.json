@@ -1,6 +1,7 @@
 [
   {
     "text": "Apple brings Mail extensions to iOS and iPadOS",
+    "full-pick-text": "Apple brings Mail extensions to iOS and iPadOS",
     "notes": "",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -19,6 +20,7 @@
   },
   {
     "text": "Apple brings new actions to Shortcuts to control windows on iPadOS",
+    "full-pick-text": "Apple brings new actions to Shortcuts to control windows on iPadOS",
     "notes": "",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
@@ -33,6 +35,7 @@
   },
   {
     "text": "Apple releases new developer APIs for Stage Manager",
+    "full-pick-text": "Apple releases new developer APIs for Stage Manager",
     "notes": "<p><ul><li>At the time of picking there were not <em>any</em> developer APIs for Stage Manager on either macOS or iPadOS, so anything will be \"new\".</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
@@ -49,6 +52,7 @@
   },
   {
     "text": "Apple showcases at least one new feature coming in iOS or iPadOS 14.1",
+    "full-pick-text": "Apple showcases at least one new feature coming in iOS or iPadOS 14.1",
     "notes": "<p><ul><li>The version number wasn't stated explicitly, otherwise Fitness+ would have counted.</li></ul></p>",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -68,6 +72,7 @@
   },
   {
     "text": "Better external display support on iPad",
+    "full-pick-text": "Better external display support on iPad",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -85,6 +90,7 @@
   },
   {
     "text": "DriverKit comes to iPadOS to let more kinds of accessories be supported on iPad",
+    "full-pick-text": "DriverKit comes to iPadOS to let more kinds of accessories be supported on iPad",
     "notes": "",
     "game": "2021 April Rickies",
     "type": "Flexie",
@@ -103,6 +109,7 @@
   },
   {
     "text": "Hypervisor comes to iPad",
+    "full-pick-text": "Hypervisor comes to iPad",
     "notes": "",
     "game": "2021 April Rickies",
     "type": "Flexie",
@@ -119,6 +126,7 @@
   },
   {
     "text": "Improved external display support for iPadOS",
+    "full-pick-text": "Improved external display support for iPadOS",
     "notes": "<p><ul><li>Finally came true in 2022 at WWDC.</li></ul></p>",
     "game": "2020 Summer Rickies",
     "type": "NonGraded",
@@ -136,6 +144,7 @@
   },
   {
     "text": "In the next version of iPadOS, you can put widgets in more places (out of the left column)",
+    "full-pick-text": "In the next version of iPadOS, you can put widgets in more places (out of the left column)",
     "notes": "",
     "game": "2021 WWDC Rickies",
     "type": "Regular",
@@ -151,6 +160,7 @@
   },
   {
     "text": "iOS and iPadOS 15 get native HomeKit widgets",
+    "full-pick-text": "iOS and iPadOS 15 get native HomeKit widgets",
     "notes": "<p><ul><li>These came to the iOS 16 lock screen the next year.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Flexie",
@@ -169,6 +179,7 @@
   },
   {
     "text": "iPad multitasking is overhauled again",
+    "full-pick-text": "iPad multitasking is overhauled again",
     "notes": "",
     "game": "2021 Annual Rickies",
     "type": "Flexie",
@@ -185,6 +196,7 @@
   },
   {
     "text": "iPadOS 15 brings organization changes to the home screen that don’t exist on the iPhone, including iOS 15",
+    "full-pick-text": "iPadOS 15 brings organization changes to the home screen that don’t exist on the iPhone, including iOS 15",
     "notes": "<p><ul>\n<li>\"Widgets on home screen and App Library don't count as they are on the iPhone already\"</li>\n<li>This was originally a Risky Pick, but Myke couldn't get enough clarity for what it meant.</li>\n</ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Regular",
@@ -203,6 +215,7 @@
   },
   {
     "text": "iPadOS 17 gains Lock Screen customization",
+    "full-pick-text": "iPadOS 17 gains Lock Screen customization",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -216,6 +229,7 @@
   },
   {
     "text": "iPadOS gets improved split view with at least 3 apps at once",
+    "full-pick-text": "iPadOS gets improved split view with at least 3 apps at once",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -233,6 +247,7 @@
   },
   {
     "text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
+    "full-pick-text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
     "notes": "<p><ul><li>Was originally a Risky pick with the addition of a \"with keyboard and trackpad\" clause, but <a href=\"https://twitter.com/stroughtonsmith/status/1529836983874469891\" target=\"_blank\">some WebKit source code changes</a> made it much less risky. He watered it down further by removing an \"overlapping\" clause as well and not phrasing it as a \"desktop-like mode\", but then decided to just go all the way back to the original pick.</li></ul></p>",
     "game": "2022 WWDC Rickies",
     "type": "Regular",
@@ -250,6 +265,7 @@
   },
   {
     "text": "iPadOS multitasking remains fundamentally the same as the iPadOS 15 version",
+    "full-pick-text": "iPadOS multitasking remains fundamentally the same as the iPadOS 15 version",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -267,6 +283,7 @@
   },
   {
     "text": "iPadOS multitasking remains unchanged from iOS 15's implementation",
+    "full-pick-text": "iPadOS multitasking remains unchanged from iOS 15's implementation",
     "notes": "",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -284,6 +301,7 @@
   },
   {
     "text": "More apps can use a picture-in-picture-style window on iPadOS",
+    "full-pick-text": "More apps can use a picture-in-picture-style window on iPadOS",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -300,6 +318,7 @@
   },
   {
     "text": "Shortcuts gets an API on iOS and iPadOS for apps to run Shortcuts directly, without URL schemes",
+    "full-pick-text": "Shortcuts gets an API on iOS and iPadOS for apps to run Shortcuts directly, without URL schemes",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -320,6 +339,7 @@
   },
   {
     "text": "Some Mac-only Shortcuts actions will become available on iPhone and iPad",
+    "full-pick-text": "Some Mac-only Shortcuts actions will become available on iPhone and iPad",
     "notes": "",
     "game": "2022 Annual Rickies",
     "type": "Flexie",
@@ -338,6 +358,7 @@
   },
   {
     "text": "Stage Manager for iPad gets support for clamshell mode with external displays",
+    "full-pick-text": "Stage Manager for iPad gets support for clamshell mode with external displays",
     "notes": "",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
@@ -351,6 +372,7 @@
   },
   {
     "text": "The big iPad Pro is updated with a feature that is unique to it",
+    "full-pick-text": "The big iPad Pro is updated with a feature that is unique to it",
     "notes": "",
     "game": "2021 April Rickies",
     "type": "Regular",
@@ -367,6 +389,7 @@
   },
   {
     "text": "The iPad home screen gets new features",
+    "full-pick-text": "The iPad home screen gets new features",
     "notes": "<p><ul><li>The ability to stack widgets is <em>juuuuuust</em> enough to count.</li></ul></p>",
     "game": "2020 Summer Rickies",
     "type": "Regular",
@@ -382,6 +405,7 @@
   },
   {
     "text": "The iPad home screen will continue to change with new elements and additions",
+    "full-pick-text": "The iPad home screen will continue to change with new elements and additions",
     "notes": "<p><ul><li>The iPad went mostly unchanged in 2020, but iPadOS 15 did bring changes the next year.</li></ul></p>",
     "game": "2020 Annual Rickies",
     "type": "NonGraded",
@@ -399,6 +423,7 @@
   },
   {
     "text": "The iPad Pro, with an updated USB-4/Thunderbolt port, features a new kind of support for external displays",
+    "full-pick-text": "The iPad Pro, with an updated USB-4/Thunderbolt port, features a new kind of support for external displays",
     "notes": "<p><ul><li>Ungraded: the multitasking system gets redesigned to better support external displays</li><li>The external display support finally came in 2022.</li></ul></p>",
     "game": "2021 April Rickies",
     "type": "Ricky",
@@ -416,6 +441,7 @@
   },
   {
     "text": "The next version of iPadOS will introduce a brand new audio routing system, with support for selecting different input sources, similar to macOS...",
+    "full-pick-text": "The next version of iPadOS will introduce a brand new audio routing system, with support for selecting different input sources, similar to macOS. This feature will finally allow podcasters like me to record local audio while also being on a FaceTime or Zoom call (assuming apps add support for it).",
     "notes": "<p><ul><li>\"... This feature will finally allow podcasters like me to record local audio while also being on a FaceTime or Zoom call (assuming apps add support for it).\"</li><li>And there's even more that isn't graded: \"Devices that do not require drivers will work out of the box, like in macOS. I think the Sounds page of Settings will be redesigned.\"</li><li>Federico guesses that this is his longest-ever Risky Pick, and <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Pick%20Text%20Length\">he's right, this is in fact his longest ever pick period</a>, beating out <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20will%20release%20its%20biggest%20iPad%20ever%20with%20a%20display%20of%20at%20least%2016%20inches...\">this one</a> from earlier the same year.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Ricky",
@@ -430,6 +456,7 @@
   },
   {
     "text": "There is no additional external display support for iPadOS",
+    "full-pick-text": "There is no additional external display support for iPadOS",
     "notes": "",
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
@@ -447,6 +474,7 @@
   },
   {
     "text": "Universal Control is demoed again",
+    "full-pick-text": "Universal Control is demoed again",
     "notes": "",
     "game": "2022 March Rickies",
     "type": "Flexie",

@@ -1,6 +1,7 @@
 [
   {
     "text": "A streaming service announced as Apple Video",
+    "full-pick-text": "A streaming service announced as Apple Video",
     "notes": "<p><ul><li>\"1-2 months for free, bundled with Apple Music as an option\"</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "Regular",
@@ -17,6 +18,7 @@
   },
   {
     "text": "Apple gives another extended free period of TV+ with new product purchases, even if you already had a trial",
+    "full-pick-text": "Apple gives another extended free period of TV+ with new product purchases, even if you already had a trial",
     "notes": "<p><ul><li>The pick <a href=\"https://overcast.fm/+FXx5SWQQA/46:32\" target=\"_blank\">went through a little more revision</a> after round 2 ended.</li><li>Apple extended the existing free period for TV+, which does not count</li><li>Myke notes that, since this extension was announced via press release before the event, a differently-worded pick may have been ambiguous based on the rules at the time, so an explicit rule about the scoring window is added.</li></ul></p>",
     "game": "2020 October Rickies",
     "type": "Regular",
@@ -35,6 +37,7 @@
   },
   {
     "text": "Apple TV+ content is featured in the keynote",
+    "full-pick-text": "Apple TV+ content is featured in the keynote",
     "notes": "",
     "game": "2021 September Rickies",
     "type": "Flexie",
@@ -50,6 +53,7 @@
   },
   {
     "text": "Apple TV+ trailers are shown",
+    "full-pick-text": "Apple TV+ trailers are shown",
     "notes": "",
     "game": "2020 October Rickies",
     "type": "Flexie",
@@ -67,6 +71,7 @@
   },
   {
     "text": "Apple TV+ will be free with another subscription",
+    "full-pick-text": "Apple TV+ will be free with another subscription",
     "notes": "<p><ul><li>Apple One, which includes Apple TV+, launched a year later.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
@@ -84,6 +89,7 @@
   },
   {
     "text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
+    "full-pick-text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
     "notes": "<p><ul><li>\"Music and Video removed from iTunes on the Mac\"</li><li>iTunes was eventually split up in 2019.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "NonGraded",
@@ -105,6 +111,7 @@
   },
   {
     "text": "Apple will announce a video streaming service",
+    "full-pick-text": "Apple will announce a video streaming service which includes content from other providers, this will either be free content or paying for a subscription from within the app",
     "notes": "<p><ul><li>\"...which includes content from other providers, this will either be free content or paying for a subscription from within the app\"</li></ul></p>",
     "game": "2019 Media Event Predictions",
     "type": "Regular",
@@ -120,6 +127,7 @@
   },
   {
     "text": "Apple will launch a subscription service featuring original video content",
+    "full-pick-text": "Apple will launch a subscription service featuring original video content",
     "notes": "",
     "game": "2019 Annual Predictions",
     "type": "Regular",
@@ -135,6 +143,7 @@
   },
   {
     "text": "Apple's original content will premiere after the service itself launches",
+    "full-pick-text": "Apple's original content will premiere after the service itself launches",
     "notes": "<p><ul><li>\"non original content will come first, excluding existing programs\"</li></ul></p>",
     "game": "2019 Media Event Predictions",
     "type": "Regular",
@@ -151,6 +160,7 @@
   },
   {
     "text": "No trailers for Apple TV+ content",
+    "full-pick-text": "No trailers for Apple TV+ content",
     "notes": "",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -166,6 +176,7 @@
   },
   {
     "text": "Preview of fall Apple TV+ content",
+    "full-pick-text": "Preview of fall Apple TV+ content",
     "notes": "",
     "game": "2020 September Rickies",
     "type": "Flexie",
@@ -183,6 +194,7 @@
   },
   {
     "text": "Ted Lasso Season 3 trailer",
+    "full-pick-text": "Ted Lasso Season 3 trailer",
     "notes": "<p><ul><li>Federico goes <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20trailers%20for%20Apple%20TV%2B%20content\">against Myke's earlier pick</a>.</li></ul></p>",
     "game": "2022 September Rickies",
     "type": "Flexie",
@@ -199,6 +211,7 @@
   },
   {
     "text": "The video streaming service does not launch until at least May 1",
+    "full-pick-text": "The video streaming service does not launch until at least May 1",
     "notes": "",
     "game": "2019 Media Event Predictions",
     "type": "Regular",
@@ -214,6 +227,7 @@
   },
   {
     "text": "The video streaming service will come to Roku and Fire TV products",
+    "full-pick-text": "The video streaming service will come to Roku and Fire TV products",
     "notes": "",
     "game": "2019 Media Event Predictions",
     "type": "NonGraded",
