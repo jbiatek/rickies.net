@@ -7,17 +7,17 @@
     "title": "Annual Chairman"
   },
   "keynote": {
-    "game-name": "2022 September Rickies",
-    "date": "2022-09-07",
-    "winner": "Federico",
+    "game-name": "2023 WWDC Rickies",
+    "date": "2023-06-06",
+    "winner": "Stephen",
     "social": "https://twitter.com/KeynoteChairman",
     "title": "Keynote Chairman"
   },
   "flexies": {
-    "game-name": "2022 Annual Rickies",
-    "date": "2022-12-28",
-    "winner": "Myke",
-    "title": "Duke of Flexington",
+    "game-name": "2023 WWDC Rickies",
+    "date": "2023-06-06",
+    "winner": "Federico",
+    "title": "Prince Flexie",
     "social": ""
   },
   "annual-flexies": {
@@ -25,14 +25,14 @@
     "date": "2022-12-28",
     "winner": "Myke",
     "social": "",
-    "title": "Archduke Flexington"
+    "title": "Duke of Flexington"
   },
   "keynote-flexies": {
-    "game-name": "2022 September Rickies",
-    "date": "2022-09-07",
-    "winner": "Myke",
+    "game-name": "2023 WWDC Rickies",
+    "date": "2023-06-06",
+    "winner": "Federico",
     "social": "",
-    "title": "Archduke Flexington"
+    "title": "Prince Flexie"
   },
-  "the-tricky-image": "https://rickies.net/files/images/tricky/MykeFederico.png"
+  "the-tricky-image": "https://rickies.net/files/images/tricky/MykeStephen.png"
 }

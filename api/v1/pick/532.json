@@ -1,7 +1,7 @@
 {
   "text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
   "full-pick-text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
-  "notes": "",
+  "notes": "<p><ul><li>It wasn't obvious from the keynote, but <a href=\"https://mastodon.social/@stroughtonsmith/110498901199712804\" target=\"_blank\">later session information showed that when connected to a trackpad, visionOS indeed uses an almost exact clone of the iPad cursor</a>.</li></ul></p>",
   "game": "2023 WWDC Rickies",
   "type": "Flexie",
   "topics": [
@@ -10,5 +10,7 @@
   ],
   "host": "Myke",
   "pick-conditions": 3,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx5Das8Q/41:34",
   "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/59:50"
 }

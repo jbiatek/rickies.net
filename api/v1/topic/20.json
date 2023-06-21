@@ -227,6 +227,25 @@
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:34:31"
   },
   {
+    "text": "Apple gives a sneak peak of the new Mac Pro...",
+    "full-pick-text": "Apple gives a sneak peak of the new Mac Pro. It features a case design inspired by the 2019 Mac Pro. It features more ports than any other Apple Silicon Mac available today. It does not have support for third-party GPUs. It features a chip name that has not appeared in any other product. It has a starting price of at least $6,999. It is coming later this year.",
+    "notes": "<p><ul>\n<li>\"...It features a case design inspired by the 2019 Mac Pro. It features more ports than any other Apple Silicon Mac available today. It does not have support for third-party GPUs. It features a chip name that has not appeared in any other product. It has a starting price of at least $6,999. It is coming later this year.\"</li>\n<li>Originally it said \"same case design\", but the change was accepted on air after Myke reconsidered. \"Later this year\" was also demoted from being an exact quote.</li>\n<li>This Mac Pro will have to beat the Mac Studio in terms of ports: 2 USB-C, 2 USB-A, 4 Thunderbolt, SD card, Ethernet, HDMI, and headphone jack, for a total of 12.</li>\n<li>This pick is similar in spirit to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20new%20Mac%20Pro%20will%20be...\">Myke's ongoing Annual pick</a>, but with different conditions. At the time it was the <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Success%20By%20Pick%20Complexity\">most complex graded pick</a> ever made.</li>\n</ul>\n</p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Mac",
+      "Ahead of Its Time",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 7,
+    "score": -1,
+    "ahead-by": 156,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:09:41",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:07:46"
+  },
+  {
     "text": "Apple launches a new HD tier for Apple Music",
     "full-pick-text": "Apple launches a new HD tier for Apple Music",
     "notes": "<p><ul><li>This feature <a href=\"https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/\" target=\"_blank\">did come eventually</a>, in 2021.</li></ul></p>",

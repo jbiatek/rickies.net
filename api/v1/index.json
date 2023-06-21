@@ -615,5 +615,8 @@
   "2021 WWDC coin flip for second place in the Rickies": "/coinflip/11.json",
   "2022 Annual Flexies coin flip for the win": "/coinflip/17.json",
   "2022 September flip for first place in The Rickies": "/coinflip/16.json",
-  "2022 WWDC coin flip for first place in the Rickies": "/coinflip/15.json"
+  "2022 WWDC coin flip for first place in the Rickies": "/coinflip/15.json",
+  "2023 WWDC \"knockout\" flip for first place, flip 1": "/coinflip/18.json",
+  "2023 WWDC \"knockout\" flip for first place, flip 2": "/coinflip/19.json",
+  "2023 WWDC Flexies flip for first place": "/coinflip/20.json"
 }

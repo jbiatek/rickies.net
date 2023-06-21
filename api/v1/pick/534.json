@@ -6,9 +6,12 @@
   "type": "Flexie",
   "topics": [
     "Augmented Reality",
-    "Stagecraft"
+    "Stagecraft",
+    "Unvindicatable"
   ],
   "host": "Myke",
   "pick-conditions": 1,
+  "score": 0,
+  "overcast-graded": "https://overcast.fm/+FXx5Das8Q/44:06",
   "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:26"
 }

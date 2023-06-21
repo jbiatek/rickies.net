@@ -215,13 +215,14 @@
     "type": "Ricky",
     "topics": [
       "Mac",
+      "Ahead of Its Time",
       "Live Edited",
-      "Stagecraft",
-      "Possible Vindication"
+      "Stagecraft"
     ],
     "host": "Myke",
     "pick-conditions": 7,
     "score": -1,
+    "ahead-by": 156,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:09:41",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:07:46"
   },
@@ -739,10 +740,13 @@
       "Apple management",
       "Augmented Reality",
       "Live Edited",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/52:42",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:42"
   },
   {
@@ -1286,10 +1290,13 @@
     "type": "Flexie",
     "topics": [
       "Apple Apps",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/49:21",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:45"
   },
   {
@@ -1405,6 +1412,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/18:47",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/30:03"
   },
   {

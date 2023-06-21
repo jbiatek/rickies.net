@@ -111,6 +111,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/15:33",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/25:34"
   },
   {
@@ -748,7 +750,7 @@
   {
     "text": "Some new Shortcuts features get covered in the State of the Union",
     "full-pick-text": "Some new Shortcuts features get covered in the State of the Union",
-    "notes": "",
+    "notes": "<p><ul><li>Single-action app Shortcut items now appear in Spotlight, among other \"app intents\" features.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -757,6 +759,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/49:34",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:05:23"
   },
   {
@@ -805,6 +809,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/5:20",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/15:17"
   },
   {
@@ -851,6 +857,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/45:17",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:02:22"
   },
   {
@@ -896,10 +904,13 @@
     "type": "Flexie",
     "topics": [
       "Apple Apps",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/49:21",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:45"
   },
   {

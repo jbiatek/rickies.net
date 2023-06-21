@@ -42,53 +42,51 @@
       "overcast-picked": "https://overcast.fm/+FXx5wv1as/48:15"
     },
     {
-      "text": "Apple shows off at least one iOS 16 feature that we haven’t seen before",
-      "full-pick-text": "Apple shows off at least one iOS 16 feature that we haven’t seen before",
+      "text": "Apple will announce a 15-inch MacBook Air",
+      "full-pick-text": "Apple will announce a 15-inch MacBook Air",
       "notes": "",
-      "game": "2022 September Rickies",
+      "game": "2023 WWDC Rickies",
       "type": "Regular",
       "topics": [
-        "iOS"
+        "Mac"
       ],
       "host": "Stephen",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx650Foc/35:36",
-      "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/36:30"
+      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/12:23",
+      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/23:55"
     },
     {
-      "text": "iOS gets split-view support for multitasking to use 2 apps at once (reuse)",
-      "full-pick-text": "iOS gets split-view support for multitasking to use 2 apps at once (reuse)",
-      "notes": "<p><ul><li>Was originally \"The Lightning port on the iPhone 14 Pro is upgraded to at least USB 3.0\", but <a href=\"https://9to5mac.com/2022/04/19/sketchy-rumor-claims-iphone-14-pro-will-feature-faster-usb-3-0-lightning-connector/\" target=\"_blank\">it turns out this has been rumored</a>. This prompts <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Connected%20%23413%3A%20The%20Rickies%20(September%202022)\">a rule change</a>. Stephen thought of a few options which became Flexies, but ultimately opts to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#iOS%20gets%20split-view%20support%20for%20multitasking%20to%20use%202%20apps%20at%20once\">reuse Federico's Risky pick from the last game, word for word</a> (a <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ineligible%20Picks\">legal choice under the Bill</a>).</li><li>Federico, oddly, argues <em>for</em> this being correct, with the Dynamic Island allowing multiple app use. But the others agree that, while funny, that isn't it.</li></ul></p>",
-      "game": "2022 September Rickies",
+      "text": "The announced price of the headset will be less than $2,500",
+      "full-pick-text": "The announced price of the headset will be less than $2,500",
+      "notes": "",
+      "game": "2023 WWDC Rickies",
       "type": "Ricky",
       "topics": [
-        "iOS",
-        "Live Edited",
-        "Possible Vindication"
-      ],
-      "host": "Stephen",
-      "pick-conditions": 1,
-      "score": -1,
-      "overcast-graded": "https://overcast.fm/+FXx650Foc/58:04",
-      "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:05:30"
-    },
-    {
-      "text": "The Apple Watch SE, announced in 2020, moves down in price with no feature changes",
-      "full-pick-text": "The Apple Watch SE, announced in 2020, moves down in price with no feature changes",
-      "notes": "<p><ul><li>Not graded: Series 7 or SE 2 takes the middle price point where the SE is now</li></ul></p>",
-      "game": "2022 September Rickies",
-      "type": "Regular",
-      "topics": [
-        "Apple Watch",
-        "Buzzkill",
+        "Augmented Reality",
         "Unvindicatable"
       ],
       "host": "Stephen",
       "pick-conditions": 2,
-      "score": 0,
-      "overcast-graded": "https://overcast.fm/+FXx650Foc/48:40",
-      "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/44:42"
+      "score": -1,
+      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/31:29",
+      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/47:54"
+    },
+    {
+      "text": "The phrase \"one more thing\" will be used before the headset is announced",
+      "full-pick-text": "The phrase \"one more thing\" will be used before the headset is announced",
+      "notes": "",
+      "game": "2023 WWDC Rickies",
+      "type": "Regular",
+      "topics": [
+        "Augmented Reality",
+        "Stagecraft"
+      ],
+      "host": "Stephen",
+      "pick-conditions": 2,
+      "score": 1,
+      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/21:56",
+      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/33:24"
     }
   ],
   "Myke": [
@@ -134,52 +132,51 @@
       "overcast-picked": "https://overcast.fm/+FXx5wv1as/56:07"
     },
     {
-      "text": "AirPods Max 2 can be folded to store more compactly",
-      "full-pick-text": "AirPods Max 2 can be folded to store more compactly",
-      "notes": "<p><ul><li>Myke doesn't seem to have much confidence in this risky pick, but his other choices were shot down as insufficiently risky in negotiations.</li></ul></p>",
-      "game": "2022 September Rickies",
+      "text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
+      "full-pick-text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
+      "notes": "<p><ul><li>Not graded: \"A feature in Xcode that uses AI/ML to suggest how to improve your code or solve common problems. It will most likely live in a sidebar and will probably be a Beta feature.\"\n</li></ul></p>",
+      "game": "2023 WWDC Rickies",
       "type": "Ricky",
       "topics": [
-        "Accessories",
-        "AirPods",
+        "Developer tools",
         "Possible Vindication"
       ],
       "host": "Myke",
-      "pick-conditions": 2,
+      "pick-conditions": 1,
       "score": -1,
-      "overcast-graded": "https://overcast.fm/+FXx650Foc/54:04",
-      "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:02:05"
+      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/30:41",
+      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/42:28"
     },
     {
-      "text": "At least one iPhone gets an upgraded main camera",
-      "full-pick-text": "At least one iPhone gets an upgraded main camera",
-      "notes": "",
-      "game": "2022 September Rickies",
+      "text": "The headset is unveiled",
+      "full-pick-text": "The headset is unveiled",
+      "notes": "<p><ul><li>Indeed, this pick has been made <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Augmented%20Reality\">a few times</a>, but the only one Myke is ineligible to pick is his <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20shows%20off%20their%20headset%20in%20March%2C%20they%20announce%20developer%20tools%20at%20WWDC%2C%20then%20show%20it%20off%20again%20at%20an%20event%20in%20September.%20It%20ships%20to%20customers%20in%20October\">much more detailed and already incorrect annual pick</a>.</li><li>Federico makes some implausible claims about his involvement in the development of the headset.</li></ul></p>",
+      "game": "2023 WWDC Rickies",
       "type": "Regular",
       "topics": [
-        "iPhone"
+        "Augmented Reality"
       ],
       "host": "Myke",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx650Foc/44:27",
-      "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/42:59"
+      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/8:22",
+      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/18:48"
     },
     {
-      "text": "At least one iPhone will have the notch removed, replaced by a cut-out(s) for the camera and sensors, free-floating from the border",
-      "full-pick-text": "At least one iPhone will have the notch removed, replaced by a cut-out(s) for the camera and sensors, free-floating from the border",
-      "notes": "<p><ul><li>Or, as Stephen so poetically put it, \"AKA an island of black glass in an ocean of pixels.\" Little did he know that Apple would <em>actually</em> call it \"the Dynamic Island\".</li></ul></p>",
-      "game": "2022 September Rickies",
+      "text": "watchOS 10 gets widgets",
+      "full-pick-text": "watchOS 10 gets widgets",
+      "notes": "<p><ul><li>Was originally \"A widget-like interface comes to the Apple Watch\" before some workshopping.</li></ul></p>",
+      "game": "2023 WWDC Rickies",
       "type": "Regular",
       "topics": [
-        "iPhone",
+        "Apple Watch",
         "Live Edited"
       ],
       "host": "Myke",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx650Foc/24:05",
-      "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/32:15"
+      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/18:47",
+      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/30:03"
     }
   ],
   "Federico": [
@@ -227,53 +224,54 @@
       "overcast-picked": "https://overcast.fm/+FXx5wv1as/52:05"
     },
     {
-      "text": "At least one of the next 'Pro' iPhones will have an always-on display",
-      "full-pick-text": "At least one of the next 'Pro' iPhones will have an always-on display",
-      "notes": "",
-      "game": "2022 September Rickies",
+      "text": "Apple introduces a brand new journaling app",
+      "full-pick-text": "Apple introduces a brand new journaling app",
+      "notes": "<p><ul><li>Not graded: \"location features for friends, ability to take notes and attach images, maybe integration with Music?\"</li></ul></p>",
+      "game": "2023 WWDC Rickies",
       "type": "Regular",
       "topics": [
-        "iPhone"
+        "Apple Apps"
       ],
       "host": "Federico",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx650Foc/20:23",
-      "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/27:56"
+      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/15:33",
+      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/25:34"
     },
     {
-      "text": "The iPhone 14 Pro Camera app introduces some kind of 3D capturing functionality",
-      "full-pick-text": "The iPhone 14 Pro Camera app introduces some kind of 3D capturing functionality",
+      "text": "The Health app gets mood tracking and an iPad version",
+      "full-pick-text": "The Health app gets mood tracking and an iPad version",
       "notes": "",
-      "game": "2022 September Rickies",
+      "game": "2023 WWDC Rickies",
+      "type": "Regular",
+      "topics": [
+        "iPad",
+        "Apple Apps",
+        "Passionate"
+      ],
+      "host": "Federico",
+      "pick-conditions": 2,
+      "score": 1,
+      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/5:20",
+      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/15:17"
+    },
+    {
+      "text": "The next version of iPadOS will introduce a brand new audio routing system, with support for selecting different input sources, similar to macOS...",
+      "full-pick-text": "The next version of iPadOS will introduce a brand new audio routing system, with support for selecting different input sources, similar to macOS. This feature will finally allow podcasters like me to record local audio while also being on a FaceTime or Zoom call (assuming apps add support for it).",
+      "notes": "<p><ul><li>\"... This feature will finally allow podcasters like me to record local audio while also being on a FaceTime or Zoom call (assuming apps add support for it).\"</li><li>And there's even more that isn't graded: \"Devices that do not require drivers will work out of the box, like in macOS. I think the Sounds page of Settings will be redesigned.\"</li><li>Federico guesses that this is his longest-ever Risky Pick, and <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Pick%20Text%20Length\">he's right, this is in fact his longest ever pick period</a>, beating out <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20will%20release%20its%20biggest%20iPad%20ever%20with%20a%20display%20of%20at%20least%2016%20inches...\">this one</a> from earlier the same year.</li></ul></p>",
+      "game": "2023 WWDC Rickies",
       "type": "Ricky",
       "topics": [
-        "iPhone",
-        "iOS",
-        "Live Edited",
+        "iPad",
+        "Developer tools",
+        "iPadOS",
         "Possible Vindication"
       ],
       "host": "Federico",
-      "pick-conditions": 1,
+      "pick-conditions": 3,
       "score": -1,
-      "overcast-graded": "https://overcast.fm/+FXx650Foc/52:38",
-      "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/53:09"
-    },
-    {
-      "text": "There won't be a mini iPhone in the iPhone 14 family",
-      "full-pick-text": "There won't be a mini iPhone in the iPhone 14 family",
-      "notes": "<p><ul><li>Federico basically steals <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#There%20will%20be%20no%20iPhone%2014%20with%20a%205.4%22%20display\">one of Myke's ongoing annual picks</a>, which is allowed by <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Bill%20of%20Rickies\">the rules</a>.</li><li>😭</li></ul></p>",
-      "game": "2022 September Rickies",
-      "type": "Regular",
-      "topics": [
-        "iPhone",
-        "Buzzkill"
-      ],
-      "host": "Federico",
-      "pick-conditions": 1,
-      "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx650Foc/40:05",
-      "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/39:07"
+      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/27:59",
+      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/38:36"
     }
   ]
 }

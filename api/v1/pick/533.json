@@ -1,7 +1,7 @@
 {
   "text": "No Mac Pro teaser video",
   "full-pick-text": "No Mac Pro teaser video",
-  "notes": "",
+  "notes": "<p><ul><li>It wasn't teased, it was outright announced, so that's a point.</li><li><a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20gives%20a%20sneak%20peak%20of%20the%20new%20Mac%20Pro...\">Myke's risky pick from last year</a> turns out to have been almost dead on.</li></ul></p>",
   "game": "2023 WWDC Rickies",
   "type": "Flexie",
   "topics": [
@@ -11,5 +11,7 @@
   ],
   "host": "Myke",
   "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx5Das8Q/42:09",
   "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:00:09"
 }

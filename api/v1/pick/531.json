@@ -5,9 +5,12 @@
   "game": "2023 WWDC Rickies",
   "type": "Ricky",
   "topics": [
-    "Augmented Reality"
+    "Augmented Reality",
+    "Unvindicatable"
   ],
   "host": "Stephen",
   "pick-conditions": 2,
+  "score": -1,
+  "overcast-graded": "https://overcast.fm/+FXx5Das8Q/31:29",
   "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/47:54"
 }

@@ -1346,13 +1346,14 @@
     "type": "Ricky",
     "topics": [
       "Mac",
+      "Ahead of Its Time",
       "Live Edited",
-      "Stagecraft",
-      "Possible Vindication"
+      "Stagecraft"
     ],
     "host": "Myke",
     "pick-conditions": 7,
     "score": -1,
+    "ahead-by": 156,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:09:41",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:07:46"
   },
@@ -1403,6 +1404,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/15:33",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/25:34"
   },
   {
@@ -1412,10 +1415,13 @@
     "game": "2023 WWDC Rickies",
     "type": "Ricky",
     "topics": [
-      "Developer tools"
+      "Developer tools",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/30:41",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/42:28"
   },
   {
@@ -1769,10 +1775,13 @@
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/52:21",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:25"
   },
   {
@@ -2492,6 +2501,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/12:23",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/23:55"
   },
   {
@@ -4149,6 +4160,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/53:30",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:09:02"
   },
   {
@@ -4302,10 +4315,13 @@
       "Apple management",
       "Augmented Reality",
       "Live Edited",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/52:42",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:42"
   },
   {
@@ -5295,7 +5311,7 @@
   {
     "text": "No Mac Pro teaser video",
     "full-pick-text": "No Mac Pro teaser video",
-    "notes": "",
+    "notes": "<p><ul><li>It wasn't teased, it was outright announced, so that's a point.</li><li><a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20gives%20a%20sneak%20peak%20of%20the%20new%20Mac%20Pro...\">Myke's risky pick from last year</a> turns out to have been almost dead on.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -5305,6 +5321,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/42:09",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:00:09"
   },
   {
@@ -6200,7 +6218,7 @@
   {
     "text": "Some new Shortcuts features get covered in the State of the Union",
     "full-pick-text": "Some new Shortcuts features get covered in the State of the Union",
-    "notes": "",
+    "notes": "<p><ul><li>Single-action app Shortcut items now appear in Spotlight, among other \"app intents\" features.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -6209,6 +6227,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/49:34",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:05:23"
   },
   {
@@ -6302,10 +6322,13 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/46:41",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:00"
   },
   {
@@ -6398,10 +6421,13 @@
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
-      "Mac"
+      "Mac",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/52:10",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:09"
   },
   {
@@ -6478,10 +6504,13 @@
     "game": "2023 WWDC Rickies",
     "type": "Ricky",
     "topics": [
-      "Augmented Reality"
+      "Augmented Reality",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/31:29",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/47:54"
   },
   {
@@ -6708,7 +6737,7 @@
   {
     "text": "The headset is unveiled",
     "full-pick-text": "The headset is unveiled",
-    "notes": "<p><ul><li>Indeed, this pick has been made <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Augmented%20Reality\">a few times</a>, but the only one Myke is ineligible to pick is his <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20shows%20off%20their%20headset%20in%20March%2C%20they%20announce%20developer%20tools%20at%20WWDC%2C%20then%20show%20it%20off%20again%20at%20an%20event%20in%20September.%20It%20ships%20to%20customers%20in%20October\">much more detailed and already incorrect annual pick</a>.</li></ul></p>",
+    "notes": "<p><ul><li>Indeed, this pick has been made <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Augmented%20Reality\">a few times</a>, but the only one Myke is ineligible to pick is his <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20shows%20off%20their%20headset%20in%20March%2C%20they%20announce%20developer%20tools%20at%20WWDC%2C%20then%20show%20it%20off%20again%20at%20an%20event%20in%20September.%20It%20ships%20to%20customers%20in%20October\">much more detailed and already incorrect annual pick</a>.</li><li>Federico makes some implausible claims about his involvement in the development of the headset.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Regular",
     "topics": [
@@ -6716,6 +6745,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/8:22",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/18:48"
   },
   {
@@ -6726,10 +6757,13 @@
     "type": "Flexie",
     "topics": [
       "Augmented Reality",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/44:09",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:31"
   },
   {
@@ -6745,6 +6779,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/5:20",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/15:17"
   },
   {
@@ -6996,7 +7032,7 @@
   {
     "text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
     "full-pick-text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
-    "notes": "",
+    "notes": "<p><ul><li>It wasn't obvious from the keynote, but <a href=\"https://mastodon.social/@stroughtonsmith/110498901199712804\" target=\"_blank\">later session information showed that when connected to a trackpad, visionOS indeed uses an almost exact clone of the iPad cursor</a>.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -7005,6 +7041,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 3,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/41:34",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/59:50"
   },
   {
@@ -7244,6 +7282,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/52:05",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:01"
   },
   {
@@ -7384,6 +7424,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/45:17",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:02:22"
   },
   {
@@ -7700,7 +7742,7 @@
   {
     "text": "The next version of iOS brings at least one new AirPods-related feature",
     "full-pick-text": "The next version of iOS brings at least one new AirPods-related feature",
-    "notes": "",
+    "notes": "<p><ul><li>Adaptive audio was introduced.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -7710,6 +7752,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/51:07",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:05:39"
   },
   {
@@ -7752,10 +7796,13 @@
     "topics": [
       "iPad",
       "Developer tools",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 3,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/27:59",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/38:36"
   },
   {
@@ -7784,10 +7831,13 @@
     "topics": [
       "Mac",
       "macOS",
-      "Stagecraft"
+      "Stagecraft",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/48:07",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:17"
   },
   {
@@ -7802,6 +7852,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/55:33",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:09:19"
   },
   {
@@ -7880,6 +7932,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/21:56",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/33:24"
   },
   {
@@ -7957,10 +8011,13 @@
     "type": "Flexie",
     "topics": [
       "Apple Apps",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/49:21",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:45"
   },
   {
@@ -8400,10 +8457,13 @@
     "topics": [
       "Apple TV",
       "Buzzkill",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/44:13",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:36"
   },
   {
@@ -8502,6 +8562,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/18:47",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/30:03"
   },
   {
@@ -8559,10 +8621,13 @@
     "type": "Flexie",
     "topics": [
       "Augmented Reality",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/44:06",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:26"
   },
   {
@@ -8665,7 +8730,7 @@
   {
     "text": "We see a Mac Pro preview",
     "full-pick-text": "We see a Mac Pro preview",
-    "notes": "",
+    "notes": "<p><ul><li>Ultimately it was both a preview and <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20Mac%20Pro%20teaser%20video\">not a teaser</a>... apparently.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -8674,6 +8739,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/54:42",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:09:09"
   },
   {
@@ -8688,6 +8755,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/48:43",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:34"
   },
   {

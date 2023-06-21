@@ -190,13 +190,14 @@
     "type": "Ricky",
     "topics": [
       "Mac",
+      "Ahead of Its Time",
       "Live Edited",
-      "Stagecraft",
-      "Possible Vindication"
+      "Stagecraft"
     ],
     "host": "Myke",
     "pick-conditions": 7,
     "score": -1,
+    "ahead-by": 156,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:09:41",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:07:46"
   },
@@ -223,10 +224,13 @@
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/52:21",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:25"
   },
   {
@@ -509,10 +513,13 @@
       "Apple management",
       "Augmented Reality",
       "Live Edited",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/52:42",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:42"
   },
   {
@@ -667,7 +674,7 @@
   {
     "text": "No Mac Pro teaser video",
     "full-pick-text": "No Mac Pro teaser video",
-    "notes": "",
+    "notes": "<p><ul><li>It wasn't teased, it was outright announced, so that's a point.</li><li><a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20gives%20a%20sneak%20peak%20of%20the%20new%20Mac%20Pro...\">Myke's risky pick from last year</a> turns out to have been almost dead on.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -677,6 +684,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/42:09",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:00:09"
   },
   {
@@ -867,7 +876,7 @@
   {
     "text": "Some new Shortcuts features get covered in the State of the Union",
     "full-pick-text": "Some new Shortcuts features get covered in the State of the Union",
-    "notes": "",
+    "notes": "<p><ul><li>Single-action app Shortcut items now appear in Spotlight, among other \"app intents\" features.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -876,6 +885,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/49:34",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:05:23"
   },
   {
@@ -919,10 +930,13 @@
     "type": "Flexie",
     "topics": [
       "Augmented Reality",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/44:09",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:31"
   },
   {
@@ -967,6 +981,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/52:05",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:01"
   },
   {
@@ -995,10 +1011,13 @@
     "topics": [
       "Mac",
       "macOS",
-      "Stagecraft"
+      "Stagecraft",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/48:07",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:17"
   },
   {
@@ -1028,6 +1047,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/21:56",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/33:24"
   },
   {
@@ -1185,10 +1206,13 @@
     "topics": [
       "Apple TV",
       "Buzzkill",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/44:13",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:36"
   },
   {
@@ -1219,10 +1243,13 @@
     "type": "Flexie",
     "topics": [
       "Augmented Reality",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/44:06",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:26"
   },
   {
@@ -1291,7 +1318,7 @@
   {
     "text": "We see a Mac Pro preview",
     "full-pick-text": "We see a Mac Pro preview",
-    "notes": "",
+    "notes": "<p><ul><li>Ultimately it was both a preview and <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20Mac%20Pro%20teaser%20video\">not a teaser</a>... apparently.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -1300,6 +1327,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/54:42",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:09:09"
   },
   {

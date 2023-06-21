@@ -1,7 +1,7 @@
 {
   "text": "We see a Mac Pro preview",
   "full-pick-text": "We see a Mac Pro preview",
-  "notes": "",
+  "notes": "<p><ul><li>Ultimately it was both a preview and <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20Mac%20Pro%20teaser%20video\">not a teaser</a>... apparently.</li></ul></p>",
   "game": "2023 WWDC Rickies",
   "type": "Flexie",
   "topics": [
@@ -10,5 +10,7 @@
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx5Das8Q/54:42",
   "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:09:09"
 }

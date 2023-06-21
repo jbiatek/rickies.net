@@ -1,7 +1,7 @@
 {
   "text": "The next version of iOS brings at least one new AirPods-related feature",
   "full-pick-text": "The next version of iOS brings at least one new AirPods-related feature",
-  "notes": "",
+  "notes": "<p><ul><li>Adaptive audio was introduced.</li></ul></p>",
   "game": "2023 WWDC Rickies",
   "type": "Flexie",
   "topics": [
@@ -11,5 +11,7 @@
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx5Das8Q/51:07",
   "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:05:39"
 }

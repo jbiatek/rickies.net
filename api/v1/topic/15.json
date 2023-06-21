@@ -188,10 +188,13 @@
       "Apple management",
       "Augmented Reality",
       "Live Edited",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/52:42",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:42"
   },
   {
@@ -284,16 +287,19 @@
     "game": "2023 WWDC Rickies",
     "type": "Ricky",
     "topics": [
-      "Augmented Reality"
+      "Augmented Reality",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/31:29",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/47:54"
   },
   {
     "text": "The headset is unveiled",
     "full-pick-text": "The headset is unveiled",
-    "notes": "<p><ul><li>Indeed, this pick has been made <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Augmented%20Reality\">a few times</a>, but the only one Myke is ineligible to pick is his <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20shows%20off%20their%20headset%20in%20March%2C%20they%20announce%20developer%20tools%20at%20WWDC%2C%20then%20show%20it%20off%20again%20at%20an%20event%20in%20September.%20It%20ships%20to%20customers%20in%20October\">much more detailed and already incorrect annual pick</a>.</li></ul></p>",
+    "notes": "<p><ul><li>Indeed, this pick has been made <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Augmented%20Reality\">a few times</a>, but the only one Myke is ineligible to pick is his <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20shows%20off%20their%20headset%20in%20March%2C%20they%20announce%20developer%20tools%20at%20WWDC%2C%20then%20show%20it%20off%20again%20at%20an%20event%20in%20September.%20It%20ships%20to%20customers%20in%20October\">much more detailed and already incorrect annual pick</a>.</li><li>Federico makes some implausible claims about his involvement in the development of the headset.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Regular",
     "topics": [
@@ -301,6 +307,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/8:22",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/18:48"
   },
   {
@@ -311,16 +319,19 @@
     "type": "Flexie",
     "topics": [
       "Augmented Reality",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/44:09",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:31"
   },
   {
     "text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
     "full-pick-text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
-    "notes": "",
+    "notes": "<p><ul><li>It wasn't obvious from the keynote, but <a href=\"https://mastodon.social/@stroughtonsmith/110498901199712804\" target=\"_blank\">later session information showed that when connected to a trackpad, visionOS indeed uses an almost exact clone of the iPad cursor</a>.</li></ul></p>",
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -329,6 +340,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 3,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/41:34",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/59:50"
   },
   {
@@ -343,6 +356,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/21:56",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/33:24"
   },
   {
@@ -353,10 +368,13 @@
     "type": "Flexie",
     "topics": [
       "Augmented Reality",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/44:06",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:26"
   }
 ]

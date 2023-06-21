@@ -1,7 +1,7 @@
 {
   "text": "Some new Shortcuts features get covered in the State of the Union",
   "full-pick-text": "Some new Shortcuts features get covered in the State of the Union",
-  "notes": "",
+  "notes": "<p><ul><li>Single-action app Shortcut items now appear in Spotlight, among other \"app intents\" features.</li></ul></p>",
   "game": "2023 WWDC Rickies",
   "type": "Flexie",
   "topics": [
@@ -10,5 +10,7 @@
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx5Das8Q/49:34",
   "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:05:23"
 }

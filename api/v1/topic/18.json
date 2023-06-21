@@ -225,6 +225,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/53:30",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:09:02"
   },
   {
@@ -364,10 +366,13 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/46:41",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:00"
   },
   {
@@ -448,10 +453,13 @@
     "topics": [
       "iPad",
       "Developer tools",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 3,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/27:59",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/38:36"
   },
   {
