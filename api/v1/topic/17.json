@@ -50,6 +50,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:39"
   },
   {
+    "text": "Apple Watch SE is not updated, but receives a price cut",
+    "full-pick-text": "Apple Watch SE is not updated, but receives a price cut",
+    "notes": "<p><ul><li>\"Currently $249/$299 for GPS, $279/$329 for cellular\"</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Watch",
+      "Buzzkill"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:13:15"
+  },
+  {
     "text": "Apple will not ship an ARM Mac in 2020",
     "full-pick-text": "Apple will not ship an ARM Mac in 2020",
     "notes": "<p><ul><li> In 2019, Stephen picked the first ARM Mac to be shipped, so this was his... revenge?</li></ul></p>",
@@ -82,6 +96,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5peDck/1:06:13",
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:35:15"
+  },
+  {
+    "text": "Apple won't release any new leather accessories as part of the event announcements (including cases and watch bands)",
+    "full-pick-text": "Apple won't release any new leather accessories as part of the event announcements (including cases and watch bands)",
+    "notes": "",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "Buzzkill"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:12:07"
   },
   {
     "text": "Bands for the new Apple Watch \"Pro\" are not backward compatible with other Apple Watches",
@@ -135,6 +163,21 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5wv1as/33:21",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:35:56"
+  },
+  {
+    "text": "iPhone 15 gets slower-speed USB-C transfers compared to the Pro models",
+    "full-pick-text": "iPhone 15 gets slower-speed USB-C transfers compared to the Pro models",
+    "notes": "<p><ul><li>\"Compared to the Pro models\" was added for clarity.</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:12:38"
   },
   {
     "text": "MacBook Pro colors don't include anything radically new for the line",
@@ -640,6 +683,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/48:40",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/44:42"
+  },
+  {
+    "text": "The David Guetta song doesn't play",
+    "full-pick-text": "The David Guetta song doesn't play",
+    "notes": "<p><ul><li><a href=\"https://www.youtube.com/watch?v=JRfuAukYTKg\" target=\"_blank\">\"Titanium\"</a> is the song in question, of course.</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Buzzkill",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:20:49"
   },
   {
     "text": "The Intel Mac mini is removed from sale",

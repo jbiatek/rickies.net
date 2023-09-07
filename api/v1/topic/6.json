@@ -172,6 +172,34 @@
     "overcast-picked": "https://overcast.fm/+FXx5SWQQA/30:38"
   },
   {
+    "text": "Apple calls the new camera the \"Magic Telephoto\"",
+    "full-pick-text": "Apple calls the new camera the \"Magic Telephoto\"",
+    "notes": "<p><ul><li>Myke thinks that \"periscope\" is a bad name for regular people and so Apple will pick something else, and to make it risky, he has made a specific guess at the branding. He also considered \"Ultra Telephoto\".</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:02:55"
+  },
+  {
+    "text": "Apple debuts a new style of charging accessory for the iPhone",
+    "full-pick-text": "Apple debuts a new style of charging accessory for the iPhone",
+    "notes": "",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:19:52"
+  },
+  {
     "text": "Apple gives a new name to the A15 chip found in the non-Pro iPhones",
     "full-pick-text": "Apple gives a new name to the A15 chip found in the non-Pro iPhones",
     "notes": "<p><ul><li>For example, instead of A15 Bionic, the A15 <em>Tri</em>onic, just to make it sound newer.</li></ul></p>",
@@ -218,6 +246,20 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx7hS2kY/23:04",
     "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/53:22"
+  },
+  {
+    "text": "Apple replaces its leather iPhone cases with a new product",
+    "full-pick-text": "Apple replaces its leather iPhone cases with a new product",
+    "notes": "",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Accessories"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:13:49"
   },
   {
     "text": "Apple sells an \"iPhone 15 Ultra\"",
@@ -281,6 +323,59 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/1:18:21",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:30:04"
+  },
+  {
+    "text": "At least 1 iPhone gets a 3 nm processor",
+    "full-pick-text": "At least 1 iPhone gets a 3 nm processor",
+    "notes": "",
+    "game": "2023 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/43:07"
+  },
+  {
+    "text": "At least 1 iPhone gets a camera with a more than 3x zoom",
+    "full-pick-text": "At least 1 iPhone gets a camera with a more than 3x zoom",
+    "notes": "<p><ul><li>Was \"telephoto lens\" specifically before Myke reconsidered</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/30:13"
+  },
+  {
+    "text": "At least 1 new iPhone ships with USB-C",
+    "full-pick-text": "At least 1 new iPhone ships with USB-C",
+    "notes": "",
+    "game": "2023 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/20:32"
+  },
+  {
+    "text": "At least 1 of the new iPhones will have a customizable \"action\" button instead of a traditional mute switch",
+    "full-pick-text": "At least 1 of the new iPhones will have a customizable \"action\" button instead of a traditional mute switch",
+    "notes": "<p><ul><li>Again, the name doesn't have to be exactly right, it's the concept.</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/39:14"
   },
   {
     "text": "At least one iPhone gets a 120 hz refresh rate display",
@@ -441,6 +536,19 @@
     "overcast-picked": "https://overcast.fm/+FXx4E3x_I/43:19"
   },
   {
+    "text": "Dynamic Island on all new iPhones",
+    "full-pick-text": "Dynamic Island on all new iPhones",
+    "notes": "",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:20:45"
+  },
+  {
     "text": "Faster MagSafe charging in at least one of the new iPhones",
     "full-pick-text": "Faster MagSafe charging in at least one of the new iPhones",
     "notes": "",
@@ -491,6 +599,34 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:35:41"
   },
   {
+    "text": "iPhone 15 and 15 Plus get an always-on display",
+    "full-pick-text": "iPhone 15 and 15 Plus get an always-on display",
+    "notes": "",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:15:33"
+  },
+  {
+    "text": "iPhone 15 gets slower-speed USB-C transfers compared to the Pro models",
+    "full-pick-text": "iPhone 15 gets slower-speed USB-C transfers compared to the Pro models",
+    "notes": "<p><ul><li>\"Compared to the Pro models\" was added for clarity.</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:12:38"
+  },
+  {
     "text": "iPhone 9 will come in colors",
     "full-pick-text": "iPhone 9 will come in colors",
     "notes": "",
@@ -504,6 +640,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:26:06",
     "overcast-picked": "https://overcast.fm/+FXx4E3x_I/59:01"
+  },
+  {
+    "text": "iPhone Pro models will be equipped with Thunderbolt, but will come with a USB-C cable in the box, requiring a separate purchase of a Thunderbolt cable",
+    "full-pick-text": "iPhone Pro models will be equipped with Thunderbolt, but will come with a USB-C cable in the box, requiring a separate purchase of a Thunderbolt cable",
+    "notes": "",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Accessories"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:15:07"
   },
   {
     "text": "Lightning is updated to be faster than USB 2.0",
@@ -739,6 +889,33 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:30:32"
   },
   {
+    "text": "Some iPhones will come with color-matched cables",
+    "full-pick-text": "Some iPhones will come with color-matched cables",
+    "notes": "",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Accessories"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:13:11"
+  },
+  {
+    "text": "Some of the new iPhones will be more expensive in some European countries",
+    "full-pick-text": "Some of the new iPhones will be more expensive in some European countries",
+    "notes": "",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:10:28"
+  },
+  {
     "text": "The 2020 iPhone line will feature at least one 5G phone",
     "full-pick-text": "The 2020 iPhone line will feature at least one 5G phone",
     "notes": "<p><ul><li>\"Stephen is highly skeptical,\" Stephen jokingly predicts it will be called \"iPhone 11S Pro Max 5G\"</li><li><a href=\"https://overcast.fm/+FXx7hS2kY/1:17:45\" target=\"_blank\">Before the prediction episode has even finished</a>, news breaks that <a href=\"https://twitter.com/MemphisFlyer/status/1207782895479336961\" target=\"_blank\">5G service is coming</a> to <em>Stephen's own neighborhood</em>.</li></ul></p>",
@@ -897,6 +1074,20 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:10:48"
+  },
+  {
+    "text": "The iPhone 15 Pro Max/Ultra weighs within 10% of the iPhone 14 Pro Max's weight",
+    "full-pick-text": "The iPhone 15 Pro Max/Ultra weighs within 10% of the iPhone 14 Pro Max's weight",
+    "notes": "<p><ul><li>\"The new phone will need to be between 228g - 264g, as the 14 Pro Max weighs 240g\"</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Alternate Risky"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:17:18"
   },
   {
     "text": "The iPhone 7S and 7S+ will look like the 7 and 7+, not this edge to edge unicorn phone that has been rumored",
@@ -1166,6 +1357,45 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6z4vdc/26:43",
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/33:26"
+  },
+  {
+    "text": "The Pro iPhones will use titanium instead of stainless steel for the chassis",
+    "full-pick-text": "The Pro iPhones will use titanium instead of stainless steel for the chassis",
+    "notes": "",
+    "game": "2023 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/28:22"
+  },
+  {
+    "text": "The Pro Max becomes the Ultra",
+    "full-pick-text": "The Pro Max becomes the Ultra",
+    "notes": "",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:17:56"
+  },
+  {
+    "text": "The two Pro phones will have different camera features",
+    "full-pick-text": "The two Pro phones will have different camera features",
+    "notes": "<p><ul><li>It is agreed not to quibble too much about the name \"Pro\" if there ends up being something like an Ultra phone.</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/35:36"
   },
   {
     "text": "There will be 3 cameras on the high end phones",

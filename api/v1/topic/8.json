@@ -1,5 +1,19 @@
 [
   {
+    "text": "A new AirPods case with USB-C is unveiled",
+    "full-pick-text": "A new AirPods case with USB-C is unveiled",
+    "notes": "",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "AirPods"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:11:12"
+  },
+  {
     "text": "A new AirPods product is announced",
     "full-pick-text": "A new AirPods product is announced",
     "notes": "<p><ul><li>This pick was one event early, as the third generation of AirPods came in October.</li></ul></p>",
@@ -117,6 +131,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4VfMWE/58:37"
   },
   {
+    "text": "Apple announces new AirPods Max, featuring USB-C and made of titanium",
+    "full-pick-text": "Apple announces new AirPods Max, featuring USB-C and made of titanium",
+    "notes": "",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "AirPods"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:20:10"
+  },
+  {
     "text": "Apple launches a new AirPods app for iPhone, similar to Watch app",
     "full-pick-text": "Apple launches a new AirPods app for iPhone, similar to Watch app",
     "notes": "<p><ul><li>Instead of an app, Apple made a section in Settings at the next WWDC.</li></ul></p>",
@@ -201,6 +229,21 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5wv1as/11:24",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:09:15"
+  },
+  {
+    "text": "At least one of the new iPhones will support the new Qi 2 wireless charging standard...",
+    "full-pick-text": "At least one of the new iPhones will support the new Qi 2 wireless charging standard, and \"reverse wireless charging\" for AirPods cases. MagSafe charging speed will also be raised from 15 watts",
+    "notes": "<p><ul><li>\"... and \"reverse wireless charging\" for AirPods cases. MagSafe charging speed will also be raised from 15 watts.\"</li><li>Originally didn't include the last sentence.</li><li>The <a href=\"https://www.macrumors.com/2023/02/06/apple-reverse-wireless-charging-iphone/\" target=\"_blank\">previous rumors of reverse wireless charging</a> didn't disqualify this pick since it's in combination with Qi 2 as well. It's pointed out that Qi 2 is basically just standardized MagSafe as well, but it's still allowed as they'll have to be specific about Qi 2 to count it. Stephen still thinks it lacks passion. Later, Federico <a href=\"https://overcast.fm/+FXx5s-OzI/1:05:12\" target=\"_blank\">sprinkled some passion on it after all</a> by adding a charging wattage increase after all.</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Accessories",
+      "AirPods",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/54:31"
   },
   {
     "text": "HeadPods will be wireless only and they will have no headphone jack and will charge via Lightning or USB-C",

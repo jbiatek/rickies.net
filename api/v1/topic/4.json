@@ -81,6 +81,20 @@
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:29:08"
   },
   {
+    "text": "Apple calls the new camera the \"Magic Telephoto\"",
+    "full-pick-text": "Apple calls the new camera the \"Magic Telephoto\"",
+    "notes": "<p><ul><li>Myke thinks that \"periscope\" is a bad name for regular people and so Apple will pick something else, and to make it risky, he has made a specific guess at the branding. He also considered \"Ultra Telephoto\".</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:02:55"
+  },
+  {
     "text": "Apple compares the performance of Apple Silicon Macs to \"most PCs sold today\"",
     "full-pick-text": "Apple compares the performance of Apple Silicon Macs to \"most PCs sold today\"",
     "notes": "",
@@ -248,6 +262,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx7KvDUI/44:14",
     "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:15:04"
+  },
+  {
+    "text": "Apple says they've formulated a new kind of titanium that has special properties",
+    "full-pick-text": "Apple says they've formulated a new kind of titanium that has special properties",
+    "notes": "",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:18:25"
   },
   {
     "text": "Apple showcases at least one new feature coming in iOS or iPadOS 14.1",
@@ -921,6 +948,33 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5peDck/1:00:23",
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:30:18"
+  },
+  {
+    "text": "The David Guetta song doesn't play",
+    "full-pick-text": "The David Guetta song doesn't play",
+    "notes": "<p><ul><li><a href=\"https://www.youtube.com/watch?v=JRfuAukYTKg\" target=\"_blank\">\"Titanium\"</a> is the song in question, of course.</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Buzzkill",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:20:49"
+  },
+  {
+    "text": "The David Guetta song plays either before or during the event",
+    "full-pick-text": "The David Guetta song plays either before or during the event",
+    "notes": "<p><ul><li>In response to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20David%20Guetta%20song%20doesn%27t%20play\">Myke's more negative pick</a>. This possibly falls slightly afoul of the scoring window rules as it includes things before the event but is allowed, with a rule update to be implemented later.</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:20:49"
   },
   {
     "text": "The headset portion of the keynote lasts over an hour",

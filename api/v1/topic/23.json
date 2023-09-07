@@ -190,6 +190,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/48:20"
   },
   {
+    "text": "Apple announces a multi-device charger that looks a lot like AirPower, without designated charging targets",
+    "full-pick-text": "Apple announces a multi-device charger that looks a lot like AirPower, without designated charging targets",
+    "notes": "<p><ul><li>Stephen came to the table with two picks: \"Apple announces a multi-device charger that looks a lot like AirPower\" and \"The 15 Pro Max weighs within 10% of the 14 Pro Max's weight\". Myke believed that a 10% margin on either side is too wide to be risky and also that the AirPower one is just a better risky pick with less math. Once it's settled to go with the AirPower one, Federico asks to clarify \"looks like\" and the pick is modified to specify a lack of charging targets..</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Accessories",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/47:20"
+  },
+  {
     "text": "Apple announces a new display that is not the Pro XDR, launching by the end of 2021 somewhere",
     "full-pick-text": "Apple announces a new display that is not the Pro XDR, launching by the end of 2021 somewhere",
     "notes": "<p><ul><li>This was originally a pick about the Mac Pro being fully announced, but it was too close to Myke's risky pick.</li><li>The long-wished-for cheaper Apple display finally came out in 2022.</li></ul></p>",
@@ -564,6 +578,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:14:07"
   },
   {
+    "text": "At least 1 iPhone gets a camera with a more than 3x zoom",
+    "full-pick-text": "At least 1 iPhone gets a camera with a more than 3x zoom",
+    "notes": "<p><ul><li>Was \"telephoto lens\" specifically before Myke reconsidered</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/30:13"
+  },
+  {
     "text": "At least one iPhone gets a 120 hz refresh rate display",
     "full-pick-text": "At least one iPhone gets a 120 hz refresh rate display",
     "notes": "<p><ul><li>This was nearly a reuse of a <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#At%20least%20one%20of%20the%202020%20iPhones%20will%20have%20a%20higher%20refresh%20rate%20display%20%28Pro%20Motion%29\">previous pick</a> before the live chat caught it. The fix was to specify an exact refresh rate to make it more specific.</li></ul></p>",
@@ -627,6 +655,21 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5peDck/34:20",
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/58:05"
+  },
+  {
+    "text": "At least one of the new iPhones will support the new Qi 2 wireless charging standard...",
+    "full-pick-text": "At least one of the new iPhones will support the new Qi 2 wireless charging standard, and \"reverse wireless charging\" for AirPods cases. MagSafe charging speed will also be raised from 15 watts",
+    "notes": "<p><ul><li>\"... and \"reverse wireless charging\" for AirPods cases. MagSafe charging speed will also be raised from 15 watts.\"</li><li>Originally didn't include the last sentence.</li><li>The <a href=\"https://www.macrumors.com/2023/02/06/apple-reverse-wireless-charging-iphone/\" target=\"_blank\">previous rumors of reverse wireless charging</a> didn't disqualify this pick since it's in combination with Qi 2 as well. It's pointed out that Qi 2 is basically just standardized MagSafe as well, but it's still allowed as they'll have to be specific about Qi 2 to count it. Stephen still thinks it lacks passion. Later, Federico <a href=\"https://overcast.fm/+FXx5s-OzI/1:05:12\" target=\"_blank\">sprinkled some passion on it after all</a> by adding a charging wattage increase after all.</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Accessories",
+      "AirPods",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/54:31"
   },
   {
     "text": "At least one of the new non-Pro iPads will have an iPad Pro inspired design",
@@ -729,6 +772,21 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/46:28",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/48:30"
+  },
+  {
+    "text": "iPhone 15 gets slower-speed USB-C transfers compared to the Pro models",
+    "full-pick-text": "iPhone 15 gets slower-speed USB-C transfers compared to the Pro models",
+    "notes": "<p><ul><li>\"Compared to the Pro models\" was added for clarity.</li></ul></p>",
+    "game": "2023 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:12:38"
   },
   {
     "text": "Jeff Williams has a major role in introducing the headset",
