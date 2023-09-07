@@ -6,13 +6,14 @@
   "type": "Regular",
   "topics": [
     "iOS",
+    "Ahead of Its Time",
     "Developer tools",
-    "Live Edited",
-    "Possible Vindication"
+    "Live Edited"
   ],
   "host": "Stephen",
   "pick-conditions": 1,
   "score": 0,
+  "ahead-by": 362,
   "overcast-graded": "https://overcast.fm/+FXx5r8V-w/38:50",
   "overcast-picked": "https://overcast.fm/+FXx4PSTGk/20:52"
 }

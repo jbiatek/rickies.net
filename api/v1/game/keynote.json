@@ -2941,13 +2941,14 @@
           "game": "2021 April Rickies",
           "type": "Ricky",
           "topics": [
+            "Ahead of Its Time",
             "Augmented Reality",
-            "Stagecraft",
-            "Possible Vindication"
+            "Stagecraft"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
           "score": -1,
+          "ahead-by": 773,
           "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:05:31",
           "overcast-picked": "https://overcast.fm/+FXx5oC3S0/59:00"
         },
@@ -4419,12 +4420,13 @@
           "game": "2021 WWDC Rickies",
           "type": "Regular",
           "topics": [
-            "Developer tools",
-            "Possible Vindication"
+            "Ahead of Its Time",
+            "Developer tools"
           ],
           "host": "Federico",
           "pick-conditions": 1,
           "score": 0,
+          "ahead-by": 725,
           "overcast-graded": "https://overcast.fm/+FXx70G0aw/48:38",
           "overcast-picked": "https://overcast.fm/+FXx4EWu_4/54:23"
         },
@@ -4742,7 +4744,7 @@
           "type": "Flexie",
           "topics": [
             "Mac",
-            "Possible Vindication"
+            "Unvindicatable"
           ],
           "host": "Myke",
           "pick-conditions": 1,
@@ -6023,17 +6025,18 @@
         {
           "text": "There will be a system filter for \"always-on display\" in Focus",
           "full-pick-text": "There will be a system filter for \"always-on display\" in Focus",
-          "notes": "<p><ul><li>Deemed incorrect because it wasn't mentioned and there was no way to find out at the time of grading. This was in fact the correct decision, as it was not present in iOS 16.</li></ul></p>",
+          "notes": "<p><ul><li>Deemed incorrect because it wasn't mentioned and there was no way to find out at the time of grading. This was in fact the correct decision, as it was not present in iOS 16 originally. The feature <a href=\"https://9to5mac.com/2023/03/27/automate-iphone-always-on-display/\" target=\"_blank\"> did eventually arrive in iOS 16.4</a>, so this pick was just a bit early.</li></ul></p>",
           "game": "2022 September Rickies",
           "type": "Flexie",
           "topics": [
             "iPhone",
             "iOS",
-            "Possible Vindication"
+            "Ahead of Its Time"
           ],
           "host": "Federico",
           "pick-conditions": 1,
           "score": 0,
+          "ahead-by": 190,
           "overcast-graded": "https://overcast.fm/+FXx650Foc/1:26:15",
           "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:36:39"
         },
@@ -6202,13 +6205,14 @@
           "type": "Regular",
           "topics": [
             "iOS",
+            "Ahead of Its Time",
             "Developer tools",
-            "Live Edited",
-            "Possible Vindication"
+            "Live Edited"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
           "score": 0,
+          "ahead-by": 362,
           "overcast-graded": "https://overcast.fm/+FXx5r8V-w/38:50",
           "overcast-picked": "https://overcast.fm/+FXx4PSTGk/20:52"
         },

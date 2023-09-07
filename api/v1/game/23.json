@@ -594,17 +594,18 @@
       {
         "text": "There will be a system filter for \"always-on display\" in Focus",
         "full-pick-text": "There will be a system filter for \"always-on display\" in Focus",
-        "notes": "<p><ul><li>Deemed incorrect because it wasn't mentioned and there was no way to find out at the time of grading. This was in fact the correct decision, as it was not present in iOS 16.</li></ul></p>",
+        "notes": "<p><ul><li>Deemed incorrect because it wasn't mentioned and there was no way to find out at the time of grading. This was in fact the correct decision, as it was not present in iOS 16 originally. The feature <a href=\"https://9to5mac.com/2023/03/27/automate-iphone-always-on-display/\" target=\"_blank\"> did eventually arrive in iOS 16.4</a>, so this pick was just a bit early.</li></ul></p>",
         "game": "2022 September Rickies",
         "type": "Flexie",
         "topics": [
           "iPhone",
           "iOS",
-          "Possible Vindication"
+          "Ahead of Its Time"
         ],
         "host": "Federico",
         "pick-conditions": 1,
         "score": 0,
+        "ahead-by": 190,
         "overcast-graded": "https://overcast.fm/+FXx650Foc/1:26:15",
         "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:36:39"
       },

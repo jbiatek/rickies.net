@@ -312,7 +312,7 @@
         "topics": [
           "Augmented Reality",
           "Live Edited",
-          "Possible Vindication"
+          "Unvindicatable"
         ],
         "host": "Stephen",
         "pick-conditions": 1,
@@ -380,12 +380,13 @@
         "game": "2022 Annual Rickies",
         "type": "Flexie",
         "topics": [
-          "Apple Apps",
-          "Possible Vindication"
+          "Ahead of Its Time",
+          "Apple Apps"
         ],
         "host": "Federico",
         "pick-conditions": 1,
         "score": 0,
+        "ahead-by": 155,
         "overcast-graded": "https://overcast.fm/+FXx5wv1as/37:08",
         "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:45:53"
       },
