@@ -1,7 +1,7 @@
 {
   "text": "Apple says they've formulated a new kind of titanium that has special properties",
   "full-pick-text": "Apple says they've formulated a new kind of titanium that has special properties",
-  "notes": "",
+  "notes": "<p><ul><li>Apple certainly touted the properties of the titanium, but it may not have been new. Nevertheless, it's graded as correct and not delved into too deeply, and wouldn't have changed the results either way.</li></ul></p>",
   "game": "2023 September Rickies",
   "type": "Flexie",
   "topics": [
@@ -9,5 +9,7 @@
   ],
   "host": "Myke",
   "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:17:06",
   "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:18:25"
 }

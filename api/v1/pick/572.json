@@ -1,7 +1,7 @@
 {
   "text": "The iPhone 15 Pro Max/Ultra weighs within 10% of the iPhone 14 Pro Max's weight",
   "full-pick-text": "The iPhone 15 Pro Max/Ultra weighs within 10% of the iPhone 14 Pro Max's weight",
-  "notes": "<p><ul><li>\"The new phone will need to be between 228g - 264g, as the 14 Pro Max weighs 240g\"</li></ul></p>",
+  "notes": "<p><ul><li>\"The new phone will need to be between 228g - 264g, as the 14 Pro Max weighs 240g\" was what was written down, but those numbers are off (there was some shuffling between 5% and 10% when debating this as a Risky pick). Ultimately it did end up being within 10%.</li></ul></p>",
   "game": "2023 September Rickies",
   "type": "Flexie",
   "topics": [
@@ -10,5 +10,7 @@
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:15:10",
   "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:17:18"
 }

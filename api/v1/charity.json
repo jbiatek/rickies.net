@@ -89,5 +89,12 @@
     "donation": 75,
     "charity-name": "ASPCA",
     "charity-url": "https://www.aspca.org"
+  },
+  {
+    "game": "2023 September Rickies",
+    "donator": "Stephen",
+    "donation": 125,
+    "charity-name": "St. Jude",
+    "charity-url": "http://stjude.org/relay"
   }
 ]

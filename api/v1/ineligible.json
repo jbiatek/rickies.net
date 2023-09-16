@@ -42,51 +42,51 @@
       "overcast-picked": "https://overcast.fm/+FXx5wv1as/48:15"
     },
     {
-      "text": "Apple will announce a 15-inch MacBook Air",
-      "full-pick-text": "Apple will announce a 15-inch MacBook Air",
+      "text": "Apple announces a multi-device charger that looks a lot like AirPower, without designated charging targets",
+      "full-pick-text": "Apple announces a multi-device charger that looks a lot like AirPower, without designated charging targets",
+      "notes": "<p><ul><li>Stephen came to the table with two picks: \"Apple announces a multi-device charger that looks a lot like AirPower\" and \"The 15 Pro Max weighs within 10% of the 14 Pro Max's weight\". Myke believed that a 10% margin on either side is too wide to be risky and also that the AirPower one is just a better risky pick with less math. Once it's settled to go with the AirPower one, Federico asks to clarify \"looks like\" and the pick is modified to specify a lack of charging targets.</li></ul></p>",
+      "game": "2023 September Rickies",
+      "type": "Ricky",
+      "topics": [
+        "Accessories",
+        "Live Edited",
+        "Possible Vindication"
+      ],
+      "host": "Stephen",
+      "pick-conditions": 3,
+      "score": -1,
+      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/56:35",
+      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/47:20"
+    },
+    {
+      "text": "At least 1 new iPhone ships with USB-C",
+      "full-pick-text": "At least 1 new iPhone ships with USB-C",
       "notes": "",
-      "game": "2023 WWDC Rickies",
+      "game": "2023 September Rickies",
       "type": "Regular",
       "topics": [
-        "Mac"
+        "iPhone"
       ],
       "host": "Stephen",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/12:23",
-      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/23:55"
+      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/25:03",
+      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/20:32"
     },
     {
-      "text": "The announced price of the headset will be less than $2,500",
-      "full-pick-text": "The announced price of the headset will be less than $2,500",
-      "notes": "",
-      "game": "2023 WWDC Rickies",
-      "type": "Ricky",
-      "topics": [
-        "Augmented Reality",
-        "Unvindicatable"
-      ],
-      "host": "Stephen",
-      "pick-conditions": 2,
-      "score": -1,
-      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/31:29",
-      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/47:54"
-    },
-    {
-      "text": "The phrase \"one more thing\" will be used before the headset is announced",
-      "full-pick-text": "The phrase \"one more thing\" will be used before the headset is announced",
-      "notes": "",
-      "game": "2023 WWDC Rickies",
+      "text": "The two Pro phones will have different camera features",
+      "full-pick-text": "The two Pro phones will have different camera features",
+      "notes": "<p><ul><li>It is agreed not to quibble too much about the name \"Pro\" if there ends up being something like an Ultra phone.</li></ul></p>",
+      "game": "2023 September Rickies",
       "type": "Regular",
       "topics": [
-        "Augmented Reality",
-        "Stagecraft"
+        "iPhone"
       ],
       "host": "Stephen",
-      "pick-conditions": 2,
+      "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/21:56",
-      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/33:24"
+      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/37:36",
+      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/35:36"
     }
   ],
   "Myke": [
@@ -132,51 +132,52 @@
       "overcast-picked": "https://overcast.fm/+FXx5wv1as/56:07"
     },
     {
-      "text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
-      "full-pick-text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
-      "notes": "<p><ul><li>Not graded: \"A feature in Xcode that uses AI/ML to suggest how to improve your code or solve common problems. It will most likely live in a sidebar and will probably be a Beta feature.\"\n</li></ul></p>",
-      "game": "2023 WWDC Rickies",
+      "text": "Apple calls the new camera the \"Magic Telephoto\"",
+      "full-pick-text": "Apple calls the new camera the \"Magic Telephoto\"",
+      "notes": "<p><ul><li>Myke thinks that \"periscope\" is a bad name for regular people and so Apple will pick something else, and to make it risky, he has made a specific guess at the branding. He also considered \"Ultra Telephoto\".</li></ul></p>",
+      "game": "2023 September Rickies",
       "type": "Ricky",
       "topics": [
-        "Developer tools",
-        "Possible Vindication"
+        "iPhone",
+        "Stagecraft",
+        "Unvindicatable"
       ],
       "host": "Myke",
       "pick-conditions": 1,
       "score": -1,
-      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/30:41",
-      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/42:28"
+      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:00:05",
+      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:02:55"
     },
     {
-      "text": "The headset is unveiled",
-      "full-pick-text": "The headset is unveiled",
-      "notes": "<p><ul><li>Indeed, this pick has been made <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Augmented%20Reality\">a few times</a>, but the only one Myke is ineligible to pick is his <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20shows%20off%20their%20headset%20in%20March%2C%20they%20announce%20developer%20tools%20at%20WWDC%2C%20then%20show%20it%20off%20again%20at%20an%20event%20in%20September.%20It%20ships%20to%20customers%20in%20October\">much more detailed and already incorrect annual pick</a>.</li><li>Federico makes some implausible claims about his involvement in the development of the headset.</li></ul></p>",
-      "game": "2023 WWDC Rickies",
+      "text": "At least 1 iPhone gets a 3 nm processor",
+      "full-pick-text": "At least 1 iPhone gets a 3 nm processor",
+      "notes": "",
+      "game": "2023 September Rickies",
       "type": "Regular",
       "topics": [
-        "Augmented Reality"
+        "iPhone"
       ],
       "host": "Myke",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/8:22",
-      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/18:48"
+      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/44:28",
+      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/43:07"
     },
     {
-      "text": "watchOS 10 gets widgets",
-      "full-pick-text": "watchOS 10 gets widgets",
-      "notes": "<p><ul><li>Was originally \"A widget-like interface comes to the Apple Watch\" before some workshopping.</li></ul></p>",
-      "game": "2023 WWDC Rickies",
+      "text": "At least 1 iPhone gets a camera with a more than 3x zoom",
+      "full-pick-text": "At least 1 iPhone gets a camera with a more than 3x zoom",
+      "notes": "<p><ul><li>Was \"telephoto lens\" specifically before Myke reconsidered</li></ul></p>",
+      "game": "2023 September Rickies",
       "type": "Regular",
       "topics": [
-        "Apple Watch",
+        "iPhone",
         "Live Edited"
       ],
       "host": "Myke",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/18:47",
-      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/30:03"
+      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/32:51",
+      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/30:13"
     }
   ],
   "Federico": [
@@ -224,54 +225,52 @@
       "overcast-picked": "https://overcast.fm/+FXx5wv1as/52:05"
     },
     {
-      "text": "Apple introduces a brand new journaling app",
-      "full-pick-text": "Apple introduces a brand new journaling app",
-      "notes": "<p><ul><li>Not graded: \"location features for friends, ability to take notes and attach images, maybe integration with Music?\"</li></ul></p>",
-      "game": "2023 WWDC Rickies",
+      "text": "At least 1 of the new iPhones will have a customizable \"action\" button instead of a traditional mute switch",
+      "full-pick-text": "At least 1 of the new iPhones will have a customizable \"action\" button instead of a traditional mute switch",
+      "notes": "<p><ul><li>Again, the name doesn't have to be exactly right, it's the concept.</li></ul></p>",
+      "game": "2023 September Rickies",
       "type": "Regular",
       "topics": [
-        "Apple Apps"
+        "iPhone"
       ],
       "host": "Federico",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/15:33",
-      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/25:34"
+      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/39:15",
+      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/39:14"
     },
     {
-      "text": "The Health app gets mood tracking and an iPad version",
-      "full-pick-text": "The Health app gets mood tracking and an iPad version",
-      "notes": "",
-      "game": "2023 WWDC Rickies",
-      "type": "Regular",
-      "topics": [
-        "iPad",
-        "Apple Apps",
-        "Passionate"
-      ],
-      "host": "Federico",
-      "pick-conditions": 2,
-      "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/5:20",
-      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/15:17"
-    },
-    {
-      "text": "The next version of iPadOS will introduce a brand new audio routing system, with support for selecting different input sources, similar to macOS...",
-      "full-pick-text": "The next version of iPadOS will introduce a brand new audio routing system, with support for selecting different input sources, similar to macOS. This feature will finally allow podcasters like me to record local audio while also being on a FaceTime or Zoom call (assuming apps add support for it).",
-      "notes": "<p><ul><li>\"... This feature will finally allow podcasters like me to record local audio while also being on a FaceTime or Zoom call (assuming apps add support for it).\"</li><li>And there's even more that isn't graded: \"Devices that do not require drivers will work out of the box, like in macOS. I think the Sounds page of Settings will be redesigned.\"</li><li>Federico guesses that this is his longest-ever Risky Pick, and <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Pick%20Text%20Length\">he's right, this is in fact his longest ever pick period</a>, beating out <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20will%20release%20its%20biggest%20iPad%20ever%20with%20a%20display%20of%20at%20least%2016%20inches...\">this one</a> from earlier the same year.</li></ul></p>",
-      "game": "2023 WWDC Rickies",
+      "text": "At least one of the new iPhones will support the new Qi 2 wireless charging standard...",
+      "full-pick-text": "At least one of the new iPhones will support the new Qi 2 wireless charging standard, and \"reverse wireless charging\" for AirPods cases. MagSafe charging speed will also be raised from 15 watts",
+      "notes": "<p><ul><li>\"... and \"reverse wireless charging\" for AirPods cases. MagSafe charging speed will also be raised from 15 watts.\"</li><li>Originally didn't include the last sentence.</li><li>The <a href=\"https://www.macrumors.com/2023/02/06/apple-reverse-wireless-charging-iphone/\" target=\"_blank\">previous rumors of reverse wireless charging</a> didn't disqualify this pick since it's in combination with Qi 2 as well. It's pointed out that Qi 2 is basically just standardized MagSafe as well, but it's still allowed as they'll have to be specific about Qi 2 to count it. Stephen still thinks it lacks passion. Later, Federico <a href=\"https://overcast.fm/+FXx5s-OzI/1:05:12\" target=\"_blank\">sprinkled some passion on it after all</a> by adding a charging wattage increase after all.</li></ul></p>",
+      "game": "2023 September Rickies",
       "type": "Ricky",
       "topics": [
-        "iPad",
-        "Developer tools",
-        "iPadOS",
+        "Accessories",
+        "AirPods",
+        "Live Edited",
         "Possible Vindication"
       ],
       "host": "Federico",
       "pick-conditions": 3,
       "score": -1,
-      "overcast-graded": "https://overcast.fm/+FXx5Das8Q/27:59",
-      "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/38:36"
+      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/57:45",
+      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/54:31"
+    },
+    {
+      "text": "The Pro iPhones will use titanium instead of stainless steel for the chassis",
+      "full-pick-text": "The Pro iPhones will use titanium instead of stainless steel for the chassis",
+      "notes": "",
+      "game": "2023 September Rickies",
+      "type": "Regular",
+      "topics": [
+        "iPhone"
+      ],
+      "host": "Federico",
+      "pick-conditions": 1,
+      "score": 1,
+      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/28:01",
+      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/28:22"
     }
   ]
 }

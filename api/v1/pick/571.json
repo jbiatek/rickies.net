@@ -1,7 +1,7 @@
 {
   "text": "By the time we grade these picks, our St Jude fundraiser will be over $250,000",
   "full-pick-text": "By the time we grade these picks, our St Jude fundraiser will be over $250,000",
-  "notes": "",
+  "notes": "<p><ul><li>Stephen <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Twitter%20will%20file%20for%20bankruptcy\">once again</a> pushes the boundary of acceptable Flexie topics, possibly opening a Pandora's box for the already-chaotic game.</li></ul></p>",
   "game": "2023 September Rickies",
   "type": "Flexie",
   "topics": [
@@ -9,5 +9,7 @@
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:14:23",
   "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:16:44"
 }

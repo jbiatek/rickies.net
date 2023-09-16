@@ -5,9 +5,12 @@
   "game": "2023 September Rickies",
   "type": "Flexie",
   "topics": [
-    "Stagecraft"
+    "Stagecraft",
+    "Unvindicatable"
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 0,
+  "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:11:50",
   "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:20:49"
 }

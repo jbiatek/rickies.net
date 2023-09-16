@@ -56,10 +56,13 @@
     "type": "Flexie",
     "topics": [
       "Apple Watch",
-      "Buzzkill"
+      "Buzzkill",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:12:23",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:13:15"
   },
   {
@@ -69,10 +72,13 @@
     "game": "2023 September Rickies",
     "type": "Flexie",
     "topics": [
-      "Apple Watch"
+      "Apple Watch",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:12:38",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:13:43"
   },
   {
@@ -166,10 +172,13 @@
     "type": "Flexie",
     "topics": [
       "Accessories",
-      "Apple Watch"
+      "Apple Watch",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:16:11",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:17:45"
   },
   {

@@ -6,9 +6,12 @@
   "type": "Flexie",
   "topics": [
     "Accessories",
-    "AirPods"
+    "AirPods",
+    "Possible Vindication"
   ],
   "host": "Myke",
   "pick-conditions": 3,
+  "score": 0,
+  "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:17:40",
   "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:20:10"
 }

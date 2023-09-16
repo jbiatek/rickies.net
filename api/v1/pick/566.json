@@ -6,9 +6,12 @@
   "type": "Flexie",
   "topics": [
     "Apple Watch",
-    "Buzzkill"
+    "Buzzkill",
+    "Possible Vindication"
   ],
   "host": "Stephen",
   "pick-conditions": 2,
+  "score": 0,
+  "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:12:23",
   "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:13:15"
 }

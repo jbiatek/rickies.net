@@ -1,13 +1,16 @@
 {
   "text": "Some of the new iPhones will be more expensive in some European countries",
   "full-pick-text": "Some of the new iPhones will be more expensive in some European countries",
-  "notes": "",
+  "notes": "<p><ul><li>In fact the <em>opposite</em> happened, surprisingly.</li></ul></p>",
   "game": "2023 September Rickies",
   "type": "Flexie",
   "topics": [
-    "iPhone"
+    "iPhone",
+    "Unvindicatable"
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 0,
+  "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:09:38",
   "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:10:28"
 }

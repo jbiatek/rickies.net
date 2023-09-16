@@ -206,6 +206,30 @@
   {
     "game": "2023 WWDC Rickies",
     "called": "Heads",
+    "caller": "Myke",
+    "flip-method": "Dice by PCalc",
+    "game-phase": "Rickies",
+    "loser": "Myke and Federico",
+    "overcast-link": "https://overcast.fm/+FXx4c3VV0/1:02:12",
+    "prize": 1,
+    "result": "Tails",
+    "winner": "Stephen"
+  },
+  {
+    "game": "2023 WWDC Rickies",
+    "called": "Heads",
+    "caller": "Federico",
+    "flip-method": "Dice by PCalc",
+    "game-phase": "Rickies",
+    "loser": "Federico",
+    "overcast-link": "https://overcast.fm/+FXx4c3VV0/1:04:16",
+    "prize": 1,
+    "result": "Tails",
+    "winner": "Myke"
+  },
+  {
+    "game": "2023 WWDC Rickies",
+    "called": "Heads",
     "caller": "Stephen and Federico",
     "flip-method": "Dice by PCalc",
     "game-phase": "Rickies",

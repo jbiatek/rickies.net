@@ -57,10 +57,13 @@
     "type": "Flexie",
     "topics": [
       "Apple Watch",
-      "Buzzkill"
+      "Buzzkill",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:12:23",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:13:15"
   },
   {
@@ -109,6 +112,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:10:31",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:12:07"
   },
   {
@@ -177,6 +182,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:11:38",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:12:38"
   },
   {
@@ -696,6 +703,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:18:13",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:20:49"
   },
   {

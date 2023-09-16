@@ -176,6 +176,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:09:59",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:11:12"
   },
   {
@@ -992,15 +994,18 @@
   {
     "text": "Apple announces a multi-device charger that looks a lot like AirPower, without designated charging targets",
     "full-pick-text": "Apple announces a multi-device charger that looks a lot like AirPower, without designated charging targets",
-    "notes": "<p><ul><li>Stephen came to the table with two picks: \"Apple announces a multi-device charger that looks a lot like AirPower\" and \"The 15 Pro Max weighs within 10% of the 14 Pro Max's weight\". Myke believed that a 10% margin on either side is too wide to be risky and also that the AirPower one is just a better risky pick with less math. Once it's settled to go with the AirPower one, Federico asks to clarify \"looks like\" and the pick is modified to specify a lack of charging targets..</li></ul></p>",
+    "notes": "<p><ul><li>Stephen came to the table with two picks: \"Apple announces a multi-device charger that looks a lot like AirPower\" and \"The 15 Pro Max weighs within 10% of the 14 Pro Max's weight\". Myke believed that a 10% margin on either side is too wide to be risky and also that the AirPower one is just a better risky pick with less math. Once it's settled to go with the AirPower one, Federico asks to clarify \"looks like\" and the pick is modified to specify a lack of charging targets.</li></ul></p>",
     "game": "2023 September Rickies",
     "type": "Ricky",
     "topics": [
       "Accessories",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 3,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/56:35",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/47:20"
   },
   {
@@ -1110,10 +1115,13 @@
     "type": "Flexie",
     "topics": [
       "Accessories",
-      "AirPods"
+      "AirPods",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 3,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:17:40",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:20:10"
   },
   {
@@ -1256,10 +1264,13 @@
     "type": "Ricky",
     "topics": [
       "iPhone",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:00:05",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:02:55"
   },
   {
@@ -1286,10 +1297,13 @@
     "type": "Flexie",
     "topics": [
       "iPhone",
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:17:27",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:19:52"
   },
   {
@@ -2089,6 +2103,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:12:50",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:13:49"
   },
   {
@@ -2110,7 +2126,7 @@
   {
     "text": "Apple says they've formulated a new kind of titanium that has special properties",
     "full-pick-text": "Apple says they've formulated a new kind of titanium that has special properties",
-    "notes": "",
+    "notes": "<p><ul><li>Apple certainly touted the properties of the titanium, but it may not have been new. Nevertheless, it's graded as correct and not delved into too deeply, and wouldn't have changed the results either way.</li></ul></p>",
     "game": "2023 September Rickies",
     "type": "Flexie",
     "topics": [
@@ -2118,6 +2134,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:17:06",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:18:25"
   },
   {
@@ -2563,10 +2581,13 @@
     "type": "Flexie",
     "topics": [
       "Apple Watch",
-      "Buzzkill"
+      "Buzzkill",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:12:23",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:13:15"
   },
   {
@@ -2576,10 +2597,13 @@
     "game": "2023 September Rickies",
     "type": "Flexie",
     "topics": [
-      "Apple Watch"
+      "Apple Watch",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:12:38",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:13:43"
   },
   {
@@ -2934,6 +2958,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:10:31",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:12:07"
   },
   {
@@ -3043,6 +3069,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/44:28",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/43:07"
   },
   {
@@ -3057,6 +3085,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/32:51",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/30:13"
   },
   {
@@ -3087,6 +3117,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/25:03",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/20:32"
   },
   {
@@ -3116,6 +3148,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/39:15",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/39:14"
   },
   {
@@ -3336,10 +3370,13 @@
     "topics": [
       "Accessories",
       "AirPods",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 3,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/57:45",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/54:31"
   },
   {
@@ -3573,7 +3610,7 @@
   {
     "text": "By the time we grade these picks, our St Jude fundraiser will be over $250,000",
     "full-pick-text": "By the time we grade these picks, our St Jude fundraiser will be over $250,000",
-    "notes": "",
+    "notes": "<p><ul><li>Stephen <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Twitter%20will%20file%20for%20bankruptcy\">once again</a> pushes the boundary of acceptable Flexie topics, possibly opening a Pandora's box for the already-chaotic game.</li></ul></p>",
     "game": "2023 September Rickies",
     "type": "Flexie",
     "topics": [
@@ -3581,6 +3618,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:14:23",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:16:44"
   },
   {
@@ -3762,6 +3801,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:18:04",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:20:45"
   },
   {
@@ -4212,6 +4253,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:10:17",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:11:37"
   },
   {
@@ -4493,10 +4536,13 @@
     "game": "2023 September Rickies",
     "type": "Flexie",
     "topics": [
-      "iPhone"
+      "iPhone",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:14:10",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:15:33"
   },
   {
@@ -4512,6 +4558,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:11:38",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:12:38"
   },
   {
@@ -4537,10 +4585,13 @@
     "type": "Flexie",
     "topics": [
       "iPhone",
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:13:39",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:15:07"
   },
   {
@@ -5134,10 +5185,13 @@
     "type": "Flexie",
     "topics": [
       "Accessories",
-      "Apple Watch"
+      "Apple Watch",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:16:11",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:17:45"
   },
   {
@@ -6510,10 +6564,13 @@
     "type": "Flexie",
     "topics": [
       "iPhone",
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:12:17",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:13:11"
   },
   {
@@ -6554,14 +6611,17 @@
   {
     "text": "Some of the new iPhones will be more expensive in some European countries",
     "full-pick-text": "Some of the new iPhones will be more expensive in some European countries",
-    "notes": "",
+    "notes": "<p><ul><li>In fact the <em>opposite</em> happened, surprisingly.</li></ul></p>",
     "game": "2023 September Rickies",
     "type": "Flexie",
     "topics": [
-      "iPhone"
+      "iPhone",
+      "Unvindicatable"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:09:38",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:10:28"
   },
   {
@@ -7048,6 +7108,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:18:13",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:20:49"
   },
   {
@@ -7057,10 +7119,13 @@
     "game": "2023 September Rickies",
     "type": "Flexie",
     "topics": [
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:11:50",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:20:49"
   },
   {
@@ -7488,7 +7553,7 @@
   {
     "text": "The iPhone 15 Pro Max/Ultra weighs within 10% of the iPhone 14 Pro Max's weight",
     "full-pick-text": "The iPhone 15 Pro Max/Ultra weighs within 10% of the iPhone 14 Pro Max's weight",
-    "notes": "<p><ul><li>\"The new phone will need to be between 228g - 264g, as the 14 Pro Max weighs 240g\"</li></ul></p>",
+    "notes": "<p><ul><li>\"The new phone will need to be between 228g - 264g, as the 14 Pro Max weighs 240g\" was what was written down, but those numbers are off (there was some shuffling between 5% and 10% when debating this as a Risky pick). Ultimately it did end up being within 10%.</li></ul></p>",
     "game": "2023 September Rickies",
     "type": "Flexie",
     "topics": [
@@ -7497,6 +7562,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:15:10",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:17:18"
   },
   {
@@ -8338,6 +8405,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/28:01",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/28:22"
   },
   {
@@ -8347,10 +8416,12 @@
     "game": "2023 September Rickies",
     "type": "Flexie",
     "topics": [
-      "iPhone"
+      "iPhone",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:17:56"
   },
   {
@@ -8382,6 +8453,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4c3VV0/37:36",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/35:36"
   },
   {
