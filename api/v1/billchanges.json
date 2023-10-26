@@ -114,5 +114,9 @@
   {
     "episode": 466,
     "changes": "<p>Added to the rules about titles between episodes: <a href=\"https://overcast.fm/+FXx5s-OzI/1:09:35\" target=\"_blank\">if someone holds all four titles, they are allowed to choose their own moniker</a>.</p>"
+  },
+  {
+    "episode": 473,
+    "changes": "<p><ul><li>The rules for coin flips to resolve three way ties <a href=\"https://overcast.fm/+FXx52vzd4/19:05\" target=\"_blank\">are finally codified</a>.</li><li>The timing window of Keynote Rickies <a href=\"https://overcast.fm/+FXx52vzd4/20:29\" target=\"_blank\">is slightly expanded to when the live video stream starts rather than the actual event start time</a>, to accommodate <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20David%20Guetta%20song%20plays%20either%20before%20or%20during%20the%20event\">a pick that was slightly out of bounds last time</a>.\n\n\n\n</li></ul></p>"
   }
 ]

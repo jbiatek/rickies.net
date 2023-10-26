@@ -1233,6 +1233,20 @@
     "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/20:16"
   },
   {
+    "text": "The names of the colours of the iMac are unchanged",
+    "full-pick-text": "The names of the colours of the iMac are unchanged",
+    "notes": "<p><ul><li>Cleverly worded so that if the iMac isn't touched, the pick is still correct, but Federico's questioning of whether a change in hue counts causes Myke to water it down to just names. At the time of the pick, the colors were \"Blue, Green, Pink, Silver, Yellow, Orange, Purple\". </li></ul></p>",
+    "game": "2023 October Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/31:57"
+  },
+  {
     "text": "The new Apple Silicon MacBook Pro will not be announced at this event",
     "full-pick-text": "The new Apple Silicon MacBook Pro will not be announced at this event",
     "notes": "<p><ul><li>This was originally going to be \"<a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20Macs\">No Macs</a>\", but at this point everyone was on the lookout for reused picks and <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20Mac%20or%20iPad%20hardware%20in%20the%20keynote\">this</a> one <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20new%20Mac%20notebooks%20are%20announced\">has</a> come <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Nothing%20about%20the%20Mac\">up a</a> few <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Mac%20is%20not%20mentioned\">times</a>.</li></ul></p>",
@@ -1350,6 +1364,21 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5peDck/1:04:12",
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:32:33"
+  },
+  {
+    "text": "The visual design of the 14\" and 16\" MacBook Pro is unchanged",
+    "full-pick-text": "The visual design of the 14\" and 16\" MacBook Pro is unchanged",
+    "notes": "<p><ul><li>The word \"visual\" was added, but it's agreed that we'll know it when we see it.</li></ul></p>",
+    "game": "2023 October Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/35:42"
   },
   {
     "text": "The Wallet app gets a new design",

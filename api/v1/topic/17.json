@@ -726,6 +726,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:16:57"
   },
   {
+    "text": "The iPad isn't even mentioned",
+    "full-pick-text": "The iPad isn't even mentioned",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Buzzkill"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:03:15"
+  },
+  {
     "text": "The iPad's external display support goes unchanged",
     "full-pick-text": "The iPad's external display support goes unchanged",
     "notes": "<p><ul><li>Was originally \"By December 31, 2022, no Intel Macs will remain on sale as new machines\", but this was also <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20has%20Apple%20Silicon%20versions%20of%20all%20of%20its%20Intel%20Macs%20on%20sale%20by%20the%20end%20of%202021\">too close for comfort</a>, although arguably the previous pick was more permissive than this would have been.</li><li>Stage Manager in fact brought major changes.</li></ul></p>",
@@ -829,6 +843,34 @@
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:26:14"
   },
   {
+    "text": "The Mac mini is not updated",
+    "full-pick-text": "The Mac mini is not updated",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Buzzkill"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:02:49"
+  },
+  {
+    "text": "The MacBook Air is not updated at this event",
+    "full-pick-text": "The MacBook Air is not updated at this event",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "Buzzkill"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/29:03"
+  },
+  {
     "text": "The MacBook Escape will go away",
     "full-pick-text": "The MacBook Escape will go away",
     "notes": "",
@@ -877,6 +919,21 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6z4vdc/26:43",
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/33:26"
+  },
+  {
+    "text": "The visual design of the 14\" and 16\" MacBook Pro is unchanged",
+    "full-pick-text": "The visual design of the 14\" and 16\" MacBook Pro is unchanged",
+    "notes": "<p><ul><li>The word \"visual\" was added, but it's agreed that we'll know it when we see it.</li></ul></p>",
+    "game": "2023 October Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/35:42"
   },
   {
     "text": "There is no additional external display support for iPadOS",
@@ -988,6 +1045,21 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/44:13",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:36"
+  },
+  {
+    "text": "We do not get new AirPods Max, even though I want them",
+    "full-pick-text": "We do not get new AirPods Max, even though I want them",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "AirPods",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:20"
   },
   {
     "text": "We do not see AirPods Max 2",

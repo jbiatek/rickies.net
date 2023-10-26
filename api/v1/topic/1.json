@@ -282,6 +282,19 @@
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/48:20"
   },
   {
+    "text": "Apple announces a new Apple Silicon system-on-a-chip",
+    "full-pick-text": "Apple announces a new Apple Silicon system-on-a-chip",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/20:58"
+  },
+  {
     "text": "Apple announces a new Mac Pro powered by Apple Silicon",
     "full-pick-text": "Apple announces a new Mac Pro powered by Apple Silicon",
     "notes": "",
@@ -629,6 +642,19 @@
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/31:11"
   },
   {
+    "text": "Apple unveils an iMac Pro",
+    "full-pick-text": "Apple unveils an iMac Pro",
+    "notes": "<p><ul><li>In Stephen's mind, this requires a 27\" or larger screen, and a Pro/Pro Max caliber processor at least.</li></ul></p>",
+    "game": "2023 October Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/40:24"
+  },
+  {
     "text": "Apple unveils the first Mac powered by an M2 chip",
     "full-pick-text": "Apple unveils the first Mac powered by an M2 chip",
     "notes": "<p><ul><li>Apple waited until WWDC to announce the M2 MacBook Air.</li></ul></p>",
@@ -749,6 +775,48 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5nWhwg/38:05",
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/36:37"
+  },
+  {
+    "text": "At least one computer or accessory that gets updated is less expensive in the US than before",
+    "full-pick-text": "At least one computer or accessory that gets updated is less expensive in the US than before",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Accessories"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/58:16"
+  },
+  {
+    "text": "At least one M3-series chip introduces support for Thunderbolt 5, a first for the industry",
+    "full-pick-text": "At least one M3-series chip introduces support for Thunderbolt 5, a first for the industry",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Accessories",
+      "Alternate Risky"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/56:51"
+  },
+  {
+    "text": "At least one Mac is available to order \"today\"",
+    "full-pick-text": "At least one Mac is available to order \"today\"",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:11"
   },
   {
     "text": "At least one new MacBook Pro model has an upgraded webcam with a higher resolution",
@@ -1502,6 +1570,19 @@
     "overcast-picked": "https://overcast.fm/+FXx7hS2kY/47:20"
   },
   {
+    "text": "The 13\" MacBook Pro is redesigned",
+    "full-pick-text": "The 13\" MacBook Pro is redesigned",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/24:38"
+  },
+  {
     "text": "The 15-inch MacBook Air will be powered by an M3",
     "full-pick-text": "The 15-inch MacBook Air will be powered by an M3",
     "notes": "",
@@ -1593,6 +1674,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:01:28"
   },
   {
+    "text": "The iMac's input devices are updated with USB-C but otherwise remain the same",
+    "full-pick-text": "The iMac's input devices are updated with USB-C but otherwise remain the same",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Accessories"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:09"
+  },
+  {
     "text": "The Intel Mac mini is removed from sale",
     "full-pick-text": "The Intel Mac mini is removed from sale",
     "notes": "",
@@ -1626,6 +1721,33 @@
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:26:26"
   },
   {
+    "text": "The M1 iMac receives an update",
+    "full-pick-text": "The M1 iMac receives an update",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/30:57"
+  },
+  {
+    "text": "The M3, M3 Pro and M3 Max are all announced",
+    "full-pick-text": "The M3, M3 Pro and M3 Max are all announced",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Alternate Risky"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:33"
+  },
+  {
     "text": "The Mac is not mentioned",
     "full-pick-text": "The Mac is not mentioned",
     "notes": "",
@@ -1641,6 +1763,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx61sqT4/59:49",
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:26:14"
+  },
+  {
+    "text": "The Mac mini is not updated",
+    "full-pick-text": "The Mac mini is not updated",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Buzzkill"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:02:49"
   },
   {
     "text": "The Mac Mini is updated to include more than one system-on-a-chip option",
@@ -1689,6 +1825,20 @@
     "overcast-picked": "https://overcast.fm/+FXx5giTnQ/25:34"
   },
   {
+    "text": "The MacBook Air is not updated at this event",
+    "full-pick-text": "The MacBook Air is not updated at this event",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "Buzzkill"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/29:03"
+  },
+  {
     "text": "The MacBook Escape will go away",
     "full-pick-text": "The MacBook Escape will go away",
     "notes": "",
@@ -1703,6 +1853,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx7hS2kY/17:45",
     "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/34:08"
+  },
+  {
+    "text": "The names of the colours of the iMac are unchanged",
+    "full-pick-text": "The names of the colours of the iMac are unchanged",
+    "notes": "<p><ul><li>Cleverly worded so that if the iMac isn't touched, the pick is still correct, but Federico's questioning of whether a change in hue counts causes Myke to water it down to just names. At the time of the pick, the colors were \"Blue, Green, Pink, Silver, Yellow, Orange, Purple\". </li></ul></p>",
+    "game": "2023 October Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/31:57"
   },
   {
     "text": "The new Apple Silicon MacBook Pro will not be announced at this event",
@@ -1855,6 +2019,21 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/43:39",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/34:36"
+  },
+  {
+    "text": "The visual design of the 14\" and 16\" MacBook Pro is unchanged",
+    "full-pick-text": "The visual design of the 14\" and 16\" MacBook Pro is unchanged",
+    "notes": "<p><ul><li>The word \"visual\" was added, but it's agreed that we'll know it when we see it.</li></ul></p>",
+    "game": "2023 October Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/35:42"
   },
   {
     "text": "There will be a chip named M1 followed by a letter",

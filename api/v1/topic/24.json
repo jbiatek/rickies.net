@@ -86,6 +86,21 @@
     "overcast-picked": "https://overcast.fm/+FXx7hS2kY/1:29:03"
   },
   {
+    "text": "At least one M3-series chip introduces support for Thunderbolt 5, a first for the industry",
+    "full-pick-text": "At least one M3-series chip introduces support for Thunderbolt 5, a first for the industry",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Accessories",
+      "Alternate Risky"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/56:51"
+  },
+  {
     "text": "At least one of the Apple Silicon Macs has a Pro Motion display",
     "full-pick-text": "At least one of the Apple Silicon Macs has a Pro Motion display",
     "notes": "<p><ul><li>Was originally a Risky Pick.</li><li>ProMotion came to the Mac the next year with the MacBook Pro line.</li></ul></p>",
@@ -277,5 +292,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:15:10",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:17:18"
+  },
+  {
+    "text": "The M3, M3 Pro and M3 Max are all announced",
+    "full-pick-text": "The M3, M3 Pro and M3 Max are all announced",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Alternate Risky"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:33"
   }
 ]

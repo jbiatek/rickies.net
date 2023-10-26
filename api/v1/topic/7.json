@@ -401,6 +401,19 @@
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:19:52"
   },
   {
+    "text": "Apple introduces a new desktop keyboard and/or trackpad that supports connecting to multiple devices at once. They also support USB-C connections now",
+    "full-pick-text": "Apple introduces a new desktop keyboard and/or trackpad that supports connecting to multiple devices at once. They also support USB-C connections now",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Accessories"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/46:41"
+  },
+  {
     "text": "Apple launches 'AirTags' accessories for tracking physical objects",
     "full-pick-text": "Apple launches 'AirTags' accessories for tracking physical objects",
     "notes": "<p><ul><li>    The name was allowed to be different, but Federico nailed it. </li></ul></p>",
@@ -568,6 +581,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:20:25"
   },
   {
+    "text": "Apple unveils a new Studio Display Pro that is larger than the regular Studio Display and features a new screen technology than the smaller model",
+    "full-pick-text": "Apple unveils a new Studio Display Pro that is larger than the regular Studio Display and features a new screen technology than the smaller model",
+    "notes": "<p><ul><li>Myke wavers on the \"larger\" clause but chooses to keep the pick unmodified when Stephen thinks it's important to the riskiness of the pick.</li></ul></p>",
+    "game": "2023 October Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Accessories",
+      "Passionate"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/43:16"
+  },
+  {
     "text": "Apple updates the standard Bluetooth Magic Keyboard",
     "full-pick-text": "Apple updates the standard Bluetooth Magic Keyboard",
     "notes": "<p><ul><li>Jason Snell had to be called in to adjudicate this one. Stephen contended that it was just the <em>iMac’s</em> keyboard that was updated, not the “standard” one. To be fair, when describing this pick, Federico seemed to be using \"standard\" to differentiate from the \"extended\" keyboard with number pad, but of course it's what's written that matters.</li></ul></p>",
@@ -691,6 +718,35 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5wv1as/11:24",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:09:15"
+  },
+  {
+    "text": "At least one computer or accessory that gets updated is less expensive in the US than before",
+    "full-pick-text": "At least one computer or accessory that gets updated is less expensive in the US than before",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Accessories"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/58:16"
+  },
+  {
+    "text": "At least one M3-series chip introduces support for Thunderbolt 5, a first for the industry",
+    "full-pick-text": "At least one M3-series chip introduces support for Thunderbolt 5, a first for the industry",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Accessories",
+      "Alternate Risky"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/56:51"
   },
   {
     "text": "At least one of the new iPhones will support the new Qi 2 wireless charging standard...",
@@ -1207,6 +1263,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/50:12"
   },
   {
+    "text": "The iMac's input devices are updated with USB-C but otherwise remain the same",
+    "full-pick-text": "The iMac's input devices are updated with USB-C but otherwise remain the same",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Accessories"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:09"
+  },
+  {
     "text": "The Magic Keyboard for iPad goes unchanged",
     "full-pick-text": "The Magic Keyboard for iPad goes unchanged",
     "notes": "<p><ul><li>Ungraded: what if it got a camera on the long edge? That'd be incredible.</li></ul></p>",
@@ -1324,6 +1394,21 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:19:02",
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:21:41"
+  },
+  {
+    "text": "We do not get new AirPods Max, even though I want them",
+    "full-pick-text": "We do not get new AirPods Max, even though I want them",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "AirPods",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:20"
   },
   {
     "text": "We do not see AirPods Max 2",

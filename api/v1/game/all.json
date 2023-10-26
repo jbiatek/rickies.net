@@ -9732,6 +9732,371 @@
     ]
   },
   {
+    "name": "2023 October Rickies",
+    "game-type": "Keynote",
+    "date-graded": "",
+    "date-picked": "2023-10-25",
+    "main-game": {
+      "picks": [
+        {
+          "text": "Apple announces a new Apple Silicon system-on-a-chip",
+          "full-pick-text": "Apple announces a new Apple Silicon system-on-a-chip",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Regular",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/20:58"
+        },
+        {
+          "text": "The 13\" MacBook Pro is redesigned",
+          "full-pick-text": "The 13\" MacBook Pro is redesigned",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Regular",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/24:38"
+        },
+        {
+          "text": "The MacBook Air is not updated at this event",
+          "full-pick-text": "The MacBook Air is not updated at this event",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Regular",
+          "topics": [
+            "Mac",
+            "Buzzkill"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/29:03"
+        },
+        {
+          "text": "The M1 iMac receives an update",
+          "full-pick-text": "The M1 iMac receives an update",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Regular",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/30:57"
+        },
+        {
+          "text": "The names of the colours of the iMac are unchanged",
+          "full-pick-text": "The names of the colours of the iMac are unchanged",
+          "notes": "<p><ul><li>Cleverly worded so that if the iMac isn't touched, the pick is still correct, but Federico's questioning of whether a change in hue counts causes Myke to water it down to just names. At the time of the pick, the colors were \"Blue, Green, Pink, Silver, Yellow, Orange, Purple\". </li></ul></p>",
+          "game": "2023 October Rickies",
+          "type": "Regular",
+          "topics": [
+            "Mac",
+            "Live Edited"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/31:57"
+        },
+        {
+          "text": "The visual design of the 14\" and 16\" MacBook Pro is unchanged",
+          "full-pick-text": "The visual design of the 14\" and 16\" MacBook Pro is unchanged",
+          "notes": "<p><ul><li>The word \"visual\" was added, but it's agreed that we'll know it when we see it.</li></ul></p>",
+          "game": "2023 October Rickies",
+          "type": "Regular",
+          "topics": [
+            "Mac",
+            "Buzzkill",
+            "Live Edited"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/35:42"
+        },
+        {
+          "text": "Apple unveils an iMac Pro",
+          "full-pick-text": "Apple unveils an iMac Pro",
+          "notes": "<p><ul><li>In Stephen's mind, this requires a 27\" or larger screen, and a Pro/Pro Max caliber processor at least.</li></ul></p>",
+          "game": "2023 October Rickies",
+          "type": "Ricky",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/40:24"
+        },
+        {
+          "text": "Apple unveils a new Studio Display Pro that is larger than the regular Studio Display and features a new screen technology than the smaller model",
+          "full-pick-text": "Apple unveils a new Studio Display Pro that is larger than the regular Studio Display and features a new screen technology than the smaller model",
+          "notes": "<p><ul><li>Myke wavers on the \"larger\" clause but chooses to keep the pick unmodified when Stephen thinks it's important to the riskiness of the pick.</li></ul></p>",
+          "game": "2023 October Rickies",
+          "type": "Ricky",
+          "topics": [
+            "Accessories",
+            "Passionate"
+          ],
+          "host": "Myke",
+          "pick-conditions": 3,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/43:16"
+        },
+        {
+          "text": "Apple introduces a new desktop keyboard and/or trackpad that supports connecting to multiple devices at once. They also support USB-C connections now",
+          "full-pick-text": "Apple introduces a new desktop keyboard and/or trackpad that supports connecting to multiple devices at once. They also support USB-C connections now",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Ricky",
+          "topics": [
+            "Accessories"
+          ],
+          "host": "Federico",
+          "pick-conditions": 3,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/46:41"
+        }
+      ],
+      "coin-flips": [],
+      "winner": "TBD"
+    },
+    "the-flexies": {
+      "picks": [
+        {
+          "text": "Johnny Srouji makes an appearance",
+          "full-pick-text": "Johnny Srouji makes an appearance",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Stagecraft"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/55:45"
+        },
+        {
+          "text": "The event video is less than 90 minutes long",
+          "full-pick-text": "The event video is less than 90 minutes long",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Stagecraft"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/56:38"
+        },
+        {
+          "text": "At least one M3-series chip introduces support for Thunderbolt 5, a first for the industry",
+          "full-pick-text": "At least one M3-series chip introduces support for Thunderbolt 5, a first for the industry",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac",
+            "Accessories",
+            "Alternate Risky"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/56:51"
+        },
+        {
+          "text": "Vision Pro is mentioned at some point during the video",
+          "full-pick-text": "Vision Pro is mentioned at some point during the video",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Augmented Reality",
+            "Stagecraft"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/57:50"
+        },
+        {
+          "text": "At least one computer or accessory that gets updated is less expensive in the US than before",
+          "full-pick-text": "At least one computer or accessory that gets updated is less expensive in the US than before",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac",
+            "Accessories"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/58:16"
+        },
+        {
+          "text": "Some kind of Halloween joke is made",
+          "full-pick-text": "Some kind of Halloween joke is made",
+          "notes": "<p><ul><li>Perhaps Greg Joswiak dressed as something.</li></ul></p>",
+          "game": "2023 October Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Stagecraft"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/58:46"
+        },
+        {
+          "text": "Someone says \"carbon neutral\"",
+          "full-pick-text": "Someone says \"carbon neutral\"",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Stagecraft"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/59:04"
+        },
+        {
+          "text": "All outside shots are filmed in the evening",
+          "full-pick-text": "All outside shots are filmed in the evening",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Stagecraft"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/59:53"
+        },
+        {
+          "text": "John Ternus looks great",
+          "full-pick-text": "John Ternus looks great",
+          "notes": "<p><ul><li>How could this possibly be graded? Again, <a href=\"https://overcast.fm/+FXx52vzd4/1:04:26\" target=\"_blank\">you'll know it when you see it</a>.</li></ul></p>",
+          "game": "2023 October Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Stagecraft"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:04"
+        },
+        {
+          "text": "At least one Mac is available to order \"today\"",
+          "full-pick-text": "At least one Mac is available to order \"today\"",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:11"
+        },
+        {
+          "text": "We do not get new AirPods Max, even though I want them",
+          "full-pick-text": "We do not get new AirPods Max, even though I want them",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Accessories",
+            "AirPods",
+            "Buzzkill"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:20"
+        },
+        {
+          "text": "The iMac's input devices are updated with USB-C but otherwise remain the same",
+          "full-pick-text": "The iMac's input devices are updated with USB-C but otherwise remain the same",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac",
+            "Accessories"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:09"
+        },
+        {
+          "text": "The M3, M3 Pro and M3 Max are all announced",
+          "full-pick-text": "The M3, M3 Pro and M3 Max are all announced",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac",
+            "Alternate Risky"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 3,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:33"
+        },
+        {
+          "text": "The Mac mini is not updated",
+          "full-pick-text": "The Mac mini is not updated",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac",
+            "Buzzkill"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:02:49"
+        },
+        {
+          "text": "The iPad isn't even mentioned",
+          "full-pick-text": "The iPad isn't even mentioned",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "Buzzkill"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:03:15"
+        },
+        {
+          "text": "We don't see Tim Cook on video",
+          "full-pick-text": "We don't see Tim Cook on video",
+          "notes": "",
+          "game": "2023 October Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Stagecraft"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:03:24"
+        }
+      ],
+      "coin-flips": [],
+      "winner": "TBD"
+    },
+    "relevant-episodes": [
+      {
+        "title": "Connected #473: The Rickies (October 2023)",
+        "url": "https://relay.fm/connected/473",
+        "episode-number": 473
+      }
+    ]
+  },
+  {
     "name": "2023 September Rickies",
     "game-type": "Keynote",
     "date-graded": "2023-09-13",
