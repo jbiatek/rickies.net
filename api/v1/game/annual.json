@@ -1503,17 +1503,18 @@
         {
           "text": "WidgetKit will support new widget sizes and more interactivity",
           "full-pick-text": "WidgetKit will support new widget sizes and more interactivity",
-          "notes": "<p><ul><li>The boolean operator \"and\" ends up taking this pick down.</li></ul></p>",
+          "notes": "<p><ul><li>The boolean operator \"and\" ends up taking this pick down, as interactivity wouldn't come until 2023.</li></ul></p>",
           "game": "2021 Annual Rickies",
           "type": "Flexie",
           "topics": [
             "iOS",
-            "Developer tools",
-            "Possible Vindication"
+            "Ahead of Its Time",
+            "Developer tools"
           ],
           "host": "Federico",
           "pick-conditions": 2,
           "score": 0,
+          "ahead-by": 520,
           "overcast-graded": "https://overcast.fm/+FXx6bXcOY/54:30",
           "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:28:34"
         },
@@ -1838,6 +1839,7 @@
           "game": "2022 Annual Rickies",
           "type": "Flexie",
           "topics": [
+            "Apple management",
             "Stagecraft"
           ],
           "host": "Myke",

@@ -34,6 +34,41 @@
     "overcast-picked": "https://overcast.fm/+FXx7hS2kY/37:12"
   },
   {
+    "text": "Craig demos Big Sur features",
+    "full-pick-text": "Craig demos Big Sur features",
+    "notes": "<p><ul><li>The instant wake demo is counted for this.</li></ul></p>",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:07:55",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:38:40"
+  },
+  {
+    "text": "Craig is wearing a blue shirt",
+    "full-pick-text": "Craig is wearing a blue shirt",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/51:16",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:16:09"
+  },
+  {
     "text": "Jeff Williams has a major role in introducing the headset",
     "full-pick-text": "Jeff Williams has a major role in introducing the headset",
     "notes": "<p><ul><li>Was originally Kevin Lynch until Myke, ever the sportsman, pointed out that Lynch is supposedly on the <em>car</em> project, not the headset.</li></ul></p>",
@@ -53,6 +88,150 @@
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:42"
   },
   {
+    "text": "Jeff Williams will take a greater role in the keynote",
+    "full-pick-text": "Jeff Williams will take a greater role in the keynote",
+    "notes": "<p><ul><li>More than just the Apple Watch section</li></ul></p>",
+    "game": "2019 Fall Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Apple management",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx61sqT4/1:00:05",
+    "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:26:48"
+  },
+  {
+    "text": "John Ternus is wearing a black T-shirt",
+    "full-pick-text": "John Ternus is wearing a black T-shirt",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/49:54",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:10:35"
+  },
+  {
+    "text": "John Ternus is wearing jeans and a black t-shirt",
+    "full-pick-text": "John Ternus is wearing jeans and a black t-shirt",
+    "notes": "<p><ul><li>It was a blue t-shirt.</li></ul></p>",
+    "game": "2021 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:17:34",
+    "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:18:37"
+  },
+  {
+    "text": "John Ternus looks great",
+    "full-pick-text": "John Ternus looks great",
+    "notes": "<p><ul><li>How could this possibly be graded? Again, <a href=\"https://overcast.fm/+FXx52vzd4/1:04:26\" target=\"_blank\">you'll know it when you see it</a>.</li></ul></p>",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:04"
+  },
+  {
+    "text": "Johnny Srouji makes an appearance",
+    "full-pick-text": "Johnny Srouji makes an appearance",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/55:45"
+  },
+  {
+    "text": "Joz presents a new product",
+    "full-pick-text": "Joz presents a new product",
+    "notes": "",
+    "game": "2020 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:14:53",
+    "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:25:26"
+  },
+  {
+    "text": "Joz wears a non-solid-color shirt",
+    "full-pick-text": "Joz wears a non-solid-color shirt",
+    "notes": "",
+    "game": "2020 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5peDck/1:01:44",
+    "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:31:29"
+  },
+  {
+    "text": "No mention or word from Jony Ive",
+    "full-pick-text": "No mention or word from Jony Ive",
+    "notes": "",
+    "game": "2019 Fall Rickies",
+    "type": "NonGraded",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx61sqT4/1:00:37",
+    "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:27:53"
+  },
+  {
+    "text": "Phil Schiller is nowhere to be seen",
+    "full-pick-text": "Phil Schiller is nowhere to be seen",
+    "notes": "",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:08",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:33:14"
+  },
+  {
     "text": "Someone on Apple's executive website will leave or be fired",
     "full-pick-text": "Someone on Apple's executive website will leave or be fired",
     "notes": "<p><ul><li><a href=\"https://web.archive.org/web/20190110012030/https://www.apple.com/leadership/\" target=\"_blank\">The page as it existed at the time of the pick</a>.</li><li>Above or below \"the line\", but in the end people from both sections did leave.</li></ul></p>",
@@ -66,6 +245,39 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx7hS2kY/27:39",
     "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/58:52"
+  },
+  {
+    "text": "Tim Cook interacts with a celebrity",
+    "full-pick-text": "Tim Cook interacts with a celebrity",
+    "notes": "",
+    "game": "2019 Media Event Predictions",
+    "type": "Regular",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx75P5Bg/33:14",
+    "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:16:30"
+  },
+  {
+    "text": "Tim Cook mentions the war in Ukraine",
+    "full-pick-text": "Tim Cook mentions the war in Ukraine",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/49:44",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:09:53"
   },
   {
     "text": "Tim Cook says \"good morning\"",
@@ -84,6 +296,57 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:34:17"
   },
   {
+    "text": "Tim Cook says \"metaverse\"",
+    "full-pick-text": "Tim Cook says \"metaverse\"",
+    "notes": "<p><ul><li><a href=\"https://9to5mac.com/2022/09/30/tim-cook-metaverse-interviews/\" target=\"_blank\">Correct, as reported at 9to5Mac.</a></li></ul></p>",
+    "game": "2022 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5wv1as/31:09",
+    "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:33:19"
+  },
+  {
+    "text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand",
+    "full-pick-text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand",
+    "notes": "",
+    "game": "2019 Fall Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Apple management",
+      "Live Edited",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx61sqT4/49:50",
+    "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:13:04"
+  },
+  {
+    "text": "Tim presents some portion of the keynote in front of a live audience",
+    "full-pick-text": "Tim presents some portion of the keynote in front of a live audience",
+    "notes": "<p><ul><li>This is very very similar to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20presenter%20references%20the%20fact%20that%20some%20developers%20are%20at%20Apple%20Park%20for%20the%20keynote\">Stephen's Flexie</a> and both ultimately got graded at this point, as well as Stephen's <em>other</em> <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#At%20least%20one%20iOS%20system%20app%20is%20redesigned%20to%20bring%20its%20controls%20to%20the%20bottom%20of%20the%20screen\">controversial pick</a>.</li></ul></p>",
+    "game": "2022 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:31:36",
+    "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:23:12"
+  },
+  {
     "text": "We do not see John Ternus",
     "full-pick-text": "We do not see John Ternus",
     "notes": "",
@@ -98,5 +361,68 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/1:23:54",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:34:01"
+  },
+  {
+    "text": "We do not see Joz during this event",
+    "full-pick-text": "We do not see Joz during this event",
+    "notes": "",
+    "game": "2022 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4aVfvI/52:24",
+    "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:17:13"
+  },
+  {
+    "text": "We don't see Tim Cook on video",
+    "full-pick-text": "We don't see Tim Cook on video",
+    "notes": "",
+    "game": "2023 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:03:24"
+  },
+  {
+    "text": "We see Johny Srouji again",
+    "full-pick-text": "We see Johny Srouji again",
+    "notes": "",
+    "game": "2020 November Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:16",
+    "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:33:39"
+  },
+  {
+    "text": "We see Joz introduce something",
+    "full-pick-text": "We see Joz introduce something",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:23:43",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:21:57"
   }
 ]

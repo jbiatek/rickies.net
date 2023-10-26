@@ -1207,12 +1207,13 @@
     "topics": [
       "iPhone",
       "iOS",
-      "Live Edited",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "Live Edited"
     ],
     "host": "Federico",
     "pick-conditions": 1,
     "score": -1,
+    "ahead-by": 369,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/52:38",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/53:09"
   },
@@ -1489,6 +1490,7 @@
     "game": "2019 Fall Rickies",
     "type": "Ricky",
     "topics": [
+      "Apple management",
       "Live Edited",
       "Stagecraft",
       "Unvindicatable"

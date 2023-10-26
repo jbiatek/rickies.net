@@ -121,6 +121,24 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:42:34"
   },
   {
+    "text": "A new, unique case",
+    "full-pick-text": "A new, unique case",
+    "notes": "<p><ul><li>Apple's case lineup would stay effectively unchanged until 2023, when the Fine Woven case replaced the leather case.</li></ul></p>",
+    "game": "2018 iPhone Event Predictions",
+    "type": "NonGraded",
+    "topics": [
+      "iPhone",
+      "Accessories",
+      "Ahead of Its Time"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 1825,
+    "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:28:13",
+    "overcast-picked": "https://overcast.fm/+FXx4E3x_I/55:37"
+  },
+  {
     "text": "An iPhone gets an always-on display with a UI element that is reminiscent of Apple Watch complications",
     "full-pick-text": "An iPhone gets an always-on display with a UI element that is reminiscent of Apple Watch complications",
     "notes": "",
@@ -1378,6 +1396,43 @@
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:05:38"
   },
   {
+    "text": "The iPhone 14 Pro Camera app introduces some kind of 3D capturing functionality",
+    "full-pick-text": "The iPhone 14 Pro Camera app introduces some kind of 3D capturing functionality",
+    "notes": "",
+    "game": "2022 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Ahead of Its Time",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": -1,
+    "ahead-by": 369,
+    "overcast-graded": "https://overcast.fm/+FXx650Foc/52:38",
+    "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/53:09"
+  },
+  {
+    "text": "The iPhone 14 Pro switches to titanium for the side rails",
+    "full-pick-text": "The iPhone 14 Pro switches to titanium for the side rails",
+    "notes": "<p><ul><li>This was going to be a Risky pick, but <a href=\"https://www.macrumors.com/2021/07/26/iphone-14-2022-pro-models-titanium-case/\" target=\"_blank\">rumors were found before the show</a>.</li></ul></p>",
+    "game": "2022 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Ahead of Its Time",
+      "Alternate Risky"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 369,
+    "overcast-graded": "https://overcast.fm/+FXx650Foc/1:17:37",
+    "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:57"
+  },
+  {
     "text": "The iPhone Pro comes in 5 colors/finishes, not the traditional 4",
     "full-pick-text": "The iPhone Pro comes in 5 colors/finishes, not the traditional 4",
     "notes": "<p><ul><li>This unexpectedly came true in spring 2022, when Apple added a new green color to the Pro line.</li></ul></p>",
@@ -1393,6 +1448,23 @@
     "ahead-by": 176,
     "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:09:49",
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:13:59"
+  },
+  {
+    "text": "The iPhone Pro moves to USB-C",
+    "full-pick-text": "The iPhone Pro moves to USB-C",
+    "notes": "<p><ul><li>Stephen was <em>very</em> sure of this pick.</li></ul></p>",
+    "game": "2020 October Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "Ahead of Its Time"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": -1,
+    "ahead-by": 1063,
+    "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:03:13",
+    "overcast-picked": "https://overcast.fm/+FXx5SWQQA/57:02"
   },
   {
     "text": "The iPod Touch is taken down from sale in the wake of the event",
@@ -1586,5 +1658,23 @@
     "ahead-by": 725,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/48:38",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/54:23"
+  },
+  {
+    "text": "WidgetKit will support new widget sizes and more interactivity",
+    "full-pick-text": "WidgetKit will support new widget sizes and more interactivity",
+    "notes": "<p><ul><li>The boolean operator \"and\" ends up taking this pick down, as interactivity wouldn't come until 2023.</li></ul></p>",
+    "game": "2021 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Ahead of Its Time",
+      "Developer tools"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "ahead-by": 520,
+    "overcast-graded": "https://overcast.fm/+FXx6bXcOY/54:30",
+    "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:28:34"
   }
 ]

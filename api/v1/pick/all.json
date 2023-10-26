@@ -479,17 +479,18 @@
   {
     "text": "A new, unique case",
     "full-pick-text": "A new, unique case",
-    "notes": "",
+    "notes": "<p><ul><li>Apple's case lineup would stay effectively unchanged until 2023, when the Fine Woven case replaced the leather case.</li></ul></p>",
     "game": "2018 iPhone Event Predictions",
     "type": "NonGraded",
     "topics": [
       "iPhone",
       "Accessories",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Myke",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 1825,
     "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:28:13",
     "overcast-picked": "https://overcast.fm/+FXx4E3x_I/55:37"
   },
@@ -3790,6 +3791,7 @@
     "topics": [
       "Mac",
       "macOS",
+      "Apple management",
       "Stagecraft"
     ],
     "host": "Myke",
@@ -3805,6 +3807,7 @@
     "game": "2022 March Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple management",
       "Stagecraft",
       "Unvindicatable"
     ],
@@ -4782,6 +4785,7 @@
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
     "topics": [
+      "Apple management",
       "Stagecraft",
       "Unvindicatable"
     ],
@@ -4798,6 +4802,7 @@
     "game": "2022 March Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple management",
       "Stagecraft",
       "Unvindicatable"
     ],
@@ -4814,6 +4819,7 @@
     "game": "2021 October Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple management",
       "Stagecraft",
       "Unvindicatable"
     ],
@@ -4830,6 +4836,7 @@
     "game": "2023 October Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple management",
       "Stagecraft"
     ],
     "host": "Myke",
@@ -4843,6 +4850,7 @@
     "game": "2023 October Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple management",
       "Stagecraft"
     ],
     "host": "Federico",
@@ -4856,6 +4864,7 @@
     "game": "2020 October Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple management",
       "Stagecraft"
     ],
     "host": "Stephen",
@@ -4871,6 +4880,7 @@
     "game": "2020 September Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple management",
       "Stagecraft",
       "Unvindicatable"
     ],
@@ -4924,7 +4934,7 @@
       "iPhone",
       "Accessories",
       "Alternate Risky",
-      "Possible Vindication"
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
@@ -5877,6 +5887,7 @@
     "game": "2019 Fall Rickies",
     "type": "NonGraded",
     "topics": [
+      "Apple management",
       "Stagecraft"
     ],
     "host": "Stephen",
@@ -6275,6 +6286,7 @@
     "game": "2020 November Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple management",
       "Stagecraft"
     ],
     "host": "Stephen",
@@ -7709,12 +7721,13 @@
     "topics": [
       "iPhone",
       "iOS",
-      "Live Edited",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "Live Edited"
     ],
     "host": "Federico",
     "pick-conditions": 1,
     "score": -1,
+    "ahead-by": 369,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/52:38",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/53:09"
   },
@@ -7742,12 +7755,13 @@
     "type": "Flexie",
     "topics": [
       "iPhone",
-      "Alternate Risky",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "Alternate Risky"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 369,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/1:17:37",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:57"
   },
@@ -7821,11 +7835,12 @@
     "type": "Ricky",
     "topics": [
       "iPhone",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": -1,
+    "ahead-by": 1063,
     "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:03:13",
     "overcast-picked": "https://overcast.fm/+FXx5SWQQA/57:02"
   },
@@ -9114,6 +9129,7 @@
     "game": "2019 Media Event Predictions",
     "type": "Regular",
     "topics": [
+      "Apple management",
       "Stagecraft"
     ],
     "host": "Stephen",
@@ -9129,6 +9145,7 @@
     "game": "2022 March Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple management",
       "Stagecraft",
       "Unvindicatable"
     ],
@@ -9161,6 +9178,7 @@
     "game": "2022 Annual Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple management",
       "Stagecraft"
     ],
     "host": "Myke",
@@ -9176,6 +9194,7 @@
     "game": "2019 Fall Rickies",
     "type": "Ricky",
     "topics": [
+      "Apple management",
       "Live Edited",
       "Stagecraft",
       "Unvindicatable"
@@ -9193,6 +9212,7 @@
     "game": "2022 WWDC Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple management",
       "Stagecraft",
       "Unvindicatable"
     ],
@@ -9485,6 +9505,7 @@
     "game": "2022 March Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple management",
       "Stagecraft"
     ],
     "host": "Stephen",
@@ -9500,6 +9521,7 @@
     "game": "2023 October Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple management",
       "Stagecraft"
     ],
     "host": "Stephen",
@@ -9594,6 +9616,7 @@
     "game": "2020 November Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple management",
       "Stagecraft"
     ],
     "host": "Stephen",
@@ -9609,6 +9632,7 @@
     "game": "2021 April Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple management",
       "Stagecraft",
       "Unvindicatable"
     ],
@@ -9655,17 +9679,18 @@
   {
     "text": "WidgetKit will support new widget sizes and more interactivity",
     "full-pick-text": "WidgetKit will support new widget sizes and more interactivity",
-    "notes": "<p><ul><li>The boolean operator \"and\" ends up taking this pick down.</li></ul></p>",
+    "notes": "<p><ul><li>The boolean operator \"and\" ends up taking this pick down, as interactivity wouldn't come until 2023.</li></ul></p>",
     "game": "2021 Annual Rickies",
     "type": "Flexie",
     "topics": [
       "iOS",
-      "Developer tools",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "Developer tools"
     ],
     "host": "Federico",
     "pick-conditions": 2,
     "score": 0,
+    "ahead-by": 520,
     "overcast-graded": "https://overcast.fm/+FXx6bXcOY/54:30",
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:28:34"
   },
