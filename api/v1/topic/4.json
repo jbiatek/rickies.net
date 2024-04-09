@@ -26,6 +26,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/59:53"
   },
   {
@@ -559,6 +560,7 @@
     "type": "Flexie",
     "topics": [
       "Apple management",
+      "Apple Vision Pro",
       "Augmented Reality",
       "Live Edited",
       "Stagecraft",
@@ -633,6 +635,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:04"
   },
   {
@@ -647,6 +650,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/55:45"
   },
   {
@@ -735,7 +739,7 @@
   {
     "text": "No Mac or iPad hardware in the keynote",
     "full-pick-text": "No Mac or iPad hardware in the keynote",
-    "notes": "<p><ul><li>10.2” iPad was announced</li></ul></p>",
+    "notes": "<p><ul><li>10.2\" iPad was announced</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "Regular",
     "topics": [
@@ -874,7 +878,7 @@
   {
     "text": "No service bundle announced",
     "full-pick-text": "No service bundle announced",
-    "notes": "<p><ul><li>“including any service being free with another, or some sort of content being added to the iPhone upgrade program”</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn’t really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
+    "notes": "<p><ul><li>\"including any service being free with another, or some sort of content being added to the iPhone upgrade program\"</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn't really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "Ricky",
     "topics": [
@@ -967,6 +971,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/58:46"
   },
   {
@@ -1013,6 +1018,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/59:04"
   },
   {
@@ -1074,6 +1080,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/56:38"
   },
   {
@@ -1083,6 +1090,7 @@
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple Vision Pro",
       "Augmented Reality",
       "Stagecraft",
       "Unvindicatable"
@@ -1196,6 +1204,7 @@
     "game": "2023 WWDC Rickies",
     "type": "Regular",
     "topics": [
+      "Apple Vision Pro",
       "Augmented Reality",
       "Stagecraft"
     ],
@@ -1306,8 +1315,8 @@
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:33:19"
   },
   {
-    "text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand",
-    "full-pick-text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand",
+    "text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn't stand",
+    "full-pick-text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn't stand",
     "notes": "",
     "game": "2019 Fall Rickies",
     "type": "Ricky",
@@ -1401,11 +1410,14 @@
     "game": "2023 October Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple Vision Pro",
       "Augmented Reality",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/57:50"
   },
   {
@@ -1415,6 +1427,7 @@
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple Vision Pro",
       "Augmented Reality",
       "Stagecraft",
       "Unvindicatable"
@@ -1465,10 +1478,12 @@
     "type": "Flexie",
     "topics": [
       "Apple management",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:03:24"
   },
   {
@@ -1581,6 +1596,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/13:47",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/48:15"
   }
 ]

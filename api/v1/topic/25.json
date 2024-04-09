@@ -21,10 +21,13 @@
     "game": "2023 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Non-Apple Related"
+      "Non-Apple Related",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/32:45",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:10:39"
   }
 ]

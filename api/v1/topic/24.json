@@ -94,10 +94,12 @@
     "topics": [
       "Mac",
       "Accessories",
-      "Alternate Risky"
+      "Alternate Risky",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/56:51"
   },
   {
@@ -154,8 +156,8 @@
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:50"
   },
   {
-    "text": "iPadOS 15 brings organization changes to the home screen that don’t exist on the iPhone, including iOS 15",
-    "full-pick-text": "iPadOS 15 brings organization changes to the home screen that don’t exist on the iPhone, including iOS 15",
+    "text": "iPadOS 15 brings organization changes to the home screen that don't exist on the iPhone, including iOS 15",
+    "full-pick-text": "iPadOS 15 brings organization changes to the home screen that don't exist on the iPhone, including iOS 15",
     "notes": "<p><ul>\n<li>\"Widgets on home screen and App Library don't count as they are on the iPhone already\"</li>\n<li>This was originally a Risky Pick, but Myke couldn't get enough clarity for what it meant.</li>\n</ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Regular",
@@ -306,6 +308,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 3,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:33"
   }
 ]

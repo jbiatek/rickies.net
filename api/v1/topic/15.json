@@ -126,10 +126,13 @@
     "type": "Ricky",
     "topics": [
       "Augmented Reality",
-      "Developer tools"
+      "Developer tools",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 4,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/19:05",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/56:07"
   },
   {
@@ -139,10 +142,13 @@
     "game": "2023 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Augmented Reality"
+      "Augmented Reality",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/29:31",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:37"
   },
   {
@@ -187,6 +193,7 @@
     "type": "Flexie",
     "topics": [
       "Apple management",
+      "Apple Vision Pro",
       "Augmented Reality",
       "Live Edited",
       "Stagecraft",
@@ -288,6 +295,7 @@
     "game": "2023 WWDC Rickies",
     "type": "Ricky",
     "topics": [
+      "Apple Vision Pro",
       "Augmented Reality",
       "Unvindicatable"
     ],
@@ -304,6 +312,7 @@
     "game": "2023 WWDC Rickies",
     "type": "Regular",
     "topics": [
+      "Apple Vision Pro",
       "Augmented Reality"
     ],
     "host": "Myke",
@@ -319,6 +328,7 @@
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple Vision Pro",
       "Augmented Reality",
       "Stagecraft",
       "Unvindicatable"
@@ -336,6 +346,7 @@
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple Vision Pro",
       "Augmented Reality",
       "Developer tools"
     ],
@@ -352,6 +363,7 @@
     "game": "2023 WWDC Rickies",
     "type": "Regular",
     "topics": [
+      "Apple Vision Pro",
       "Augmented Reality",
       "Stagecraft"
     ],
@@ -368,11 +380,14 @@
     "game": "2023 October Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple Vision Pro",
       "Augmented Reality",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/57:50"
   },
   {
@@ -382,6 +397,7 @@
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple Vision Pro",
       "Augmented Reality",
       "Stagecraft",
       "Unvindicatable"

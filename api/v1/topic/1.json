@@ -292,6 +292,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/20:58"
   },
   {
@@ -489,7 +490,7 @@
   {
     "text": "Apple releases a larger MacBook Air",
     "full-pick-text": "Apple releases a larger MacBook Air",
-    "notes": "",
+    "notes": "<p><ul><li>Just before the grading of this pick, hummonizing with Stephen's bell met an inglorious end, as it seemed to stop working and also Myke was kind of done with it.</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Regular",
     "topics": [
@@ -498,6 +499,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/10:21",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/46:34"
   },
   {
@@ -512,6 +515,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/12:42",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/47:15"
   },
   {
@@ -536,10 +541,13 @@
     "game": "2023 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Mac"
+      "Mac",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/31:21",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:53"
   },
   {
@@ -568,10 +576,13 @@
       "Mac",
       "macOS",
       "Developer tools",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/37:04",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:17:40"
   },
   {
@@ -648,10 +659,12 @@
     "game": "2023 October Rickies",
     "type": "Ricky",
     "topics": [
-      "Mac"
+      "Mac",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": -1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/40:24"
   },
   {
@@ -779,7 +792,7 @@
   {
     "text": "At least one computer or accessory that gets updated is less expensive in the US than before",
     "full-pick-text": "At least one computer or accessory that gets updated is less expensive in the US than before",
-    "notes": "",
+    "notes": "<p><ul><li>The new low-end 14\" MacBook Pro, while spiritually replacing the 13\" at a higher price, counts as a price drop in the 14\" line.</li></ul></p>",
     "game": "2023 October Rickies",
     "type": "Flexie",
     "topics": [
@@ -788,6 +801,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/58:16"
   },
   {
@@ -799,10 +813,12 @@
     "topics": [
       "Mac",
       "Accessories",
-      "Alternate Risky"
+      "Alternate Risky",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/56:51"
   },
   {
@@ -816,6 +832,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:11"
   },
   {
@@ -1234,6 +1251,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/17:57",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/53:44"
   },
   {
@@ -1271,7 +1290,7 @@
   {
     "text": "No Mac or iPad hardware in the keynote",
     "full-pick-text": "No Mac or iPad hardware in the keynote",
-    "notes": "<p><ul><li>10.2” iPad was announced</li></ul></p>",
+    "notes": "<p><ul><li>10.2\" iPad was announced</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "Regular",
     "topics": [
@@ -1573,14 +1592,16 @@
   {
     "text": "The 13\" MacBook Pro is redesigned",
     "full-pick-text": "The 13\" MacBook Pro is redesigned",
-    "notes": "",
+    "notes": "<p><ul><li>Jason Snell was called in to adjudicate, as <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20updates%20the%20standard%20Bluetooth%20Magic%20Keyboard\">has been done before</a>, and decides against Myke's somewhat strained logic that it was redesigned into a new size.</li></ul></p>",
     "game": "2023 October Rickies",
     "type": "Regular",
     "topics": [
-      "Mac"
+      "Mac",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/24:38"
   },
   {
@@ -1602,14 +1623,17 @@
   {
     "text": "The Apple Silicon Mac Pro allows third-party GPUs to be used",
     "full-pick-text": "The Apple Silicon Mac Pro allows third-party GPUs to be used",
-    "notes": "",
+    "notes": "<p><ul><li>If this ever does happen, Federico promises to buy a Mac Pro.</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Mac"
+      "Mac",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/33:15",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:12:09"
   },
   {
@@ -1682,10 +1706,12 @@
     "type": "Flexie",
     "topics": [
       "Mac",
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:09"
   },
   {
@@ -1732,7 +1758,21 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/30:57"
+  },
+  {
+    "text": "The M1 MacBook Air is still on sale at the end of the year",
+    "full-pick-text": "The M1 MacBook Air is still on sale at the end of the year",
+    "notes": "",
+    "game": "2024 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:05:02"
   },
   {
     "text": "The M3, M3 Pro and M3 Max are all announced",
@@ -1746,6 +1786,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 3,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:33"
   },
   {
@@ -1777,6 +1818,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:02:49"
   },
   {
@@ -1790,6 +1832,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/33:50",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:13:11"
   },
   {
@@ -1837,6 +1881,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/29:03"
   },
   {
@@ -1867,6 +1912,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/31:57"
   },
   {
@@ -2034,6 +2080,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/35:42"
   },
   {

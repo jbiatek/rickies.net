@@ -1,7 +1,7 @@
 {
   "text": "At least one Twitter app update will be rejected from the App Store",
   "full-pick-text": "At least one Twitter app update will be rejected from the App Store",
-  "notes": "",
+  "notes": "<p><ul><li><a href=\"https://www.imore.com/apps/twitter/twitter-may-not-get-to-change-ios-app-name-to-x-due-to-apples-app-store-rules\" target=\"_blank\">X's troubles getting the app renamed</a> were counted as fulfilling this pick.</li></ul></p>",
   "game": "2023 Annual Rickies",
   "type": "Flexie",
   "topics": [
@@ -9,5 +9,7 @@
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/38:21",
   "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:18:08"
 }

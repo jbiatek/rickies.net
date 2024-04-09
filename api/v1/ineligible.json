@@ -1,276 +1,263 @@
 {
   "Stephen": [
     {
-      "text": "Apple releases an iPad Pro with a screen between 15.0 and 15.9999 inches which replaces the 11-inch model",
-      "full-pick-text": "Apple releases an iPad Pro with a screen between 15.0 and 15.9999 inches which replaces the 11-inch model",
-      "notes": "<p><ul><li>Was originally just \"15 inch\" but a specific range was requested after Federico's pick was read.</li></ul></p>",
-      "game": "2023 Annual Rickies",
+      "text": "Apple's CEO succession plan leaks",
+      "full-pick-text": "Apple's CEO succession plan leaks",
+      "notes": "",
+      "game": "2024 Annual Rickies",
       "type": "Ricky",
       "topics": [
-        "iPad",
-        "Live Edited"
+        "Apple management"
       ],
       "host": "Stephen",
-      "pick-conditions": 2,
-      "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:04:42"
+      "pick-conditions": 1,
+      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:02:10"
     },
     {
-      "text": "No Intel Macs are left on sale (as new) at the end of 2023",
-      "full-pick-text": "No Intel Macs are left on sale (as new) at the end of 2023",
-      "notes": "<p><ul><li>\"Does not include the refurbished or educational stores.\" Or, in other words, the Intel Mac Minis and Mac Pro are not sold as new anymore (and of course they don't introduce a <em>new</em> Intel Mac).</li></ul></p>",
-      "game": "2023 Annual Rickies",
+      "text": "The Apple Watch 10 brings an updated design inspired by the Apple Watch Ultra in some way",
+      "full-pick-text": "The Apple Watch 10 brings an updated design inspired by the Apple Watch Ultra in some way",
+      "notes": "<p><ul><li>Ungraded: \"Action Button, flat glass or crown guard, for example\"</li></ul></p>",
+      "game": "2024 Annual Rickies",
+      "type": "Regular",
+      "topics": [
+        "Apple Watch"
+      ],
+      "host": "Stephen",
+      "pick-conditions": 1,
+      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/52:45"
+    },
+    {
+      "text": "There will be no second-generation Vision Pro announced in 2024",
+      "full-pick-text": "There will be no second-generation Vision Pro announced in 2024",
+      "notes": "",
+      "game": "2024 Annual Rickies",
+      "type": "Regular",
+      "topics": [
+        "Apple Vision Pro",
+        "Buzzkill"
+      ],
+      "host": "Stephen",
+      "pick-conditions": 1,
+      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/58:58"
+    },
+    {
+      "text": "Apple announces a new Apple Silicon system-on-a-chip",
+      "full-pick-text": "Apple announces a new Apple Silicon system-on-a-chip",
+      "notes": "",
+      "game": "2023 October Rickies",
       "type": "Regular",
       "topics": [
         "Mac"
       ],
       "host": "Stephen",
       "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx5wv1as/53:44"
+      "score": 1,
+      "overcast-picked": "https://overcast.fm/+FXx52vzd4/20:58"
     },
     {
-      "text": "WWDC 2023 follows the same format as WWDC 2022, with a small number of people invited in person",
-      "full-pick-text": "WWDC 2023 follows the same format as WWDC 2022, with a small number of people invited in person",
-      "notes": "<p><ul><li>No convention center, no ticket lottery, just like in 2022.</li></ul></p>",
-      "game": "2023 Annual Rickies",
-      "type": "Regular",
-      "topics": [
-        "No Passion",
-        "Stagecraft"
-      ],
-      "host": "Stephen",
-      "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx5wv1as/48:15"
-    },
-    {
-      "text": "Apple announces a multi-device charger that looks a lot like AirPower, without designated charging targets",
-      "full-pick-text": "Apple announces a multi-device charger that looks a lot like AirPower, without designated charging targets",
-      "notes": "<p><ul><li>Stephen came to the table with two picks: \"Apple announces a multi-device charger that looks a lot like AirPower\" and \"The 15 Pro Max weighs within 10% of the 14 Pro Max's weight\". Myke believed that a 10% margin on either side is too wide to be risky and also that the AirPower one is just a better risky pick with less math. Once it's settled to go with the AirPower one, Federico asks to clarify \"looks like\" and the pick is modified to specify a lack of charging targets.</li></ul></p>",
-      "game": "2023 September Rickies",
+      "text": "Apple unveils an iMac Pro",
+      "full-pick-text": "Apple unveils an iMac Pro",
+      "notes": "<p><ul><li>In Stephen's mind, this requires a 27\" or larger screen, and a Pro/Pro Max caliber processor at least.</li></ul></p>",
+      "game": "2023 October Rickies",
       "type": "Ricky",
       "topics": [
-        "Accessories",
-        "Live Edited",
+        "Mac",
         "Possible Vindication"
       ],
       "host": "Stephen",
-      "pick-conditions": 3,
+      "pick-conditions": 1,
       "score": -1,
-      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/56:35",
-      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/47:20"
+      "overcast-picked": "https://overcast.fm/+FXx52vzd4/40:24"
     },
     {
-      "text": "At least 1 new iPhone ships with USB-C",
-      "full-pick-text": "At least 1 new iPhone ships with USB-C",
+      "text": "The M1 iMac receives an update",
+      "full-pick-text": "The M1 iMac receives an update",
       "notes": "",
-      "game": "2023 September Rickies",
+      "game": "2023 October Rickies",
       "type": "Regular",
       "topics": [
-        "iPhone"
+        "Mac"
       ],
       "host": "Stephen",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/25:03",
-      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/20:32"
-    },
-    {
-      "text": "The two Pro phones will have different camera features",
-      "full-pick-text": "The two Pro phones will have different camera features",
-      "notes": "<p><ul><li>It is agreed not to quibble too much about the name \"Pro\" if there ends up being something like an Ultra phone.</li></ul></p>",
-      "game": "2023 September Rickies",
-      "type": "Regular",
-      "topics": [
-        "iPhone"
-      ],
-      "host": "Stephen",
-      "pick-conditions": 1,
-      "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/37:36",
-      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/35:36"
+      "overcast-picked": "https://overcast.fm/+FXx52vzd4/30:57"
     }
   ],
   "Myke": [
     {
-      "text": "An iPhone gets USB-C",
-      "full-pick-text": "An iPhone gets USB-C",
-      "notes": "<p><ul><li>Seems inevitable but it might be a bit <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ahead%20of%20Its%20Time\">ahead of its time</a>.</li><li>Ungraded: might just be the Pro phones, to advertise the improved transfer speeds.</li></ul></p>",
-      "game": "2023 Annual Rickies",
-      "type": "Regular",
+      "text": "A game made by a studio owned by Meta is released on Vision Pro",
+      "full-pick-text": "A game made by a studio owned by Meta is released on Vision Pro",
+      "notes": "",
+      "game": "2024 Annual Rickies",
+      "type": "Ricky",
       "topics": [
-        "iPhone"
+        "Apple Vision Pro"
       ],
       "host": "Myke",
       "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx5wv1as/50:13"
+      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:00:54"
     },
     {
-      "text": "Apple releases a larger MacBook Air",
-      "full-pick-text": "Apple releases a larger MacBook Air",
+      "text": "The first OLED iPad is introduced",
+      "full-pick-text": "The first OLED iPad is introduced",
       "notes": "",
-      "game": "2023 Annual Rickies",
+      "game": "2024 Annual Rickies",
+      "type": "Regular",
+      "topics": [
+        "iPad"
+      ],
+      "host": "Myke",
+      "pick-conditions": 1,
+      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/52:03"
+    },
+    {
+      "text": "There is a new, larger, non-Pro iPad",
+      "full-pick-text": "There is a new, larger, non-Pro iPad",
+      "notes": "",
+      "game": "2024 Annual Rickies",
+      "type": "Regular",
+      "topics": [
+        "iPad"
+      ],
+      "host": "Myke",
+      "pick-conditions": 2,
+      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/57:49"
+    },
+    {
+      "text": "Apple unveils a new Studio Display Pro that is larger than the regular Studio Display and features a new screen technology than the smaller model",
+      "full-pick-text": "Apple unveils a new Studio Display Pro that is larger than the regular Studio Display and features a new screen technology than the smaller model",
+      "notes": "<p><ul><li>Myke wavers on the \"larger\" clause but chooses to keep the pick unmodified when Stephen thinks it's important to the riskiness of the pick.</li></ul></p>",
+      "game": "2023 October Rickies",
+      "type": "Ricky",
+      "topics": [
+        "Accessories",
+        "Passionate",
+        "Possible Vindication"
+      ],
+      "host": "Myke",
+      "pick-conditions": 3,
+      "score": -1,
+      "overcast-picked": "https://overcast.fm/+FXx52vzd4/43:16"
+    },
+    {
+      "text": "The 13\" MacBook Pro is redesigned",
+      "full-pick-text": "The 13\" MacBook Pro is redesigned",
+      "notes": "<p><ul><li>Jason Snell was called in to adjudicate, as <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20updates%20the%20standard%20Bluetooth%20Magic%20Keyboard\">has been done before</a>, and decides against Myke's somewhat strained logic that it was redesigned into a new size.</li></ul></p>",
+      "game": "2023 October Rickies",
       "type": "Regular",
       "topics": [
         "Mac",
-        "No Passion"
+        "Possible Vindication"
       ],
       "host": "Myke",
       "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx5wv1as/46:34"
+      "score": 0,
+      "overcast-picked": "https://overcast.fm/+FXx52vzd4/24:38"
     },
     {
-      "text": "Apple shows off their headset in March, they announce developer tools at WWDC, then show it off again at an event in September. It ships to customers in October",
-      "full-pick-text": "Apple shows off their headset in March, they announce developer tools at WWDC, then show it off again at an event in September. It ships to customers in October",
-      "notes": "",
-      "game": "2023 Annual Rickies",
-      "type": "Ricky",
-      "topics": [
-        "Augmented Reality",
-        "Developer tools"
-      ],
-      "host": "Myke",
-      "pick-conditions": 4,
-      "overcast-picked": "https://overcast.fm/+FXx5wv1as/56:07"
-    },
-    {
-      "text": "Apple calls the new camera the \"Magic Telephoto\"",
-      "full-pick-text": "Apple calls the new camera the \"Magic Telephoto\"",
-      "notes": "<p><ul><li>Myke thinks that \"periscope\" is a bad name for regular people and so Apple will pick something else, and to make it risky, he has made a specific guess at the branding. He also considered \"Ultra Telephoto\".</li></ul></p>",
-      "game": "2023 September Rickies",
-      "type": "Ricky",
-      "topics": [
-        "iPhone",
-        "Stagecraft",
-        "Unvindicatable"
-      ],
-      "host": "Myke",
-      "pick-conditions": 1,
-      "score": -1,
-      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:00:05",
-      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:02:55"
-    },
-    {
-      "text": "At least 1 iPhone gets a 3 nm processor",
-      "full-pick-text": "At least 1 iPhone gets a 3 nm processor",
-      "notes": "",
-      "game": "2023 September Rickies",
+      "text": "The names of the colours of the iMac are unchanged",
+      "full-pick-text": "The names of the colours of the iMac are unchanged",
+      "notes": "<p><ul><li>Cleverly worded so that if the iMac isn't touched, the pick is still correct, but Federico's questioning of whether a change in hue counts causes Myke to water it down to just names. At the time of the pick, the colors were \"Blue, Green, Pink, Silver, Yellow, Orange, Purple\". </li></ul></p>",
+      "game": "2023 October Rickies",
       "type": "Regular",
       "topics": [
-        "iPhone"
-      ],
-      "host": "Myke",
-      "pick-conditions": 1,
-      "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/44:28",
-      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/43:07"
-    },
-    {
-      "text": "At least 1 iPhone gets a camera with a more than 3x zoom",
-      "full-pick-text": "At least 1 iPhone gets a camera with a more than 3x zoom",
-      "notes": "<p><ul><li>Was \"telephoto lens\" specifically before Myke reconsidered</li></ul></p>",
-      "game": "2023 September Rickies",
-      "type": "Regular",
-      "topics": [
-        "iPhone",
+        "Mac",
         "Live Edited"
       ],
       "host": "Myke",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/32:51",
-      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/30:13"
+      "overcast-picked": "https://overcast.fm/+FXx52vzd4/31:57"
     }
   ],
   "Federico": [
     {
-      "text": "Apple releases a new Mac mini",
-      "full-pick-text": "Apple releases a new Mac mini",
-      "notes": "<p><ul><li>Ungraded: Probably the same design but with an M2 chip. More Thunderbolt ports would be nice.</li></ul></p>",
-      "game": "2023 Annual Rickies",
-      "type": "Regular",
-      "topics": [
-        "Mac",
-        "No Passion"
-      ],
-      "host": "Federico",
-      "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx5wv1as/47:15"
-    },
-    {
-      "text": "Apple will release its biggest iPad ever with a display of at least 16 inches...",
-      "full-pick-text": "Apple will release its biggest iPad ever with a display of at least 16 inches. It won't be OLED, it'll have the front-facing camera on the landscape side, and two USB-C ports at least. It'll be called iPad Studio.",
-      "notes": "<p><ul><li>\"... It won't be OLED, it'll have the front-facing camera on the landscape side, and two USB-C ports at least. It'll be called iPad Studio.\"</li></ul></p>",
-      "game": "2023 Annual Rickies",
+      "text": "A new iPad Pro will feature...",
+      "full-pick-text": "A new iPad Pro will feature a front-facing camera on the landscape side, higher than 27W fast charging, and eventually support more than 4 windows in the same Stage Manager workspace",
+      "notes": "<p><ul><li>\"... a front-facing camera on the landscape side, higher than 27W fast charging, and eventually support more than 4 windows in the same Stage Manager workspace.\"</li><li>Before the episode, this pick also included the detail of some models coming with more than 16 GB of RAM, but in keeping with the new, less outlandish tone of risky picks, Myke asked that it be toned down a bit.</li></ul></p>",
+      "game": "2024 Annual Rickies",
       "type": "Ricky",
       "topics": [
-        "iPad",
-        "Passionate"
+        "iPad"
       ],
       "host": "Federico",
-      "pick-conditions": 5,
-      "overcast-picked": "https://overcast.fm/+FXx5wv1as/59:31"
+      "pick-conditions": 3,
+      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:02:36"
     },
     {
-      "text": "There will not be an iPhone 15 mini",
-      "full-pick-text": "There will not be an iPhone 15 mini",
+      "text": "iOS 18 will bring new AI features based on LLMs with some generative capabilities",
+      "full-pick-text": "iOS 18 will bring new AI features based on LLMs with some generative capabilities",
       "notes": "",
-      "game": "2023 Annual Rickies",
+      "game": "2024 Annual Rickies",
       "type": "Regular",
       "topics": [
-        "iPhone",
-        "Buzzkill",
-        "No Passion"
+        "iOS"
       ],
       "host": "Federico",
       "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx5wv1as/52:05"
+      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:00:10"
     },
     {
-      "text": "At least 1 of the new iPhones will have a customizable \"action\" button instead of a traditional mute switch",
-      "full-pick-text": "At least 1 of the new iPhones will have a customizable \"action\" button instead of a traditional mute switch",
-      "notes": "<p><ul><li>Again, the name doesn't have to be exactly right, it's the concept.</li></ul></p>",
-      "game": "2023 September Rickies",
+      "text": "The keyboard for iPad Pro is substantially redesigned for the first time since its introduction in 2020",
+      "full-pick-text": "The keyboard for iPad Pro is substantially redesigned for the first time since its introduction in 2020",
+      "notes": "<p><ul><li>Federico's cohosts generously helped workshop some of the possible nitpicks out of the pick.</li><li>Ungraded: \"function row, backlight, material change, multiple USB ports, different viewing angles\"</li></ul></p>",
+      "game": "2024 Annual Rickies",
       "type": "Regular",
       "topics": [
-        "iPhone"
+        "iPad",
+        "Accessories",
+        "Live Edited"
       ],
       "host": "Federico",
       "pick-conditions": 1,
-      "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/39:15",
-      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/39:14"
+      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/54:52"
     },
     {
-      "text": "At least one of the new iPhones will support the new Qi 2 wireless charging standard...",
-      "full-pick-text": "At least one of the new iPhones will support the new Qi 2 wireless charging standard, and \"reverse wireless charging\" for AirPods cases. MagSafe charging speed will also be raised from 15 watts",
-      "notes": "<p><ul><li>\"... and \"reverse wireless charging\" for AirPods cases. MagSafe charging speed will also be raised from 15 watts.\"</li><li>Originally didn't include the last sentence.</li><li>The <a href=\"https://www.macrumors.com/2023/02/06/apple-reverse-wireless-charging-iphone/\" target=\"_blank\">previous rumors of reverse wireless charging</a> didn't disqualify this pick since it's in combination with Qi 2 as well. It's pointed out that Qi 2 is basically just standardized MagSafe as well, but it's still allowed as they'll have to be specific about Qi 2 to count it. Stephen still thinks it lacks passion. Later, Federico <a href=\"https://overcast.fm/+FXx5s-OzI/1:05:12\" target=\"_blank\">sprinkled some passion on it after all</a> by adding a charging wattage increase after all.</li></ul></p>",
-      "game": "2023 September Rickies",
+      "text": "Apple introduces a new desktop keyboard and/or trackpad that supports connecting to multiple devices at once. They also support USB-C connections now",
+      "full-pick-text": "Apple introduces a new desktop keyboard and/or trackpad that supports connecting to multiple devices at once. They also support USB-C connections now",
+      "notes": "",
+      "game": "2023 October Rickies",
       "type": "Ricky",
       "topics": [
         "Accessories",
-        "AirPods",
-        "Live Edited",
         "Possible Vindication"
       ],
       "host": "Federico",
       "pick-conditions": 3,
       "score": -1,
-      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/57:45",
-      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/54:31"
+      "overcast-picked": "https://overcast.fm/+FXx52vzd4/46:41"
     },
     {
-      "text": "The Pro iPhones will use titanium instead of stainless steel for the chassis",
-      "full-pick-text": "The Pro iPhones will use titanium instead of stainless steel for the chassis",
+      "text": "The MacBook Air is not updated at this event",
+      "full-pick-text": "The MacBook Air is not updated at this event",
       "notes": "",
-      "game": "2023 September Rickies",
+      "game": "2023 October Rickies",
       "type": "Regular",
       "topics": [
-        "iPhone"
+        "Mac",
+        "Buzzkill"
       ],
       "host": "Federico",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4c3VV0/28:01",
-      "overcast-picked": "https://overcast.fm/+FXx5s-OzI/28:22"
+      "overcast-picked": "https://overcast.fm/+FXx52vzd4/29:03"
+    },
+    {
+      "text": "The visual design of the 14\" and 16\" MacBook Pro is unchanged",
+      "full-pick-text": "The visual design of the 14\" and 16\" MacBook Pro is unchanged",
+      "notes": "<p><ul><li>The word \"visual\" was added, but it's agreed that we'll know it when we see it.</li></ul></p>",
+      "game": "2023 October Rickies",
+      "type": "Regular",
+      "topics": [
+        "Mac",
+        "Buzzkill",
+        "Live Edited"
+      ],
+      "host": "Federico",
+      "pick-conditions": 2,
+      "score": 1,
+      "overcast-picked": "https://overcast.fm/+FXx52vzd4/35:42"
     }
   ]
 }

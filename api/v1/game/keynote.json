@@ -71,7 +71,7 @@
         {
           "text": "No Mac or iPad hardware in the keynote",
           "full-pick-text": "No Mac or iPad hardware in the keynote",
-          "notes": "<p><ul><li>10.2” iPad was announced</li></ul></p>",
+          "notes": "<p><ul><li>10.2\" iPad was announced</li></ul></p>",
           "game": "2019 Fall Rickies",
           "type": "Regular",
           "topics": [
@@ -104,8 +104,8 @@
           "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:04:54"
         },
         {
-          "text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand",
-          "full-pick-text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand",
+          "text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn't stand",
+          "full-pick-text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn't stand",
           "notes": "",
           "game": "2019 Fall Rickies",
           "type": "Ricky",
@@ -124,7 +124,7 @@
         {
           "text": "No service bundle announced",
           "full-pick-text": "No service bundle announced",
-          "notes": "<p><ul><li>“including any service being free with another, or some sort of content being added to the iPhone upgrade program”</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn’t really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
+          "notes": "<p><ul><li>\"including any service being free with another, or some sort of content being added to the iPhone upgrade program\"</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn't really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
           "game": "2019 Fall Rickies",
           "type": "Ricky",
           "topics": [
@@ -142,7 +142,7 @@
         {
           "text": "Apple announces Apple TV and game controller bundle",
           "full-pick-text": "Apple announces Apple TV and game controller bundle",
-          "notes": "<p><ul><li>Federico spins a vivid tale of how actually this was announced, but the other guys don’t buy it.</li></ul></p>",
+          "notes": "<p><ul><li>Federico spins a vivid tale of how actually this was announced, but the other guys don't buy it.</li></ul></p>",
           "game": "2019 Fall Rickies",
           "type": "Ricky",
           "topics": [
@@ -648,7 +648,7 @@
     },
     "relevant-episodes": [
       {
-        "title": "Connected #235: Stephen’s Hellish Nightmare of Dates",
+        "title": "Connected #235: Stephen's Hellish Nightmare of Dates",
         "url": "https://relay.fm/connected/235",
         "episode-number": 235
       },
@@ -3302,7 +3302,7 @@
         {
           "text": "Apple updates the standard Bluetooth Magic Keyboard",
           "full-pick-text": "Apple updates the standard Bluetooth Magic Keyboard",
-          "notes": "<p><ul><li>Jason Snell had to be called in to adjudicate this one. Stephen contended that it was just the <em>iMac’s</em> keyboard that was updated, not the “standard” one. To be fair, when describing this pick, Federico seemed to be using \"standard\" to differentiate from the \"extended\" keyboard with number pad, but of course it's what's written that matters.</li></ul></p>",
+          "notes": "<p><ul><li>Jason Snell had to be called in to adjudicate this one. Stephen contended that it was just the <em>iMac's</em> keyboard that was updated, not the \"standard\" one. To be fair, when describing this pick, Federico seemed to be using \"standard\" to differentiate from the \"extended\" keyboard with number pad, but of course it's what's written that matters.</li></ul></p>",
           "game": "2021 April Rickies",
           "type": "Flexie",
           "topics": [
@@ -4407,8 +4407,8 @@
           "overcast-picked": "https://overcast.fm/+FXx4EWu_4/42:05"
         },
         {
-          "text": "iPadOS 15 brings organization changes to the home screen that don’t exist on the iPhone, including iOS 15",
-          "full-pick-text": "iPadOS 15 brings organization changes to the home screen that don’t exist on the iPhone, including iOS 15",
+          "text": "iPadOS 15 brings organization changes to the home screen that don't exist on the iPhone, including iOS 15",
+          "full-pick-text": "iPadOS 15 brings organization changes to the home screen that don't exist on the iPhone, including iOS 15",
           "notes": "<p><ul>\n<li>\"Widgets on home screen and App Library don't count as they are on the iPhone already\"</li>\n<li>This was originally a Risky Pick, but Myke couldn't get enough clarity for what it meant.</li>\n</ul></p>",
           "game": "2021 WWDC Rickies",
           "type": "Regular",
@@ -5484,8 +5484,8 @@
           "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/32:15"
         },
         {
-          "text": "Apple shows off at least one iOS 16 feature that we haven’t seen before",
-          "full-pick-text": "Apple shows off at least one iOS 16 feature that we haven’t seen before",
+          "text": "Apple shows off at least one iOS 16 feature that we haven't seen before",
+          "full-pick-text": "Apple shows off at least one iOS 16 feature that we haven't seen before",
           "notes": "",
           "game": "2022 September Rickies",
           "type": "Regular",
@@ -6818,7 +6818,7 @@
   {
     "name": "2023 October Rickies",
     "game-type": "Keynote",
-    "date-graded": "",
+    "date-graded": "2023-11-01",
     "date-picked": "2023-10-25",
     "main-game": {
       "picks": [
@@ -6833,19 +6833,22 @@
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/20:58"
         },
         {
           "text": "The 13\" MacBook Pro is redesigned",
           "full-pick-text": "The 13\" MacBook Pro is redesigned",
-          "notes": "",
+          "notes": "<p><ul><li>Jason Snell was called in to adjudicate, as <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20updates%20the%20standard%20Bluetooth%20Magic%20Keyboard\">has been done before</a>, and decides against Myke's somewhat strained logic that it was redesigned into a new size.</li></ul></p>",
           "game": "2023 October Rickies",
           "type": "Regular",
           "topics": [
-            "Mac"
+            "Mac",
+            "Possible Vindication"
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/24:38"
         },
         {
@@ -6860,6 +6863,7 @@
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/29:03"
         },
         {
@@ -6873,6 +6877,7 @@
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/30:57"
         },
         {
@@ -6887,6 +6892,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/31:57"
         },
         {
@@ -6902,6 +6908,7 @@
           ],
           "host": "Federico",
           "pick-conditions": 2,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/35:42"
         },
         {
@@ -6911,10 +6918,12 @@
           "game": "2023 October Rickies",
           "type": "Ricky",
           "topics": [
-            "Mac"
+            "Mac",
+            "Possible Vindication"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": -1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/40:24"
         },
         {
@@ -6925,10 +6934,12 @@
           "type": "Ricky",
           "topics": [
             "Accessories",
-            "Passionate"
+            "Passionate",
+            "Possible Vindication"
           ],
           "host": "Myke",
           "pick-conditions": 3,
+          "score": -1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/43:16"
         },
         {
@@ -6938,15 +6949,44 @@
           "game": "2023 October Rickies",
           "type": "Ricky",
           "topics": [
-            "Accessories"
+            "Accessories",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 3,
+          "score": -1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/46:41"
         }
       ],
-      "coin-flips": [],
-      "winner": "TBD"
+      "coin-flips": [
+        {
+          "game": "2023 October Rickies",
+          "called": "Heads",
+          "caller": "Federico",
+          "flip-method": "Dice by PCalc",
+          "game-phase": "Rickies",
+          "loser": "Stephen",
+          "overcast-link": "",
+          "prize": 1,
+          "result": "Heads",
+          "winner": "Federico"
+        }
+      ],
+      "scores": [
+        {
+          "host": "Federico",
+          "score": 1
+        },
+        {
+          "host": "Stephen",
+          "score": 1
+        },
+        {
+          "host": "Myke",
+          "score": 0
+        }
+      ],
+      "winner": "Federico"
     },
     "the-flexies": {
       "picks": [
@@ -6962,6 +7002,7 @@
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/55:45"
         },
         {
@@ -6975,6 +7016,7 @@
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/56:38"
         },
         {
@@ -6986,10 +7028,12 @@
           "topics": [
             "Mac",
             "Accessories",
-            "Alternate Risky"
+            "Alternate Risky",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/56:51"
         },
         {
@@ -6999,17 +7043,20 @@
           "game": "2023 October Rickies",
           "type": "Flexie",
           "topics": [
+            "Apple Vision Pro",
             "Augmented Reality",
-            "Stagecraft"
+            "Stagecraft",
+            "Unvindicatable"
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/57:50"
         },
         {
           "text": "At least one computer or accessory that gets updated is less expensive in the US than before",
           "full-pick-text": "At least one computer or accessory that gets updated is less expensive in the US than before",
-          "notes": "",
+          "notes": "<p><ul><li>The new low-end 14\" MacBook Pro, while spiritually replacing the 13\" at a higher price, counts as a price drop in the 14\" line.</li></ul></p>",
           "game": "2023 October Rickies",
           "type": "Flexie",
           "topics": [
@@ -7018,6 +7065,7 @@
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/58:16"
         },
         {
@@ -7031,6 +7079,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/58:46"
         },
         {
@@ -7044,6 +7093,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/59:04"
         },
         {
@@ -7057,6 +7107,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/59:53"
         },
         {
@@ -7071,6 +7122,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:04"
         },
         {
@@ -7084,6 +7136,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:11"
         },
         {
@@ -7099,6 +7152,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:20"
         },
         {
@@ -7109,10 +7163,12 @@
           "type": "Flexie",
           "topics": [
             "Mac",
-            "Accessories"
+            "Accessories",
+            "Possible Vindication"
           ],
           "host": "Stephen",
           "pick-conditions": 2,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:09"
         },
         {
@@ -7127,6 +7183,7 @@
           ],
           "host": "Stephen",
           "pick-conditions": 3,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:33"
         },
         {
@@ -7141,6 +7198,7 @@
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:02:49"
         },
         {
@@ -7155,6 +7213,7 @@
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:03:15"
         },
         {
@@ -7165,21 +7224,62 @@
           "type": "Flexie",
           "topics": [
             "Apple management",
-            "Stagecraft"
+            "Stagecraft",
+            "Unvindicatable"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:03:24"
         }
       ],
-      "coin-flips": [],
-      "winner": "TBD"
+      "coin-flips": [
+        {
+          "game": "2023 October Rickies",
+          "called": "Heads",
+          "caller": "Stephen",
+          "flip-method": "Dice by PCalc",
+          "game-phase": "Flexies",
+          "loser": "Federico",
+          "overcast-link": "",
+          "prize": 2,
+          "result": "Heads",
+          "winner": "Stephen"
+        }
+      ],
+      "scores": [
+        {
+          "host": "Myke",
+          "correct": 6,
+          "total": 6
+        },
+        {
+          "host": "Stephen",
+          "correct": 3,
+          "total": 5
+        },
+        {
+          "host": "Federico",
+          "correct": 3,
+          "total": 5
+        }
+      ],
+      "charity-name": "Red Cross",
+      "charity-url": "https://redcross.org",
+      "donation": 50,
+      "donator": "Federico",
+      "winner": "Myke"
     },
     "relevant-episodes": [
       {
         "title": "Connected #473: The Rickies (October 2023)",
         "url": "https://relay.fm/connected/473",
         "episode-number": 473
+      },
+      {
+        "title": "Connected #474: Redesigned Into a Butterfly",
+        "url": "https://relay.fm/connected/474",
+        "episode-number": 474
       }
     ]
   },
@@ -7760,6 +7860,7 @@
           "game": "2023 WWDC Rickies",
           "type": "Regular",
           "topics": [
+            "Apple Vision Pro",
             "Augmented Reality"
           ],
           "host": "Myke",
@@ -7821,6 +7922,7 @@
           "game": "2023 WWDC Rickies",
           "type": "Regular",
           "topics": [
+            "Apple Vision Pro",
             "Augmented Reality",
             "Stagecraft"
           ],
@@ -7871,6 +7973,7 @@
           "game": "2023 WWDC Rickies",
           "type": "Ricky",
           "topics": [
+            "Apple Vision Pro",
             "Augmented Reality",
             "Unvindicatable"
           ],
@@ -7956,6 +8059,7 @@
           "game": "2023 WWDC Rickies",
           "type": "Flexie",
           "topics": [
+            "Apple Vision Pro",
             "Augmented Reality",
             "Developer tools"
           ],
@@ -7989,6 +8093,7 @@
           "game": "2023 WWDC Rickies",
           "type": "Flexie",
           "topics": [
+            "Apple Vision Pro",
             "Augmented Reality",
             "Stagecraft",
             "Unvindicatable"
@@ -8006,6 +8111,7 @@
           "game": "2023 WWDC Rickies",
           "type": "Flexie",
           "topics": [
+            "Apple Vision Pro",
             "Augmented Reality",
             "Stagecraft",
             "Unvindicatable"
@@ -8205,6 +8311,7 @@
           "type": "Flexie",
           "topics": [
             "Apple management",
+            "Apple Vision Pro",
             "Augmented Reality",
             "Live Edited",
             "Stagecraft",

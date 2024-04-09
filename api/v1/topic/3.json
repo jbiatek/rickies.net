@@ -34,6 +34,19 @@
     "overcast-picked": "https://overcast.fm/+FXx7hS2kY/37:12"
   },
   {
+    "text": "Apple's CEO succession plan leaks",
+    "full-pick-text": "Apple's CEO succession plan leaks",
+    "notes": "",
+    "game": "2024 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Apple management"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:02:10"
+  },
+  {
     "text": "Craig demos Big Sur features",
     "full-pick-text": "Craig demos Big Sur features",
     "notes": "<p><ul><li>The instant wake demo is counted for this.</li></ul></p>",
@@ -76,6 +89,7 @@
     "type": "Flexie",
     "topics": [
       "Apple management",
+      "Apple Vision Pro",
       "Augmented Reality",
       "Live Edited",
       "Stagecraft",
@@ -150,6 +164,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:04"
   },
   {
@@ -164,6 +179,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/55:45"
   },
   {
@@ -230,6 +246,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:08",
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:33:14"
+  },
+  {
+    "text": "Phil Schiller is replaced as the head of the initiative",
+    "full-pick-text": "Phil Schiller is replaced as the head of the initiative",
+    "notes": "",
+    "game": "The EUies",
+    "type": "NonGraded",
+    "topics": [
+      "Apple management"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/55:07"
   },
   {
     "text": "Someone on Apple's executive website will leave or be fired",
@@ -312,8 +341,8 @@
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:33:19"
   },
   {
-    "text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand",
-    "full-pick-text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand",
+    "text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn't stand",
+    "full-pick-text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn't stand",
     "notes": "",
     "game": "2019 Fall Rickies",
     "type": "Ricky",
@@ -386,10 +415,12 @@
     "type": "Flexie",
     "topics": [
       "Apple management",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:03:24"
   },
   {

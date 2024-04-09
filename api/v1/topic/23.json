@@ -313,6 +313,21 @@
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:00:33"
   },
   {
+    "text": "Apple launches immersive video content using TV+ IP",
+    "full-pick-text": "Apple launches immersive video content using TV+ IP",
+    "notes": "<p><ul><li>Stephen's original version of the pick was just about any immersive video, but that was already announced.</li></ul></p>",
+    "game": "2024 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple TV+",
+      "Apple Vision Pro",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:06:27"
+  },
+  {
     "text": "Apple Music Classical ships",
     "full-pick-text": "Apple Music Classical ships",
     "notes": "<p><ul><li>Was originally written \"Apple Music Classic\", but Myke pointed out that it isn't called \"classic music\".</li></ul></p>",
@@ -325,6 +340,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/32:38",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:09:41"
   },
   {
@@ -354,10 +371,13 @@
     "type": "Ricky",
     "topics": [
       "iPad",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/21:01",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:04:42"
   },
   {
@@ -558,10 +578,13 @@
     "type": "Flexie",
     "topics": [
       "Accessories",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/31:59",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:18:53"
   },
   {
@@ -764,8 +787,8 @@
     "overcast-picked": "https://overcast.fm/+FXx7FoU8U/37:34"
   },
   {
-    "text": "iPadOS 15 brings organization changes to the home screen that don’t exist on the iPhone, including iOS 15",
-    "full-pick-text": "iPadOS 15 brings organization changes to the home screen that don’t exist on the iPhone, including iOS 15",
+    "text": "iPadOS 15 brings organization changes to the home screen that don't exist on the iPhone, including iOS 15",
+    "full-pick-text": "iPadOS 15 brings organization changes to the home screen that don't exist on the iPhone, including iOS 15",
     "notes": "<p><ul>\n<li>\"Widgets on home screen and App Library don't count as they are on the iPhone already\"</li>\n<li>This was originally a Risky Pick, but Myke couldn't get enough clarity for what it meant.</li>\n</ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Regular",
@@ -807,6 +830,7 @@
     "type": "Flexie",
     "topics": [
       "Apple management",
+      "Apple Vision Pro",
       "Augmented Reality",
       "Live Edited",
       "Stagecraft",
@@ -927,7 +951,7 @@
   {
     "text": "No Mac or iPad hardware in the keynote",
     "full-pick-text": "No Mac or iPad hardware in the keynote",
-    "notes": "<p><ul><li>10.2” iPad was announced</li></ul></p>",
+    "notes": "<p><ul><li>10.2\" iPad was announced</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "Regular",
     "topics": [
@@ -981,7 +1005,7 @@
   {
     "text": "No service bundle announced",
     "full-pick-text": "No service bundle announced",
-    "notes": "<p><ul><li>“including any service being free with another, or some sort of content being added to the iPhone upgrade program”</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn’t really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
+    "notes": "<p><ul><li>\"including any service being free with another, or some sort of content being added to the iPhone upgrade program\"</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn't really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "Ricky",
     "topics": [
@@ -1054,10 +1078,13 @@
     "topics": [
       "Accessories",
       "AirPods",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/36:32",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:16:18"
   },
   {
@@ -1218,6 +1245,21 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/53:09"
   },
   {
+    "text": "The keyboard for iPad Pro is substantially redesigned for the first time since its introduction in 2020",
+    "full-pick-text": "The keyboard for iPad Pro is substantially redesigned for the first time since its introduction in 2020",
+    "notes": "<p><ul><li>Federico's cohosts generously helped workshop some of the possible nitpicks out of the pick.</li><li>Ungraded: \"function row, backlight, material change, multiple USB ports, different viewing angles\"</li></ul></p>",
+    "game": "2024 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/54:52"
+  },
+  {
     "text": "The Mac Pro will ship (in 2019 this time)",
     "full-pick-text": "The Mac Pro will ship (in 2019 this time)",
     "notes": "<p><ul><li><a href=\"https://overcast.fm/+FXx6RiXe0/42:31\" target=\"_blank\">Added mid-year</a>: Must be able to order a Mac Pro by the end of 2019, they do not have to arrive in customer hands by the end of the year.</li><li>Ungraded: \"I waffle on sticking with my iMac Pro\"; he bought one almost immediately. Myke predicted that Stephen would buy a Mac Pro, exchange it for an iMac Pro, then buy another Mac Pro in 6 months.</li></ul></p>",
@@ -1245,6 +1287,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/31:57"
   },
   {
@@ -1379,6 +1422,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/35:42"
   },
   {
@@ -1484,8 +1528,8 @@
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/20:52"
   },
   {
-    "text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand",
-    "full-pick-text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn’t stand",
+    "text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn't stand",
+    "full-pick-text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn't stand",
     "notes": "",
     "game": "2019 Fall Rickies",
     "type": "Ricky",

@@ -295,6 +295,19 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:32:42"
   },
   {
+    "text": "The Apple Watch 10 brings an updated design inspired by the Apple Watch Ultra in some way",
+    "full-pick-text": "The Apple Watch 10 brings an updated design inspired by the Apple Watch Ultra in some way",
+    "notes": "<p><ul><li>Ungraded: \"Action Button, flat glass or crown guard, for example\"</li></ul></p>",
+    "game": "2024 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "Apple Watch"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/52:45"
+  },
+  {
     "text": "The Apple Watch moves to 5G networking",
     "full-pick-text": "The Apple Watch moves to 5G networking",
     "notes": "",
@@ -433,11 +446,27 @@
     "type": "Flexie",
     "topics": [
       "Apple Watch",
-      "Buzzkill"
+      "Buzzkill",
+      "Unvindicatable"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/36:40",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:16:34"
+  },
+  {
+    "text": "Third party Apple Watch faces are introduced",
+    "full-pick-text": "Third party Apple Watch faces are introduced",
+    "notes": "",
+    "game": "2024 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Watch"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:13:35"
   },
   {
     "text": "watchOS 10 gets widgets",

@@ -1,7 +1,7 @@
 {
   "text": "At least one computer or accessory that gets updated is less expensive in the US than before",
   "full-pick-text": "At least one computer or accessory that gets updated is less expensive in the US than before",
-  "notes": "",
+  "notes": "<p><ul><li>The new low-end 14\" MacBook Pro, while spiritually replacing the 13\" at a higher price, counts as a price drop in the 14\" line.</li></ul></p>",
   "game": "2023 October Rickies",
   "type": "Flexie",
   "topics": [
@@ -10,5 +10,6 @@
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 1,
   "overcast-picked": "https://overcast.fm/+FXx52vzd4/58:16"
 }

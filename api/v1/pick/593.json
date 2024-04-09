@@ -5,10 +5,13 @@
   "game": "2023 October Rickies",
   "type": "Flexie",
   "topics": [
+    "Apple Vision Pro",
     "Augmented Reality",
-    "Stagecraft"
+    "Stagecraft",
+    "Unvindicatable"
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx52vzd4/57:50"
 }

@@ -6,9 +6,12 @@
   "type": "Ricky",
   "topics": [
     "Augmented Reality",
-    "Developer tools"
+    "Developer tools",
+    "Unvindicatable"
   ],
   "host": "Myke",
   "pick-conditions": 4,
+  "score": -1,
+  "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/19:05",
   "overcast-picked": "https://overcast.fm/+FXx5wv1as/56:07"
 }

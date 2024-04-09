@@ -1,13 +1,16 @@
 {
   "text": "The Apple Silicon Mac Pro allows third-party GPUs to be used",
   "full-pick-text": "The Apple Silicon Mac Pro allows third-party GPUs to be used",
-  "notes": "",
+  "notes": "<p><ul><li>If this ever does happen, Federico promises to buy a Mac Pro.</li></ul></p>",
   "game": "2023 Annual Rickies",
   "type": "Flexie",
   "topics": [
-    "Mac"
+    "Mac",
+    "Possible Vindication"
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": 0,
+  "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/33:15",
   "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:12:09"
 }

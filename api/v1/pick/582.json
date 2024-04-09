@@ -1,13 +1,15 @@
 {
   "text": "The 13\" MacBook Pro is redesigned",
   "full-pick-text": "The 13\" MacBook Pro is redesigned",
-  "notes": "",
+  "notes": "<p><ul><li>Jason Snell was called in to adjudicate, as <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20updates%20the%20standard%20Bluetooth%20Magic%20Keyboard\">has been done before</a>, and decides against Myke's somewhat strained logic that it was redesigned into a new size.</li></ul></p>",
   "game": "2023 October Rickies",
   "type": "Regular",
   "topics": [
-    "Mac"
+    "Mac",
+    "Possible Vindication"
   ],
   "host": "Myke",
   "pick-conditions": 1,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx52vzd4/24:38"
 }

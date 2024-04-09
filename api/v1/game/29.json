@@ -1,0 +1,96 @@
+{
+  "name": "The EUies",
+  "game-type": "Other",
+  "date-graded": "",
+  "date-picked": "2024-03-13",
+  "nongraded": {
+    "picks": [
+      {
+        "text": "The core technology fee is considerably altered, especially for web distribution",
+        "full-pick-text": "The core technology fee is considerably altered, especially for web distribution",
+        "notes": "",
+        "game": "The EUies",
+        "type": "NonGraded",
+        "topics": [
+          "Developer tools"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/48:31"
+      },
+      {
+        "text": "The language of \"member in good standing\" is removed",
+        "full-pick-text": "The language of \"member in good standing\" is removed",
+        "notes": "",
+        "game": "The EUies",
+        "type": "NonGraded",
+        "topics": [
+          "Developer tools"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/50:13"
+      },
+      {
+        "text": "The two \"scare sheets\" for linking to external websites for payment will become optional",
+        "full-pick-text": "The two \"scare sheets\" for linking to external websites for payment will become optional",
+        "notes": "",
+        "game": "The EUies",
+        "type": "NonGraded",
+        "topics": [
+          "Developer tools"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/52:30"
+      },
+      {
+        "text": "Phil Schiller is replaced as the head of the initiative",
+        "full-pick-text": "Phil Schiller is replaced as the head of the initiative",
+        "notes": "",
+        "game": "The EUies",
+        "type": "NonGraded",
+        "topics": [
+          "Apple management"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/55:07"
+      },
+      {
+        "text": "The core technology fee is removed for fully free applications",
+        "full-pick-text": "The core technology fee is removed for fully free applications",
+        "notes": "",
+        "game": "The EUies",
+        "type": "NonGraded",
+        "topics": [
+          "Developer tools"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/58:40"
+      },
+      {
+        "text": "Changes to rules about apps being installed from alternate sources",
+        "full-pick-text": "Changes to rules about apps being installed from alternate sources",
+        "notes": "<p><ul><li>Specifically, that users no longer need to reinstall an application to get it from a different app marketplace.</li></ul></p>",
+        "game": "The EUies",
+        "type": "NonGraded",
+        "topics": [
+          "Developer tools"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/1:02:50"
+      }
+    ],
+    "winner": "TBD"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #493: Ends in Potify",
+      "url": "https://relay.fm/connected/493",
+      "episode-number": 493
+    }
+  ]
+}

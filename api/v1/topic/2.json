@@ -209,6 +209,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/32:38",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:09:41"
   },
   {
@@ -533,7 +535,7 @@
   {
     "text": "At least one Twitter app update will be rejected from the App Store",
     "full-pick-text": "At least one Twitter app update will be rejected from the App Store",
-    "notes": "",
+    "notes": "<p><ul><li><a href=\"https://www.imore.com/apps/twitter/twitter-may-not-get-to-change-ios-app-name-to-x-due-to-apples-app-store-rules\" target=\"_blank\">X's troubles getting the app renamed</a> were counted as fulfilling this pick.</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
     "topics": [
@@ -541,6 +543,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/38:21",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:18:08"
   },
   {
@@ -645,7 +649,7 @@
   {
     "text": "No service bundle announced",
     "full-pick-text": "No service bundle announced",
-    "notes": "<p><ul><li>“including any service being free with another, or some sort of content being added to the iPhone upgrade program”</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn’t really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
+    "notes": "<p><ul><li>\"including any service being free with another, or some sort of content being added to the iPhone upgrade program\"</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn't really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "Ricky",
     "topics": [
@@ -770,6 +774,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/34:33",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:13:58"
   }
 ]

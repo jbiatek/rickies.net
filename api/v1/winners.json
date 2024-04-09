@@ -1,38 +1,38 @@
 {
   "annual": {
-    "game-name": "2022 Annual Rickies",
-    "date": "2022-12-28",
+    "game-name": "2023 Annual Rickies",
+    "date": "2024-01-10",
     "winner": "Myke",
     "social": "https://twitter.com/AnnualChairman",
     "title": "Annual Chairman"
   },
   "keynote": {
-    "game-name": "2023 September Rickies",
-    "date": "2023-09-13",
-    "winner": "Stephen",
+    "game-name": "2023 October Rickies",
+    "date": "2023-11-01",
+    "winner": "Federico",
     "social": "https://twitter.com/KeynoteChairman",
     "title": "Keynote Chairman"
   },
   "flexies": {
-    "game-name": "2023 September Rickies",
-    "date": "2023-09-13",
-    "winner": "Federico",
-    "title": "Prince Flexie",
+    "game-name": "The EUies",
+    "date": "",
+    "winner": "",
+    "title": "",
     "social": ""
   },
   "annual-flexies": {
-    "game-name": "2022 Annual Rickies",
-    "date": "2022-12-28",
+    "game-name": "2023 Annual Rickies",
+    "date": "2024-01-10",
+    "winner": "Stephen",
+    "social": "",
+    "title": "Attorney General Flexie"
+  },
+  "keynote-flexies": {
+    "game-name": "2023 October Rickies",
+    "date": "2023-11-01",
     "winner": "Myke",
     "social": "",
     "title": "Duke of Flexington"
   },
-  "keynote-flexies": {
-    "game-name": "2023 September Rickies",
-    "date": "2023-09-13",
-    "winner": "Federico",
-    "social": "",
-    "title": "Prince Flexie"
-  },
-  "the-tricky-image": "https://rickies.net/files/images/tricky/MykeStephen.png"
+  "the-tricky-image": "https://rickies.net/files/images/tricky/MykeFederico.png"
 }

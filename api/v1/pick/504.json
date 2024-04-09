@@ -5,9 +5,12 @@
   "game": "2023 Annual Rickies",
   "type": "Flexie",
   "topics": [
-    "Augmented Reality"
+    "Augmented Reality",
+    "Possible Vindication"
   ],
   "host": "Myke",
   "pick-conditions": 2,
+  "score": 0,
+  "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/29:31",
   "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:37"
 }

@@ -1,7 +1,7 @@
 {
   "text": "Apple releases a larger MacBook Air",
   "full-pick-text": "Apple releases a larger MacBook Air",
-  "notes": "",
+  "notes": "<p><ul><li>Just before the grading of this pick, hummonizing with Stephen's bell met an inglorious end, as it seemed to stop working and also Myke was kind of done with it.</li></ul></p>",
   "game": "2023 Annual Rickies",
   "type": "Regular",
   "topics": [
@@ -10,5 +10,7 @@
   ],
   "host": "Myke",
   "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/10:21",
   "overcast-picked": "https://overcast.fm/+FXx5wv1as/46:34"
 }

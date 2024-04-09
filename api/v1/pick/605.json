@@ -6,9 +6,11 @@
   "type": "Flexie",
   "topics": [
     "Apple management",
-    "Stagecraft"
+    "Stagecraft",
+    "Unvindicatable"
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:03:24"
 }

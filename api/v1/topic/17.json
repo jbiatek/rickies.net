@@ -371,7 +371,7 @@
   {
     "text": "No Mac or iPad hardware in the keynote",
     "full-pick-text": "No Mac or iPad hardware in the keynote",
-    "notes": "<p><ul><li>10.2” iPad was announced</li></ul></p>",
+    "notes": "<p><ul><li>10.2\" iPad was announced</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "Regular",
     "topics": [
@@ -576,7 +576,7 @@
   {
     "text": "No service bundle announced",
     "full-pick-text": "No service bundle announced",
-    "notes": "<p><ul><li>“including any service being free with another, or some sort of content being added to the iPhone upgrade program”</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn’t really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
+    "notes": "<p><ul><li>\"including any service being free with another, or some sort of content being added to the iPhone upgrade program\"</li><li>Apple TV+ was announced as a free trial, but not as a bundle. And it doesn't really come with the upgrade program as such. Stephen threads the needle with this pick.</li></ul></p>",
     "game": "2019 Fall Rickies",
     "type": "Ricky",
     "topics": [
@@ -737,6 +737,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:03:15"
   },
   {
@@ -854,6 +855,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:02:49"
   },
   {
@@ -868,6 +870,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/29:03"
   },
   {
@@ -933,6 +936,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/35:42"
   },
   {
@@ -965,6 +969,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/28:46",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:06"
   },
   {
@@ -975,10 +981,13 @@
     "type": "Flexie",
     "topics": [
       "Apple Watch",
-      "Buzzkill"
+      "Buzzkill",
+      "Unvindicatable"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/36:40",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:16:34"
   },
   {
@@ -998,9 +1007,23 @@
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:18:15"
   },
   {
+    "text": "There will be no second-generation Vision Pro announced in 2024",
+    "full-pick-text": "There will be no second-generation Vision Pro announced in 2024",
+    "notes": "",
+    "game": "2024 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "Apple Vision Pro",
+      "Buzzkill"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/58:58"
+  },
+  {
     "text": "There will not be an iPhone 15 mini",
     "full-pick-text": "There will not be an iPhone 15 mini",
-    "notes": "",
+    "notes": "<p><ul><li>😭</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Regular",
     "topics": [
@@ -1010,6 +1033,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/17:14",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/52:05"
   },
   {
@@ -1047,6 +1072,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:01:36"
   },
   {
+    "text": "Vision Pro will not be available in Italy in 2024",
+    "full-pick-text": "Vision Pro will not be available in Italy in 2024",
+    "notes": "",
+    "game": "2024 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "Buzzkill"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:10:11"
+  },
+  {
     "text": "We do not get new AirPods Max, even though I want them",
     "full-pick-text": "We do not get new AirPods Max, even though I want them",
     "notes": "",
@@ -1059,6 +1098,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:20"
   },
   {

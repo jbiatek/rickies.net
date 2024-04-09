@@ -204,6 +204,78 @@
     "winner": "Federico"
   },
   {
+    "game": "2023 Annual Rickies",
+    "called": "Tails",
+    "caller": "Myke",
+    "flip-method": "Dice by PCalc",
+    "game-phase": "Flexies",
+    "loser": "Myke and Federico",
+    "overcast-link": "https://overcast.fm/+FXx6cG1WQ/39:33",
+    "prize": 1,
+    "result": "Heads",
+    "winner": "Stephen"
+  },
+  {
+    "game": "2023 Annual Rickies",
+    "called": "Heads",
+    "caller": "Stephen",
+    "flip-method": "Dice by PCalc",
+    "game-phase": "Rickies",
+    "loser": "Federico",
+    "overcast-link": "https://overcast.fm/+FXx6cG1WQ/22:19",
+    "prize": 1,
+    "result": "Heads",
+    "winner": "Stephen and Myke"
+  },
+  {
+    "game": "2023 Annual Rickies",
+    "called": "Heads",
+    "caller": "Federico",
+    "flip-method": "Dice by PCalc",
+    "game-phase": "Flexies",
+    "loser": "Myke",
+    "overcast-link": "https://overcast.fm/+FXx6cG1WQ/39:59",
+    "prize": 2,
+    "result": "Heads",
+    "winner": "Federico"
+  },
+  {
+    "game": "2023 Annual Rickies",
+    "called": "Heads",
+    "caller": "Stephen",
+    "flip-method": "Dice by PCalc",
+    "game-phase": "Rickies",
+    "loser": "Stephen",
+    "overcast-link": "https://overcast.fm/+FXx6cG1WQ/23:02",
+    "prize": 2,
+    "result": "Tails",
+    "winner": "Myke"
+  },
+  {
+    "game": "2023 October Rickies",
+    "called": "Heads",
+    "caller": "Stephen",
+    "flip-method": "Dice by PCalc",
+    "game-phase": "Flexies",
+    "loser": "Federico",
+    "overcast-link": "",
+    "prize": 2,
+    "result": "Heads",
+    "winner": "Stephen"
+  },
+  {
+    "game": "2023 October Rickies",
+    "called": "Heads",
+    "caller": "Federico",
+    "flip-method": "Dice by PCalc",
+    "game-phase": "Rickies",
+    "loser": "Stephen",
+    "overcast-link": "",
+    "prize": 1,
+    "result": "Heads",
+    "winner": "Federico"
+  },
+  {
     "game": "2023 WWDC Rickies",
     "called": "Heads",
     "caller": "Myke",

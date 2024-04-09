@@ -77,10 +77,13 @@
     "topics": [
       "iPad",
       "Apple Apps",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/36:54",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:17:25"
   },
   {
@@ -165,6 +168,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/32:38",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:09:41"
   },
   {
@@ -979,6 +984,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:41:30",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:31:25"
+  },
+  {
+    "text": "You will be able to create Shortcuts with the new LLM-infused Siri in iOS 18",
+    "full-pick-text": "You will be able to create Shortcuts with the new LLM-infused Siri in iOS 18",
+    "notes": "",
+    "game": "2024 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:11:38"
   },
   {
     "text": "You will be able to set light and dark mode on a per-website basis in Safari",

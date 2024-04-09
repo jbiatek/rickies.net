@@ -91,6 +91,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/29:04",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:32"
   },
   {
@@ -138,6 +140,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/16:05",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/50:13"
   },
   {
@@ -277,10 +281,13 @@
     "game": "2023 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "iPhone"
+      "iPhone",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/33:08",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:11:26"
   },
   {
@@ -1104,10 +1111,13 @@
     "game": "2023 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "iPhone"
+      "iPhone",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/32:56",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:10:48"
   },
   {
@@ -1459,7 +1469,7 @@
   {
     "text": "There will be a bigger iPhone X style phone, but it will not have an OLED screen",
     "full-pick-text": "There will be a bigger iPhone X style phone, but it will not have an OLED screen",
-    "notes": "<p><ul><li>The iPhone XR saved Myke here, as the XS Max was OLED which he didn’t think would be possible for such a big display.</li></ul></p>",
+    "notes": "<p><ul><li>The iPhone XR saved Myke here, as the XS Max was OLED which he didn't think would be possible for such a big display.</li></ul></p>",
     "game": "2018 Annual Predictions",
     "type": "Regular",
     "topics": [
@@ -1524,7 +1534,7 @@
   {
     "text": "There will not be an iPhone 15 mini",
     "full-pick-text": "There will not be an iPhone 15 mini",
-    "notes": "",
+    "notes": "<p><ul><li>😭</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Regular",
     "topics": [
@@ -1534,6 +1544,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/17:14",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/52:05"
   },
   {

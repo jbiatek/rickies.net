@@ -178,11 +178,28 @@
     "type": "Flexie",
     "topics": [
       "Accessories",
-      "AirPods"
+      "AirPods",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/31:31",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:57"
+  },
+  {
+    "text": "AirPods Pro 3 launch with lossless support",
+    "full-pick-text": "AirPods Pro 3 launch with lossless support",
+    "notes": "",
+    "game": "2024 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "AirPods"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:08:41"
   },
   {
     "text": "AirPods to gain more controls via touch actions",
@@ -402,16 +419,31 @@
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:19:52"
   },
   {
+    "text": "Apple introduces a HomePod with a screen",
+    "full-pick-text": "Apple introduces a HomePod with a screen",
+    "notes": "",
+    "game": "2024 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:14:15"
+  },
+  {
     "text": "Apple introduces a new desktop keyboard and/or trackpad that supports connecting to multiple devices at once. They also support USB-C connections now",
     "full-pick-text": "Apple introduces a new desktop keyboard and/or trackpad that supports connecting to multiple devices at once. They also support USB-C connections now",
     "notes": "",
     "game": "2023 October Rickies",
     "type": "Ricky",
     "topics": [
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 3,
+    "score": -1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/46:41"
   },
   {
@@ -589,16 +621,18 @@
     "type": "Ricky",
     "topics": [
       "Accessories",
-      "Passionate"
+      "Passionate",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 3,
+    "score": -1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/43:16"
   },
   {
     "text": "Apple updates the standard Bluetooth Magic Keyboard",
     "full-pick-text": "Apple updates the standard Bluetooth Magic Keyboard",
-    "notes": "<p><ul><li>Jason Snell had to be called in to adjudicate this one. Stephen contended that it was just the <em>iMac’s</em> keyboard that was updated, not the “standard” one. To be fair, when describing this pick, Federico seemed to be using \"standard\" to differentiate from the \"extended\" keyboard with number pad, but of course it's what's written that matters.</li></ul></p>",
+    "notes": "<p><ul><li>Jason Snell had to be called in to adjudicate this one. Stephen contended that it was just the <em>iMac's</em> keyboard that was updated, not the \"standard\" one. To be fair, when describing this pick, Federico seemed to be using \"standard\" to differentiate from the \"extended\" keyboard with number pad, but of course it's what's written that matters.</li></ul></p>",
     "game": "2021 April Rickies",
     "type": "Flexie",
     "topics": [
@@ -651,23 +685,29 @@
     "type": "Flexie",
     "topics": [
       "Accessories",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/31:59",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:18:53"
   },
   {
     "text": "Apple will revive the HomePod line with new devices",
     "full-pick-text": "Apple will revive the HomePod line with new devices",
-    "notes": "<p><ul><li>New deviceS, <em>plural</em>. Must be at least 2 and must be new products, not product refreshes like a new HomePod mini.</li></ul></p>",
+    "notes": "<p><ul><li>New deviceS, <em>plural</em>. Must be at least 2 and must be new products, not product refreshes like a new HomePod mini.</li><li>The plurality aspect ended up making the difference, after a reminder about it from the live chat.</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/34:53",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:14:59"
   },
   {
@@ -723,7 +763,7 @@
   {
     "text": "At least one computer or accessory that gets updated is less expensive in the US than before",
     "full-pick-text": "At least one computer or accessory that gets updated is less expensive in the US than before",
-    "notes": "",
+    "notes": "<p><ul><li>The new low-end 14\" MacBook Pro, while spiritually replacing the 13\" at a higher price, counts as a price drop in the 14\" line.</li></ul></p>",
     "game": "2023 October Rickies",
     "type": "Flexie",
     "topics": [
@@ -732,6 +772,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/58:16"
   },
   {
@@ -743,10 +784,12 @@
     "topics": [
       "Mac",
       "Accessories",
-      "Alternate Risky"
+      "Alternate Risky",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/56:51"
   },
   {
@@ -924,6 +967,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5wv1as/32:09",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:34:07"
+  },
+  {
+    "text": "New AirPods Max in 2024",
+    "full-pick-text": "New AirPods Max",
+    "notes": "<p><ul><li><a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#New%20AirPods%20Max\">This might</a> be <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20announces%20new%20AirPods%20Max%2C%20featuring%20USB-C%20and%20made%20of%20titanium\">the year</a>!</li></ul></p>",
+    "game": "2024 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "AirPods"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:12:51"
   },
   {
     "text": "New AirPods or AirPods Pro",
@@ -1173,10 +1230,13 @@
     "topics": [
       "Accessories",
       "AirPods",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/36:32",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:16:18"
   },
   {
@@ -1271,11 +1331,28 @@
     "type": "Flexie",
     "topics": [
       "Mac",
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:09"
+  },
+  {
+    "text": "The keyboard for iPad Pro is substantially redesigned for the first time since its introduction in 2020",
+    "full-pick-text": "The keyboard for iPad Pro is substantially redesigned for the first time since its introduction in 2020",
+    "notes": "<p><ul><li>Federico's cohosts generously helped workshop some of the possible nitpicks out of the pick.</li><li>Ungraded: \"function row, backlight, material change, multiple USB ports, different viewing angles\"</li></ul></p>",
+    "game": "2024 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/54:52"
   },
   {
     "text": "The Magic Keyboard for iPad goes unchanged",
@@ -1409,6 +1486,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:20"
   },
   {

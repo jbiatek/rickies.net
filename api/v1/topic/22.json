@@ -38,7 +38,7 @@
   {
     "text": "Apple releases a larger MacBook Air",
     "full-pick-text": "Apple releases a larger MacBook Air",
-    "notes": "",
+    "notes": "<p><ul><li>Just before the grading of this pick, hummonizing with Stephen's bell met an inglorious end, as it seemed to stop working and also Myke was kind of done with it.</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Regular",
     "topics": [
@@ -47,6 +47,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/10:21",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/46:34"
   },
   {
@@ -61,6 +63,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/12:42",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/47:15"
   },
   {
@@ -98,7 +102,7 @@
   {
     "text": "There will not be an iPhone 15 mini",
     "full-pick-text": "There will not be an iPhone 15 mini",
-    "notes": "",
+    "notes": "<p><ul><li>😭</li></ul></p>",
     "game": "2023 Annual Rickies",
     "type": "Regular",
     "topics": [
@@ -108,6 +112,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/17:14",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/52:05"
   },
   {
@@ -122,6 +128,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/13:47",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/48:15"
   }
 ]

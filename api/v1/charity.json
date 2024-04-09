@@ -96,5 +96,19 @@
     "donation": 125,
     "charity-name": "St. Jude",
     "charity-url": "http://stjude.org/relay"
+  },
+  {
+    "game": "2023 October Rickies",
+    "donator": "Federico",
+    "donation": 50,
+    "charity-name": "Red Cross",
+    "charity-url": "https://redcross.org"
+  },
+  {
+    "game": "2023 Annual Rickies",
+    "donator": "Myke",
+    "donation": 125,
+    "charity-name": "Stax Music ",
+    "charity-url": "https://staxmusicacademy.org"
   }
 ]

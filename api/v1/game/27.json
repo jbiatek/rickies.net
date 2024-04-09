@@ -1,7 +1,7 @@
 {
   "name": "2023 October Rickies",
   "game-type": "Keynote",
-  "date-graded": "",
+  "date-graded": "2023-11-01",
   "date-picked": "2023-10-25",
   "main-game": {
     "picks": [
@@ -16,19 +16,22 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/20:58"
       },
       {
         "text": "The 13\" MacBook Pro is redesigned",
         "full-pick-text": "The 13\" MacBook Pro is redesigned",
-        "notes": "",
+        "notes": "<p><ul><li>Jason Snell was called in to adjudicate, as <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20updates%20the%20standard%20Bluetooth%20Magic%20Keyboard\">has been done before</a>, and decides against Myke's somewhat strained logic that it was redesigned into a new size.</li></ul></p>",
         "game": "2023 October Rickies",
         "type": "Regular",
         "topics": [
-          "Mac"
+          "Mac",
+          "Possible Vindication"
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/24:38"
       },
       {
@@ -43,6 +46,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/29:03"
       },
       {
@@ -56,6 +60,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/30:57"
       },
       {
@@ -70,6 +75,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/31:57"
       },
       {
@@ -85,6 +91,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 2,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/35:42"
       },
       {
@@ -94,10 +101,12 @@
         "game": "2023 October Rickies",
         "type": "Ricky",
         "topics": [
-          "Mac"
+          "Mac",
+          "Possible Vindication"
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": -1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/40:24"
       },
       {
@@ -108,10 +117,12 @@
         "type": "Ricky",
         "topics": [
           "Accessories",
-          "Passionate"
+          "Passionate",
+          "Possible Vindication"
         ],
         "host": "Myke",
         "pick-conditions": 3,
+        "score": -1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/43:16"
       },
       {
@@ -121,15 +132,44 @@
         "game": "2023 October Rickies",
         "type": "Ricky",
         "topics": [
-          "Accessories"
+          "Accessories",
+          "Possible Vindication"
         ],
         "host": "Federico",
         "pick-conditions": 3,
+        "score": -1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/46:41"
       }
     ],
-    "coin-flips": [],
-    "winner": "TBD"
+    "coin-flips": [
+      {
+        "game": "2023 October Rickies",
+        "called": "Heads",
+        "caller": "Federico",
+        "flip-method": "Dice by PCalc",
+        "game-phase": "Rickies",
+        "loser": "Stephen",
+        "overcast-link": "",
+        "prize": 1,
+        "result": "Heads",
+        "winner": "Federico"
+      }
+    ],
+    "scores": [
+      {
+        "host": "Federico",
+        "score": 1
+      },
+      {
+        "host": "Stephen",
+        "score": 1
+      },
+      {
+        "host": "Myke",
+        "score": 0
+      }
+    ],
+    "winner": "Federico"
   },
   "the-flexies": {
     "picks": [
@@ -145,6 +185,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/55:45"
       },
       {
@@ -158,6 +199,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/56:38"
       },
       {
@@ -169,10 +211,12 @@
         "topics": [
           "Mac",
           "Accessories",
-          "Alternate Risky"
+          "Alternate Risky",
+          "Possible Vindication"
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/56:51"
       },
       {
@@ -182,17 +226,20 @@
         "game": "2023 October Rickies",
         "type": "Flexie",
         "topics": [
+          "Apple Vision Pro",
           "Augmented Reality",
-          "Stagecraft"
+          "Stagecraft",
+          "Unvindicatable"
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/57:50"
       },
       {
         "text": "At least one computer or accessory that gets updated is less expensive in the US than before",
         "full-pick-text": "At least one computer or accessory that gets updated is less expensive in the US than before",
-        "notes": "",
+        "notes": "<p><ul><li>The new low-end 14\" MacBook Pro, while spiritually replacing the 13\" at a higher price, counts as a price drop in the 14\" line.</li></ul></p>",
         "game": "2023 October Rickies",
         "type": "Flexie",
         "topics": [
@@ -201,6 +248,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/58:16"
       },
       {
@@ -214,6 +262,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/58:46"
       },
       {
@@ -227,6 +276,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/59:04"
       },
       {
@@ -240,6 +290,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/59:53"
       },
       {
@@ -254,6 +305,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:04"
       },
       {
@@ -267,6 +319,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:11"
       },
       {
@@ -282,6 +335,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:20"
       },
       {
@@ -292,10 +346,12 @@
         "type": "Flexie",
         "topics": [
           "Mac",
-          "Accessories"
+          "Accessories",
+          "Possible Vindication"
         ],
         "host": "Stephen",
         "pick-conditions": 2,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:09"
       },
       {
@@ -310,6 +366,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 3,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:33"
       },
       {
@@ -324,6 +381,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:02:49"
       },
       {
@@ -338,6 +396,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:03:15"
       },
       {
@@ -348,21 +407,62 @@
         "type": "Flexie",
         "topics": [
           "Apple management",
-          "Stagecraft"
+          "Stagecraft",
+          "Unvindicatable"
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:03:24"
       }
     ],
-    "coin-flips": [],
-    "winner": "TBD"
+    "coin-flips": [
+      {
+        "game": "2023 October Rickies",
+        "called": "Heads",
+        "caller": "Stephen",
+        "flip-method": "Dice by PCalc",
+        "game-phase": "Flexies",
+        "loser": "Federico",
+        "overcast-link": "",
+        "prize": 2,
+        "result": "Heads",
+        "winner": "Stephen"
+      }
+    ],
+    "scores": [
+      {
+        "host": "Myke",
+        "correct": 6,
+        "total": 6
+      },
+      {
+        "host": "Stephen",
+        "correct": 3,
+        "total": 5
+      },
+      {
+        "host": "Federico",
+        "correct": 3,
+        "total": 5
+      }
+    ],
+    "charity-name": "Red Cross",
+    "charity-url": "https://redcross.org",
+    "donation": 50,
+    "donator": "Federico",
+    "winner": "Myke"
   },
   "relevant-episodes": [
     {
       "title": "Connected #473: The Rickies (October 2023)",
       "url": "https://relay.fm/connected/473",
       "episode-number": 473
+    },
+    {
+      "title": "Connected #474: Redesigned Into a Butterfly",
+      "url": "https://relay.fm/connected/474",
+      "episode-number": 474
     }
   ]
 }

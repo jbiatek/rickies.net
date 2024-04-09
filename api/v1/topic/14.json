@@ -114,10 +114,13 @@
       "Mac",
       "macOS",
       "Developer tools",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/37:04",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:17:40"
   },
   {
@@ -128,10 +131,13 @@
     "type": "Ricky",
     "topics": [
       "Augmented Reality",
-      "Developer tools"
+      "Developer tools",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 4,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/19:05",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/56:07"
   },
   {
@@ -164,6 +170,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:36:31",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:27:00"
+  },
+  {
+    "text": "Changes to rules about apps being installed from alternate sources",
+    "full-pick-text": "Changes to rules about apps being installed from alternate sources",
+    "notes": "<p><ul><li>Specifically, that users no longer need to reinstall an application to get it from a different app marketplace.</li></ul></p>",
+    "game": "The EUies",
+    "type": "NonGraded",
+    "topics": [
+      "Developer tools"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/1:02:50"
   },
   {
     "text": "Developers will get tools for more control over refresh rate/frame rate in apps",
@@ -275,6 +294,32 @@
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:28:43"
   },
   {
+    "text": "The core technology fee is considerably altered, especially for web distribution",
+    "full-pick-text": "The core technology fee is considerably altered, especially for web distribution",
+    "notes": "",
+    "game": "The EUies",
+    "type": "NonGraded",
+    "topics": [
+      "Developer tools"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/48:31"
+  },
+  {
+    "text": "The core technology fee is removed for fully free applications",
+    "full-pick-text": "The core technology fee is removed for fully free applications",
+    "notes": "",
+    "game": "The EUies",
+    "type": "NonGraded",
+    "topics": [
+      "Developer tools"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/58:40"
+  },
+  {
     "text": "The iPad gets a new development tool to write code, on device, that is not Swift Playgrounds",
     "full-pick-text": "The iPad gets a new development tool to write code, on device, that is not Swift Playgrounds",
     "notes": "",
@@ -299,6 +344,7 @@
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
+      "Apple Vision Pro",
       "Augmented Reality",
       "Developer tools"
     ],
@@ -307,6 +353,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/41:34",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/59:50"
+  },
+  {
+    "text": "The language of \"member in good standing\" is removed",
+    "full-pick-text": "The language of \"member in good standing\" is removed",
+    "notes": "",
+    "game": "The EUies",
+    "type": "NonGraded",
+    "topics": [
+      "Developer tools"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/50:13"
   },
   {
     "text": "The next version of iPadOS will introduce a brand new audio routing system, with support for selecting different input sources, similar to macOS...",
@@ -325,6 +384,19 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/27:59",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/38:36"
+  },
+  {
+    "text": "The two \"scare sheets\" for linking to external websites for payment will become optional",
+    "full-pick-text": "The two \"scare sheets\" for linking to external websites for payment will become optional",
+    "notes": "",
+    "game": "The EUies",
+    "type": "NonGraded",
+    "topics": [
+      "Developer tools"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/52:30"
   },
   {
     "text": "Third party widgets gain interactivity",
