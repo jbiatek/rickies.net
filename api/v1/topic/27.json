@@ -7,12 +7,14 @@
     "type": "Flexie",
     "topics": [
       "iPad",
+      "Alternate Risky",
       "Apple Apps",
       "Apple Vision Pro",
       "visionOS"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:11"
   },
   {
     "text": "iPad Virtual Display announced for visionOS",
@@ -24,10 +26,12 @@
       "iPad",
       "Apple Vision Pro",
       "iPadOS",
+      "Live Edited",
       "visionOS"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:46"
   },
   {
     "text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
@@ -60,23 +64,8 @@
       "visionOS"
     ],
     "host": "Federico",
-    "pick-conditions": 2
-  },
-  {
-    "text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
-    "full-pick-text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
-    "notes": "",
-    "game": "2024 May Rickies",
-    "type": "Flexie",
-    "topics": [
-      "iPad",
-      "Mac",
-      "Accessories",
-      "Apple Vision Pro",
-      "visionOS"
-    ],
-    "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:09:43"
   },
   {
     "text": "visionOS receives updates at WWDC that ship later in 2024",

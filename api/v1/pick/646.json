@@ -1,7 +1,7 @@
 {
   "text": "New pencil has a button",
   "full-pick-text": "New pencil has a button",
-  "notes": "",
+  "notes": "<p><ul><li><a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20new%20Apple%20Pencil%20with%20a%20button%20of%20some%20kind\">A blast from the past</a> brought back again.</li></ul></p>",
   "game": "2024 May Rickies",
   "type": "Flexie",
   "topics": [
@@ -9,5 +9,6 @@
     "Accessories"
   ],
   "host": "Myke",
-  "pick-conditions": 2
+  "pick-conditions": 2,
+  "overcast-picked": "https://overcast.fm/+FXx4ahnn0/55:27"
 }

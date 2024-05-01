@@ -1943,11 +1943,11 @@
       "iPad",
       "Mac",
       "Accessories",
-      "Apple Vision Pro",
-      "visionOS"
+      "Apple Vision Pro"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:06:45"
   },
   {
     "text": "The new iPad Pros can run a version of macOS when needed",
@@ -1961,7 +1961,8 @@
       "macOS"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/36:06"
   },
   {
     "text": "The new Mac mini comes in more colors than silver and grey",
@@ -2188,14 +2189,15 @@
   {
     "text": "We get new Macs",
     "full-pick-text": "We get new Macs",
-    "notes": "",
+    "notes": "<p><ul><li><s>Ungraded: probably a new Mac mini</s></li></ul></p>",
     "game": "2024 May Rickies",
     "type": "Ricky",
     "topics": [
       "Mac"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/44:18"
   },
   {
     "text": "We see a Big Sur feature recap",

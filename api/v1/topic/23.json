@@ -225,6 +225,21 @@
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/57:49"
   },
   {
+    "text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
+    "full-pick-text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
+    "notes": "<p><ul><li>Was originally just \"pro apps\" but Federico wanted some clarification.</li></ul></p>",
+    "game": "2024 May Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/19:31"
+  },
+  {
     "text": "Apple gives a sneak peak of the new Mac Pro...",
     "full-pick-text": "Apple gives a sneak peak of the new Mac Pro. It features a case design inspired by the 2019 Mac Pro. It features more ports than any other Apple Silicon Mac available today. It does not have support for third-party GPUs. It features a chip name that has not appeared in any other product. It has a starting price of at least $6,999. It is coming later this year.",
     "notes": "<p><ul>\n<li>\"...It features a case design inspired by the 2019 Mac Pro. It features more ports than any other Apple Silicon Mac available today. It does not have support for third-party GPUs. It features a chip name that has not appeared in any other product. It has a starting price of at least $6,999. It is coming later this year.\"</li>\n<li>Originally it said \"same case design\", but the change was accepted on air after Myke reconsidered. \"Later this year\" was also demoted from being an exact quote.</li>\n<li>This Mac Pro will have to beat the Mac Studio in terms of ports: 2 USB-C, 2 USB-A, 4 Thunderbolt, SD card, Ethernet, HDMI, and headphone jack, for a total of 12.</li>\n<li>This pick is similar in spirit to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20new%20Mac%20Pro%20will%20be...\">Myke's ongoing Annual pick</a>, but with different conditions. At the time it was the <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Success%20By%20Pick%20Complexity\">most complex graded pick</a> ever made.</li>\n</ul>\n</p>",
@@ -485,6 +500,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:17:29",
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:17:05"
+  },
+  {
+    "text": "Apple unveils a new Apple Pencil",
+    "full-pick-text": "Apple unveils a new Apple Pencil",
+    "notes": "<p><ul><li>Ungraded: Support for gestures like squeezing and the inclusion of haptic feedback</li><li>Was <a href=\"https://overcast.fm/+FXx4ahnn0/25:10\" target=\"_blank\">originally about Apple introducing a new keyboard</a>, but <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20keyboard%20for%20iPad%20Pro%20is%20substantially%20redesigned%20for%20the%20first%20time%20since%20its%20introduction%20in%202020\">Federico already has an annual pick</a> for that, and that makes it <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ineligible%20Picks\">ineligible</a>.</li></ul></p>",
+    "game": "2024 May Rickies",
+    "type": "Regular",
+    "topics": [
+      "Accessories",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/30:43"
   },
   {
     "text": "Apple unveils a new high-end audio product",
@@ -787,6 +816,23 @@
     "overcast-picked": "https://overcast.fm/+FXx7FoU8U/37:34"
   },
   {
+    "text": "iPad Virtual Display announced for visionOS",
+    "full-pick-text": "iPad Virtual Display announced for visionOS",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Apple Vision Pro",
+      "iPadOS",
+      "Live Edited",
+      "visionOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:46"
+  },
+  {
     "text": "iPadOS 15 brings organization changes to the home screen that don't exist on the iPhone, including iOS 15",
     "full-pick-text": "iPadOS 15 brings organization changes to the home screen that don't exist on the iPhone, including iOS 15",
     "notes": "<p><ul>\n<li>\"Widgets on home screen and App Library don't count as they are on the iPhone already\"</li>\n<li>This was originally a Risky Pick, but Myke couldn't get enough clarity for what it meant.</li>\n</ul></p>",
@@ -804,6 +850,22 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/46:28",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/48:30"
+  },
+  {
+    "text": "iPadOS 17 AI enhancements for iPad only",
+    "full-pick-text": "iPadOS 17 AI enhancements for iPad only",
+    "notes": "<p><ul><li>Was originally \"iOS\" but Federico is a stickler for the Apple style guide.</li></ul></p>",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Live Edited",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/57:12"
   },
   {
     "text": "iPhone 15 gets slower-speed USB-C transfers compared to the Pro models",
@@ -1289,6 +1351,21 @@
     "pick-conditions": 1,
     "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/31:57"
+  },
+  {
+    "text": "The new Apple Pencil is named Apple Pencil Pro",
+    "full-pick-text": "The new Apple Pencil is named Apple Pencil Pro",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:38"
   },
   {
     "text": "The new Apple Silicon MacBook Pro will not be announced at this event",

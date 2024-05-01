@@ -8,8 +8,10 @@
     "iPad",
     "Apple Vision Pro",
     "iPadOS",
+    "Live Edited",
     "visionOS"
   ],
   "host": "Stephen",
-  "pick-conditions": 1
+  "pick-conditions": 1,
+  "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:46"
 }

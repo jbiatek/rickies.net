@@ -48,12 +48,14 @@
     "type": "Flexie",
     "topics": [
       "iPad",
+      "Alternate Risky",
       "Apple Apps",
       "Apple Vision Pro",
       "visionOS"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:11"
   },
   {
     "text": "iPad Virtual Display announced for visionOS",
@@ -65,10 +67,12 @@
       "iPad",
       "Apple Vision Pro",
       "iPadOS",
+      "Live Edited",
       "visionOS"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:46"
   },
   {
     "text": "Jeff Williams has a major role in introducing the headset",
@@ -172,7 +176,8 @@
       "visionOS"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:09:43"
   },
   {
     "text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
@@ -184,11 +189,11 @@
       "iPad",
       "Mac",
       "Accessories",
-      "Apple Vision Pro",
-      "visionOS"
+      "Apple Vision Pro"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:06:45"
   },
   {
     "text": "The phrase \"one more thing\" will be used before the headset is announced",
@@ -248,7 +253,8 @@
       "Apple Vision Pro"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:12:46"
   },
   {
     "text": "Vision Pro will not be available in Italy in 2024",

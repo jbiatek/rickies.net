@@ -86,6 +86,21 @@
     "overcast-picked": "https://overcast.fm/+FXx7hS2kY/1:29:03"
   },
   {
+    "text": "Apple's iPad Pro keyboard features a new key switch technology",
+    "full-pick-text": "Apple's iPad Pro keyboard features a new key switch technology",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Alternate Risky"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/58:07"
+  },
+  {
     "text": "At least one M3-series chip introduces support for Thunderbolt 5, a first for the industry",
     "full-pick-text": "At least one M3-series chip introduces support for Thunderbolt 5, a first for the industry",
     "notes": "",
@@ -137,6 +152,23 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/1:17:54",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:28:21"
+  },
+  {
+    "text": "Final Cut for iPad gains a feature specifically for video in visionOS",
+    "full-pick-text": "Final Cut for iPad gains a feature specifically for video in visionOS",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Alternate Risky",
+      "Apple Apps",
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:11"
   },
   {
     "text": "iPad multitasking is overhauled again",

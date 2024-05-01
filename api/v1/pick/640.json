@@ -1,12 +1,14 @@
 {
   "text": "Apple unveils a new Apple Pencil",
   "full-pick-text": "Apple unveils a new Apple Pencil",
-  "notes": "<p><ul><li>Ungraded: Support for gestures like squeezing and the inclusion of haptic feedback</li></ul></p>",
+  "notes": "<p><ul><li>Ungraded: Support for gestures like squeezing and the inclusion of haptic feedback</li><li>Was <a href=\"https://overcast.fm/+FXx4ahnn0/25:10\" target=\"_blank\">originally about Apple introducing a new keyboard</a>, but <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20keyboard%20for%20iPad%20Pro%20is%20substantially%20redesigned%20for%20the%20first%20time%20since%20its%20introduction%20in%202020\">Federico already has an annual pick</a> for that, and that makes it <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ineligible%20Picks\">ineligible</a>.</li></ul></p>",
   "game": "2024 May Rickies",
   "type": "Regular",
   "topics": [
-    "Accessories"
+    "Accessories",
+    "Live Edited"
   ],
   "host": "Federico",
-  "pick-conditions": 1
+  "pick-conditions": 1,
+  "overcast-picked": "https://overcast.fm/+FXx4ahnn0/30:43"
 }

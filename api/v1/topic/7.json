@@ -80,7 +80,8 @@
       "Accessories"
     ],
     "host": "Stephen",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:03:47"
   },
   {
     "text": "A new Apple Pencil with a button of some kind",
@@ -504,7 +505,8 @@
       "Accessories"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/55:41"
   },
   {
     "text": "Apple puts a cheaper display on sale as a sibling to the XDR",
@@ -533,7 +535,8 @@
       "Accessories"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:05:54"
   },
   {
     "text": "Apple releases its own game controller",
@@ -620,14 +623,16 @@
   {
     "text": "Apple unveils a new Apple Pencil",
     "full-pick-text": "Apple unveils a new Apple Pencil",
-    "notes": "<p><ul><li>Ungraded: Support for gestures like squeezing and the inclusion of haptic feedback</li></ul></p>",
+    "notes": "<p><ul><li>Ungraded: Support for gestures like squeezing and the inclusion of haptic feedback</li><li>Was <a href=\"https://overcast.fm/+FXx4ahnn0/25:10\" target=\"_blank\">originally about Apple introducing a new keyboard</a>, but <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20keyboard%20for%20iPad%20Pro%20is%20substantially%20redesigned%20for%20the%20first%20time%20since%20its%20introduction%20in%202020\">Federico already has an annual pick</a> for that, and that makes it <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ineligible%20Picks\">ineligible</a>.</li></ul></p>",
     "game": "2024 May Rickies",
     "type": "Regular",
     "topics": [
-      "Accessories"
+      "Accessories",
+      "Live Edited"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/30:43"
   },
   {
     "text": "Apple unveils a new external display",
@@ -784,10 +789,12 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Accessories"
+      "Accessories",
+      "Alternate Risky"
     ],
     "host": "Myke",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/58:07"
   },
   {
     "text": "At least 1 more color option comes to AirPods",
@@ -1173,7 +1180,8 @@
       "Accessories"
     ],
     "host": "Myke",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/56:45"
   },
   {
     "text": "New MagSafe charging case for existing AirPods",
@@ -1238,12 +1246,13 @@
       "Accessories"
     ],
     "host": "Myke",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/56:39"
   },
   {
     "text": "New pencil has a button",
     "full-pick-text": "New pencil has a button",
-    "notes": "",
+    "notes": "<p><ul><li><a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20new%20Apple%20Pencil%20with%20a%20button%20of%20some%20kind\">A blast from the past</a> brought back again.</li></ul></p>",
     "game": "2024 May Rickies",
     "type": "Flexie",
     "topics": [
@@ -1251,7 +1260,8 @@
       "Accessories"
     ],
     "host": "Myke",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/55:27"
   },
   {
     "text": "No mention of AirTags",
@@ -1443,8 +1453,8 @@
   },
   {
     "text": "The iPad Pro gets MagSafe charging, but it's not what you think…",
-    "full-pick-text": "The iPad Pro gets MagSafe charging, but it's not what you think…",
-    "notes": "<p><ul><li>\"Not the MagSafe an iPhone has.\"</li></ul></p>",
+    "full-pick-text": "The iPad Pro gets MagSafe charging, but it's not what you think… Not the MagSafe an iPhone has.",
+    "notes": "<p><ul><li>\"Not the MagSafe an iPhone has.\"</li><li>In other words, an iPhone MagSafe charger will not charge an iPad Pro, but it will have a new charging method called MagSafe, likely the MacBook's MagSafe or very similar.</li></ul></p>",
     "game": "2024 May Rickies",
     "type": "Ricky",
     "topics": [
@@ -1452,7 +1462,8 @@
       "Accessories"
     ],
     "host": "Myke",
-    "pick-conditions": 2
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/47:23"
   },
   {
     "text": "The keyboard for iPad Pro is substantially redesigned for the first time since its introduction in 2020",
@@ -1499,7 +1510,8 @@
       "visionOS"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:09:43"
   },
   {
     "text": "The new Apple Pencil is named Apple Pencil Pro",
@@ -1509,10 +1521,12 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Accessories"
+      "Accessories",
+      "Live Edited"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:38"
   },
   {
     "text": "The new iPad Air supports the Magic Keyboard",
@@ -1542,7 +1556,8 @@
       "Accessories"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:11:33"
   },
   {
     "text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
@@ -1554,16 +1569,16 @@
       "iPad",
       "Mac",
       "Accessories",
-      "Apple Vision Pro",
-      "visionOS"
+      "Apple Vision Pro"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:06:45"
   },
   {
     "text": "The new iPad keyboard has a dedicated Siri key",
     "full-pick-text": "The new iPad keyboard has a dedicated Siri key",
-    "notes": "",
+    "notes": "<p><ul><li>Federico sneaks one more Flexie in before the end of the show.</li></ul></p>",
     "game": "2024 May Rickies",
     "type": "Flexie",
     "topics": [
@@ -1571,7 +1586,8 @@
       "Accessories"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:15:50"
   },
   {
     "text": "The new iPad Pro comes with a fancy new GaN charger",

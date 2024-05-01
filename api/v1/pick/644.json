@@ -1,12 +1,13 @@
 {
   "text": "We get new Macs",
   "full-pick-text": "We get new Macs",
-  "notes": "",
+  "notes": "<p><ul><li><s>Ungraded: probably a new Mac mini</s></li></ul></p>",
   "game": "2024 May Rickies",
   "type": "Ricky",
   "topics": [
     "Mac"
   ],
   "host": "Stephen",
-  "pick-conditions": 1
+  "pick-conditions": 1,
+  "overcast-picked": "https://overcast.fm/+FXx4ahnn0/44:18"
 }

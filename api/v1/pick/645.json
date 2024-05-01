@@ -1,7 +1,7 @@
 {
   "text": "The iPad Pro gets MagSafe charging, but it's not what you think…",
-  "full-pick-text": "The iPad Pro gets MagSafe charging, but it's not what you think…",
-  "notes": "<p><ul><li>\"Not the MagSafe an iPhone has.\"</li></ul></p>",
+  "full-pick-text": "The iPad Pro gets MagSafe charging, but it's not what you think… Not the MagSafe an iPhone has.",
+  "notes": "<p><ul><li>\"Not the MagSafe an iPhone has.\"</li><li>In other words, an iPhone MagSafe charger will not charge an iPad Pro, but it will have a new charging method called MagSafe, likely the MacBook's MagSafe or very similar.</li></ul></p>",
   "game": "2024 May Rickies",
   "type": "Ricky",
   "topics": [
@@ -9,5 +9,6 @@
     "Accessories"
   ],
   "host": "Myke",
-  "pick-conditions": 2
+  "pick-conditions": 3,
+  "overcast-picked": "https://overcast.fm/+FXx4ahnn0/47:23"
 }

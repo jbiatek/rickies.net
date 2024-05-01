@@ -1,14 +1,16 @@
 {
   "text": "iPadOS 17 AI enhancements for iPad only",
   "full-pick-text": "iPadOS 17 AI enhancements for iPad only",
-  "notes": "",
+  "notes": "<p><ul><li>Was originally \"iOS\" but Federico is a stickler for the Apple style guide.</li></ul></p>",
   "game": "2024 May Rickies",
   "type": "Flexie",
   "topics": [
     "iPad",
     "iPadOS",
+    "Live Edited",
     "Machine Learning/AI"
   ],
   "host": "Myke",
-  "pick-conditions": 2
+  "pick-conditions": 2,
+  "overcast-picked": "https://overcast.fm/+FXx4ahnn0/57:12"
 }

@@ -1,13 +1,15 @@
 {
   "text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
   "full-pick-text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
-  "notes": "",
+  "notes": "<p><ul><li>Was originally just \"pro apps\" but Federico wanted some clarification.</li></ul></p>",
   "game": "2024 May Rickies",
   "type": "Regular",
   "topics": [
     "iPad",
-    "Apple Apps"
+    "Apple Apps",
+    "Live Edited"
   ],
   "host": "Stephen",
-  "pick-conditions": 1
+  "pick-conditions": 1,
+  "overcast-picked": "https://overcast.fm/+FXx4ahnn0/19:31"
 }

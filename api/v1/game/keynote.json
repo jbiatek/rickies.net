@@ -8443,20 +8443,23 @@
             "iPad"
           ],
           "host": "Federico",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/15:24"
         },
         {
           "text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
           "full-pick-text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
-          "notes": "",
+          "notes": "<p><ul><li>Was originally just \"pro apps\" but Federico wanted some clarification.</li></ul></p>",
           "game": "2024 May Rickies",
           "type": "Regular",
           "topics": [
             "iPad",
-            "Apple Apps"
+            "Apple Apps",
+            "Live Edited"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/19:31"
         },
         {
           "text": "The iPad Pro features a camera on the horizontal bezel",
@@ -8468,19 +8471,22 @@
             "iPad"
           ],
           "host": "Myke",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/21:19"
         },
         {
           "text": "Apple unveils a new Apple Pencil",
           "full-pick-text": "Apple unveils a new Apple Pencil",
-          "notes": "<p><ul><li>Ungraded: Support for gestures like squeezing and the inclusion of haptic feedback</li></ul></p>",
+          "notes": "<p><ul><li>Ungraded: Support for gestures like squeezing and the inclusion of haptic feedback</li><li>Was <a href=\"https://overcast.fm/+FXx4ahnn0/25:10\" target=\"_blank\">originally about Apple introducing a new keyboard</a>, but <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20keyboard%20for%20iPad%20Pro%20is%20substantially%20redesigned%20for%20the%20first%20time%20since%20its%20introduction%20in%202020\">Federico already has an annual pick</a> for that, and that makes it <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ineligible%20Picks\">ineligible</a>.</li></ul></p>",
           "game": "2024 May Rickies",
           "type": "Regular",
           "topics": [
-            "Accessories"
+            "Accessories",
+            "Live Edited"
           ],
           "host": "Federico",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/30:43"
         },
         {
           "text": "The new iPad Air comes in the current iPad Pro sizes: 11-inch and 12.9-inch",
@@ -8492,7 +8498,8 @@
             "iPad"
           ],
           "host": "Stephen",
-          "pick-conditions": 3
+          "pick-conditions": 3,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/27:56"
         },
         {
           "text": "The iPad Pro has a higher starting price for both models",
@@ -8505,7 +8512,8 @@
             "Buzzkill"
           ],
           "host": "Myke",
-          "pick-conditions": 3
+          "pick-conditions": 3,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/29:17"
         },
         {
           "text": "The new iPad Pros can run a version of macOS when needed",
@@ -8519,24 +8527,26 @@
             "macOS"
           ],
           "host": "Federico",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/36:06"
         },
         {
           "text": "We get new Macs",
           "full-pick-text": "We get new Macs",
-          "notes": "",
+          "notes": "<p><ul><li><s>Ungraded: probably a new Mac mini</s></li></ul></p>",
           "game": "2024 May Rickies",
           "type": "Ricky",
           "topics": [
             "Mac"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/44:18"
         },
         {
           "text": "The iPad Pro gets MagSafe charging, but it's not what you think…",
-          "full-pick-text": "The iPad Pro gets MagSafe charging, but it's not what you think…",
-          "notes": "<p><ul><li>\"Not the MagSafe an iPhone has.\"</li></ul></p>",
+          "full-pick-text": "The iPad Pro gets MagSafe charging, but it's not what you think… Not the MagSafe an iPhone has.",
+          "notes": "<p><ul><li>\"Not the MagSafe an iPhone has.\"</li><li>In other words, an iPhone MagSafe charger will not charge an iPad Pro, but it will have a new charging method called MagSafe, likely the MacBook's MagSafe or very similar.</li></ul></p>",
           "game": "2024 May Rickies",
           "type": "Ricky",
           "topics": [
@@ -8544,7 +8554,8 @@
             "Accessories"
           ],
           "host": "Myke",
-          "pick-conditions": 2
+          "pick-conditions": 3,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/47:23"
         }
       ],
       "coin-flips": [],
@@ -8555,7 +8566,7 @@
         {
           "text": "New pencil has a button",
           "full-pick-text": "New pencil has a button",
-          "notes": "",
+          "notes": "<p><ul><li><a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20new%20Apple%20Pencil%20with%20a%20button%20of%20some%20kind\">A blast from the past</a> brought back again.</li></ul></p>",
           "game": "2024 May Rickies",
           "type": "Flexie",
           "topics": [
@@ -8563,7 +8574,8 @@
             "Accessories"
           ],
           "host": "Myke",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/55:27"
         },
         {
           "text": "Apple now sells four Apple Pencils",
@@ -8576,7 +8588,8 @@
             "Accessories"
           ],
           "host": "Myke",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/55:41"
         },
         {
           "text": "New pencil comes in colour choices",
@@ -8589,7 +8602,8 @@
             "Accessories"
           ],
           "host": "Myke",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/56:39"
         },
         {
           "text": "New Magic Keyboard matches aluminium colours",
@@ -8602,7 +8616,8 @@
             "Accessories"
           ],
           "host": "Myke",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/56:45"
         },
         {
           "text": "iPad Pro does not get an M4",
@@ -8615,21 +8630,24 @@
             "Buzzkill"
           ],
           "host": "Myke",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/57:00"
         },
         {
           "text": "iPadOS 17 AI enhancements for iPad only",
           "full-pick-text": "iPadOS 17 AI enhancements for iPad only",
-          "notes": "",
+          "notes": "<p><ul><li>Was originally \"iOS\" but Federico is a stickler for the Apple style guide.</li></ul></p>",
           "game": "2024 May Rickies",
           "type": "Flexie",
           "topics": [
             "iPad",
             "iPadOS",
+            "Live Edited",
             "Machine Learning/AI"
           ],
           "host": "Myke",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/57:12"
         },
         {
           "text": "Apple's iPad Pro keyboard features a new key switch technology",
@@ -8639,10 +8657,12 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Accessories"
+            "Accessories",
+            "Alternate Risky"
           ],
           "host": "Myke",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/58:07"
         },
         {
           "text": "New iPad Airs come in new colors that are as vibrant as the back of the iMacs",
@@ -8654,7 +8674,8 @@
             "iPad"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/59:54"
         },
         {
           "text": "The new Apple Pencil is named Apple Pencil Pro",
@@ -8664,10 +8685,12 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Accessories"
+            "Accessories",
+            "Live Edited"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:38"
         },
         {
           "text": "Apple announces AI-powered changes to iWork",
@@ -8680,7 +8703,8 @@
             "Machine Learning/AI"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:48"
         },
         {
           "text": "Final Cut for iPad gains a feature specifically for video in visionOS",
@@ -8690,12 +8714,14 @@
           "type": "Flexie",
           "topics": [
             "iPad",
+            "Alternate Risky",
             "Apple Apps",
             "Apple Vision Pro",
             "visionOS"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:11"
         },
         {
           "text": "iPad Virtual Display announced for visionOS",
@@ -8707,10 +8733,12 @@
             "iPad",
             "Apple Vision Pro",
             "iPadOS",
+            "Live Edited",
             "visionOS"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:46"
         },
         {
           "text": "A new Apple Pencil is announced and only works with the new iPad Pros",
@@ -8723,7 +8751,8 @@
             "Accessories"
           ],
           "host": "Stephen",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:03:47"
         },
         {
           "text": "New iPad Pros start with at least 256 GB of storage",
@@ -8735,7 +8764,8 @@
             "iPad"
           ],
           "host": "Stephen",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:04:00"
         },
         {
           "text": "The new iPad Pros have slimmer bezels than before",
@@ -8747,7 +8777,8 @@
             "iPad"
           ],
           "host": "Federico",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:04:39"
         },
         {
           "text": "Apple refreshes its input accessories for USB-C",
@@ -8759,7 +8790,8 @@
             "Accessories"
           ],
           "host": "Federico",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:05:54"
         },
         {
           "text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
@@ -8771,11 +8803,11 @@
             "iPad",
             "Mac",
             "Accessories",
-            "Apple Vision Pro",
-            "visionOS"
+            "Apple Vision Pro"
           ],
           "host": "Federico",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:06:45"
         },
         {
           "text": "The video is shorter than 31 minutes",
@@ -8787,19 +8819,21 @@
             "Stagecraft"
           ],
           "host": "Federico",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:08:39"
         },
         {
           "text": "The new iPad Pro has the M4",
           "full-pick-text": "The new iPad Pro has the M4",
-          "notes": "",
+          "notes": "<p><ul><li><a href=\"https://9to5mac.com/2024/04/29/m4-ipad-pro-rumor/\" target=\"_blank\">Perhaps more likely than we think?</a></li></ul></p>",
           "game": "2024 May Rickies",
           "type": "Flexie",
           "topics": [
             "iPad"
           ],
           "host": "Federico",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:09:10"
         },
         {
           "text": "The new Apple Pencil is compatible with and has special features for visionOS",
@@ -8814,7 +8848,8 @@
             "visionOS"
           ],
           "host": "Federico",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:09:43"
         },
         {
           "text": "Gaming on the iPad Pro is mentioned with at least a triple-A game shown",
@@ -8826,7 +8861,8 @@
             "iPad"
           ],
           "host": "Federico",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:10:22"
         },
         {
           "text": "The new iPad external keyboard has at least one programmable 'Action' key",
@@ -8839,7 +8875,21 @@
             "Accessories"
           ],
           "host": "Federico",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:11:33"
+        },
+        {
+          "text": "The iPad Pro gets an Action Button",
+          "full-pick-text": "The iPad Pro gets an Action Button",
+          "notes": "<p><ul><li>Impulse added after <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20new%20iPad%20external%20keyboard%20has%20at%20least%20one%20programmable%20%27Action%27%20key\">Federico's pick</a> gave Myke an idea, and Federico declined to take the bait.</li></ul></p>",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad"
+          ],
+          "host": "Myke",
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:11:50"
         },
         {
           "text": "The new iPad Pro with M4 has Thunderbolt 5",
@@ -8851,7 +8901,8 @@
             "iPad"
           ],
           "host": "Federico",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:12:27"
         },
         {
           "text": "Vision Pro launch dates in more countries announced",
@@ -8863,7 +8914,8 @@
             "Apple Vision Pro"
           ],
           "host": "Federico",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:12:46"
         },
         {
           "text": "The new iPad Pros have Wi-Fi 7",
@@ -8875,12 +8927,13 @@
             "iPad"
           ],
           "host": "Federico",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:12:59"
         },
         {
           "text": "The new iPad keyboard has a dedicated Siri key",
           "full-pick-text": "The new iPad keyboard has a dedicated Siri key",
-          "notes": "",
+          "notes": "<p><ul><li>Federico sneaks one more Flexie in before the end of the show.</li></ul></p>",
           "game": "2024 May Rickies",
           "type": "Flexie",
           "topics": [
@@ -8888,7 +8941,8 @@
             "Accessories"
           ],
           "host": "Federico",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:15:50"
         }
       ],
       "coin-flips": [],
