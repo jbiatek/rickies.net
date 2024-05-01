@@ -15,6 +15,19 @@
     "overcast-picked": "https://overcast.fm/+FXx7nikbQ/46:31"
   },
   {
+    "text": "A new Apple Pencil is announced and only works with the new iPad Pros",
+    "full-pick-text": "A new Apple Pencil is announced and only works with the new iPad Pros",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
+  },
+  {
     "text": "A new iPad Air is introduced with a better system-on-a-chip and 5G support",
     "full-pick-text": "A new iPad Air is introduced with a better system-on-a-chip and 5G support",
     "notes": "",
@@ -107,6 +120,19 @@
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:05:55"
   },
   {
+    "text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
+    "full-pick-text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Apple Apps"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "Apple brings Mail extensions to iOS and iPadOS",
     "full-pick-text": "Apple brings Mail extensions to iOS and iPadOS",
     "notes": "",
@@ -158,6 +184,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6bXcOY/27:11",
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:00:33"
+  },
+  {
+    "text": "Apple now sells four Apple Pencils",
+    "full-pick-text": "Apple now sells four Apple Pencils",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   },
   {
     "text": "Apple releases a bigger iPad Pro",
@@ -334,6 +373,19 @@
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/59:31"
   },
   {
+    "text": "Apple's iPad Pro keyboard features a new key switch technology",
+    "full-pick-text": "Apple's iPad Pro keyboard features a new key switch technology",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
+  },
+  {
     "text": "At least one new non-Pro iPad will switch to USB-C",
     "full-pick-text": "At least one new non-Pro iPad will switch to USB-C",
     "notes": "",
@@ -435,6 +487,33 @@
     "ahead-by": 409,
     "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:27:18",
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:28:50"
+  },
+  {
+    "text": "Final Cut for iPad gains a feature specifically for video in visionOS",
+    "full-pick-text": "Final Cut for iPad gains a feature specifically for video in visionOS",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Gaming on the iPad Pro is mentioned with at least a triple-A game shown",
+    "full-pick-text": "Gaming on the iPad Pro is mentioned with at least a triple-A game shown",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
   },
   {
     "text": "Hypervisor comes to iPad",
@@ -542,6 +621,34 @@
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:50"
   },
   {
+    "text": "iPad Pro does not get an M4",
+    "full-pick-text": "iPad Pro does not get an M4",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
+    "text": "iPad Virtual Display announced for visionOS",
+    "full-pick-text": "iPad Virtual Display announced for visionOS",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Apple Vision Pro",
+      "iPadOS",
+      "visionOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "iPadOS 15 brings organization changes to the home screen that don't exist on the iPhone, including iOS 15",
     "full-pick-text": "iPadOS 15 brings organization changes to the home screen that don't exist on the iPhone, including iOS 15",
     "notes": "<p><ul>\n<li>\"Widgets on home screen and App Library don't count as they are on the iPhone already\"</li>\n<li>This was originally a Risky Pick, but Myke couldn't get enough clarity for what it meant.</li>\n</ul></p>",
@@ -559,6 +666,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/46:28",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/48:30"
+  },
+  {
+    "text": "iPadOS 17 AI enhancements for iPad only",
+    "full-pick-text": "iPadOS 17 AI enhancements for iPad only",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
   },
   {
     "text": "iPadOS 17 gains Lock Screen customization",
@@ -712,6 +833,18 @@
     "overcast-picked": "https://overcast.fm/+FXx7nikbQ/49:17"
   },
   {
+    "text": "New iPad Airs come in new colors that are as vibrant as the back of the iMacs",
+    "full-pick-text": "New iPad Airs come in new colors that are as vibrant as the back of the iMacs",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "New iPad Pro accessory",
     "full-pick-text": "New iPad Pro accessory",
     "notes": "<p><ul><li>\"Something we haven't seen before, or is redesigned significantly, e.g. Apple Pencil 1 to 2.\"</li></ul></p>",
@@ -729,6 +862,18 @@
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:24:53"
   },
   {
+    "text": "New iPad Pros start with at least 256 GB of storage",
+    "full-pick-text": "New iPad Pros start with at least 256 GB of storage",
+    "notes": "<p><ul><li>Ungraded: \"Currently 128 GB which is laughable. Also a nice way to bring the price up.\"</li></ul></p>",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
+  },
+  {
     "text": "New iPads",
     "full-pick-text": "New iPads",
     "notes": "<p><ul><li>Again, there was <a href=\"https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/\" target=\"_blank\">a separate event for the iPad</a>.</li></ul></p>",
@@ -744,6 +889,19 @@
     "ahead-by": 48,
     "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:27:14",
     "overcast-picked": "https://overcast.fm/+FXx4E3x_I/51:35"
+  },
+  {
+    "text": "New Magic Keyboard matches aluminium colours",
+    "full-pick-text": "New Magic Keyboard matches aluminium colours",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
   },
   {
     "text": "New non-Pro iPad gets second generation Apple Pencil",
@@ -778,6 +936,32 @@
     "ahead-by": 48,
     "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:27:17",
     "overcast-picked": "https://overcast.fm/+FXx4E3x_I/52:28"
+  },
+  {
+    "text": "New pencil comes in colour choices",
+    "full-pick-text": "New pencil comes in colour choices",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
+  },
+  {
+    "text": "New pencil has a button",
+    "full-pick-text": "New pencil has a button",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
   },
   {
     "text": "No iPads, iPhone and Apple Watch only",
@@ -1202,6 +1386,18 @@
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:20:50"
   },
   {
+    "text": "The iPad Pro features a camera on the horizontal bezel",
+    "full-pick-text": "The iPad Pro features a camera on the horizontal bezel",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "The iPad Pro gets 5G",
     "full-pick-text": "The iPad Pro gets 5G",
     "notes": "",
@@ -1215,6 +1411,32 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6J60tU/58:41",
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/51:09"
+  },
+  {
+    "text": "The iPad Pro gets MagSafe charging, but it's not what you think…",
+    "full-pick-text": "The iPad Pro gets MagSafe charging, but it's not what you think…",
+    "notes": "<p><ul><li>\"Not the MagSafe an iPhone has.\"</li></ul></p>",
+    "game": "2024 May Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The iPad Pro has a higher starting price for both models",
+    "full-pick-text": "The iPad Pro has a higher starting price for both models",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3
   },
   {
     "text": "The iPad Pro is updated to a variant of the A14 chip",
@@ -1318,6 +1540,46 @@
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:22:13"
   },
   {
+    "text": "The new Apple Pencil is compatible with and has special features for visionOS",
+    "full-pick-text": "The new Apple Pencil is compatible with and has special features for visionOS",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The new Apple Pencil is named Apple Pencil Pro",
+    "full-pick-text": "The new Apple Pencil is named Apple Pencil Pro",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The new iPad Air comes in the current iPad Pro sizes: 11-inch and 12.9-inch",
+    "full-pick-text": "The new iPad Air comes in the current iPad Pro sizes: 11-inch and 12.9-inch",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3
+  },
+  {
     "text": "The new iPad Air supports the Magic Keyboard",
     "full-pick-text": "The new iPad Air supports the Magic Keyboard",
     "notes": "",
@@ -1335,6 +1597,48 @@
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:35:56"
   },
   {
+    "text": "The new iPad external keyboard has at least one programmable 'Action' key",
+    "full-pick-text": "The new iPad external keyboard has at least one programmable 'Action' key",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
+    "full-pick-text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Mac",
+      "Accessories",
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The new iPad keyboard has a dedicated Siri key",
+    "full-pick-text": "The new iPad keyboard has a dedicated Siri key",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
     "text": "The new iPad Pro comes with a fancy new GaN charger",
     "full-pick-text": "The new iPad Pro comes with a fancy new GaN charger",
     "notes": "",
@@ -1350,6 +1654,80 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:34:05",
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:33:39"
+  },
+  {
+    "text": "The new iPad Pro has the M4",
+    "full-pick-text": "The new iPad Pro has the M4",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The new iPad Pro with M4 has Thunderbolt 5",
+    "full-pick-text": "The new iPad Pro with M4 has Thunderbolt 5",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The new iPad Pros can run a version of macOS when needed",
+    "full-pick-text": "The new iPad Pros can run a version of macOS when needed",
+    "notes": "<p><ul><li>Ungraded: \"Native, virtualized, or Mac Virtual Display?\"</li></ul></p>",
+    "game": "2024 May Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Mac",
+      "macOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The new iPad Pros come with a new (to the platform) display technology",
+    "full-pick-text": "The new iPad Pros come with a new (to the platform) display technology",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The new iPad Pros have slimmer bezels than before",
+    "full-pick-text": "The new iPad Pros have slimmer bezels than before",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The new iPad Pros have Wi-Fi 7",
+    "full-pick-text": "The new iPad Pros have Wi-Fi 7",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
   },
   {
     "text": "The next version of iPadOS will introduce a brand new audio routing system, with support for selecting different input sources, similar to macOS...",

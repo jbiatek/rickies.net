@@ -3585,6 +3585,7 @@
           "type": "Flexie",
           "topics": [
             "Mac",
+            "Machine Learning/AI",
             "Stagecraft",
             "Unvindicatable"
           ],
@@ -7958,6 +7959,7 @@
           "type": "Ricky",
           "topics": [
             "Developer tools",
+            "Machine Learning/AI",
             "Possible Vindication"
           ],
           "host": "Myke",
@@ -8061,7 +8063,8 @@
           "topics": [
             "Apple Vision Pro",
             "Augmented Reality",
-            "Developer tools"
+            "Developer tools",
+            "visionOS"
           ],
           "host": "Myke",
           "pick-conditions": 3,
@@ -8294,6 +8297,7 @@
           "game": "2023 WWDC Rickies",
           "type": "Flexie",
           "topics": [
+            "Machine Learning/AI",
             "Stagecraft",
             "Unvindicatable"
           ],
@@ -8419,6 +8423,482 @@
         "title": "Connected #453: By the Meat of Your Teeth",
         "url": "https://relay.fm/connected/453",
         "episode-number": 453
+      }
+    ]
+  },
+  {
+    "name": "2024 May Rickies",
+    "game-type": "Keynote",
+    "date-graded": "",
+    "date-picked": "2024-05-01",
+    "main-game": {
+      "picks": [
+        {
+          "text": "The new iPad Pros come with a new (to the platform) display technology",
+          "full-pick-text": "The new iPad Pros come with a new (to the platform) display technology",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Regular",
+          "topics": [
+            "iPad"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1
+        },
+        {
+          "text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
+          "full-pick-text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Regular",
+          "topics": [
+            "iPad",
+            "Apple Apps"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1
+        },
+        {
+          "text": "The iPad Pro features a camera on the horizontal bezel",
+          "full-pick-text": "The iPad Pro features a camera on the horizontal bezel",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Regular",
+          "topics": [
+            "iPad"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1
+        },
+        {
+          "text": "Apple unveils a new Apple Pencil",
+          "full-pick-text": "Apple unveils a new Apple Pencil",
+          "notes": "<p><ul><li>Ungraded: Support for gestures like squeezing and the inclusion of haptic feedback</li></ul></p>",
+          "game": "2024 May Rickies",
+          "type": "Regular",
+          "topics": [
+            "Accessories"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1
+        },
+        {
+          "text": "The new iPad Air comes in the current iPad Pro sizes: 11-inch and 12.9-inch",
+          "full-pick-text": "The new iPad Air comes in the current iPad Pro sizes: 11-inch and 12.9-inch",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Regular",
+          "topics": [
+            "iPad"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 3
+        },
+        {
+          "text": "The iPad Pro has a higher starting price for both models",
+          "full-pick-text": "The iPad Pro has a higher starting price for both models",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Regular",
+          "topics": [
+            "iPad",
+            "Buzzkill"
+          ],
+          "host": "Myke",
+          "pick-conditions": 3
+        },
+        {
+          "text": "The new iPad Pros can run a version of macOS when needed",
+          "full-pick-text": "The new iPad Pros can run a version of macOS when needed",
+          "notes": "<p><ul><li>Ungraded: \"Native, virtualized, or Mac Virtual Display?\"</li></ul></p>",
+          "game": "2024 May Rickies",
+          "type": "Ricky",
+          "topics": [
+            "iPad",
+            "Mac",
+            "macOS"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2
+        },
+        {
+          "text": "We get new Macs",
+          "full-pick-text": "We get new Macs",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Ricky",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1
+        },
+        {
+          "text": "The iPad Pro gets MagSafe charging, but it's not what you think…",
+          "full-pick-text": "The iPad Pro gets MagSafe charging, but it's not what you think…",
+          "notes": "<p><ul><li>\"Not the MagSafe an iPhone has.\"</li></ul></p>",
+          "game": "2024 May Rickies",
+          "type": "Ricky",
+          "topics": [
+            "iPad",
+            "Accessories"
+          ],
+          "host": "Myke",
+          "pick-conditions": 2
+        }
+      ],
+      "coin-flips": [],
+      "winner": "TBD"
+    },
+    "the-flexies": {
+      "picks": [
+        {
+          "text": "New pencil has a button",
+          "full-pick-text": "New pencil has a button",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "Accessories"
+          ],
+          "host": "Myke",
+          "pick-conditions": 2
+        },
+        {
+          "text": "Apple now sells four Apple Pencils",
+          "full-pick-text": "Apple now sells four Apple Pencils",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "Accessories"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1
+        },
+        {
+          "text": "New pencil comes in colour choices",
+          "full-pick-text": "New pencil comes in colour choices",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "Accessories"
+          ],
+          "host": "Myke",
+          "pick-conditions": 2
+        },
+        {
+          "text": "New Magic Keyboard matches aluminium colours",
+          "full-pick-text": "New Magic Keyboard matches aluminium colours",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "Accessories"
+          ],
+          "host": "Myke",
+          "pick-conditions": 2
+        },
+        {
+          "text": "iPad Pro does not get an M4",
+          "full-pick-text": "iPad Pro does not get an M4",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "Buzzkill"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1
+        },
+        {
+          "text": "iPadOS 17 AI enhancements for iPad only",
+          "full-pick-text": "iPadOS 17 AI enhancements for iPad only",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "iPadOS",
+            "Machine Learning/AI"
+          ],
+          "host": "Myke",
+          "pick-conditions": 2
+        },
+        {
+          "text": "Apple's iPad Pro keyboard features a new key switch technology",
+          "full-pick-text": "Apple's iPad Pro keyboard features a new key switch technology",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "Accessories"
+          ],
+          "host": "Myke",
+          "pick-conditions": 2
+        },
+        {
+          "text": "New iPad Airs come in new colors that are as vibrant as the back of the iMacs",
+          "full-pick-text": "New iPad Airs come in new colors that are as vibrant as the back of the iMacs",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1
+        },
+        {
+          "text": "The new Apple Pencil is named Apple Pencil Pro",
+          "full-pick-text": "The new Apple Pencil is named Apple Pencil Pro",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "Accessories"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1
+        },
+        {
+          "text": "Apple announces AI-powered changes to iWork",
+          "full-pick-text": "Apple announces AI-powered changes to iWork",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Apple Apps",
+            "Machine Learning/AI"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1
+        },
+        {
+          "text": "Final Cut for iPad gains a feature specifically for video in visionOS",
+          "full-pick-text": "Final Cut for iPad gains a feature specifically for video in visionOS",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "Apple Apps",
+            "Apple Vision Pro",
+            "visionOS"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1
+        },
+        {
+          "text": "iPad Virtual Display announced for visionOS",
+          "full-pick-text": "iPad Virtual Display announced for visionOS",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "Apple Vision Pro",
+            "iPadOS",
+            "visionOS"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1
+        },
+        {
+          "text": "A new Apple Pencil is announced and only works with the new iPad Pros",
+          "full-pick-text": "A new Apple Pencil is announced and only works with the new iPad Pros",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "Accessories"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 2
+        },
+        {
+          "text": "New iPad Pros start with at least 256 GB of storage",
+          "full-pick-text": "New iPad Pros start with at least 256 GB of storage",
+          "notes": "<p><ul><li>Ungraded: \"Currently 128 GB which is laughable. Also a nice way to bring the price up.\"</li></ul></p>",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 2
+        },
+        {
+          "text": "The new iPad Pros have slimmer bezels than before",
+          "full-pick-text": "The new iPad Pros have slimmer bezels than before",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2
+        },
+        {
+          "text": "Apple refreshes its input accessories for USB-C",
+          "full-pick-text": "Apple refreshes its input accessories for USB-C",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Accessories"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1
+        },
+        {
+          "text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
+          "full-pick-text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "Mac",
+            "Accessories",
+            "Apple Vision Pro",
+            "visionOS"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2
+        },
+        {
+          "text": "The video is shorter than 31 minutes",
+          "full-pick-text": "The video is shorter than 31 minutes",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Stagecraft"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1
+        },
+        {
+          "text": "The new iPad Pro has the M4",
+          "full-pick-text": "The new iPad Pro has the M4",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2
+        },
+        {
+          "text": "The new Apple Pencil is compatible with and has special features for visionOS",
+          "full-pick-text": "The new Apple Pencil is compatible with and has special features for visionOS",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "Accessories",
+            "Apple Vision Pro",
+            "visionOS"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2
+        },
+        {
+          "text": "Gaming on the iPad Pro is mentioned with at least a triple-A game shown",
+          "full-pick-text": "Gaming on the iPad Pro is mentioned with at least a triple-A game shown",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2
+        },
+        {
+          "text": "The new iPad external keyboard has at least one programmable 'Action' key",
+          "full-pick-text": "The new iPad external keyboard has at least one programmable 'Action' key",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "Accessories"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2
+        },
+        {
+          "text": "The new iPad Pro with M4 has Thunderbolt 5",
+          "full-pick-text": "The new iPad Pro with M4 has Thunderbolt 5",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2
+        },
+        {
+          "text": "Vision Pro launch dates in more countries announced",
+          "full-pick-text": "Vision Pro launch dates in more countries announced",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Apple Vision Pro"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1
+        },
+        {
+          "text": "The new iPad Pros have Wi-Fi 7",
+          "full-pick-text": "The new iPad Pros have Wi-Fi 7",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2
+        },
+        {
+          "text": "The new iPad keyboard has a dedicated Siri key",
+          "full-pick-text": "The new iPad keyboard has a dedicated Siri key",
+          "notes": "",
+          "game": "2024 May Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "Accessories"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2
+        }
+      ],
+      "coin-flips": [],
+      "winner": "TBD"
+    },
+    "relevant-episodes": [
+      {
+        "title": "Connected #500: The Rickies (May 2024)",
+        "url": "https://relay.fm/connected/500",
+        "episode-number": 500
       }
     ]
   }

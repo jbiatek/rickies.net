@@ -24,6 +24,7 @@
     "type": "Ricky",
     "topics": [
       "Developer tools",
+      "Machine Learning/AI",
       "Possible Vindication"
     ],
     "host": "Myke",
@@ -346,7 +347,8 @@
     "topics": [
       "Apple Vision Pro",
       "Augmented Reality",
-      "Developer tools"
+      "Developer tools",
+      "visionOS"
     ],
     "host": "Myke",
     "pick-conditions": 3,

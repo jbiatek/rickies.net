@@ -134,6 +134,19 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:39:28"
   },
   {
+    "text": "iPad Pro does not get an M4",
+    "full-pick-text": "iPad Pro does not get an M4",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "iPadOS multitasking remains fundamentally the same as the iPadOS 15 version",
     "full-pick-text": "iPadOS multitasking remains fundamentally the same as the iPadOS 15 version",
     "notes": "",
@@ -739,6 +752,19 @@
     "pick-conditions": 1,
     "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:03:15"
+  },
+  {
+    "text": "The iPad Pro has a higher starting price for both models",
+    "full-pick-text": "The iPad Pro has a higher starting price for both models",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3
   },
   {
     "text": "The iPad's external display support goes unchanged",

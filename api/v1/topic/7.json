@@ -70,6 +70,19 @@
     "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:17:52"
   },
   {
+    "text": "A new Apple Pencil is announced and only works with the new iPad Pros",
+    "full-pick-text": "A new Apple Pencil is announced and only works with the new iPad Pros",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
+  },
+  {
     "text": "A new Apple Pencil with a button of some kind",
     "full-pick-text": "A new Apple Pencil with a button of some kind",
     "notes": "<p><ul><li>\"(aluminum?)\"</li></ul></p>",
@@ -481,6 +494,19 @@
     "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:18:25"
   },
   {
+    "text": "Apple now sells four Apple Pencils",
+    "full-pick-text": "Apple now sells four Apple Pencils",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "Apple puts a cheaper display on sale as a sibling to the XDR",
     "full-pick-text": "Apple puts a cheaper display on sale as a sibling to the XDR",
     "notes": "",
@@ -496,6 +522,18 @@
     "ahead-by": 66,
     "overcast-graded": "https://overcast.fm/+FXx6bXcOY/55:56",
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:30:32"
+  },
+  {
+    "text": "Apple refreshes its input accessories for USB-C",
+    "full-pick-text": "Apple refreshes its input accessories for USB-C",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "Apple releases its own game controller",
@@ -578,6 +616,18 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/1:12:08",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:44"
+  },
+  {
+    "text": "Apple unveils a new Apple Pencil",
+    "full-pick-text": "Apple unveils a new Apple Pencil",
+    "notes": "<p><ul><li>Ungraded: Support for gestures like squeezing and the inclusion of haptic feedback</li></ul></p>",
+    "game": "2024 May Rickies",
+    "type": "Regular",
+    "topics": [
+      "Accessories"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "Apple unveils a new external display",
@@ -725,6 +775,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:10:31",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:12:07"
+  },
+  {
+    "text": "Apple's iPad Pro keyboard features a new key switch technology",
+    "full-pick-text": "Apple's iPad Pro keyboard features a new key switch technology",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
   },
   {
     "text": "At least 1 more color option comes to AirPods",
@@ -1100,6 +1163,19 @@
     "overcast-picked": "https://overcast.fm/+FXx4VfMWE/31:20"
   },
   {
+    "text": "New Magic Keyboard matches aluminium colours",
+    "full-pick-text": "New Magic Keyboard matches aluminium colours",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
+  },
+  {
     "text": "New MagSafe charging case for existing AirPods",
     "full-pick-text": "New MagSafe charging case for existing AirPods",
     "notes": "<p><ul><li>MagSafe came to the AirPods line the next year.</li></ul></p>",
@@ -1150,6 +1226,32 @@
     "ahead-by": 48,
     "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:27:17",
     "overcast-picked": "https://overcast.fm/+FXx4E3x_I/52:28"
+  },
+  {
+    "text": "New pencil comes in colour choices",
+    "full-pick-text": "New pencil comes in colour choices",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
+  },
+  {
+    "text": "New pencil has a button",
+    "full-pick-text": "New pencil has a button",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
   },
   {
     "text": "No mention of AirTags",
@@ -1340,6 +1442,19 @@
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:09"
   },
   {
+    "text": "The iPad Pro gets MagSafe charging, but it's not what you think…",
+    "full-pick-text": "The iPad Pro gets MagSafe charging, but it's not what you think…",
+    "notes": "<p><ul><li>\"Not the MagSafe an iPhone has.\"</li></ul></p>",
+    "game": "2024 May Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
+  },
+  {
     "text": "The keyboard for iPad Pro is substantially redesigned for the first time since its introduction in 2020",
     "full-pick-text": "The keyboard for iPad Pro is substantially redesigned for the first time since its introduction in 2020",
     "notes": "<p><ul><li>Federico's cohosts generously helped workshop some of the possible nitpicks out of the pick.</li><li>Ungraded: \"function row, backlight, material change, multiple USB ports, different viewing angles\"</li></ul></p>",
@@ -1372,6 +1487,34 @@
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:22:13"
   },
   {
+    "text": "The new Apple Pencil is compatible with and has special features for visionOS",
+    "full-pick-text": "The new Apple Pencil is compatible with and has special features for visionOS",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The new Apple Pencil is named Apple Pencil Pro",
+    "full-pick-text": "The new Apple Pencil is named Apple Pencil Pro",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "The new iPad Air supports the Magic Keyboard",
     "full-pick-text": "The new iPad Air supports the Magic Keyboard",
     "notes": "",
@@ -1387,6 +1530,48 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5peDck/1:07:12",
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:35:56"
+  },
+  {
+    "text": "The new iPad external keyboard has at least one programmable 'Action' key",
+    "full-pick-text": "The new iPad external keyboard has at least one programmable 'Action' key",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
+    "full-pick-text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Mac",
+      "Accessories",
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The new iPad keyboard has a dedicated Siri key",
+    "full-pick-text": "The new iPad keyboard has a dedicated Siri key",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
   },
   {
     "text": "The new iPad Pro comes with a fancy new GaN charger",

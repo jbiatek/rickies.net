@@ -387,6 +387,7 @@
     "type": "Flexie",
     "topics": [
       "Mac",
+      "Machine Learning/AI",
       "Stagecraft",
       "Unvindicatable"
     ],
@@ -1933,6 +1934,36 @@
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/37:29"
   },
   {
+    "text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
+    "full-pick-text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Mac",
+      "Accessories",
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The new iPad Pros can run a version of macOS when needed",
+    "full-pick-text": "The new iPad Pros can run a version of macOS when needed",
+    "notes": "<p><ul><li>Ungraded: \"Native, virtualized, or Mac Virtual Display?\"</li></ul></p>",
+    "game": "2024 May Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Mac",
+      "macOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
     "text": "The new Mac mini comes in more colors than silver and grey",
     "full-pick-text": "The new Mac mini comes in more colors than silver and grey",
     "notes": "<p><ul><li>Was originally \"in multiple colors\".</li></ul></p>",
@@ -2153,6 +2184,18 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5nWhwg/58:17",
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/38:39"
+  },
+  {
+    "text": "We get new Macs",
+    "full-pick-text": "We get new Macs",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "We see a Big Sur feature recap",

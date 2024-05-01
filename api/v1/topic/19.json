@@ -50,6 +50,32 @@
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:49:51"
   },
   {
+    "text": "Apple announces AI-powered changes to iWork",
+    "full-pick-text": "Apple announces AI-powered changes to iWork",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
+    "full-pick-text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Apple Apps"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "Apple brings Mail extensions to iOS and iPadOS",
     "full-pick-text": "Apple brings Mail extensions to iOS and iPadOS",
     "notes": "",
@@ -382,6 +408,21 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:27:22",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:21:57"
+  },
+  {
+    "text": "Final Cut for iPad gains a feature specifically for video in visionOS",
+    "full-pick-text": "Final Cut for iPad gains a feature specifically for video in visionOS",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "Improved support for ZIP archives in the Files app and framework",
@@ -993,7 +1034,8 @@
     "type": "Flexie",
     "topics": [
       "iOS",
-      "Apple Apps"
+      "Apple Apps",
+      "Machine Learning/AI"
     ],
     "host": "Federico",
     "pick-conditions": 2,

@@ -1,0 +1,95 @@
+[
+  {
+    "text": "Final Cut for iPad gains a feature specifically for video in visionOS",
+    "full-pick-text": "Final Cut for iPad gains a feature specifically for video in visionOS",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "iPad Virtual Display announced for visionOS",
+    "full-pick-text": "iPad Virtual Display announced for visionOS",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Apple Vision Pro",
+      "iPadOS",
+      "visionOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
+    "full-pick-text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
+    "notes": "<p><ul><li>It wasn't obvious from the keynote, but <a href=\"https://mastodon.social/@stroughtonsmith/110498901199712804\" target=\"_blank\">later session information showed that when connected to a trackpad, visionOS indeed uses an almost exact clone of the iPad cursor</a>.</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "Augmented Reality",
+      "Developer tools",
+      "visionOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/41:34",
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/59:50"
+  },
+  {
+    "text": "The new Apple Pencil is compatible with and has special features for visionOS",
+    "full-pick-text": "The new Apple Pencil is compatible with and has special features for visionOS",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
+    "full-pick-text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Mac",
+      "Accessories",
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
+    "text": "visionOS receives updates at WWDC that ship later in 2024",
+    "full-pick-text": "visionOS receives updates at WWDC that ship later in 2024",
+    "notes": "",
+    "game": "2024 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:14:21"
+  }
+]

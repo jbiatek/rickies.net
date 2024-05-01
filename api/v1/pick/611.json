@@ -5,7 +5,8 @@
   "game": "2024 Annual Rickies",
   "type": "Regular",
   "topics": [
-    "iOS"
+    "iOS",
+    "Machine Learning/AI"
   ],
   "host": "Federico",
   "pick-conditions": 1,

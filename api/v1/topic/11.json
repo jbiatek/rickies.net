@@ -432,6 +432,20 @@
     "overcast-picked": "https://overcast.fm/+FXx7FoU8U/57:29"
   },
   {
+    "text": "The new iPad Pros can run a version of macOS when needed",
+    "full-pick-text": "The new iPad Pros can run a version of macOS when needed",
+    "notes": "<p><ul><li>Ungraded: \"Native, virtualized, or Mac Virtual Display?\"</li></ul></p>",
+    "game": "2024 May Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Mac",
+      "macOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
     "text": "The new version of macOS brings back Dashboard as a way to place widgets outside of the current Notification Center",
     "full-pick-text": "The new version of macOS brings back Dashboard as a way to place widgets outside of the current Notification Center",
     "notes": "<p><ul><li>It has to be called \"Dashboard\" to get the points.</li></ul></p>",

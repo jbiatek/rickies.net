@@ -1,0 +1,128 @@
+[
+  {
+    "text": "Apple announces AI-powered changes to iWork",
+    "full-pick-text": "Apple announces AI-powered changes to iWork",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Apple demos a Mac app that takes advantage of the updated Neural Engine",
+    "full-pick-text": "Apple demos a Mac app that takes advantage of the updated Neural Engine",
+    "notes": "",
+    "game": "2021 October Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Machine Learning/AI",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:17:23",
+    "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:15:56"
+  },
+  {
+    "text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
+    "full-pick-text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
+    "notes": "<p><ul><li>Not graded: \"A feature in Xcode that uses AI/ML to suggest how to improve your code or solve common problems. It will most likely live in a sidebar and will probably be a Beta feature.\"\n</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Developer tools",
+      "Machine Learning/AI",
+      "Possible Vindication"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/30:41",
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/42:28"
+  },
+  {
+    "text": "Apple Music will be redesigned again",
+    "full-pick-text": "Apple Music will be redesigned again",
+    "notes": "<p><ul><li>\"Will gain more Spotify-like algorithmic features\"</li><li>\"An Apple version of the Daily Mix and a way to discover back catalog songs from artists you don't know (Discover Weekly?)\"</li><li>The <a href=\"https://www.engadget.com/2019-08-23-apple-music-new-music-daily.html\" target=\"_blank\">New Music Daily</a> feature would eventually come in 2019.</li></ul></p>",
+    "game": "2017 Annual Predictions",
+    "type": "Regular",
+    "topics": [
+      "Ahead of Its Time",
+      "Machine Learning/AI",
+      "Services"
+    ],
+    "host": "Federico",
+    "pick-conditions": 4,
+    "score": 0,
+    "ahead-by": 599,
+    "overcast-graded": "https://overcast.fm/+FXx75_MJc/07:40",
+    "overcast-picked": "https://overcast.fm/+FXx7nikbQ/39:07"
+  },
+  {
+    "text": "Apple reframes an existing feature as being powered by \"AI\"",
+    "full-pick-text": "Apple reframes an existing feature as being powered by \"AI\"",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft",
+      "Unvindicatable"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/52:21",
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:25"
+  },
+  {
+    "text": "iOS 18 will bring new AI features based on LLMs with some generative capabilities",
+    "full-pick-text": "iOS 18 will bring new AI features based on LLMs with some generative capabilities",
+    "notes": "",
+    "game": "2024 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "iOS",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:00:10"
+  },
+  {
+    "text": "iPadOS 17 AI enhancements for iPad only",
+    "full-pick-text": "iPadOS 17 AI enhancements for iPad only",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
+  },
+  {
+    "text": "You will be able to create Shortcuts with the new LLM-infused Siri in iOS 18",
+    "full-pick-text": "You will be able to create Shortcuts with the new LLM-infused Siri in iOS 18",
+    "notes": "",
+    "game": "2024 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Apple Apps",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:11:38"
+  }
+]

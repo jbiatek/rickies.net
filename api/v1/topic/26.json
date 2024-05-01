@@ -41,6 +41,36 @@
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:06:27"
   },
   {
+    "text": "Final Cut for iPad gains a feature specifically for video in visionOS",
+    "full-pick-text": "Final Cut for iPad gains a feature specifically for video in visionOS",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "iPad Virtual Display announced for visionOS",
+    "full-pick-text": "iPad Virtual Display announced for visionOS",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Apple Vision Pro",
+      "iPadOS",
+      "visionOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "Jeff Williams has a major role in introducing the headset",
     "full-pick-text": "Jeff Williams has a major role in introducing the headset",
     "notes": "<p><ul><li>Was originally Kevin Lynch until Myke, ever the sportsman, pointed out that Lynch is supposedly on the <em>car</em> project, not the headset.</li></ul></p>",
@@ -120,13 +150,45 @@
     "topics": [
       "Apple Vision Pro",
       "Augmented Reality",
-      "Developer tools"
+      "Developer tools",
+      "visionOS"
     ],
     "host": "Myke",
     "pick-conditions": 3,
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/41:34",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/59:50"
+  },
+  {
+    "text": "The new Apple Pencil is compatible with and has special features for visionOS",
+    "full-pick-text": "The new Apple Pencil is compatible with and has special features for visionOS",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
+    "full-pick-text": "The new iPad keyboard can also be paired with a Mac or Vision Pro",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Mac",
+      "Accessories",
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
   },
   {
     "text": "The phrase \"one more thing\" will be used before the headset is announced",
@@ -177,6 +239,18 @@
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/57:50"
   },
   {
+    "text": "Vision Pro launch dates in more countries announced",
+    "full-pick-text": "Vision Pro launch dates in more countries announced",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "Vision Pro will not be available in Italy in 2024",
     "full-pick-text": "Vision Pro will not be available in Italy in 2024",
     "notes": "",
@@ -197,7 +271,8 @@
     "game": "2024 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Apple Vision Pro"
+      "Apple Vision Pro",
+      "visionOS"
     ],
     "host": "Myke",
     "pick-conditions": 1,

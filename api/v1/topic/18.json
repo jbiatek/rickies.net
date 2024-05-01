@@ -202,6 +202,21 @@
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:50"
   },
   {
+    "text": "iPad Virtual Display announced for visionOS",
+    "full-pick-text": "iPad Virtual Display announced for visionOS",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Apple Vision Pro",
+      "iPadOS",
+      "visionOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "iPadOS 15 brings organization changes to the home screen that don't exist on the iPhone, including iOS 15",
     "full-pick-text": "iPadOS 15 brings organization changes to the home screen that don't exist on the iPhone, including iOS 15",
     "notes": "<p><ul>\n<li>\"Widgets on home screen and App Library don't count as they are on the iPhone already\"</li>\n<li>This was originally a Risky Pick, but Myke couldn't get enough clarity for what it meant.</li>\n</ul></p>",
@@ -219,6 +234,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/46:28",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/48:30"
+  },
+  {
+    "text": "iPadOS 17 AI enhancements for iPad only",
+    "full-pick-text": "iPadOS 17 AI enhancements for iPad only",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
   },
   {
     "text": "iPadOS 17 gains Lock Screen customization",
