@@ -115,6 +115,7 @@
     "host": "Federico",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7hkz9o/48:13",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/56:51"
   },
   {
@@ -341,6 +342,7 @@
     "host": "Stephen",
     "pick-conditions": 3,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7hkz9o/52:31",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:33"
   }
 ]

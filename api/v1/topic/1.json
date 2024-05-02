@@ -293,6 +293,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7hkz9o/20:44",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/20:58"
   },
   {
@@ -666,6 +667,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx7hkz9o/33:52",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/40:24"
   },
   {
@@ -803,6 +805,7 @@
     "host": "Federico",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7hkz9o/48:40",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/58:16"
   },
   {
@@ -820,6 +823,7 @@
     "host": "Federico",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7hkz9o/48:13",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/56:51"
   },
   {
@@ -834,6 +838,7 @@
     "host": "Myke",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7hkz9o/51:26",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:11"
   },
   {
@@ -1593,7 +1598,7 @@
   {
     "text": "The 13\" MacBook Pro is redesigned",
     "full-pick-text": "The 13\" MacBook Pro is redesigned",
-    "notes": "<p><ul><li>Jason Snell was called in to adjudicate, as <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20updates%20the%20standard%20Bluetooth%20Magic%20Keyboard\">has been done before</a>, and decides against Myke's somewhat strained logic that it was redesigned into a new size.</li></ul></p>",
+    "notes": "<p><ul><li><a href=\"https://overcast.fm/+FXx7hkz9o/36:44\" target=\"_blank\">Jason Snell was called in to adjudicate</a>, as <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20updates%20the%20standard%20Bluetooth%20Magic%20Keyboard\">has been done before</a>, and decides against Myke's somewhat strained logic that it was redesigned into a new size.</li></ul></p>",
     "game": "2023 October Rickies",
     "type": "Regular",
     "topics": [
@@ -1603,6 +1608,7 @@
     "host": "Myke",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7hkz9o/22:28",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/24:38"
   },
   {
@@ -1713,6 +1719,7 @@
     "host": "Stephen",
     "pick-conditions": 2,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7hkz9o/52:26",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:09"
   },
   {
@@ -1760,6 +1767,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7hkz9o/29:54",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/30:57"
   },
   {
@@ -1788,6 +1796,7 @@
     "host": "Stephen",
     "pick-conditions": 3,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7hkz9o/52:31",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:33"
   },
   {
@@ -1820,6 +1829,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7hkz9o/52:53",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:02:49"
   },
   {
@@ -1883,6 +1893,7 @@
     "host": "Federico",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7hkz9o/26:42",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/29:03"
   },
   {
@@ -1914,6 +1925,7 @@
     "host": "Myke",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7hkz9o/30:28",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/31:57"
   },
   {
@@ -2113,6 +2125,7 @@
     "host": "Federico",
     "pick-conditions": 2,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7hkz9o/30:59",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/35:42"
   },
   {
