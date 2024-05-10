@@ -1,13 +1,15 @@
 {
   "text": "The video is shorter than 31 minutes",
   "full-pick-text": "The video is shorter than 31 minutes",
-  "notes": "",
+  "notes": "<p><ul><li>Close, but over.</li></ul></p>",
   "game": "2024 May Rickies",
   "type": "Flexie",
   "topics": [
-    "Stagecraft"
+    "Stagecraft",
+    "Unvindicatable"
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:08:39"
 }

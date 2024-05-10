@@ -51,10 +51,12 @@
       "Alternate Risky",
       "Apple Apps",
       "Apple Vision Pro",
-      "visionOS"
+      "visionOS",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:11"
   },
   {
@@ -68,10 +70,12 @@
       "Apple Vision Pro",
       "iPadOS",
       "Live Edited",
-      "visionOS"
+      "visionOS",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:46"
   },
   {
@@ -173,10 +177,12 @@
       "iPad",
       "Accessories",
       "Apple Vision Pro",
-      "visionOS"
+      "visionOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:09:43"
   },
   {
@@ -189,10 +195,12 @@
       "iPad",
       "Mac",
       "Accessories",
-      "Apple Vision Pro"
+      "Apple Vision Pro",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:06:45"
   },
   {
@@ -251,10 +259,12 @@
     "game": "2024 May Rickies",
     "type": "Flexie",
     "topics": [
-      "Apple Vision Pro"
+      "Apple Vision Pro",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:12:46"
   },
   {

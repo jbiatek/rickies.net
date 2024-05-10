@@ -9,9 +9,11 @@
     "Alternate Risky",
     "Apple Apps",
     "Apple Vision Pro",
-    "visionOS"
+    "visionOS",
+    "Possible Vindication"
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:11"
 }

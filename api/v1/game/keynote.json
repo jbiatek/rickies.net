@@ -2551,13 +2551,14 @@
         {
           "text": "The iPad gets a new development tool to write code, on device, that is not Swift Playgrounds",
           "full-pick-text": "The iPad gets a new development tool to write code, on device, that is not Swift Playgrounds",
-          "notes": "",
+          "notes": "<p><ul><li>A <a href=\"https://overcast.fm/+FXx55oUZ4/3:16\" target=\"_blank\">\"passion Ricky\"</a>, according to Federico an episode after grading.</li></ul></p>",
           "game": "2020 Summer Rickies",
           "type": "Ricky",
           "topics": [
             "iPad",
             "Apple Apps",
             "Developer tools",
+            "Passionate",
             "Possible Vindication"
           ],
           "host": "Federico",
@@ -8454,7 +8455,7 @@
   {
     "name": "2024 May Rickies",
     "game-type": "Keynote",
-    "date-graded": "",
+    "date-graded": "2024-05-10",
     "date-picked": "2024-05-01",
     "main-game": {
       "picks": [
@@ -8469,6 +8470,7 @@
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/15:24"
         },
         {
@@ -8484,6 +8486,7 @@
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/19:31"
         },
         {
@@ -8497,6 +8500,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/21:19"
         },
         {
@@ -8511,12 +8515,13 @@
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/30:43"
         },
         {
           "text": "The new iPad Air comes in the current iPad Pro sizes: 11-inch and 12.9-inch",
           "full-pick-text": "The new iPad Air comes in the current iPad Pro sizes: 11-inch and 12.9-inch",
-          "notes": "",
+          "notes": "<p><ul><li>Apple changed to just calling it 13\", but it's actually exactly the same, so Stephen gets the point.</li></ul></p>",
           "game": "2024 May Rickies",
           "type": "Regular",
           "topics": [
@@ -8524,12 +8529,13 @@
           ],
           "host": "Stephen",
           "pick-conditions": 3,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/27:56"
         },
         {
           "text": "The iPad Pro has a higher starting price for both models",
           "full-pick-text": "The iPad Pro has a higher starting price for both models",
-          "notes": "",
+          "notes": "<p><ul><li>The old models started at $799 and $1099.</li><li>New prices: $999 and $1299, so definitely yes. (To be fair, you also get more storage for that price.)</li></ul></p>",
           "game": "2024 May Rickies",
           "type": "Regular",
           "topics": [
@@ -8538,6 +8544,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 3,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/29:17"
         },
         {
@@ -8549,10 +8556,12 @@
           "topics": [
             "iPad",
             "Mac",
-            "macOS"
+            "macOS",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 2,
+          "score": -1,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/36:06"
         },
         {
@@ -8562,10 +8571,12 @@
           "game": "2024 May Rickies",
           "type": "Ricky",
           "topics": [
-            "Mac"
+            "Mac",
+            "Possible Vindication"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": -1,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/44:18"
         },
         {
@@ -8576,15 +8587,56 @@
           "type": "Ricky",
           "topics": [
             "iPad",
-            "Accessories"
+            "Accessories",
+            "Possible Vindication"
           ],
           "host": "Myke",
           "pick-conditions": 3,
+          "score": -1,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/47:23"
         }
       ],
-      "coin-flips": [],
-      "winner": "TBD"
+      "coin-flips": [
+        {
+          "game": "2024 May Rickies",
+          "called": "Tails",
+          "caller": "Stephen",
+          "flip-method": "Dice by PCalc",
+          "game-phase": "Rickies",
+          "loser": "Stephen",
+          "overcast-link": "",
+          "prize": 2,
+          "result": "Heads",
+          "winner": "Federico"
+        },
+        {
+          "game": "2024 May Rickies",
+          "called": "Tails",
+          "caller": "Federico",
+          "flip-method": "Dice by PCalc",
+          "game-phase": "Rickies",
+          "loser": "Stephen and Federico",
+          "overcast-link": "",
+          "prize": 1,
+          "result": "Heads",
+          "winner": "Myke"
+        }
+      ],
+      "scores": [
+        {
+          "host": "Myke",
+          "score": 1
+        },
+        {
+          "host": "Federico",
+          "score": 1
+        },
+        {
+          "host": "Stephen",
+          "score": 1
+        }
+      ],
+      "winner": "Myke"
     },
     "the-flexies": {
       "picks": [
@@ -8596,10 +8648,12 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Accessories"
+            "Accessories",
+            "Possible Vindication"
           ],
           "host": "Myke",
           "pick-conditions": 2,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/55:27"
         },
         {
@@ -8614,6 +8668,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/55:41"
         },
         {
@@ -8624,10 +8679,12 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Accessories"
+            "Accessories",
+            "Possible Vindication"
           ],
           "host": "Myke",
           "pick-conditions": 2,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/56:39"
         },
         {
@@ -8642,6 +8699,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 2,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/56:45"
         },
         {
@@ -8652,10 +8710,12 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Buzzkill"
+            "Buzzkill",
+            "Unvindicatable"
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/57:00"
         },
         {
@@ -8668,10 +8728,12 @@
             "iPad",
             "iPadOS",
             "Live Edited",
-            "Machine Learning/AI"
+            "Machine Learning/AI",
+            "Possible Vindication"
           ],
           "host": "Myke",
           "pick-conditions": 2,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/57:12"
         },
         {
@@ -8683,10 +8745,12 @@
           "topics": [
             "iPad",
             "Accessories",
-            "Alternate Risky"
+            "Alternate Risky",
+            "Possible Vindication"
           ],
           "host": "Myke",
           "pick-conditions": 2,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/58:07"
         },
         {
@@ -8696,10 +8760,12 @@
           "game": "2024 May Rickies",
           "type": "Flexie",
           "topics": [
-            "iPad"
+            "iPad",
+            "Possible Vindication"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/59:54"
         },
         {
@@ -8715,6 +8781,7 @@
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:38"
         },
         {
@@ -8725,10 +8792,12 @@
           "type": "Flexie",
           "topics": [
             "Apple Apps",
-            "Machine Learning/AI"
+            "Machine Learning/AI",
+            "Possible Vindication"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:48"
         },
         {
@@ -8742,10 +8811,12 @@
             "Alternate Risky",
             "Apple Apps",
             "Apple Vision Pro",
-            "visionOS"
+            "visionOS",
+            "Possible Vindication"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:11"
         },
         {
@@ -8759,24 +8830,28 @@
             "Apple Vision Pro",
             "iPadOS",
             "Live Edited",
-            "visionOS"
+            "visionOS",
+            "Possible Vindication"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:46"
         },
         {
           "text": "A new Apple Pencil is announced and only works with the new iPad Pros",
           "full-pick-text": "A new Apple Pencil is announced and only works with the new iPad Pros",
-          "notes": "",
+          "notes": "<p><ul><li>Close, but the iPad Air got it too.</li></ul></p>",
           "game": "2024 May Rickies",
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Accessories"
+            "Accessories",
+            "Unvindicatable"
           ],
           "host": "Stephen",
           "pick-conditions": 2,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:03:47"
         },
         {
@@ -8790,6 +8865,7 @@
           ],
           "host": "Stephen",
           "pick-conditions": 2,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:04:00"
         },
         {
@@ -8799,10 +8875,12 @@
           "game": "2024 May Rickies",
           "type": "Flexie",
           "topics": [
-            "iPad"
+            "iPad",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 2,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:04:39"
         },
         {
@@ -8812,10 +8890,12 @@
           "game": "2024 May Rickies",
           "type": "Flexie",
           "topics": [
-            "Accessories"
+            "Accessories",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:05:54"
         },
         {
@@ -8828,23 +8908,27 @@
             "iPad",
             "Mac",
             "Accessories",
-            "Apple Vision Pro"
+            "Apple Vision Pro",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 2,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:06:45"
         },
         {
           "text": "The video is shorter than 31 minutes",
           "full-pick-text": "The video is shorter than 31 minutes",
-          "notes": "",
+          "notes": "<p><ul><li>Close, but over.</li></ul></p>",
           "game": "2024 May Rickies",
           "type": "Flexie",
           "topics": [
-            "Stagecraft"
+            "Stagecraft",
+            "Unvindicatable"
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:08:39"
         },
         {
@@ -8858,6 +8942,7 @@
           ],
           "host": "Federico",
           "pick-conditions": 2,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:09:10"
         },
         {
@@ -8870,23 +8955,27 @@
             "iPad",
             "Accessories",
             "Apple Vision Pro",
-            "visionOS"
+            "visionOS",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 2,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:09:43"
         },
         {
           "text": "Gaming on the iPad Pro is mentioned with at least a triple-A game shown",
           "full-pick-text": "Gaming on the iPad Pro is mentioned with at least a triple-A game shown",
-          "notes": "",
+          "notes": "<p><ul><li>Although Assassin's Creed was mentioned, it wasn't with the iPad Pro.</li></ul></p>",
           "game": "2024 May Rickies",
           "type": "Flexie",
           "topics": [
-            "iPad"
+            "iPad",
+            "Unvindicatable"
           ],
           "host": "Federico",
           "pick-conditions": 2,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:10:22"
         },
         {
@@ -8897,10 +8986,12 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Accessories"
+            "Accessories",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 2,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:11:33"
         },
         {
@@ -8910,10 +9001,12 @@
           "game": "2024 May Rickies",
           "type": "Flexie",
           "topics": [
-            "iPad"
+            "iPad",
+            "Possible Vindication"
           ],
           "host": "Myke",
           "pick-conditions": 2,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:11:50"
         },
         {
@@ -8923,10 +9016,12 @@
           "game": "2024 May Rickies",
           "type": "Flexie",
           "topics": [
-            "iPad"
+            "iPad",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 2,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:12:27"
         },
         {
@@ -8936,10 +9031,12 @@
           "game": "2024 May Rickies",
           "type": "Flexie",
           "topics": [
-            "Apple Vision Pro"
+            "Apple Vision Pro",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:12:46"
         },
         {
@@ -8949,10 +9046,12 @@
           "game": "2024 May Rickies",
           "type": "Flexie",
           "topics": [
-            "iPad"
+            "iPad",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 2,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:12:59"
         },
         {
@@ -8963,21 +9062,49 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Accessories"
+            "Accessories",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 2,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:15:50"
         }
       ],
       "coin-flips": [],
-      "winner": "TBD"
+      "scores": [
+        {
+          "host": "Stephen",
+          "correct": 2,
+          "total": 7
+        },
+        {
+          "host": "Myke",
+          "correct": 2,
+          "total": 8
+        },
+        {
+          "host": "Federico",
+          "correct": 1,
+          "total": 12
+        }
+      ],
+      "charity-name": "Memphis Youth Arts",
+      "charity-url": "https://www.memphisyoutharts.org/",
+      "donation": 275,
+      "donator": "Federico",
+      "winner": "Stephen"
     },
     "relevant-episodes": [
       {
         "title": "Connected #500: The Rickies (May 2024)",
         "url": "https://relay.fm/connected/500",
         "episode-number": 500
+      },
+      {
+        "title": "Connected #501: My Heart Skipped a Beat",
+        "url": "https://relay.fm/connected/501",
+        "episode-number": 501
       }
     ]
   }

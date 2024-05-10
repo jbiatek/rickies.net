@@ -1,7 +1,7 @@
 {
   "text": "The iPad Pro has a higher starting price for both models",
   "full-pick-text": "The iPad Pro has a higher starting price for both models",
-  "notes": "",
+  "notes": "<p><ul><li>The old models started at $799 and $1099.</li><li>New prices: $999 and $1299, so definitely yes. (To be fair, you also get more storage for that price.)</li></ul></p>",
   "game": "2024 May Rickies",
   "type": "Regular",
   "topics": [
@@ -10,5 +10,6 @@
   ],
   "host": "Myke",
   "pick-conditions": 3,
+  "score": 1,
   "overcast-picked": "https://overcast.fm/+FXx4ahnn0/29:17"
 }

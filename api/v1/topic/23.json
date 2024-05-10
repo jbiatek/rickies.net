@@ -237,6 +237,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/19:31"
   },
   {
@@ -513,6 +514,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/30:43"
   },
   {
@@ -826,10 +828,12 @@
       "Apple Vision Pro",
       "iPadOS",
       "Live Edited",
-      "visionOS"
+      "visionOS",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:46"
   },
   {
@@ -861,10 +865,12 @@
       "iPad",
       "iPadOS",
       "Live Edited",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/57:12"
   },
   {
@@ -1366,6 +1372,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:38"
   },
   {

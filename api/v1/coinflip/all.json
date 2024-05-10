@@ -334,5 +334,29 @@
     "prize": 1,
     "result": "Heads",
     "winner": "Federico"
+  },
+  {
+    "game": "2024 May Rickies",
+    "called": "Tails",
+    "caller": "Stephen",
+    "flip-method": "Dice by PCalc",
+    "game-phase": "Rickies",
+    "loser": "Stephen",
+    "overcast-link": "",
+    "prize": 2,
+    "result": "Heads",
+    "winner": "Federico"
+  },
+  {
+    "game": "2024 May Rickies",
+    "called": "Tails",
+    "caller": "Federico",
+    "flip-method": "Dice by PCalc",
+    "game-phase": "Rickies",
+    "loser": "Stephen and Federico",
+    "overcast-link": "",
+    "prize": 1,
+    "result": "Heads",
+    "winner": "Myke"
   }
 ]

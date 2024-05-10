@@ -53,6 +53,11 @@
     ]
   },
   {
+    "episode": 210,
+    "permalink": "https://relay.fm/connected/210",
+    "relevant-games": []
+  },
+  {
     "episode": 224,
     "permalink": "https://relay.fm/connected/224",
     "relevant-games": [
@@ -172,6 +177,11 @@
     "relevant-games": [
       "2020 October Rickies"
     ]
+  },
+  {
+    "episode": 317,
+    "permalink": "https://relay.fm/connected/317",
+    "relevant-games": []
   },
   {
     "episode": 319,
@@ -401,6 +411,13 @@
   {
     "episode": 500,
     "permalink": "https://relay.fm/connected/500",
+    "relevant-games": [
+      "2024 May Rickies"
+    ]
+  },
+  {
+    "episode": 501,
+    "permalink": "https://relay.fm/connected/501",
     "relevant-games": [
       "2024 May Rickies"
     ]

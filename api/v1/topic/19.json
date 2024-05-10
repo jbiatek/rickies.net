@@ -57,10 +57,12 @@
     "type": "Flexie",
     "topics": [
       "Apple Apps",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:48"
   },
   {
@@ -76,6 +78,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/19:31"
   },
   {
@@ -423,10 +426,12 @@
       "Alternate Risky",
       "Apple Apps",
       "Apple Vision Pro",
-      "visionOS"
+      "visionOS",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:11"
   },
   {
@@ -467,7 +472,7 @@
   {
     "text": "iWork updates for iOS 12",
     "full-pick-text": "iWork updates for iOS 12",
-    "notes": "<p><ul><li>The big iWork update <a href=\"https://www.apple.com/newsroom/2019/03/all-new-ipad-air-and-ipad-mini-deliver-dramatic-power-and-capability/\" target=\"_blank\">eventually came in 2019</a>.</li></ul></p>",
+    "notes": "<p><ul><li>A week after grading, <a href=\"https://overcast.fm/+FXx5CD05Y/1:00\" target=\"_blank\">there is some controversy from the listeners and Federico</a>, as iWork <em>did</em> get updated (well, slightly, a few basic Shortcut actions were added), it just wasn't mentioned in the keynote. Stephen proposes a placating half point, but Myke stands firm that \"there are no half points around here.\" This seems to be the last time that half points were ever considered for a pick.</li><li>The big iWork update <a href=\"https://www.apple.com/newsroom/2019/03/all-new-ipad-air-and-ipad-mini-deliver-dramatic-power-and-capability/\" target=\"_blank\">eventually came in 2019</a>.</li></ul></p>",
     "game": "2018 iPhone Event Predictions",
     "type": "NonGraded",
     "topics": [
@@ -883,13 +888,14 @@
   {
     "text": "The iPad gets a new development tool to write code, on device, that is not Swift Playgrounds",
     "full-pick-text": "The iPad gets a new development tool to write code, on device, that is not Swift Playgrounds",
-    "notes": "",
+    "notes": "<p><ul><li>A <a href=\"https://overcast.fm/+FXx55oUZ4/3:16\" target=\"_blank\">\"passion Ricky\"</a>, according to Federico an episode after grading.</li></ul></p>",
     "game": "2020 Summer Rickies",
     "type": "Ricky",
     "topics": [
       "iPad",
       "Apple Apps",
       "Developer tools",
+      "Passionate",
       "Possible Vindication"
     ],
     "host": "Federico",

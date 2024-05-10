@@ -72,15 +72,17 @@
   {
     "text": "A new Apple Pencil is announced and only works with the new iPad Pros",
     "full-pick-text": "A new Apple Pencil is announced and only works with the new iPad Pros",
-    "notes": "",
+    "notes": "<p><ul><li>Close, but the iPad Air got it too.</li></ul></p>",
     "game": "2024 May Rickies",
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Accessories"
+      "Accessories",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:03:47"
   },
   {
@@ -507,6 +509,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/55:41"
   },
   {
@@ -533,10 +536,12 @@
     "game": "2024 May Rickies",
     "type": "Flexie",
     "topics": [
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:05:54"
   },
   {
@@ -633,6 +638,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/30:43"
   },
   {
@@ -792,10 +798,12 @@
     "topics": [
       "iPad",
       "Accessories",
-      "Alternate Risky"
+      "Alternate Risky",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/58:07"
   },
   {
@@ -1185,6 +1193,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/56:45"
   },
   {
@@ -1247,10 +1256,12 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/56:39"
   },
   {
@@ -1261,10 +1272,12 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/55:27"
   },
   {
@@ -1464,10 +1477,12 @@
     "type": "Ricky",
     "topics": [
       "iPad",
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 3,
+    "score": -1,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/47:23"
   },
   {
@@ -1512,10 +1527,12 @@
       "iPad",
       "Accessories",
       "Apple Vision Pro",
-      "visionOS"
+      "visionOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:09:43"
   },
   {
@@ -1531,6 +1548,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:38"
   },
   {
@@ -1558,10 +1576,12 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:11:33"
   },
   {
@@ -1574,10 +1594,12 @@
       "iPad",
       "Mac",
       "Accessories",
-      "Apple Vision Pro"
+      "Apple Vision Pro",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:06:45"
   },
   {
@@ -1588,10 +1610,12 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:15:50"
   },
   {

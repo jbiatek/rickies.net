@@ -110,5 +110,12 @@
     "donation": 125,
     "charity-name": "Stax Music ",
     "charity-url": "https://staxmusicacademy.org"
+  },
+  {
+    "game": "2024 May Rickies",
+    "donator": "Federico",
+    "donation": 275,
+    "charity-name": "Memphis Youth Arts",
+    "charity-url": "https://www.memphisyoutharts.org/"
   }
 ]

@@ -440,10 +440,12 @@
     "topics": [
       "iPad",
       "Mac",
-      "macOS"
+      "macOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": -1,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/36:06"
   },
   {

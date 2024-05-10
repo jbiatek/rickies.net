@@ -3,7 +3,7 @@
     {
       "text": "Apple's CEO succession plan leaks",
       "full-pick-text": "Apple's CEO succession plan leaks",
-      "notes": "",
+      "notes": "<p><ul><li>Midway through the year... <a href=\"https://512pixels.net/2024/05/our-boy-john-ternus/\" target=\"_blank\">an interesting development</a>, but the grading debate hasn't been had yet.</li></ul></p>",
       "game": "2024 Annual Rickies",
       "type": "Ricky",
       "topics": [
@@ -41,25 +41,40 @@
       "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/58:58"
     },
     {
-      "text": "Apple announces a new Apple Silicon system-on-a-chip",
-      "full-pick-text": "Apple announces a new Apple Silicon system-on-a-chip",
-      "notes": "",
-      "game": "2023 October Rickies",
+      "text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
+      "full-pick-text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
+      "notes": "<p><ul><li>Was originally just \"pro apps\" but Federico wanted some clarification.</li></ul></p>",
+      "game": "2024 May Rickies",
       "type": "Regular",
       "topics": [
-        "Mac"
+        "iPad",
+        "Apple Apps",
+        "Live Edited"
       ],
       "host": "Stephen",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx7hkz9o/20:44",
-      "overcast-picked": "https://overcast.fm/+FXx52vzd4/20:58"
+      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/19:31"
     },
     {
-      "text": "Apple unveils an iMac Pro",
-      "full-pick-text": "Apple unveils an iMac Pro",
-      "notes": "<p><ul><li>In Stephen's mind, this requires a 27\" or larger screen, and a Pro/Pro Max caliber processor at least.</li></ul></p>",
-      "game": "2023 October Rickies",
+      "text": "The new iPad Air comes in the current iPad Pro sizes: 11-inch and 12.9-inch",
+      "full-pick-text": "The new iPad Air comes in the current iPad Pro sizes: 11-inch and 12.9-inch",
+      "notes": "<p><ul><li>Apple changed to just calling it 13\", but it's actually exactly the same, so Stephen gets the point.</li></ul></p>",
+      "game": "2024 May Rickies",
+      "type": "Regular",
+      "topics": [
+        "iPad"
+      ],
+      "host": "Stephen",
+      "pick-conditions": 3,
+      "score": 1,
+      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/27:56"
+    },
+    {
+      "text": "We get new Macs",
+      "full-pick-text": "We get new Macs",
+      "notes": "<p><ul><li><s>Ungraded: probably a new Mac mini</s></li></ul></p>",
+      "game": "2024 May Rickies",
       "type": "Ricky",
       "topics": [
         "Mac",
@@ -68,23 +83,7 @@
       "host": "Stephen",
       "pick-conditions": 1,
       "score": -1,
-      "overcast-graded": "https://overcast.fm/+FXx7hkz9o/33:52",
-      "overcast-picked": "https://overcast.fm/+FXx52vzd4/40:24"
-    },
-    {
-      "text": "The M1 iMac receives an update",
-      "full-pick-text": "The M1 iMac receives an update",
-      "notes": "",
-      "game": "2023 October Rickies",
-      "type": "Regular",
-      "topics": [
-        "Mac"
-      ],
-      "host": "Stephen",
-      "pick-conditions": 1,
-      "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx7hkz9o/29:54",
-      "overcast-picked": "https://overcast.fm/+FXx52vzd4/30:57"
+      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/44:18"
     }
   ],
   "Myke": [
@@ -128,53 +127,49 @@
       "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/57:49"
     },
     {
-      "text": "Apple unveils a new Studio Display Pro that is larger than the regular Studio Display and features a new screen technology than the smaller model",
-      "full-pick-text": "Apple unveils a new Studio Display Pro that is larger than the regular Studio Display and features a new screen technology than the smaller model",
-      "notes": "<p><ul><li>Myke wavers on the \"larger\" clause but chooses to keep the pick unmodified when Stephen thinks it's important to the riskiness of the pick.</li></ul></p>",
-      "game": "2023 October Rickies",
+      "text": "The iPad Pro features a camera on the horizontal bezel",
+      "full-pick-text": "The iPad Pro features a camera on the horizontal bezel",
+      "notes": "",
+      "game": "2024 May Rickies",
+      "type": "Regular",
+      "topics": [
+        "iPad"
+      ],
+      "host": "Myke",
+      "pick-conditions": 1,
+      "score": 1,
+      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/21:19"
+    },
+    {
+      "text": "The iPad Pro gets MagSafe charging, but it's not what you think…",
+      "full-pick-text": "The iPad Pro gets MagSafe charging, but it's not what you think… Not the MagSafe an iPhone has.",
+      "notes": "<p><ul><li>\"Not the MagSafe an iPhone has.\"</li><li>In other words, an iPhone MagSafe charger will not charge an iPad Pro, but it will have a new charging method called MagSafe, likely the MacBook's MagSafe or very similar.</li></ul></p>",
+      "game": "2024 May Rickies",
       "type": "Ricky",
       "topics": [
+        "iPad",
         "Accessories",
-        "Passionate",
         "Possible Vindication"
       ],
       "host": "Myke",
       "pick-conditions": 3,
       "score": -1,
-      "overcast-graded": "https://overcast.fm/+FXx7hkz9o/35:02",
-      "overcast-picked": "https://overcast.fm/+FXx52vzd4/43:16"
+      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/47:23"
     },
     {
-      "text": "The 13\" MacBook Pro is redesigned",
-      "full-pick-text": "The 13\" MacBook Pro is redesigned",
-      "notes": "<p><ul><li><a href=\"https://overcast.fm/+FXx7hkz9o/36:44\" target=\"_blank\">Jason Snell was called in to adjudicate</a>, as <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20updates%20the%20standard%20Bluetooth%20Magic%20Keyboard\">has been done before</a>, and decides against Myke's somewhat strained logic that it was redesigned into a new size.</li></ul></p>",
-      "game": "2023 October Rickies",
+      "text": "The iPad Pro has a higher starting price for both models",
+      "full-pick-text": "The iPad Pro has a higher starting price for both models",
+      "notes": "<p><ul><li>The old models started at $799 and $1099.</li><li>New prices: $999 and $1299, so definitely yes. (To be fair, you also get more storage for that price.)</li></ul></p>",
+      "game": "2024 May Rickies",
       "type": "Regular",
       "topics": [
-        "Mac",
-        "Possible Vindication"
+        "iPad",
+        "Buzzkill"
       ],
       "host": "Myke",
-      "pick-conditions": 1,
-      "score": 0,
-      "overcast-graded": "https://overcast.fm/+FXx7hkz9o/22:28",
-      "overcast-picked": "https://overcast.fm/+FXx52vzd4/24:38"
-    },
-    {
-      "text": "The names of the colours of the iMac are unchanged",
-      "full-pick-text": "The names of the colours of the iMac are unchanged",
-      "notes": "<p><ul><li>Cleverly worded so that if the iMac isn't touched, the pick is still correct, but Federico's questioning of whether a change in hue counts causes Myke to water it down to just names. At the time of the pick, the colors were \"Blue, Green, Pink, Silver, Yellow, Orange, Purple\". </li></ul></p>",
-      "game": "2023 October Rickies",
-      "type": "Regular",
-      "topics": [
-        "Mac",
-        "Live Edited"
-      ],
-      "host": "Myke",
-      "pick-conditions": 1,
+      "pick-conditions": 3,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx7hkz9o/30:28",
-      "overcast-picked": "https://overcast.fm/+FXx52vzd4/31:57"
+      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/29:17"
     }
   ],
   "Federico": [
@@ -221,53 +216,50 @@
       "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/54:52"
     },
     {
-      "text": "Apple introduces a new desktop keyboard and/or trackpad that supports connecting to multiple devices at once. They also support USB-C connections now",
-      "full-pick-text": "Apple introduces a new desktop keyboard and/or trackpad that supports connecting to multiple devices at once. They also support USB-C connections now",
-      "notes": "",
-      "game": "2023 October Rickies",
-      "type": "Ricky",
-      "topics": [
-        "Accessories",
-        "Possible Vindication"
-      ],
-      "host": "Federico",
-      "pick-conditions": 3,
-      "score": -1,
-      "overcast-graded": "https://overcast.fm/+FXx7hkz9o/35:53",
-      "overcast-picked": "https://overcast.fm/+FXx52vzd4/46:41"
-    },
-    {
-      "text": "The MacBook Air is not updated at this event",
-      "full-pick-text": "The MacBook Air is not updated at this event",
-      "notes": "",
-      "game": "2023 October Rickies",
+      "text": "Apple unveils a new Apple Pencil",
+      "full-pick-text": "Apple unveils a new Apple Pencil",
+      "notes": "<p><ul><li>Ungraded: Support for gestures like squeezing and the inclusion of haptic feedback</li><li>Was <a href=\"https://overcast.fm/+FXx4ahnn0/25:10\" target=\"_blank\">originally about Apple introducing a new keyboard</a>, but <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20keyboard%20for%20iPad%20Pro%20is%20substantially%20redesigned%20for%20the%20first%20time%20since%20its%20introduction%20in%202020\">Federico already has an annual pick</a> for that, and that makes it <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ineligible%20Picks\">ineligible</a>.</li></ul></p>",
+      "game": "2024 May Rickies",
       "type": "Regular",
       "topics": [
-        "Mac",
-        "Buzzkill"
+        "Accessories",
+        "Live Edited"
       ],
       "host": "Federico",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx7hkz9o/26:42",
-      "overcast-picked": "https://overcast.fm/+FXx52vzd4/29:03"
+      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/30:43"
     },
     {
-      "text": "The visual design of the 14\" and 16\" MacBook Pro is unchanged",
-      "full-pick-text": "The visual design of the 14\" and 16\" MacBook Pro is unchanged",
-      "notes": "<p><ul><li>The word \"visual\" was added, but it's agreed that we'll know it when we see it.</li></ul></p>",
-      "game": "2023 October Rickies",
-      "type": "Regular",
+      "text": "The new iPad Pros can run a version of macOS when needed",
+      "full-pick-text": "The new iPad Pros can run a version of macOS when needed",
+      "notes": "<p><ul><li>Ungraded: \"Native, virtualized, or Mac Virtual Display?\"</li></ul></p>",
+      "game": "2024 May Rickies",
+      "type": "Ricky",
       "topics": [
+        "iPad",
         "Mac",
-        "Buzzkill",
-        "Live Edited"
+        "macOS",
+        "Possible Vindication"
       ],
       "host": "Federico",
       "pick-conditions": 2,
+      "score": -1,
+      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/36:06"
+    },
+    {
+      "text": "The new iPad Pros come with a new (to the platform) display technology",
+      "full-pick-text": "The new iPad Pros come with a new (to the platform) display technology",
+      "notes": "",
+      "game": "2024 May Rickies",
+      "type": "Regular",
+      "topics": [
+        "iPad"
+      ],
+      "host": "Federico",
+      "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx7hkz9o/30:59",
-      "overcast-picked": "https://overcast.fm/+FXx52vzd4/35:42"
+      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/15:24"
     }
   ]
 }

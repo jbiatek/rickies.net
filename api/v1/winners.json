@@ -7,17 +7,17 @@
     "title": "Annual Chairman"
   },
   "keynote": {
-    "game-name": "2023 October Rickies",
-    "date": "2023-11-01",
-    "winner": "Federico",
+    "game-name": "2024 May Rickies",
+    "date": "2024-05-10",
+    "winner": "Myke",
     "social": "https://twitter.com/KeynoteChairman",
     "title": "Keynote Chairman"
   },
   "flexies": {
-    "game-name": "The EUies",
-    "date": "",
-    "winner": "",
-    "title": "",
+    "game-name": "2024 May Rickies",
+    "date": "2024-05-10",
+    "winner": "Stephen",
+    "title": "Attorney General Flexie",
     "social": ""
   },
   "annual-flexies": {
@@ -25,14 +25,14 @@
     "date": "2024-01-10",
     "winner": "Stephen",
     "social": "",
-    "title": "Attorney General Flexie"
+    "title": "Secretary of Deflex"
   },
   "keynote-flexies": {
-    "game-name": "2023 October Rickies",
-    "date": "2023-11-01",
-    "winner": "Myke",
+    "game-name": "2024 May Rickies",
+    "date": "2024-05-10",
+    "winner": "Stephen",
     "social": "",
-    "title": "Duke of Flexington"
+    "title": "Secretary of Deflex"
   },
-  "the-tricky-image": "https://rickies.net/files/images/tricky/MykeFederico.png"
+  "the-tricky-image": "https://rickies.net/files/images/tricky/MykeMyke.png"
 }

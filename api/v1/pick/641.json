@@ -1,7 +1,7 @@
 {
   "text": "The new iPad Air comes in the current iPad Pro sizes: 11-inch and 12.9-inch",
   "full-pick-text": "The new iPad Air comes in the current iPad Pro sizes: 11-inch and 12.9-inch",
-  "notes": "",
+  "notes": "<p><ul><li>Apple changed to just calling it 13\", but it's actually exactly the same, so Stephen gets the point.</li></ul></p>",
   "game": "2024 May Rickies",
   "type": "Regular",
   "topics": [
@@ -9,5 +9,6 @@
   ],
   "host": "Stephen",
   "pick-conditions": 3,
+  "score": 1,
   "overcast-picked": "https://overcast.fm/+FXx4ahnn0/27:56"
 }

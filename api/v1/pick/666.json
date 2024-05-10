@@ -1,13 +1,15 @@
 {
   "text": "Gaming on the iPad Pro is mentioned with at least a triple-A game shown",
   "full-pick-text": "Gaming on the iPad Pro is mentioned with at least a triple-A game shown",
-  "notes": "",
+  "notes": "<p><ul><li>Although Assassin's Creed was mentioned, it wasn't with the iPad Pro.</li></ul></p>",
   "game": "2024 May Rickies",
   "type": "Flexie",
   "topics": [
-    "iPad"
+    "iPad",
+    "Unvindicatable"
   ],
   "host": "Federico",
   "pick-conditions": 2,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:10:22"
 }

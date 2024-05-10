@@ -1,14 +1,16 @@
 {
   "text": "A new Apple Pencil is announced and only works with the new iPad Pros",
   "full-pick-text": "A new Apple Pencil is announced and only works with the new iPad Pros",
-  "notes": "",
+  "notes": "<p><ul><li>Close, but the iPad Air got it too.</li></ul></p>",
   "game": "2024 May Rickies",
   "type": "Flexie",
   "topics": [
     "iPad",
-    "Accessories"
+    "Accessories",
+    "Unvindicatable"
   ],
   "host": "Stephen",
   "pick-conditions": 2,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:03:47"
 }

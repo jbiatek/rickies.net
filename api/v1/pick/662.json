@@ -8,9 +8,11 @@
     "iPad",
     "Mac",
     "Accessories",
-    "Apple Vision Pro"
+    "Apple Vision Pro",
+    "Possible Vindication"
   ],
   "host": "Federico",
   "pick-conditions": 2,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:06:45"
 }
