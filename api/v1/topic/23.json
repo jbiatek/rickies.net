@@ -225,6 +225,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/57:49"
   },
   {
+    "text": "Apple announces an AI deal with Google",
+    "full-pick-text": "Apple announces an AI deal with Google",
+    "notes": "<p><ul><li>Originally included the word \"also\" but that was confusing things.</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:21:47"
+  },
+  {
     "text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
     "full-pick-text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
     "notes": "<p><ul><li>Was originally just \"pro apps\" but Federico wanted some clarification.</li></ul></p>",
@@ -335,8 +349,8 @@
     "game": "2024 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Apple TV+",
       "Apple Vision Pro",
+      "Apple TV+",
       "Live Edited"
     ],
     "host": "Stephen",
@@ -359,6 +373,22 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/32:38",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:09:41"
+  },
+  {
+    "text": "Apple previews a new visionOS feature that puts overlays over the camera passthrough with information about objects in view",
+    "full-pick-text": "Apple previews a new visionOS feature that puts overlays over the camera passthrough with information about objects in view",
+    "notes": "<p><ul><li>Was originally \"app\" instead of \"feature\".</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS",
+      "Live Edited",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/59:31"
   },
   {
     "text": "Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together",
@@ -825,10 +855,10 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Apple Vision Pro",
       "iPadOS",
-      "Live Edited",
+      "Apple Vision Pro",
       "visionOS",
+      "Live Edited",
       "Possible Vindication"
     ],
     "host": "Stephen",
@@ -844,8 +874,8 @@
     "type": "Regular",
     "topics": [
       "iPad",
-      "Alternate Risky",
       "iPadOS",
+      "Alternate Risky",
       "Live Edited",
       "Possible Vindication"
     ],
@@ -897,8 +927,8 @@
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
-      "Apple management",
       "Apple Vision Pro",
+      "Apple management",
       "Augmented Reality",
       "Live Edited",
       "Stagecraft",
@@ -1154,6 +1184,22 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/36:32",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:16:18"
+  },
+  {
+    "text": "Some new iOS 18 features will be exclusive to the iPhone 15 Pro line",
+    "full-pick-text": "Some new iOS 18 features will be exclusive to the iPhone 15 Pro line",
+    "notes": "<p><ul><li>Was originally just \"iPhone 15 line\" but it was pointed out that the plain 15 phones have the same processor as the 14 Pro.</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:27:08"
   },
   {
     "text": "Something in the default Dock of Catalina becomes a Catalyst app",
@@ -1560,6 +1606,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:18:05",
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:20:21"
+  },
+  {
+    "text": "There is no new hardware announced or released",
+    "full-pick-text": "There is no new hardware announced or released",
+    "notes": "<p><ul><li>Was just \"announced\" but Stephen actually made it riskier to better fit his intent with the pick.</li><li>An announcement about Vision Pro in more countries doesn't make this wrong.</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/32:33"
   },
   {
     "text": "There will be a chip named M1 followed by a letter",

@@ -6,9 +6,9 @@
   "type": "Regular",
   "topics": [
     "iPad",
+    "iPadOS",
     "Alternate Risky",
-    "Developer tools",
-    "iPadOS"
+    "Developer tools"
   ],
   "host": "Stephen",
   "pick-conditions": 2,

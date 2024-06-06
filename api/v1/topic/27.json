@@ -1,5 +1,63 @@
 [
   {
+    "text": "Apple announces some new immersive video content coming to Vision Pro",
+    "full-pick-text": "Apple announces some new immersive video content coming to Vision Pro",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:21:40"
+  },
+  {
+    "text": "Apple previews a new visionOS feature that puts overlays over the camera passthrough with information about objects in view",
+    "full-pick-text": "Apple previews a new visionOS feature that puts overlays over the camera passthrough with information about objects in view",
+    "notes": "<p><ul><li>Was originally \"app\" instead of \"feature\".</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS",
+      "Live Edited",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/59:31"
+  },
+  {
+    "text": "At least one of the 'Coming Soon' environments in visionOS 2 is removed",
+    "full-pick-text": "At least one of the 'Coming Soon' environments in visionOS 2 is removed",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:19:54"
+  },
+  {
+    "text": "At least two of Apple's first-party apps escape iPad compatibility mode on visionOS to become full-blown native apps",
+    "full-pick-text": "At least two of Apple's first-party apps escape iPad compatibility mode on visionOS to become full-blown native apps",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:12:31"
+  },
+  {
     "text": "Final Cut for iPad gains a feature specifically for video in visionOS",
     "full-pick-text": "Final Cut for iPad gains a feature specifically for video in visionOS",
     "notes": "",
@@ -7,10 +65,10 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Alternate Risky",
-      "Apple Apps",
       "Apple Vision Pro",
       "visionOS",
+      "Alternate Risky",
+      "Apple Apps",
       "Possible Vindication"
     ],
     "host": "Stephen",
@@ -26,10 +84,10 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Apple Vision Pro",
       "iPadOS",
-      "Live Edited",
+      "Apple Vision Pro",
       "visionOS",
+      "Live Edited",
       "Possible Vindication"
     ],
     "host": "Stephen",
@@ -45,9 +103,9 @@
     "type": "Flexie",
     "topics": [
       "Apple Vision Pro",
+      "visionOS",
       "Augmented Reality",
-      "Developer tools",
-      "visionOS"
+      "Developer tools"
     ],
     "host": "Myke",
     "pick-conditions": 3,
@@ -63,15 +121,29 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Accessories",
       "Apple Vision Pro",
       "visionOS",
+      "Accessories",
       "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
     "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:09:43"
+  },
+  {
+    "text": "visionOS 2 has keyboard passthrough when in an environment and it works with any keyboard, not just the ones Apple makes",
+    "full-pick-text": "visionOS 2 has keyboard passthrough when in an environment and it works with any keyboard, not just the ones Apple makes",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/51:59"
   },
   {
     "text": "visionOS receives updates at WWDC that ship later in 2024",

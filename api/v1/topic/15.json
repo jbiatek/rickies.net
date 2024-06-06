@@ -192,8 +192,8 @@
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
-      "Apple management",
       "Apple Vision Pro",
+      "Apple management",
       "Augmented Reality",
       "Live Edited",
       "Stagecraft",
@@ -347,9 +347,9 @@
     "type": "Flexie",
     "topics": [
       "Apple Vision Pro",
+      "visionOS",
       "Augmented Reality",
-      "Developer tools",
-      "visionOS"
+      "Developer tools"
     ],
     "host": "Myke",
     "pick-conditions": 3,

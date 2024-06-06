@@ -291,6 +291,21 @@
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:11:26"
   },
   {
+    "text": "Apple shows a 'Siri Camera' (not official name) feature that lets you point the iPhone at something and use AI to understand what you're looking at",
+    "full-pick-text": "Apple shows a 'Siri Camera' (not official name) feature that lets you point the iPhone at something and use AI to understand what you're looking at",
+    "notes": "<p><ul><li> Non-graded: this is also why the next iPhone will have a physical camera button </li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/53:35"
+  },
+  {
     "text": "Apple shows off at least one new MagSafe accessory",
     "full-pick-text": "Apple shows off at least one new MagSafe accessory",
     "notes": "",
@@ -741,6 +756,20 @@
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/58:05"
   },
   {
+    "text": "More flexibility for app icon placement on the iPhone home screen",
+    "full-pick-text": "More flexibility for app icon placement on the iPhone home screen",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/24:16"
+  },
+  {
     "text": "Names will be XC and XS",
     "full-pick-text": "Names will be XC and XS",
     "notes": "",
@@ -940,6 +969,22 @@
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:13:11"
   },
   {
+    "text": "Some new iOS 18 features will be exclusive to the iPhone 15 Pro line",
+    "full-pick-text": "Some new iOS 18 features will be exclusive to the iPhone 15 Pro line",
+    "notes": "<p><ul><li>Was originally just \"iPhone 15 line\" but it was pointed out that the plain 15 phones have the same processor as the 14 Pro.</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:27:08"
+  },
+  {
     "text": "Some of the new iPhones will be more expensive in some European countries",
     "full-pick-text": "Some of the new iPhones will be more expensive in some European countries",
     "notes": "<p><ul><li>In fact the <em>opposite</em> happened, surprisingly.</li></ul></p>",
@@ -954,6 +999,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:09:38",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:10:28"
+  },
+  {
+    "text": "Something in iOS 18 picks up the UI used in the iOS 17 App picker in Messages",
+    "full-pick-text": "Something in iOS 18 picks up the UI used in the iOS 17 App picker in Messages",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:14:03"
   },
   {
     "text": "The 2020 iPhone line will feature at least one 5G phone",
@@ -1450,6 +1509,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4c3VV0/37:36",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/35:36"
+  },
+  {
+    "text": "There is a new system for changing the colors of icons on the home screen",
+    "full-pick-text": "There is a new system for changing the colors of icons on the home screen",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/38:31"
   },
   {
     "text": "There will be 3 cameras on the high end phones",

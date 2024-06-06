@@ -2,8 +2,11 @@
   "iPhone": "/topic/6.json",
   "iOS": "/topic/5.json",
   "iPad": "/topic/10.json",
+  "iPadOS": "/topic/18.json",
   "Mac": "/topic/1.json",
   "macOS": "/topic/11.json",
+  "Apple Vision Pro": "/topic/26.json",
+  "visionOS": "/topic/27.json",
   "Accessories": "/topic/7.json",
   "Ahead of Its Time": "/topic/20.json",
   "AirPods": "/topic/8.json",
@@ -12,12 +15,10 @@
   "Apple management": "/topic/3.json",
   "Apple TV": "/topic/13.json",
   "Apple TV+": "/topic/16.json",
-  "Apple Vision Pro": "/topic/26.json",
   "Apple Watch": "/topic/9.json",
   "Augmented Reality": "/topic/15.json",
   "Buzzkill": "/topic/17.json",
   "Developer tools": "/topic/14.json",
-  "iPadOS": "/topic/18.json",
   "iPod Touch": "/topic/12.json",
   "Live Edited": "/topic/23.json",
   "Machine Learning/AI": "/topic/28.json",
@@ -25,6 +26,5 @@
   "Non-Apple Related": "/topic/25.json",
   "Passionate": "/topic/21.json",
   "Services": "/topic/2.json",
-  "Stagecraft": "/topic/4.json",
-  "visionOS": "/topic/27.json"
+  "Stagecraft": "/topic/4.json"
 }

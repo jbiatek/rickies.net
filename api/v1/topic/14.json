@@ -112,10 +112,10 @@
     "type": "Flexie",
     "topics": [
       "iPad",
+      "iPadOS",
       "Mac",
       "macOS",
       "Developer tools",
-      "iPadOS",
       "Possible Vindication"
     ],
     "host": "Federico",
@@ -210,10 +210,10 @@
     "type": "Flexie",
     "topics": [
       "iPad",
+      "iPadOS",
       "Accessories",
       "Ahead of Its Time",
-      "Developer tools",
-      "iPadOS"
+      "Developer tools"
     ],
     "host": "Federico",
     "pick-conditions": 1,
@@ -230,9 +230,9 @@
     "type": "Regular",
     "topics": [
       "iPad",
+      "iPadOS",
       "Alternate Risky",
-      "Developer tools",
-      "iPadOS"
+      "Developer tools"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
@@ -282,9 +282,9 @@
     "topics": [
       "iOS",
       "iPad",
+      "iPadOS",
       "Apple Apps",
       "Developer tools",
-      "iPadOS",
       "Passionate",
       "Possible Vindication"
     ],
@@ -347,9 +347,9 @@
     "type": "Flexie",
     "topics": [
       "Apple Vision Pro",
+      "visionOS",
       "Augmented Reality",
-      "Developer tools",
-      "visionOS"
+      "Developer tools"
     ],
     "host": "Myke",
     "pick-conditions": 3,
@@ -378,8 +378,8 @@
     "type": "Ricky",
     "topics": [
       "iPad",
-      "Developer tools",
       "iPadOS",
+      "Developer tools",
       "Possible Vindication"
     ],
     "host": "Federico",

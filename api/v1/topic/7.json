@@ -900,10 +900,10 @@
     "type": "Flexie",
     "topics": [
       "iPad",
+      "iPadOS",
       "Accessories",
       "Ahead of Its Time",
-      "Developer tools",
-      "iPadOS"
+      "Developer tools"
     ],
     "host": "Federico",
     "pick-conditions": 1,
@@ -1525,9 +1525,9 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Accessories",
       "Apple Vision Pro",
       "visionOS",
+      "Accessories",
       "Possible Vindication"
     ],
     "host": "Federico",
@@ -1593,8 +1593,8 @@
     "topics": [
       "iPad",
       "Mac",
-      "Accessories",
       "Apple Vision Pro",
+      "Accessories",
       "Possible Vindication"
     ],
     "host": "Federico",

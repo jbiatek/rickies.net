@@ -157,6 +157,21 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:28:21"
   },
   {
+    "text": "Chatbot features from AI partners are available only to iCloud+ subscribers after a free trial",
+    "full-pick-text": "Chatbot features from AI partners are available only to iCloud+ subscribers after a free trial",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Machine Learning/AI",
+      "Services"
+    ],
+    "host": "Myke",
+    "pick-conditions": 4,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:23:36"
+  },
+  {
     "text": "Final Cut for iPad gains a feature specifically for video in visionOS",
     "full-pick-text": "Final Cut for iPad gains a feature specifically for video in visionOS",
     "notes": "",
@@ -164,10 +179,10 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Alternate Risky",
-      "Apple Apps",
       "Apple Vision Pro",
       "visionOS",
+      "Alternate Risky",
+      "Apple Apps",
       "Possible Vindication"
     ],
     "host": "Stephen",
@@ -183,8 +198,8 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Alternate Risky",
-      "iPadOS"
+      "iPadOS",
+      "Alternate Risky"
     ],
     "host": "Myke",
     "pick-conditions": 1,
@@ -200,8 +215,8 @@
     "type": "Regular",
     "topics": [
       "iPad",
-      "Alternate Risky",
       "iPadOS",
+      "Alternate Risky",
       "Live Edited",
       "Possible Vindication"
     ],
@@ -219,9 +234,9 @@
     "type": "Regular",
     "topics": [
       "iPad",
+      "iPadOS",
       "Alternate Risky",
-      "Developer tools",
-      "iPadOS"
+      "Developer tools"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
@@ -298,6 +313,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5wv1as/38:22",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:47:53"
+  },
+  {
+    "text": "RCS is not spoken aloud in the keynote",
+    "full-pick-text": "RCS is not spoken aloud in the keynote",
+    "notes": "<p><ul><li>An earlier draft of this pick was a risky pick that also specified that it would appear in the \"bento box\" slide specifically in the bottom left.</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:16:55"
   },
   {
     "text": "The iPhone 14 Pro switches to titanium for the side rails",

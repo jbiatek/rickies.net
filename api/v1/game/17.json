@@ -46,8 +46,8 @@
         "type": "Regular",
         "topics": [
           "iPad",
-          "Alternate Risky",
           "iPadOS",
+          "Alternate Risky",
           "Live Edited",
           "Possible Vindication"
         ],
@@ -249,8 +249,8 @@
         "type": "Flexie",
         "topics": [
           "iPad",
-          "Ahead of Its Time",
-          "iPadOS"
+          "iPadOS",
+          "Ahead of Its Time"
         ],
         "host": "Federico",
         "pick-conditions": 1,
@@ -268,8 +268,8 @@
         "topics": [
           "iOS",
           "iPad",
-          "Ahead of Its Time",
-          "iPadOS"
+          "iPadOS",
+          "Ahead of Its Time"
         ],
         "host": "Federico",
         "pick-conditions": 2,

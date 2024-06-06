@@ -251,6 +251,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:39"
   },
   {
+    "text": "Apple mentions that it has created its own LLM",
+    "full-pick-text": "Apple mentions that it has created its own LLM",
+    "notes": "<p><ul><li>Must be the term \"large language model\" or \"LLM\" in particular, but this could be in a session or the State of the Union keynote, not just the main event.</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/45:23"
+  },
+  {
     "text": "Apple reframes an existing feature as being powered by \"AI\"",
     "full-pick-text": "Apple reframes an existing feature as being powered by \"AI\"",
     "notes": "",
@@ -562,8 +576,8 @@
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
-      "Apple management",
       "Apple Vision Pro",
+      "Apple management",
       "Augmented Reality",
       "Live Edited",
       "Stagecraft",
@@ -964,6 +978,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5peDck/1:06:06",
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:33:56"
+  },
+  {
+    "text": "RCS is not spoken aloud in the keynote",
+    "full-pick-text": "RCS is not spoken aloud in the keynote",
+    "notes": "<p><ul><li>An earlier draft of this pick was a risky pick that also specified that it would appear in the \"bento box\" slide specifically in the bottom left.</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:16:55"
   },
   {
     "text": "Some kind of Halloween joke is made",
@@ -1414,9 +1442,9 @@
     "type": "Flexie",
     "topics": [
       "iPad",
+      "iPadOS",
       "Mac",
       "macOS",
-      "iPadOS",
       "Stagecraft",
       "Unvindicatable"
     ],
@@ -1425,6 +1453,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4aVfvI/50:45",
     "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:14:19"
+  },
+  {
+    "text": "Vision Pro international availability is mentioned",
+    "full-pick-text": "Vision Pro international availability is mentioned",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:23:16"
   },
   {
     "text": "Vision Pro is mentioned at some point during the video",
@@ -1493,6 +1535,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4aVfvI/52:24",
     "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:17:13"
+  },
+  {
+    "text": "We do not see Sam Altman's face in the presentation",
+    "full-pick-text": "We do not see Sam Altman's face in the presentation",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:11:04"
   },
   {
     "text": "We don't see Tim Cook on video",

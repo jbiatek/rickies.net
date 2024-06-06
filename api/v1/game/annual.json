@@ -1106,8 +1106,8 @@
           "type": "NonGraded",
           "topics": [
             "iPad",
-            "Ahead of Its Time",
-            "iPadOS"
+            "iPadOS",
+            "Ahead of Its Time"
           ],
           "host": "Federico",
           "pick-conditions": 1,
@@ -1411,8 +1411,8 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Alternate Risky",
-            "iPadOS"
+            "iPadOS",
+            "Alternate Risky"
           ],
           "host": "Myke",
           "pick-conditions": 1,
@@ -1908,8 +1908,8 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Buzzkill",
             "iPadOS",
+            "Buzzkill",
             "Unvindicatable"
           ],
           "host": "Myke",
@@ -2024,8 +2024,8 @@
           "topics": [
             "iOS",
             "iPad",
-            "Apple Apps",
             "iPadOS",
+            "Apple Apps",
             "Possible Vindication"
           ],
           "host": "Federico",
@@ -2060,8 +2060,8 @@
           "topics": [
             "iOS",
             "iPad",
-            "Apple Apps",
             "iPadOS",
+            "Apple Apps",
             "Possible Vindication"
           ],
           "host": "Federico",
@@ -2666,8 +2666,8 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Apple Apps",
             "iPadOS",
+            "Apple Apps",
             "Possible Vindication"
           ],
           "host": "Federico",
@@ -2684,10 +2684,10 @@
           "type": "Flexie",
           "topics": [
             "iPad",
+            "iPadOS",
             "Mac",
             "macOS",
             "Developer tools",
-            "iPadOS",
             "Possible Vindication"
           ],
           "host": "Federico",
@@ -2954,8 +2954,8 @@
           "game": "2024 Annual Rickies",
           "type": "Flexie",
           "topics": [
-            "Apple TV+",
             "Apple Vision Pro",
+            "Apple TV+",
             "Live Edited"
           ],
           "host": "Stephen",

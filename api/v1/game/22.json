@@ -80,9 +80,9 @@
         "type": "Regular",
         "topics": [
           "iPad",
+          "iPadOS",
           "Alternate Risky",
-          "Developer tools",
-          "iPadOS"
+          "Developer tools"
         ],
         "host": "Stephen",
         "pick-conditions": 2,
@@ -360,8 +360,8 @@
         "type": "Flexie",
         "topics": [
           "iPad",
-          "Buzzkill",
           "iPadOS",
+          "Buzzkill",
           "Unvindicatable"
         ],
         "host": "Myke",
@@ -378,8 +378,8 @@
         "type": "Flexie",
         "topics": [
           "iPad",
-          "Buzzkill",
           "iPadOS",
+          "Buzzkill",
           "Unvindicatable"
         ],
         "host": "Myke",
@@ -412,9 +412,9 @@
         "topics": [
           "iOS",
           "iPad",
+          "iPadOS",
           "Apple Apps",
           "Developer tools",
-          "iPadOS",
           "Passionate",
           "Possible Vindication"
         ],

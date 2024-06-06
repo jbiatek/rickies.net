@@ -1,5 +1,21 @@
 [
   {
+    "text": "\"Improvements\" to Stage Manager are announced",
+    "full-pick-text": "\"Improvements\" to Stage Manager are announced",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Mac",
+      "macOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:13:23"
+  },
+  {
     "text": "Apple brings Mail extensions to iOS and iPadOS",
     "full-pick-text": "Apple brings Mail extensions to iOS and iPadOS",
     "notes": "",
@@ -8,8 +24,8 @@
     "topics": [
       "iOS",
       "iPad",
-      "Apple Apps",
       "iPadOS",
+      "Apple Apps",
       "Possible Vindication"
     ],
     "host": "Federico",
@@ -26,8 +42,8 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Apple Apps",
       "iPadOS",
+      "Apple Apps",
       "Possible Vindication"
     ],
     "host": "Federico",
@@ -44,10 +60,10 @@
     "type": "Flexie",
     "topics": [
       "iPad",
+      "iPadOS",
       "Mac",
       "macOS",
       "Developer tools",
-      "iPadOS",
       "Possible Vindication"
     ],
     "host": "Federico",
@@ -84,8 +100,8 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Ahead of Its Time",
-      "iPadOS"
+      "iPadOS",
+      "Ahead of Its Time"
     ],
     "host": "Federico",
     "pick-conditions": 1,
@@ -102,10 +118,10 @@
     "type": "Flexie",
     "topics": [
       "iPad",
+      "iPadOS",
       "Accessories",
       "Ahead of Its Time",
-      "Developer tools",
-      "iPadOS"
+      "Developer tools"
     ],
     "host": "Federico",
     "pick-conditions": 1,
@@ -139,8 +155,8 @@
     "type": "NonGraded",
     "topics": [
       "iPad",
-      "Ahead of Its Time",
-      "iPadOS"
+      "iPadOS",
+      "Ahead of Its Time"
     ],
     "host": "Myke",
     "pick-conditions": 1,
@@ -174,8 +190,8 @@
     "topics": [
       "iOS",
       "iPad",
-      "Ahead of Its Time",
-      "iPadOS"
+      "iPadOS",
+      "Ahead of Its Time"
     ],
     "host": "Federico",
     "pick-conditions": 2,
@@ -192,8 +208,8 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Alternate Risky",
-      "iPadOS"
+      "iPadOS",
+      "Alternate Risky"
     ],
     "host": "Myke",
     "pick-conditions": 1,
@@ -209,10 +225,10 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Apple Vision Pro",
       "iPadOS",
-      "Live Edited",
+      "Apple Vision Pro",
       "visionOS",
+      "Live Edited",
       "Possible Vindication"
     ],
     "host": "Stephen",
@@ -228,8 +244,8 @@
     "type": "Regular",
     "topics": [
       "iPad",
-      "Alternate Risky",
       "iPadOS",
+      "Alternate Risky",
       "Live Edited",
       "Possible Vindication"
     ],
@@ -313,9 +329,9 @@
     "type": "Regular",
     "topics": [
       "iPad",
+      "iPadOS",
       "Alternate Risky",
-      "Developer tools",
-      "iPadOS"
+      "Developer tools"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
@@ -331,8 +347,8 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Buzzkill",
       "iPadOS",
+      "Buzzkill",
       "Unvindicatable"
     ],
     "host": "Myke",
@@ -349,8 +365,8 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Buzzkill",
       "iPadOS",
+      "Buzzkill",
       "Unvindicatable"
     ],
     "host": "Myke",
@@ -358,6 +374,21 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5wv1as/33:21",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:35:56"
+  },
+  {
+    "text": "Journal app comes to iPadOS",
+    "full-pick-text": "Journal app comes to iPadOS",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Apple Apps"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:14:48"
   },
   {
     "text": "More apps can use a picture-in-picture-style window on iPadOS",
@@ -385,9 +416,9 @@
     "topics": [
       "iOS",
       "iPad",
+      "iPadOS",
       "Apple Apps",
       "Developer tools",
-      "iPadOS",
       "Passionate",
       "Possible Vindication"
     ],
@@ -406,8 +437,8 @@
     "topics": [
       "iOS",
       "iPad",
-      "Apple Apps",
       "iPadOS",
+      "Apple Apps",
       "Possible Vindication"
     ],
     "host": "Federico",
@@ -434,6 +465,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:00"
   },
   {
+    "text": "Standby mode for iPadOS",
+    "full-pick-text": "Standby mode for iPadOS",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:18:57"
+  },
+  {
     "text": "The big iPad Pro is updated with a feature that is unique to it",
     "full-pick-text": "The big iPad Pro is updated with a feature that is unique to it",
     "notes": "",
@@ -449,6 +494,21 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6J60tU/53:56",
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/48:54"
+  },
+  {
+    "text": "The calculator app comes to iPad",
+    "full-pick-text": "The calculator app comes to iPad",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:31:54"
   },
   {
     "text": "The iPad home screen gets new features",
@@ -474,8 +534,8 @@
     "type": "NonGraded",
     "topics": [
       "iPad",
-      "Ahead of Its Time",
-      "iPadOS"
+      "iPadOS",
+      "Ahead of Its Time"
     ],
     "host": "Federico",
     "pick-conditions": 1,
@@ -492,8 +552,8 @@
     "type": "Ricky",
     "topics": [
       "iPad",
-      "Ahead of Its Time",
-      "iPadOS"
+      "iPadOS",
+      "Ahead of Its Time"
     ],
     "host": "Federico",
     "pick-conditions": 2,
@@ -510,8 +570,8 @@
     "type": "Ricky",
     "topics": [
       "iPad",
-      "Developer tools",
       "iPadOS",
+      "Developer tools",
       "Possible Vindication"
     ],
     "host": "Federico",
@@ -521,6 +581,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/38:36"
   },
   {
+    "text": "The next version of Stage Manager supports more than 4 windows at once on some iPad models",
+    "full-pick-text": "The next version of Stage Manager supports more than 4 windows at once on some iPad models",
+    "notes": "<p><ul><li>This would complete <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20new%20iPad%20Pro%20will%20feature...\">Federico's annual risky pick for the year</a> as well. (Reuse of an annual pick is allowed in The Flexies.)</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:32:08"
+  },
+  {
     "text": "There is no additional external display support for iPadOS",
     "full-pick-text": "There is no additional external display support for iPadOS",
     "notes": "",
@@ -528,8 +602,8 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Buzzkill",
       "iPadOS",
+      "Buzzkill",
       "Unvindicatable"
     ],
     "host": "Myke",
@@ -546,9 +620,9 @@
     "type": "Flexie",
     "topics": [
       "iPad",
+      "iPadOS",
       "Mac",
       "macOS",
-      "iPadOS",
       "Stagecraft",
       "Unvindicatable"
     ],

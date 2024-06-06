@@ -6,9 +6,9 @@
   "type": "Flexie",
   "topics": [
     "Apple Vision Pro",
+    "visionOS",
     "Augmented Reality",
-    "Developer tools",
-    "visionOS"
+    "Developer tools"
   ],
   "host": "Myke",
   "pick-conditions": 3,

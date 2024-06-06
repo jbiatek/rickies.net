@@ -1,0 +1,14 @@
+{
+  "text": "Apple mentions that it has created its own LLM",
+  "full-pick-text": "Apple mentions that it has created its own LLM",
+  "notes": "<p><ul><li>Must be the term \"large language model\" or \"LLM\" in particular, but this could be in a session or the State of the Union keynote, not just the main event.</li></ul></p>",
+  "game": "2024 WWDC Rickies",
+  "type": "Regular",
+  "topics": [
+    "Machine Learning/AI",
+    "Stagecraft"
+  ],
+  "host": "Stephen",
+  "pick-conditions": 1,
+  "overcast-picked": "https://overcast.fm/+FXx56qHEU/45:23"
+}

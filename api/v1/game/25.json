@@ -109,8 +109,8 @@
         "type": "Ricky",
         "topics": [
           "iPad",
-          "Developer tools",
           "iPadOS",
+          "Developer tools",
           "Possible Vindication"
         ],
         "host": "Federico",
@@ -230,9 +230,9 @@
         "type": "Flexie",
         "topics": [
           "Apple Vision Pro",
+          "visionOS",
           "Augmented Reality",
-          "Developer tools",
-          "visionOS"
+          "Developer tools"
         ],
         "host": "Myke",
         "pick-conditions": 3,
@@ -482,8 +482,8 @@
         "game": "2023 WWDC Rickies",
         "type": "Flexie",
         "topics": [
-          "Apple management",
           "Apple Vision Pro",
+          "Apple management",
           "Augmented Reality",
           "Live Edited",
           "Stagecraft",

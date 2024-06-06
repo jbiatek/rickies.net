@@ -1,5 +1,21 @@
 [
   {
+    "text": "\"Improvements\" to Stage Manager are announced",
+    "full-pick-text": "\"Improvements\" to Stage Manager are announced",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Mac",
+      "macOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:13:23"
+  },
+  {
     "text": "2 sizes of iMac announced",
     "full-pick-text": "2 sizes of iMac announced",
     "notes": "<p><ul><li>An iMac even being announced was fairly risky. However, it came in just one size.</li></ul></p>",
@@ -575,10 +591,10 @@
     "type": "Flexie",
     "topics": [
       "iPad",
+      "iPadOS",
       "Mac",
       "macOS",
       "Developer tools",
-      "iPadOS",
       "Possible Vindication"
     ],
     "host": "Federico",
@@ -1545,6 +1561,21 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:00:05"
   },
   {
+    "text": "Some AI features on the Mac require an M2 or later",
+    "full-pick-text": "Some AI features on the Mac require an M2 or later",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Buzzkill",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:12:08"
+  },
+  {
     "text": "Something in the default Dock of Catalina becomes a Catalyst app",
     "full-pick-text": "Something in the default Dock of Catalina becomes a Catalyst app",
     "notes": "",
@@ -1954,8 +1985,8 @@
     "topics": [
       "iPad",
       "Mac",
-      "Accessories",
       "Apple Vision Pro",
+      "Accessories",
       "Possible Vindication"
     ],
     "host": "Federico",
@@ -2066,6 +2097,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:47:59"
   },
   {
+    "text": "The next version of macOS is called Sequoia",
+    "full-pick-text": "The next version of macOS is called Sequoia",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:28:38"
+  },
+  {
     "text": "The next version of macOS is called Skyline",
     "full-pick-text": "The next version of macOS is called Skyline",
     "notes": "",
@@ -2082,6 +2127,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/48:07",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:17"
+  },
+  {
+    "text": "The next version of macOS is named Tahoe",
+    "full-pick-text": "The next version of macOS is named Tahoe",
+    "notes": "<p><ul><li>Stolen from one of Myke's <a href=\"https://upgrade.cards/card/apple062023\" target=\"_blank\">choices in the Upgrade Draft</a> for the last 2 years.</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:15:47"
   },
   {
     "text": "The next version of macOS is not called Skyline",
@@ -2157,9 +2216,9 @@
     "type": "Flexie",
     "topics": [
       "iPad",
+      "iPadOS",
       "Mac",
       "macOS",
-      "iPadOS",
       "Stagecraft",
       "Unvindicatable"
     ],

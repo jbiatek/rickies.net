@@ -16,6 +16,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:48"
   },
   {
+    "text": "Apple announces an AI deal with Google",
+    "full-pick-text": "Apple announces an AI deal with Google",
+    "notes": "<p><ul><li>Originally included the word \"also\" but that was confusing things.</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:21:47"
+  },
+  {
     "text": "Apple demos a Mac app that takes advantage of the updated Neural Engine",
     "full-pick-text": "Apple demos a Mac app that takes advantage of the updated Neural Engine",
     "notes": "",
@@ -51,6 +65,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/42:28"
   },
   {
+    "text": "Apple mentions that it has created its own LLM",
+    "full-pick-text": "Apple mentions that it has created its own LLM",
+    "notes": "<p><ul><li>Must be the term \"large language model\" or \"LLM\" in particular, but this could be in a session or the State of the Union keynote, not just the main event.</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/45:23"
+  },
+  {
     "text": "Apple Music will be redesigned again",
     "full-pick-text": "Apple Music will be redesigned again",
     "notes": "<p><ul><li>\"Will gain more Spotify-like algorithmic features\"</li><li>\"An Apple version of the Daily Mix and a way to discover back catalog songs from artists you don't know (Discover Weekly?)\"</li><li>The <a href=\"https://www.engadget.com/2019-08-23-apple-music-new-music-daily.html\" target=\"_blank\">New Music Daily</a> feature would eventually come in 2019.</li></ul></p>",
@@ -69,6 +97,22 @@
     "overcast-picked": "https://overcast.fm/+FXx7nikbQ/39:07"
   },
   {
+    "text": "Apple previews a new visionOS feature that puts overlays over the camera passthrough with information about objects in view",
+    "full-pick-text": "Apple previews a new visionOS feature that puts overlays over the camera passthrough with information about objects in view",
+    "notes": "<p><ul><li>Was originally \"app\" instead of \"feature\".</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS",
+      "Live Edited",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/59:31"
+  },
+  {
     "text": "Apple reframes an existing feature as being powered by \"AI\"",
     "full-pick-text": "Apple reframes an existing feature as being powered by \"AI\"",
     "notes": "",
@@ -84,6 +128,51 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/52:21",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:25"
+  },
+  {
+    "text": "Apple shows a 'Siri Camera' (not official name) feature that lets you point the iPhone at something and use AI to understand what you're looking at",
+    "full-pick-text": "Apple shows a 'Siri Camera' (not official name) feature that lets you point the iPhone at something and use AI to understand what you're looking at",
+    "notes": "<p><ul><li> Non-graded: this is also why the next iPhone will have a physical camera button </li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/53:35"
+  },
+  {
+    "text": "Apple shows off the ability for Siri to control apps, but it's not launching this year",
+    "full-pick-text": "Apple shows off the ability for Siri to control apps, but it's not launching this year",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Buzzkill",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:29:09"
+  },
+  {
+    "text": "Chatbot features from AI partners are available only to iCloud+ subscribers after a free trial",
+    "full-pick-text": "Chatbot features from AI partners are available only to iCloud+ subscribers after a free trial",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Machine Learning/AI",
+      "Services"
+    ],
+    "host": "Myke",
+    "pick-conditions": 4,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:23:36"
   },
   {
     "text": "iOS 18 will bring new AI features based on LLMs with some generative capabilities",
@@ -116,6 +205,48 @@
     "pick-conditions": 2,
     "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/57:12"
+  },
+  {
+    "text": "Notification summaries are provided by a new AI system",
+    "full-pick-text": "Notification summaries are provided by a new AI system",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/35:26"
+  },
+  {
+    "text": "Some AI features on the Mac require an M2 or later",
+    "full-pick-text": "Some AI features on the Mac require an M2 or later",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Buzzkill",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:12:08"
+  },
+  {
+    "text": "Some AI features will be region-locked",
+    "full-pick-text": "Some AI features will be region-locked",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Buzzkill",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:26:50"
   },
   {
     "text": "You will be able to create Shortcuts with the new LLM-infused Siri in iOS 18",

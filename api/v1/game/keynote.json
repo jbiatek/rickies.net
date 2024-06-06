@@ -2689,8 +2689,8 @@
           "type": "NonGraded",
           "topics": [
             "iPad",
-            "Ahead of Its Time",
-            "iPadOS"
+            "iPadOS",
+            "Ahead of Its Time"
           ],
           "host": "Myke",
           "pick-conditions": 1,
@@ -2987,8 +2987,8 @@
           "type": "Ricky",
           "topics": [
             "iPad",
-            "Ahead of Its Time",
-            "iPadOS"
+            "iPadOS",
+            "Ahead of Its Time"
           ],
           "host": "Federico",
           "pick-conditions": 2,
@@ -3254,10 +3254,10 @@
           "type": "Flexie",
           "topics": [
             "iPad",
+            "iPadOS",
             "Accessories",
             "Ahead of Its Time",
-            "Developer tools",
-            "iPadOS"
+            "Developer tools"
           ],
           "host": "Federico",
           "pick-conditions": 1,
@@ -4416,8 +4416,8 @@
           "type": "Regular",
           "topics": [
             "iPad",
-            "Alternate Risky",
             "iPadOS",
+            "Alternate Risky",
             "Live Edited",
             "Possible Vindication"
           ],
@@ -4619,8 +4619,8 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Ahead of Its Time",
-            "iPadOS"
+            "iPadOS",
+            "Ahead of Its Time"
           ],
           "host": "Federico",
           "pick-conditions": 1,
@@ -4638,8 +4638,8 @@
           "topics": [
             "iOS",
             "iPad",
-            "Ahead of Its Time",
-            "iPadOS"
+            "iPadOS",
+            "Ahead of Its Time"
           ],
           "host": "Federico",
           "pick-conditions": 2,
@@ -5245,9 +5245,9 @@
           "type": "Flexie",
           "topics": [
             "iPad",
+            "iPadOS",
             "Mac",
             "macOS",
-            "iPadOS",
             "Stagecraft",
             "Unvindicatable"
           ],
@@ -6277,9 +6277,9 @@
           "type": "Regular",
           "topics": [
             "iPad",
+            "iPadOS",
             "Alternate Risky",
-            "Developer tools",
-            "iPadOS"
+            "Developer tools"
           ],
           "host": "Stephen",
           "pick-conditions": 2,
@@ -6557,8 +6557,8 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Buzzkill",
             "iPadOS",
+            "Buzzkill",
             "Unvindicatable"
           ],
           "host": "Myke",
@@ -6575,8 +6575,8 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Buzzkill",
             "iPadOS",
+            "Buzzkill",
             "Unvindicatable"
           ],
           "host": "Myke",
@@ -6609,9 +6609,9 @@
           "topics": [
             "iOS",
             "iPad",
+            "iPadOS",
             "Apple Apps",
             "Developer tools",
-            "iPadOS",
             "Passionate",
             "Possible Vindication"
           ],
@@ -7967,8 +7967,8 @@
           "type": "Ricky",
           "topics": [
             "iPad",
-            "Developer tools",
             "iPadOS",
+            "Developer tools",
             "Possible Vindication"
           ],
           "host": "Federico",
@@ -8088,9 +8088,9 @@
           "type": "Flexie",
           "topics": [
             "Apple Vision Pro",
+            "visionOS",
             "Augmented Reality",
-            "Developer tools",
-            "visionOS"
+            "Developer tools"
           ],
           "host": "Myke",
           "pick-conditions": 3,
@@ -8340,8 +8340,8 @@
           "game": "2023 WWDC Rickies",
           "type": "Flexie",
           "topics": [
-            "Apple management",
             "Apple Vision Pro",
+            "Apple management",
             "Augmented Reality",
             "Live Edited",
             "Stagecraft",
@@ -8808,10 +8808,10 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Alternate Risky",
-            "Apple Apps",
             "Apple Vision Pro",
             "visionOS",
+            "Alternate Risky",
+            "Apple Apps",
             "Possible Vindication"
           ],
           "host": "Stephen",
@@ -8827,10 +8827,10 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Apple Vision Pro",
             "iPadOS",
-            "Live Edited",
+            "Apple Vision Pro",
             "visionOS",
+            "Live Edited",
             "Possible Vindication"
           ],
           "host": "Stephen",
@@ -8907,8 +8907,8 @@
           "topics": [
             "iPad",
             "Mac",
-            "Accessories",
             "Apple Vision Pro",
+            "Accessories",
             "Possible Vindication"
           ],
           "host": "Federico",
@@ -8953,9 +8953,9 @@
           "type": "Flexie",
           "topics": [
             "iPad",
-            "Accessories",
             "Apple Vision Pro",
             "visionOS",
+            "Accessories",
             "Possible Vindication"
           ],
           "host": "Federico",
@@ -9105,6 +9105,459 @@
         "title": "Connected #501: My Heart Skipped a Beat",
         "url": "https://relay.fm/connected/501",
         "episode-number": 501
+      }
+    ]
+  },
+  {
+    "name": "2024 WWDC Rickies",
+    "game-type": "Keynote",
+    "date-graded": "",
+    "date-picked": "2024-06-05",
+    "main-game": {
+      "picks": [
+        {
+          "text": "More flexibility for app icon placement on the iPhone home screen",
+          "full-pick-text": "More flexibility for app icon placement on the iPhone home screen",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Regular",
+          "topics": [
+            "iPhone",
+            "iOS"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/24:16"
+        },
+        {
+          "text": "There are some design and navigation updates to the Settings app across multiple platforms",
+          "full-pick-text": "There are some design and navigation updates to the Settings app across multiple platforms",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Regular",
+          "topics": [
+            "Apple Apps"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/28:28"
+        },
+        {
+          "text": "There is no new hardware announced or released",
+          "full-pick-text": "There is no new hardware announced or released",
+          "notes": "<p><ul><li>Was just \"announced\" but Stephen actually made it riskier to better fit his intent with the pick.</li><li>An announcement about Vision Pro in more countries doesn't make this wrong.</li></ul></p>",
+          "game": "2024 WWDC Rickies",
+          "type": "Regular",
+          "topics": [
+            "Buzzkill",
+            "Live Edited"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/32:33"
+        },
+        {
+          "text": "Notification summaries are provided by a new AI system",
+          "full-pick-text": "Notification summaries are provided by a new AI system",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Regular",
+          "topics": [
+            "Machine Learning/AI"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/35:26"
+        },
+        {
+          "text": "There is a new system for changing the colors of icons on the home screen",
+          "full-pick-text": "There is a new system for changing the colors of icons on the home screen",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Regular",
+          "topics": [
+            "iPhone",
+            "iOS"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/38:31"
+        },
+        {
+          "text": "Apple mentions that it has created its own LLM",
+          "full-pick-text": "Apple mentions that it has created its own LLM",
+          "notes": "<p><ul><li>Must be the term \"large language model\" or \"LLM\" in particular, but this could be in a session or the State of the Union keynote, not just the main event.</li></ul></p>",
+          "game": "2024 WWDC Rickies",
+          "type": "Regular",
+          "topics": [
+            "Machine Learning/AI",
+            "Stagecraft"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/45:23"
+        },
+        {
+          "text": "visionOS 2 has keyboard passthrough when in an environment and it works with any keyboard, not just the ones Apple makes",
+          "full-pick-text": "visionOS 2 has keyboard passthrough when in an environment and it works with any keyboard, not just the ones Apple makes",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Ricky",
+          "topics": [
+            "Apple Vision Pro",
+            "visionOS"
+          ],
+          "host": "Myke",
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/51:59"
+        },
+        {
+          "text": "Apple shows a 'Siri Camera' (not official name) feature that lets you point the iPhone at something and use AI to understand what you're looking at",
+          "full-pick-text": "Apple shows a 'Siri Camera' (not official name) feature that lets you point the iPhone at something and use AI to understand what you're looking at",
+          "notes": "<p><ul><li> Non-graded: this is also why the next iPhone will have a physical camera button </li></ul></p>",
+          "game": "2024 WWDC Rickies",
+          "type": "Ricky",
+          "topics": [
+            "iPhone",
+            "iOS",
+            "Machine Learning/AI"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/53:35"
+        },
+        {
+          "text": "Apple previews a new visionOS feature that puts overlays over the camera passthrough with information about objects in view",
+          "full-pick-text": "Apple previews a new visionOS feature that puts overlays over the camera passthrough with information about objects in view",
+          "notes": "<p><ul><li>Was originally \"app\" instead of \"feature\".</li></ul></p>",
+          "game": "2024 WWDC Rickies",
+          "type": "Ricky",
+          "topics": [
+            "Apple Vision Pro",
+            "visionOS",
+            "Live Edited",
+            "Machine Learning/AI"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/59:31"
+        }
+      ],
+      "coin-flips": [],
+      "winner": "TBD"
+    },
+    "the-flexies": {
+      "picks": [
+        {
+          "text": "We do not see Sam Altman's face in the presentation",
+          "full-pick-text": "We do not see Sam Altman's face in the presentation",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Stagecraft"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:11:04"
+        },
+        {
+          "text": "Some AI features on the Mac require an M2 or later",
+          "full-pick-text": "Some AI features on the Mac require an M2 or later",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac",
+            "Buzzkill",
+            "Machine Learning/AI"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:12:08"
+        },
+        {
+          "text": "At least two of Apple's first-party apps escape iPad compatibility mode on visionOS to become full-blown native apps",
+          "full-pick-text": "At least two of Apple's first-party apps escape iPad compatibility mode on visionOS to become full-blown native apps",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Apple Vision Pro",
+            "visionOS"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:12:31"
+        },
+        {
+          "text": "\"Improvements\" to Stage Manager are announced",
+          "full-pick-text": "\"Improvements\" to Stage Manager are announced",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "iPadOS",
+            "Mac",
+            "macOS"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:13:23"
+        },
+        {
+          "text": "Something in iOS 18 picks up the UI used in the iOS 17 App picker in Messages",
+          "full-pick-text": "Something in iOS 18 picks up the UI used in the iOS 17 App picker in Messages",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPhone",
+            "iOS"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:14:03"
+        },
+        {
+          "text": "Journal app comes to iPadOS",
+          "full-pick-text": "Journal app comes to iPadOS",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "iPadOS",
+            "Apple Apps"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:14:48"
+        },
+        {
+          "text": "The next version of macOS is named Tahoe",
+          "full-pick-text": "The next version of macOS is named Tahoe",
+          "notes": "<p><ul><li>Stolen from one of Myke's <a href=\"https://upgrade.cards/card/apple062023\" target=\"_blank\">choices in the Upgrade Draft</a> for the last 2 years.</li></ul></p>",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac",
+            "macOS"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:15:47"
+        },
+        {
+          "text": "RCS is not spoken aloud in the keynote",
+          "full-pick-text": "RCS is not spoken aloud in the keynote",
+          "notes": "<p><ul><li>An earlier draft of this pick was a risky pick that also specified that it would appear in the \"bento box\" slide specifically in the bottom left.</li></ul></p>",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Alternate Risky",
+            "Stagecraft"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:16:55"
+        },
+        {
+          "text": "Standby mode for iPadOS",
+          "full-pick-text": "Standby mode for iPadOS",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "iPadOS"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:18:57"
+        },
+        {
+          "text": "At least one of the 'Coming Soon' environments in visionOS 2 is removed",
+          "full-pick-text": "At least one of the 'Coming Soon' environments in visionOS 2 is removed",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Apple Vision Pro",
+            "visionOS"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:19:54"
+        },
+        {
+          "text": "Apple announces some new immersive video content coming to Vision Pro",
+          "full-pick-text": "Apple announces some new immersive video content coming to Vision Pro",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Apple Vision Pro",
+            "visionOS"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:21:40"
+        },
+        {
+          "text": "Apple announces an AI deal with Google",
+          "full-pick-text": "Apple announces an AI deal with Google",
+          "notes": "<p><ul><li>Originally included the word \"also\" but that was confusing things.</li></ul></p>",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Live Edited",
+            "Machine Learning/AI"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:21:47"
+        },
+        {
+          "text": "Vision Pro international availability is mentioned",
+          "full-pick-text": "Vision Pro international availability is mentioned",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Apple Vision Pro",
+            "Stagecraft"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:23:16"
+        },
+        {
+          "text": "Chatbot features from AI partners are available only to iCloud+ subscribers after a free trial",
+          "full-pick-text": "Chatbot features from AI partners are available only to iCloud+ subscribers after a free trial",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Alternate Risky",
+            "Machine Learning/AI",
+            "Services"
+          ],
+          "host": "Myke",
+          "pick-conditions": 4,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:23:36"
+        },
+        {
+          "text": "Some AI features will be region-locked",
+          "full-pick-text": "Some AI features will be region-locked",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Buzzkill",
+            "Machine Learning/AI"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:26:50"
+        },
+        {
+          "text": "Some new iOS 18 features will be exclusive to the iPhone 15 Pro line",
+          "full-pick-text": "Some new iOS 18 features will be exclusive to the iPhone 15 Pro line",
+          "notes": "<p><ul><li>Was originally just \"iPhone 15 line\" but it was pointed out that the plain 15 phones have the same processor as the 14 Pro.</li></ul></p>",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPhone",
+            "iOS",
+            "Buzzkill",
+            "Live Edited"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:27:08"
+        },
+        {
+          "text": "Notes gets new features, such as math calculations and voice recording",
+          "full-pick-text": "Notes gets new features, such as math calculations and voice recording",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Apple Apps"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:28:07"
+        },
+        {
+          "text": "The next version of macOS is called Sequoia",
+          "full-pick-text": "The next version of macOS is called Sequoia",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac",
+            "macOS"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:28:38"
+        },
+        {
+          "text": "Apple shows off the ability for Siri to control apps, but it's not launching this year",
+          "full-pick-text": "Apple shows off the ability for Siri to control apps, but it's not launching this year",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Apple Apps",
+            "Buzzkill",
+            "Machine Learning/AI"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:29:09"
+        },
+        {
+          "text": "The calculator app comes to iPad",
+          "full-pick-text": "The calculator app comes to iPad",
+          "notes": "",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "iPadOS",
+            "Apple Apps"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:31:54"
+        },
+        {
+          "text": "The next version of Stage Manager supports more than 4 windows at once on some iPad models",
+          "full-pick-text": "The next version of Stage Manager supports more than 4 windows at once on some iPad models",
+          "notes": "<p><ul><li>This would complete <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20new%20iPad%20Pro%20will%20feature...\">Federico's annual risky pick for the year</a> as well. (Reuse of an annual pick is allowed in The Flexies.)</li></ul></p>",
+          "game": "2024 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "iPadOS"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:32:08"
+        }
+      ],
+      "coin-flips": [],
+      "winner": "TBD"
+    },
+    "relevant-episodes": [
+      {
+        "title": "Connected #505: The Rickies (WWDC 2024)",
+        "url": "https://relay.fm/connected/505",
+        "episode-number": 505
       }
     ]
   }

@@ -1,5 +1,21 @@
 [
   {
+    "text": "\"Improvements\" to Stage Manager are announced",
+    "full-pick-text": "\"Improvements\" to Stage Manager are announced",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Mac",
+      "macOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:13:23"
+  },
+  {
     "text": "A CPU transition is announced for the Mac",
     "full-pick-text": "A CPU transition is announced for the Mac",
     "notes": "<p><ul><li>Federico counsels against specifying ARM, which is good because Apple calls it \"Apple Silicon\" and never uses the term ARM.</li></ul></p>",
@@ -117,10 +133,10 @@
     "type": "Flexie",
     "topics": [
       "iPad",
+      "iPadOS",
       "Mac",
       "macOS",
       "Developer tools",
-      "iPadOS",
       "Possible Vindication"
     ],
     "host": "Federico",
@@ -483,6 +499,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:47:59"
   },
   {
+    "text": "The next version of macOS is called Sequoia",
+    "full-pick-text": "The next version of macOS is called Sequoia",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:28:38"
+  },
+  {
     "text": "The next version of macOS is called Skyline",
     "full-pick-text": "The next version of macOS is called Skyline",
     "notes": "",
@@ -499,6 +529,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/48:07",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:17"
+  },
+  {
+    "text": "The next version of macOS is named Tahoe",
+    "full-pick-text": "The next version of macOS is named Tahoe",
+    "notes": "<p><ul><li>Stolen from one of Myke's <a href=\"https://upgrade.cards/card/apple062023\" target=\"_blank\">choices in the Upgrade Draft</a> for the last 2 years.</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:15:47"
   },
   {
     "text": "The next version of macOS is not called Skyline",
@@ -540,9 +584,9 @@
     "type": "Flexie",
     "topics": [
       "iPad",
+      "iPadOS",
       "Mac",
       "macOS",
-      "iPadOS",
       "Stagecraft",
       "Unvindicatable"
     ],

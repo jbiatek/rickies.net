@@ -26,19 +26,77 @@
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:10:39"
   },
   {
+    "text": "Apple announces some new immersive video content coming to Vision Pro",
+    "full-pick-text": "Apple announces some new immersive video content coming to Vision Pro",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:21:40"
+  },
+  {
     "text": "Apple launches immersive video content using TV+ IP",
     "full-pick-text": "Apple launches immersive video content using TV+ IP",
     "notes": "<p><ul><li>Stephen's original version of the pick was just about any immersive video, but that was already announced.</li></ul></p>",
     "game": "2024 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Apple TV+",
       "Apple Vision Pro",
+      "Apple TV+",
       "Live Edited"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:06:27"
+  },
+  {
+    "text": "Apple previews a new visionOS feature that puts overlays over the camera passthrough with information about objects in view",
+    "full-pick-text": "Apple previews a new visionOS feature that puts overlays over the camera passthrough with information about objects in view",
+    "notes": "<p><ul><li>Was originally \"app\" instead of \"feature\".</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS",
+      "Live Edited",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/59:31"
+  },
+  {
+    "text": "At least one of the 'Coming Soon' environments in visionOS 2 is removed",
+    "full-pick-text": "At least one of the 'Coming Soon' environments in visionOS 2 is removed",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:19:54"
+  },
+  {
+    "text": "At least two of Apple's first-party apps escape iPad compatibility mode on visionOS to become full-blown native apps",
+    "full-pick-text": "At least two of Apple's first-party apps escape iPad compatibility mode on visionOS to become full-blown native apps",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:12:31"
   },
   {
     "text": "Final Cut for iPad gains a feature specifically for video in visionOS",
@@ -48,10 +106,10 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Alternate Risky",
-      "Apple Apps",
       "Apple Vision Pro",
       "visionOS",
+      "Alternate Risky",
+      "Apple Apps",
       "Possible Vindication"
     ],
     "host": "Stephen",
@@ -67,10 +125,10 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Apple Vision Pro",
       "iPadOS",
-      "Live Edited",
+      "Apple Vision Pro",
       "visionOS",
+      "Live Edited",
       "Possible Vindication"
     ],
     "host": "Stephen",
@@ -85,8 +143,8 @@
     "game": "2023 WWDC Rickies",
     "type": "Flexie",
     "topics": [
-      "Apple management",
       "Apple Vision Pro",
+      "Apple management",
       "Augmented Reality",
       "Live Edited",
       "Stagecraft",
@@ -157,9 +215,9 @@
     "type": "Flexie",
     "topics": [
       "Apple Vision Pro",
+      "visionOS",
       "Augmented Reality",
-      "Developer tools",
-      "visionOS"
+      "Developer tools"
     ],
     "host": "Myke",
     "pick-conditions": 3,
@@ -175,9 +233,9 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Accessories",
       "Apple Vision Pro",
       "visionOS",
+      "Accessories",
       "Possible Vindication"
     ],
     "host": "Federico",
@@ -194,8 +252,8 @@
     "topics": [
       "iPad",
       "Mac",
-      "Accessories",
       "Apple Vision Pro",
+      "Accessories",
       "Possible Vindication"
     ],
     "host": "Federico",
@@ -233,6 +291,20 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/58:58"
+  },
+  {
+    "text": "Vision Pro international availability is mentioned",
+    "full-pick-text": "Vision Pro international availability is mentioned",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:23:16"
   },
   {
     "text": "Vision Pro is mentioned at some point during the video",
@@ -280,6 +352,20 @@
     "host": "Federico",
     "pick-conditions": 1,
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:10:11"
+  },
+  {
+    "text": "visionOS 2 has keyboard passthrough when in an environment and it works with any keyboard, not just the ones Apple makes",
+    "full-pick-text": "visionOS 2 has keyboard passthrough when in an environment and it works with any keyboard, not just the ones Apple makes",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/51:59"
   },
   {
     "text": "visionOS receives updates at WWDC that ship later in 2024",

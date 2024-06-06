@@ -50,6 +50,21 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:39"
   },
   {
+    "text": "Apple shows off the ability for Siri to control apps, but it's not launching this year",
+    "full-pick-text": "Apple shows off the ability for Siri to control apps, but it's not launching this year",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Buzzkill",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:29:09"
+  },
+  {
     "text": "Apple Watch SE is not updated, but receives a price cut",
     "full-pick-text": "Apple Watch SE is not updated, but receives a price cut",
     "notes": "<p><ul><li>\"Currently $249/$299 for GPS, $279/$329 for cellular\"</li></ul></p>",
@@ -157,8 +172,8 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Buzzkill",
       "iPadOS",
+      "Buzzkill",
       "Unvindicatable"
     ],
     "host": "Myke",
@@ -175,8 +190,8 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Buzzkill",
       "iPadOS",
+      "Buzzkill",
       "Unvindicatable"
     ],
     "host": "Myke",
@@ -675,6 +690,51 @@
     "overcast-picked": "https://overcast.fm/+FXx5SWQQA/32:36"
   },
   {
+    "text": "Some AI features on the Mac require an M2 or later",
+    "full-pick-text": "Some AI features on the Mac require an M2 or later",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Buzzkill",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:12:08"
+  },
+  {
+    "text": "Some AI features will be region-locked",
+    "full-pick-text": "Some AI features will be region-locked",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Buzzkill",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:26:50"
+  },
+  {
+    "text": "Some new iOS 18 features will be exclusive to the iPhone 15 Pro line",
+    "full-pick-text": "Some new iOS 18 features will be exclusive to the iPhone 15 Pro line",
+    "notes": "<p><ul><li>Was originally just \"iPhone 15 line\" but it was pointed out that the plain 15 phones have the same processor as the 14 Pro.</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:27:08"
+  },
+  {
     "text": "The 12\" MacBook does not return",
     "full-pick-text": "The 12\" MacBook does not return",
     "notes": "",
@@ -982,8 +1042,8 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Buzzkill",
       "iPadOS",
+      "Buzzkill",
       "Unvindicatable"
     ],
     "host": "Myke",
@@ -1007,6 +1067,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/28:46",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:08:06"
+  },
+  {
+    "text": "There is no new hardware announced or released",
+    "full-pick-text": "There is no new hardware announced or released",
+    "notes": "<p><ul><li>Was just \"announced\" but Stephen actually made it riskier to better fit his intent with the pick.</li><li>An announcement about Vision Pro in more countries doesn't make this wrong.</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/32:33"
   },
   {
     "text": "There is no second generation Apple Watch Ultra this year",

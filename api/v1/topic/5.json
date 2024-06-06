@@ -44,8 +44,8 @@
     "topics": [
       "iOS",
       "iPad",
-      "Apple Apps",
       "iPadOS",
+      "Apple Apps",
       "Possible Vindication"
     ],
     "host": "Federico",
@@ -178,6 +178,21 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5peDck/1:12:33",
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:38:41"
+  },
+  {
+    "text": "Apple shows a 'Siri Camera' (not official name) feature that lets you point the iPhone at something and use AI to understand what you're looking at",
+    "full-pick-text": "Apple shows a 'Siri Camera' (not official name) feature that lets you point the iPhone at something and use AI to understand what you're looking at",
+    "notes": "<p><ul><li> Non-graded: this is also why the next iPhone will have a physical camera button </li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/53:35"
   },
   {
     "text": "Apple shows off at least one iOS 16 feature that we haven't seen before",
@@ -622,8 +637,8 @@
     "topics": [
       "iOS",
       "iPad",
-      "Ahead of Its Time",
-      "iPadOS"
+      "iPadOS",
+      "Ahead of Its Time"
     ],
     "host": "Federico",
     "pick-conditions": 2,
@@ -795,6 +810,20 @@
     "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:02:44"
   },
   {
+    "text": "More flexibility for app icon placement on the iPhone home screen",
+    "full-pick-text": "More flexibility for app icon placement on the iPhone home screen",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/24:16"
+  },
+  {
     "text": "New Animoji in iOS 13",
     "full-pick-text": "New Animoji in iOS 13",
     "notes": "<p><ul><li>Ungraded: Federico had some specific predictions which were not written down: at least 4, maybe 5, a demo on stage, would like to see kangaroo, peacock, squirrel, or white rat as new animals.</li></ul></p>",
@@ -949,9 +978,9 @@
     "topics": [
       "iOS",
       "iPad",
+      "iPadOS",
       "Apple Apps",
       "Developer tools",
-      "iPadOS",
       "Passionate",
       "Possible Vindication"
     ],
@@ -1002,8 +1031,8 @@
     "topics": [
       "iOS",
       "iPad",
-      "Apple Apps",
       "iPadOS",
+      "Apple Apps",
       "Possible Vindication"
     ],
     "host": "Federico",
@@ -1011,6 +1040,36 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5wv1as/37:21",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:46:35"
+  },
+  {
+    "text": "Some new iOS 18 features will be exclusive to the iPhone 15 Pro line",
+    "full-pick-text": "Some new iOS 18 features will be exclusive to the iPhone 15 Pro line",
+    "notes": "<p><ul><li>Was originally just \"iPhone 15 line\" but it was pointed out that the plain 15 phones have the same processor as the 14 Pro.</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:27:08"
+  },
+  {
+    "text": "Something in iOS 18 picks up the UI used in the iOS 17 App picker in Messages",
+    "full-pick-text": "Something in iOS 18 picks up the UI used in the iOS 17 App picker in Messages",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:14:03"
   },
   {
     "text": "The iPhone 14 Pro Camera app introduces some kind of 3D capturing functionality",
@@ -1095,6 +1154,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:17:41",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:37:27"
+  },
+  {
+    "text": "There is a new system for changing the colors of icons on the home screen",
+    "full-pick-text": "There is a new system for changing the colors of icons on the home screen",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/38:31"
   },
   {
     "text": "There will be a system filter for \"always-on display\" in Focus",
