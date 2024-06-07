@@ -70,154 +70,6 @@ Error message and password prompt
 .tc-password-wrapper input {
 	width: 100%;
 }
-.tc-sidebar-header {
-	text-shadow: 0 1px 0 rgba(255,255,255, 0.0);
-}.tc-tiddler-info {
-	
-  -webkit-box-shadow: inset 1px 2px 3px rgba(0,0,0,0.1);
-     -moz-box-shadow: inset 1px 2px 3px rgba(0,0,0,0.1);
-          box-shadow: inset 1px 2px 3px rgba(0,0,0,0.1);
-
-}@media screen {
-	.tc-tiddler-frame {
-		
-  -webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
-     -moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
-          box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
-
-	}
-}@media (max-width: 959px) {
-	.tc-tiddler-frame {
-		
-  -webkit-box-shadow: none;
-     -moz-box-shadow: none;
-          box-shadow: none;
-
-	}
-}.tc-page-controls button svg, .tc-tiddler-controls button svg, .tc-topbar button svg {
-	
-  -webkit-transition: fill 150ms ease-in-out;
-     -moz-transition: fill 150ms ease-in-out;
-          transition: fill 150ms ease-in-out;
-
-}.tc-tiddler-controls button.tc-selected,
-.tc-page-controls button.tc-selected {
-	
-  -webkit-filter: drop-shadow(0px -1px 2px rgba(0,0,0,0.25));
-     -moz-filter: drop-shadow(0px -1px 2px rgba(0,0,0,0.25));
-          filter: drop-shadow(0px -1px 2px rgba(0,0,0,0.25));
-
-}.tc-tiddler-frame input.tc-edit-texteditor,
-.tc-tiddler-frame select.tc-edit-texteditor {
-	
-  -webkit-box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
-     -moz-box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
-          box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
-
-}.tc-edit-tags {
-	
-  -webkit-box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
-     -moz-box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
-          box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
-
-}.tc-tiddler-frame .tc-edit-tags input.tc-edit-texteditor {
-	
-  -webkit-box-shadow: none;
-     -moz-box-shadow: none;
-          box-shadow: none;
-
-	border: none;
-	outline: none;
-}textarea.tc-edit-texteditor {
-	font-family: ;
-}canvas.tc-edit-bitmapeditor  {
-	
-  -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
-     -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
-          box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
-
-}.tc-drop-down {
-	border-radius: 4px;
-	
-  -webkit-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
-     -moz-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
-          box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
-
-}.tc-block-dropdown {
-	border-radius: 4px;
-	
-  -webkit-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
-     -moz-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
-          box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
-
-}.tc-modal {
-	border-radius: 6px;
-	
-  -webkit-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
-     -moz-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
-          box-shadow: 0 3px 7px rgba(0,0,0,0.3);
-
-}.tc-modal-footer {
-	border-radius: 0 0 6px 6px;
-	
-  -webkit-box-shadow: inset 0 1px 0 #fff;
-     -moz-box-shadow: inset 0 1px 0 #fff;
-          box-shadow: inset 0 1px 0 #fff;
-;
-}.tc-alert {
-	border-radius: 6px;
-	
-  -webkit-box-shadow: 0 3px 7px rgba(0,0,0,0.6);
-     -moz-box-shadow: 0 3px 7px rgba(0,0,0,0.6);
-          box-shadow: 0 3px 7px rgba(0,0,0,0.6);
-
-}.tc-notification {
-	border-radius: 6px;
-	
-  -webkit-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
-     -moz-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
-          box-shadow: 0 3px 7px rgba(0,0,0,0.3);
-
-	text-shadow: 0 1px 0 rgba(255,255,255, 0.8);
-}.tc-sidebar-lists .tc-tab-set .tc-tab-divider {
-	border-top: none;
-	height: 1px;
-	
-background-image: linear-gradient(left, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.0) 100%);
-background-image: -o-linear-gradient(left, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.0) 100%);
-background-image: -moz-linear-gradient(left, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.0) 100%);
-background-image: -webkit-linear-gradient(left, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.0) 100%);
-background-image: -ms-linear-gradient(left, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.0) 100%);
-
-}.tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button {
-	
-background-image: linear-gradient(left, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.1) 100%);
-background-image: -o-linear-gradient(left, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.1) 100%);
-background-image: -moz-linear-gradient(left, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.1) 100%);
-background-image: -webkit-linear-gradient(left, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.1) 100%);
-background-image: -ms-linear-gradient(left, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.1) 100%);
-
-}.tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button.tc-tab-selected {
-	
-background-image: linear-gradient(left, rgba(0,0,0,0.05) 0%, rgba(255,255,255,0.05) 100%);
-background-image: -o-linear-gradient(left, rgba(0,0,0,0.05) 0%, rgba(255,255,255,0.05) 100%);
-background-image: -moz-linear-gradient(left, rgba(0,0,0,0.05) 0%, rgba(255,255,255,0.05) 100%);
-background-image: -webkit-linear-gradient(left, rgba(0,0,0,0.05) 0%, rgba(255,255,255,0.05) 100%);
-background-image: -ms-linear-gradient(left, rgba(0,0,0,0.05) 0%, rgba(255,255,255,0.05) 100%);
-
-}.tc-message-box img {
-	
-  -webkit-box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
-     -moz-box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
-          box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
-
-}.tc-plugin-info {
-	
-  -webkit-box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
-     -moz-box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
-          box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
-
-}
 /*
 ** Start with the normalize CSS reset, and then belay some of its effects
 *//*! modern-normalize v1.0.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
@@ -858,7 +710,7 @@ a.tc-tiddlylink:hover {
 	color: #333333;
 	fill: #333333;
 }button:disabled.tc-btn-invisible  {
-	cursor: default; 
+	cursor: default;
 	color: #999999;
 }.tc-btn-boxed {
 	font-size: 0.6em;
@@ -1204,6 +1056,9 @@ a.tc-tiddlylink:hover {
 }.tc-tiddler-title-icon {
 	vertical-align: middle;
 	margin-right: .1em;
+}.tc-tiddler-title-icon svg {
+	width: 0.9em;
+	height: 0.9em;
 }.tc-system-title-prefix {
 	color: #999999;
 }.tc-titlebar h2 {
@@ -1321,6 +1176,9 @@ a.tc-tiddlylink:hover {
 ** Editor
 */.tc-editor-toolbar {
 	margin-top: 8px;
+}.tc-tiddler-frame .tc-tiddler-editor.tc-tiddler-preview .tc-editor-toolbar,
+.tc-tiddler-frame .tc-tiddler-editor.tc-tiddler-preview-hidden .tc-editor-toolbar {
+	grid-area: toolbar;
 }.tc-editor-toolbar button {
 	vertical-align: middle;
 	background-color: #cccccc;
@@ -1432,16 +1290,34 @@ a.tc-tiddlylink:hover {
 	padding-left: 4px;
 }.tc-tiddler-preview {
 	overflow: auto;
-}.tc-tiddler-preview-preview {
-	float: right;
-	width: 49%;
+}.tc-tiddler-editor {
+	display: grid;
+}.tc-tiddler-frame .tc-tiddler-editor.tc-tiddler-preview {
+	grid-template-areas:
+		"toolbar toolbar"
+		"editor preview";
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: auto 1fr;
+}.tc-tiddler-frame .tc-tiddler-editor.tc-tiddler-preview-hidden {
+	grid-template-areas:
+		"toolbar"
+		"editor";
+	grid-template-columns: 1fr;
+	grid-template-rows: auto 1fr;
+}.tc-tiddler-frame .tc-tiddler-editor.tc-tiddler-preview .tc-tiddler-preview-preview {
+	grid-area: preview;
+	overflow-wrap: anywhere;
+	word-break: normal;
 	border: 1px solid #cccccc;
 	margin: 4px 0 3px 3px;
 	padding: 3px 3px 3px 3px;
-}.tc-tiddler-frame .tc-tiddler-preview .tc-edit-texteditor {
-	width: 49%;
-}.tc-tiddler-frame .tc-tiddler-preview canvas.tc-edit-bitmapeditor {
-	max-width: 49%;
+}.tc-tiddler-frame .tc-tiddler-editor.tc-tiddler-preview .tc-edit-texteditor,
+.tc-tiddler-frame .tc-tiddler-editor.tc-tiddler-preview-hidden .tc-edit-texteditor {
+	grid-area: editor;
+}.tc-tiddler-frame .tc-tiddler-editor.tc-tiddler-preview canvas.tc-edit-bitmapeditor,
+.tc-tiddler-frame .tc-tiddler-editor.tc-tiddler-preview-hidden canvas.tc-edit-bitmapeditor {
+	grid-area: editor;
+	max-width: 100%;
 }.tc-edit-fields {
 	width: 100%;
 }.tc-edit-fields.tc-edit-fields-small {
@@ -2196,11 +2072,9 @@ a.tc-tiddlylink:hover {
 ** Table of contents
 */.tc-sidebar-lists .tc-table-of-contents {
 	white-space: nowrap;
-}.tc-table-of-contents button {
+}.tc-table-of-contents button,
+.tc-table-of-contents .toc-item-muted {
 	color: #acacac;
-}button + .tc-toc-caption,
-button > .tc-toc-caption{
-	margin-left: .25em;
 }.tc-table-of-contents svg {
 	width: 0.7em;
 	height: 0.7em;
@@ -2513,48 +2387,6 @@ button > .tc-toc-caption{
 }/* Vertical gaps */.tc-tiny-v-gap-bottom {
 	margin-bottom: 3px;
 }
-
-button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fclone, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fclone, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fclone,
-button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fdelete, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fdelete, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fdelete,
-button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fedit, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fedit, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fedit,
-button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-here, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-here, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-here,
-button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-journal-here, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-journal-here, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-journal-here,
-button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fimport, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fimport, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fimport,
-button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fmanager, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fmanager, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fmanager,
-button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-image, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-image, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-image,
-button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-journal, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-journal, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-journal,
-button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-tiddler, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-tiddler, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-tiddler {
-	display: none;
-}
-body.tc-dirty span.tc-dirty-indicator svg {
-	transition: fill 250ms ease-in-out;
-}body .tc-image-cloud-idle {
-	fill: #ffffff;
-	transition: opacity 250ms ease-in-out;
-	opacity: 1;
-	display: unset;
-}body.tc-dirty .tc-image-cloud-idle {
-	opacity: 0;
-	display: none;
-}body .tc-image-cloud-progress {
-	transition: opacity 250ms ease-in-out;
-	transform-origin: 50% 50%;
-	transform: rotate(359deg);
-	animation: animation-rotate-slow 2s infinite linear;
-	fill: #ffffff;
-	display: none;
-	opacity: 0;
-}body.tc-dirty .tc-image-cloud-progress {
-	opacity: 1;
-	display: unset;
-}@keyframes animation-rotate-slow {
-	from {
-		transform: rotate(0deg);
-	}
-	to {
-		transform: scale(359deg);
-	}
-}
 .tc-relink-references {
 }
 
@@ -2815,6 +2647,196 @@ width:650px;
   font-style: italic;
 }.hljs-strong {
   font-weight: bold;
+}
+
+button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fclone, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fclone, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fclone,
+button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fdelete, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fdelete, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fdelete,
+button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fedit, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fedit, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fedit,
+button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-here, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-here, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-here,
+button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-journal-here, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-journal-here, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-journal-here,
+button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fimport, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fimport, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fimport,
+button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fmanager, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fmanager, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fmanager,
+button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-image, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-image, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-image,
+button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-journal, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-journal, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-journal,
+button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-tiddler, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-tiddler, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-tiddler {
+	display: none;
+}
+body.tc-dirty span.tc-dirty-indicator svg {
+	transition: fill 250ms ease-in-out;
+}body .tc-image-cloud-idle {
+	fill: #ffffff;
+	transition: opacity 250ms ease-in-out;
+	opacity: 1;
+	display: unset;
+}body.tc-dirty .tc-image-cloud-idle {
+	opacity: 0;
+	display: none;
+}body .tc-image-cloud-progress {
+	transition: opacity 250ms ease-in-out;
+	transform-origin: 50% 50%;
+	transform: rotate(359deg);
+	animation: animation-rotate-slow 2s infinite linear;
+	fill: #ffffff;
+	display: none;
+	opacity: 0;
+}body.tc-dirty .tc-image-cloud-progress {
+	opacity: 1;
+	display: unset;
+}@keyframes animation-rotate-slow {
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: scale(359deg);
+	}
+}
+.tc-sidebar-header {
+	text-shadow: 0 1px 0 rgba(255,255,255, 0.0);
+}.tc-tiddler-info {
+	
+  -webkit-box-shadow: inset 1px 2px 3px rgba(0,0,0,0.1);
+     -moz-box-shadow: inset 1px 2px 3px rgba(0,0,0,0.1);
+          box-shadow: inset 1px 2px 3px rgba(0,0,0,0.1);
+
+}@media screen {
+	.tc-tiddler-frame {
+		
+  -webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+     -moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+          box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+
+	}
+}@media (max-width: 959px) {
+	.tc-tiddler-frame {
+		
+  -webkit-box-shadow: none;
+     -moz-box-shadow: none;
+          box-shadow: none;
+
+	}
+}.tc-page-controls button svg, .tc-tiddler-controls button svg, .tc-topbar button svg {
+	
+  -webkit-transition: fill 150ms ease-in-out;
+     -moz-transition: fill 150ms ease-in-out;
+          transition: fill 150ms ease-in-out;
+
+}.tc-tiddler-controls button.tc-selected,
+.tc-page-controls button.tc-selected {
+	
+  -webkit-filter: drop-shadow(0px -1px 2px rgba(0,0,0,0.25));
+     -moz-filter: drop-shadow(0px -1px 2px rgba(0,0,0,0.25));
+          filter: drop-shadow(0px -1px 2px rgba(0,0,0,0.25));
+
+}.tc-tiddler-frame input.tc-edit-texteditor,
+.tc-tiddler-frame select.tc-edit-texteditor {
+	
+  -webkit-box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
+     -moz-box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
+          box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
+
+}.tc-edit-tags {
+	
+  -webkit-box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
+     -moz-box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
+          box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
+
+}.tc-tiddler-frame .tc-edit-tags input.tc-edit-texteditor {
+	
+  -webkit-box-shadow: none;
+     -moz-box-shadow: none;
+          box-shadow: none;
+
+	border: none;
+	outline: none;
+}textarea.tc-edit-texteditor {
+	font-family: ;
+}canvas.tc-edit-bitmapeditor  {
+	
+  -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+     -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+          box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+
+}.tc-drop-down {
+	border-radius: 4px;
+	
+  -webkit-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+     -moz-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+          box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+
+}.tc-block-dropdown {
+	border-radius: 4px;
+	
+  -webkit-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+     -moz-box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+          box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+
+}.tc-modal {
+	border-radius: 6px;
+	
+  -webkit-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+     -moz-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+          box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+
+}.tc-modal-footer {
+	border-radius: 0 0 6px 6px;
+	
+  -webkit-box-shadow: inset 0 1px 0 #fff;
+     -moz-box-shadow: inset 0 1px 0 #fff;
+          box-shadow: inset 0 1px 0 #fff;
+;
+}.tc-alert {
+	border-radius: 6px;
+	
+  -webkit-box-shadow: 0 3px 7px rgba(0,0,0,0.6);
+     -moz-box-shadow: 0 3px 7px rgba(0,0,0,0.6);
+          box-shadow: 0 3px 7px rgba(0,0,0,0.6);
+
+}.tc-notification {
+	border-radius: 6px;
+	
+  -webkit-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+     -moz-box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+          box-shadow: 0 3px 7px rgba(0,0,0,0.3);
+
+	text-shadow: 0 1px 0 rgba(255,255,255, 0.8);
+}.tc-sidebar-lists .tc-tab-set .tc-tab-divider {
+	border-top: none;
+	height: 1px;
+	
+background-image: linear-gradient(left, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.0) 100%);
+background-image: -o-linear-gradient(left, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.0) 100%);
+background-image: -moz-linear-gradient(left, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.0) 100%);
+background-image: -webkit-linear-gradient(left, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.0) 100%);
+background-image: -ms-linear-gradient(left, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.0) 100%);
+
+}.tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button {
+	
+background-image: linear-gradient(left, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.1) 100%);
+background-image: -o-linear-gradient(left, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.1) 100%);
+background-image: -moz-linear-gradient(left, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.1) 100%);
+background-image: -webkit-linear-gradient(left, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.1) 100%);
+background-image: -ms-linear-gradient(left, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.1) 100%);
+
+}.tc-more-sidebar > .tc-tab-set > .tc-tab-buttons > button.tc-tab-selected {
+	
+background-image: linear-gradient(left, rgba(0,0,0,0.05) 0%, rgba(255,255,255,0.05) 100%);
+background-image: -o-linear-gradient(left, rgba(0,0,0,0.05) 0%, rgba(255,255,255,0.05) 100%);
+background-image: -moz-linear-gradient(left, rgba(0,0,0,0.05) 0%, rgba(255,255,255,0.05) 100%);
+background-image: -webkit-linear-gradient(left, rgba(0,0,0,0.05) 0%, rgba(255,255,255,0.05) 100%);
+background-image: -ms-linear-gradient(left, rgba(0,0,0,0.05) 0%, rgba(255,255,255,0.05) 100%);
+
+}.tc-message-box img {
+	
+  -webkit-box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+     -moz-box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+          box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+
+}.tc-plugin-info {
+	
+  -webkit-box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+     -moz-box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+          box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+
 }
 fieldset .filterbox {
   display: inline-flex;
