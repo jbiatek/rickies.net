@@ -232,10 +232,12 @@
     "type": "Flexie",
     "topics": [
       "Live Edited",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:21:47"
   },
   {
@@ -252,6 +254,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/31:22",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/19:31"
   },
   {
@@ -384,10 +387,12 @@
       "Apple Vision Pro",
       "visionOS",
       "Live Edited",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": -1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/59:31"
   },
   {
@@ -545,6 +550,7 @@
     "host": "Federico",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/36:08",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/30:43"
   },
   {
@@ -864,6 +870,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:12:16",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:46"
   },
   {
@@ -901,6 +908,7 @@
     "host": "Myke",
     "pick-conditions": 2,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:10:12",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/57:12"
   },
   {
@@ -1199,6 +1207,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:27:08"
   },
   {
@@ -1419,6 +1428,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:11:17",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:38"
   },
   {
@@ -1619,6 +1629,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/32:33"
   },
   {

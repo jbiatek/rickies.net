@@ -41,49 +41,52 @@
       "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/58:58"
     },
     {
-      "text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
-      "full-pick-text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
-      "notes": "<p><ul><li>Was originally just \"pro apps\" but Federico wanted some clarification.</li></ul></p>",
-      "game": "2024 May Rickies",
+      "text": "Apple mentions that it has created its own LLM",
+      "full-pick-text": "Apple mentions that it has created its own LLM",
+      "notes": "<p><ul><li>Must be the term \"large language model\" or \"LLM\" in particular, but this could be in a session or the State of the Union keynote, not just the main event.</li></ul></p>",
+      "game": "2024 WWDC Rickies",
       "type": "Regular",
       "topics": [
-        "iPad",
-        "Apple Apps",
-        "Live Edited"
+        "Machine Learning/AI",
+        "Stagecraft"
       ],
       "host": "Stephen",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/19:31"
+      "overcast-picked": "https://overcast.fm/+FXx56qHEU/45:23"
     },
     {
-      "text": "The new iPad Air comes in the current iPad Pro sizes: 11-inch and 12.9-inch",
-      "full-pick-text": "The new iPad Air comes in the current iPad Pro sizes: 11-inch and 12.9-inch",
-      "notes": "<p><ul><li>Apple changed to just calling it 13\", but it's actually exactly the same, so Stephen gets the point.</li></ul></p>",
-      "game": "2024 May Rickies",
-      "type": "Regular",
-      "topics": [
-        "iPad"
-      ],
-      "host": "Stephen",
-      "pick-conditions": 3,
-      "score": 1,
-      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/27:56"
-    },
-    {
-      "text": "We get new Macs",
-      "full-pick-text": "We get new Macs",
-      "notes": "<p><ul><li><s>Ungraded: probably a new Mac mini</s></li></ul></p>",
-      "game": "2024 May Rickies",
+      "text": "Apple previews a new visionOS feature that puts overlays over the camera passthrough with information about objects in view",
+      "full-pick-text": "Apple previews a new visionOS feature that puts overlays over the camera passthrough with information about objects in view",
+      "notes": "<p><ul><li>Was originally \"app\" instead of \"feature\".</li></ul></p>",
+      "game": "2024 WWDC Rickies",
       "type": "Ricky",
       "topics": [
-        "Mac",
+        "Apple Vision Pro",
+        "visionOS",
+        "Live Edited",
+        "Machine Learning/AI",
         "Possible Vindication"
       ],
       "host": "Stephen",
       "pick-conditions": 1,
       "score": -1,
-      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/44:18"
+      "overcast-picked": "https://overcast.fm/+FXx56qHEU/59:31"
+    },
+    {
+      "text": "There is no new hardware announced or released",
+      "full-pick-text": "There is no new hardware announced or released",
+      "notes": "<p><ul><li>Was just \"announced\" but Stephen actually made it riskier to better fit his intent with the pick.</li><li>An announcement about Vision Pro in more countries doesn't make this wrong.</li></ul></p>",
+      "game": "2024 WWDC Rickies",
+      "type": "Regular",
+      "topics": [
+        "Buzzkill",
+        "Live Edited"
+      ],
+      "host": "Stephen",
+      "pick-conditions": 2,
+      "score": 1,
+      "overcast-picked": "https://overcast.fm/+FXx56qHEU/32:33"
     }
   ],
   "Myke": [
@@ -127,49 +130,49 @@
       "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/57:49"
     },
     {
-      "text": "The iPad Pro features a camera on the horizontal bezel",
-      "full-pick-text": "The iPad Pro features a camera on the horizontal bezel",
+      "text": "More flexibility for app icon placement on the iPhone home screen",
+      "full-pick-text": "More flexibility for app icon placement on the iPhone home screen",
       "notes": "",
-      "game": "2024 May Rickies",
+      "game": "2024 WWDC Rickies",
       "type": "Regular",
       "topics": [
-        "iPad"
+        "iPhone",
+        "iOS"
       ],
       "host": "Myke",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/21:19"
+      "overcast-picked": "https://overcast.fm/+FXx56qHEU/24:16"
     },
     {
-      "text": "The iPad Pro gets MagSafe charging, but it's not what you think…",
-      "full-pick-text": "The iPad Pro gets MagSafe charging, but it's not what you think… Not the MagSafe an iPhone has.",
-      "notes": "<p><ul><li>\"Not the MagSafe an iPhone has.\"</li><li>In other words, an iPhone MagSafe charger will not charge an iPad Pro, but it will have a new charging method called MagSafe, likely the MacBook's MagSafe or very similar.</li></ul></p>",
-      "game": "2024 May Rickies",
+      "text": "Notification summaries are provided by a new AI system",
+      "full-pick-text": "Notification summaries are provided by a new AI system",
+      "notes": "",
+      "game": "2024 WWDC Rickies",
+      "type": "Regular",
+      "topics": [
+        "Machine Learning/AI"
+      ],
+      "host": "Myke",
+      "pick-conditions": 1,
+      "score": 1,
+      "overcast-picked": "https://overcast.fm/+FXx56qHEU/35:26"
+    },
+    {
+      "text": "visionOS 2 has keyboard passthrough when in an environment and it works with any keyboard, not just the ones Apple makes",
+      "full-pick-text": "visionOS 2 has keyboard passthrough when in an environment and it works with any keyboard, not just the ones Apple makes",
+      "notes": "",
+      "game": "2024 WWDC Rickies",
       "type": "Ricky",
       "topics": [
-        "iPad",
-        "Accessories",
+        "Apple Vision Pro",
+        "visionOS",
         "Possible Vindication"
       ],
       "host": "Myke",
-      "pick-conditions": 3,
+      "pick-conditions": 2,
       "score": -1,
-      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/47:23"
-    },
-    {
-      "text": "The iPad Pro has a higher starting price for both models",
-      "full-pick-text": "The iPad Pro has a higher starting price for both models",
-      "notes": "<p><ul><li>The old models started at $799 and $1099.</li><li>New prices: $999 and $1299, so definitely yes. (To be fair, you also get more storage for that price.)</li></ul></p>",
-      "game": "2024 May Rickies",
-      "type": "Regular",
-      "topics": [
-        "iPad",
-        "Buzzkill"
-      ],
-      "host": "Myke",
-      "pick-conditions": 3,
-      "score": 1,
-      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/29:17"
+      "overcast-picked": "https://overcast.fm/+FXx56qHEU/51:59"
     }
   ],
   "Federico": [
@@ -216,50 +219,50 @@
       "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/54:52"
     },
     {
-      "text": "Apple unveils a new Apple Pencil",
-      "full-pick-text": "Apple unveils a new Apple Pencil",
-      "notes": "<p><ul><li>Ungraded: Support for gestures like squeezing and the inclusion of haptic feedback</li><li>Was <a href=\"https://overcast.fm/+FXx4ahnn0/25:10\" target=\"_blank\">originally about Apple introducing a new keyboard</a>, but <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20keyboard%20for%20iPad%20Pro%20is%20substantially%20redesigned%20for%20the%20first%20time%20since%20its%20introduction%20in%202020\">Federico already has an annual pick</a> for that, and that makes it <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ineligible%20Picks\">ineligible</a>.</li></ul></p>",
-      "game": "2024 May Rickies",
-      "type": "Regular",
-      "topics": [
-        "Accessories",
-        "Live Edited"
-      ],
-      "host": "Federico",
-      "pick-conditions": 1,
-      "score": 1,
-      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/30:43"
-    },
-    {
-      "text": "The new iPad Pros can run a version of macOS when needed",
-      "full-pick-text": "The new iPad Pros can run a version of macOS when needed",
-      "notes": "<p><ul><li>Ungraded: \"Native, virtualized, or Mac Virtual Display?\"</li></ul></p>",
-      "game": "2024 May Rickies",
+      "text": "Apple shows a 'Siri Camera' (not official name) feature that lets you point the iPhone at something and use AI to understand what you're looking at",
+      "full-pick-text": "Apple shows a 'Siri Camera' (not official name) feature that lets you point the iPhone at something and use AI to understand what you're looking at",
+      "notes": "<p><ul><li> Non-graded: this is also why the next iPhone will have a physical camera button </li></ul></p>",
+      "game": "2024 WWDC Rickies",
       "type": "Ricky",
       "topics": [
-        "iPad",
-        "Mac",
-        "macOS",
+        "iPhone",
+        "iOS",
+        "Machine Learning/AI",
         "Possible Vindication"
       ],
       "host": "Federico",
-      "pick-conditions": 2,
+      "pick-conditions": 1,
       "score": -1,
-      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/36:06"
+      "overcast-picked": "https://overcast.fm/+FXx56qHEU/53:35"
     },
     {
-      "text": "The new iPad Pros come with a new (to the platform) display technology",
-      "full-pick-text": "The new iPad Pros come with a new (to the platform) display technology",
+      "text": "There are some design and navigation updates to the Settings app across multiple platforms",
+      "full-pick-text": "There are some design and navigation updates to the Settings app across multiple platforms",
       "notes": "",
-      "game": "2024 May Rickies",
+      "game": "2024 WWDC Rickies",
       "type": "Regular",
       "topics": [
-        "iPad"
+        "Apple Apps"
+      ],
+      "host": "Federico",
+      "pick-conditions": 2,
+      "score": 1,
+      "overcast-picked": "https://overcast.fm/+FXx56qHEU/28:28"
+    },
+    {
+      "text": "There is a new system for changing the colors of icons on the home screen",
+      "full-pick-text": "There is a new system for changing the colors of icons on the home screen",
+      "notes": "",
+      "game": "2024 WWDC Rickies",
+      "type": "Regular",
+      "topics": [
+        "iPhone",
+        "iOS"
       ],
       "host": "Federico",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-picked": "https://overcast.fm/+FXx4ahnn0/15:24"
+      "overcast-picked": "https://overcast.fm/+FXx56qHEU/38:31"
     }
   ]
 }

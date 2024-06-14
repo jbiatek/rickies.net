@@ -9,10 +9,12 @@
       "iPad",
       "iPadOS",
       "Mac",
-      "macOS"
+      "macOS",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:13:23"
   },
   {
@@ -462,6 +464,7 @@
     "host": "Federico",
     "pick-conditions": 2,
     "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/56:31",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/36:06"
   },
   {
@@ -510,6 +513,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:28:38"
   },
   {
@@ -538,10 +542,12 @@
     "type": "Flexie",
     "topics": [
       "Mac",
-      "macOS"
+      "macOS",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:15:47"
   },
   {

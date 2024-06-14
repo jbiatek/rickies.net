@@ -1,7 +1,7 @@
 {
   "name": "2024 WWDC Rickies",
   "game-type": "Keynote",
-  "date-graded": "",
+  "date-graded": "2024-06-14",
   "date-picked": "2024-06-05",
   "main-game": {
     "picks": [
@@ -17,6 +17,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/24:16"
       },
       {
@@ -30,6 +31,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 2,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/28:28"
       },
       {
@@ -44,6 +46,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 2,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/32:33"
       },
       {
@@ -57,6 +60,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/35:26"
       },
       {
@@ -71,6 +75,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/38:31"
       },
       {
@@ -85,6 +90,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/45:23"
       },
       {
@@ -95,10 +101,12 @@
         "type": "Ricky",
         "topics": [
           "Apple Vision Pro",
-          "visionOS"
+          "visionOS",
+          "Possible Vindication"
         ],
         "host": "Myke",
         "pick-conditions": 2,
+        "score": -1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/51:59"
       },
       {
@@ -110,10 +118,12 @@
         "topics": [
           "iPhone",
           "iOS",
-          "Machine Learning/AI"
+          "Machine Learning/AI",
+          "Possible Vindication"
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": -1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/53:35"
       },
       {
@@ -126,15 +136,31 @@
           "Apple Vision Pro",
           "visionOS",
           "Live Edited",
-          "Machine Learning/AI"
+          "Machine Learning/AI",
+          "Possible Vindication"
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": -1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/59:31"
       }
     ],
     "coin-flips": [],
-    "winner": "TBD"
+    "scores": [
+      {
+        "host": "Stephen",
+        "score": 1
+      },
+      {
+        "host": "Federico",
+        "score": 1
+      },
+      {
+        "host": "Myke",
+        "score": 1
+      }
+    ],
+    "winner": "Stephen"
   },
   "the-flexies": {
     "picks": [
@@ -149,6 +175,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:11:04"
       },
       {
@@ -160,10 +187,12 @@
         "topics": [
           "Mac",
           "Buzzkill",
-          "Machine Learning/AI"
+          "Machine Learning/AI",
+          "Unvindicatable"
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:12:08"
       },
       {
@@ -174,10 +203,12 @@
         "type": "Flexie",
         "topics": [
           "Apple Vision Pro",
-          "visionOS"
+          "visionOS",
+          "Possible Vindication"
         ],
         "host": "Stephen",
         "pick-conditions": 2,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:12:31"
       },
       {
@@ -190,10 +221,12 @@
           "iPad",
           "iPadOS",
           "Mac",
-          "macOS"
+          "macOS",
+          "Possible Vindication"
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:13:23"
       },
       {
@@ -204,10 +237,12 @@
         "type": "Flexie",
         "topics": [
           "iPhone",
-          "iOS"
+          "iOS",
+          "Possible Vindication"
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:14:03"
       },
       {
@@ -219,10 +254,12 @@
         "topics": [
           "iPad",
           "iPadOS",
-          "Apple Apps"
+          "Apple Apps",
+          "Possible Vindication"
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:14:48"
       },
       {
@@ -233,10 +270,12 @@
         "type": "Flexie",
         "topics": [
           "Mac",
-          "macOS"
+          "macOS",
+          "Possible Vindication"
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:15:47"
       },
       {
@@ -247,10 +286,12 @@
         "type": "Flexie",
         "topics": [
           "Alternate Risky",
-          "Stagecraft"
+          "Stagecraft",
+          "Unvindicatable"
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:16:55"
       },
       {
@@ -261,10 +302,12 @@
         "type": "Flexie",
         "topics": [
           "iPad",
-          "iPadOS"
+          "iPadOS",
+          "Possible Vindication"
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:18:57"
       },
       {
@@ -275,10 +318,12 @@
         "type": "Flexie",
         "topics": [
           "Apple Vision Pro",
-          "visionOS"
+          "visionOS",
+          "Possible Vindication"
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:19:54"
       },
       {
@@ -293,6 +338,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:21:40"
       },
       {
@@ -303,10 +349,12 @@
         "type": "Flexie",
         "topics": [
           "Live Edited",
-          "Machine Learning/AI"
+          "Machine Learning/AI",
+          "Possible Vindication"
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:21:47"
       },
       {
@@ -321,6 +369,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:23:16"
       },
       {
@@ -332,10 +381,12 @@
         "topics": [
           "Alternate Risky",
           "Machine Learning/AI",
-          "Services"
+          "Services",
+          "Unvindicatable"
         ],
         "host": "Myke",
         "pick-conditions": 4,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:23:36"
       },
       {
@@ -346,10 +397,12 @@
         "type": "Flexie",
         "topics": [
           "Buzzkill",
-          "Machine Learning/AI"
+          "Machine Learning/AI",
+          "Unvindicatable"
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:26:50"
       },
       {
@@ -366,6 +419,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:27:08"
       },
       {
@@ -379,6 +433,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:28:07"
       },
       {
@@ -393,6 +448,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:28:38"
       },
       {
@@ -408,6 +464,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 2,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:29:09"
       },
       {
@@ -423,6 +480,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:31:54"
       },
       {
@@ -433,21 +491,49 @@
         "type": "Flexie",
         "topics": [
           "iPad",
-          "iPadOS"
+          "iPadOS",
+          "Possible Vindication"
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:32:08"
       }
     ],
     "coin-flips": [],
-    "winner": "TBD"
+    "scores": [
+      {
+        "host": "Federico",
+        "correct": 5,
+        "total": 7
+      },
+      {
+        "host": "Myke",
+        "correct": 2,
+        "total": 7
+      },
+      {
+        "host": "Stephen",
+        "correct": 1,
+        "total": 7
+      }
+    ],
+    "charity-name": "WWF",
+    "charity-url": "https://worldwildlife.org",
+    "donation": 150,
+    "donator": "Stephen",
+    "winner": "Federico"
   },
   "relevant-episodes": [
     {
       "title": "Connected #505: The Rickies (WWDC 2024)",
       "url": "https://relay.fm/connected/505",
       "episode-number": 505
+    },
+    {
+      "title": "Connected #506: The Sun Did Not Shine in Favor of Me",
+      "url": "https://relay.fm/connected/506",
+      "episode-number": 506
     }
   ]
 }

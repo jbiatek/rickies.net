@@ -117,5 +117,12 @@
     "donation": 275,
     "charity-name": "Memphis Youth Arts",
     "charity-url": "https://www.memphisyoutharts.org/"
+  },
+  {
+    "game": "2024 WWDC Rickies",
+    "donator": "Stephen",
+    "donation": 150,
+    "charity-name": "WWF",
+    "charity-url": "https://worldwildlife.org"
   }
 ]

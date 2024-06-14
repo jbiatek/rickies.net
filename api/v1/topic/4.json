@@ -262,6 +262,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/45:23"
   },
   {
@@ -987,10 +988,12 @@
     "type": "Flexie",
     "topics": [
       "Alternate Risky",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:16:55"
   },
   {
@@ -1281,6 +1284,7 @@
     "host": "Federico",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:14:52",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:08:39"
   },
   {
@@ -1466,6 +1470,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:23:16"
   },
   {
@@ -1547,6 +1552,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:11:04"
   },
   {

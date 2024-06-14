@@ -13,6 +13,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:11:26",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:48"
   },
   {
@@ -23,10 +24,12 @@
     "type": "Flexie",
     "topics": [
       "Live Edited",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:21:47"
   },
   {
@@ -76,6 +79,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/45:23"
   },
   {
@@ -106,10 +110,12 @@
       "Apple Vision Pro",
       "visionOS",
       "Live Edited",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": -1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/59:31"
   },
   {
@@ -138,10 +144,12 @@
     "topics": [
       "iPhone",
       "iOS",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": -1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/53:35"
   },
   {
@@ -157,6 +165,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:29:09"
   },
   {
@@ -168,10 +177,12 @@
     "topics": [
       "Alternate Risky",
       "Machine Learning/AI",
-      "Services"
+      "Services",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 4,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:23:36"
   },
   {
@@ -204,6 +215,7 @@
     "host": "Myke",
     "pick-conditions": 2,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:10:12",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/57:12"
   },
   {
@@ -217,6 +229,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/35:26"
   },
   {
@@ -228,10 +241,12 @@
     "topics": [
       "Mac",
       "Buzzkill",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:12:08"
   },
   {
@@ -242,10 +257,12 @@
     "type": "Flexie",
     "topics": [
       "Buzzkill",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Unvindicatable"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:26:50"
   },
   {

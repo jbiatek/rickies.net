@@ -100,6 +100,7 @@
     "host": "Myke",
     "pick-conditions": 2,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:10:22",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/58:07"
   },
   {
@@ -165,10 +166,12 @@
     "topics": [
       "Alternate Risky",
       "Machine Learning/AI",
-      "Services"
+      "Services",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 4,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:23:36"
   },
   {
@@ -188,6 +191,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:12:00",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:11"
   },
   {
@@ -322,10 +326,12 @@
     "type": "Flexie",
     "topics": [
       "Alternate Risky",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:16:55"
   },
   {

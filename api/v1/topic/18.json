@@ -9,10 +9,12 @@
       "iPad",
       "iPadOS",
       "Mac",
-      "macOS"
+      "macOS",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:13:23"
   },
   {
@@ -234,6 +236,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:12:16",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:46"
   },
   {
@@ -271,6 +274,7 @@
     "host": "Myke",
     "pick-conditions": 2,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:10:12",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/57:12"
   },
   {
@@ -384,10 +388,12 @@
     "topics": [
       "iPad",
       "iPadOS",
-      "Apple Apps"
+      "Apple Apps",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:14:48"
   },
   {
@@ -472,10 +478,12 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:18:57"
   },
   {
@@ -508,6 +516,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:31:54"
   },
   {
@@ -588,10 +597,12 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:32:08"
   },
   {

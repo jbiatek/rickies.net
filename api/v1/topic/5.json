@@ -188,10 +188,12 @@
     "topics": [
       "iPhone",
       "iOS",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": -1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/53:35"
   },
   {
@@ -821,6 +823,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/24:16"
   },
   {
@@ -1055,6 +1058,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:27:08"
   },
   {
@@ -1065,10 +1069,12 @@
     "type": "Flexie",
     "topics": [
       "iPhone",
-      "iOS"
+      "iOS",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:14:03"
   },
   {
@@ -1167,6 +1173,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/38:31"
   },
   {

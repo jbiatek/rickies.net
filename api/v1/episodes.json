@@ -423,8 +423,20 @@
     ]
   },
   {
+    "episode": 504,
+    "permalink": "https://relay.fm/connected/504",
+    "relevant-games": []
+  },
+  {
     "episode": 505,
     "permalink": "https://relay.fm/connected/505",
+    "relevant-games": [
+      "2024 WWDC Rickies"
+    ]
+  },
+  {
+    "episode": 506,
+    "permalink": "https://relay.fm/connected/506",
     "relevant-games": [
       "2024 WWDC Rickies"
     ]

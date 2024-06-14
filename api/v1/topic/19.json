@@ -63,6 +63,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:11:26",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:48"
   },
   {
@@ -79,6 +80,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/31:22",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/19:31"
   },
   {
@@ -305,6 +307,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:29:09"
   },
   {
@@ -447,6 +450,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:12:00",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:11"
   },
   {
@@ -511,10 +515,12 @@
     "topics": [
       "iPad",
       "iPadOS",
-      "Apple Apps"
+      "Apple Apps",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:14:48"
   },
   {
@@ -576,6 +582,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:28:07"
   },
   {
@@ -894,6 +901,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:31:54"
   },
   {
@@ -1074,6 +1082,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/28:28"
   },
   {

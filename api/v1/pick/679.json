@@ -6,9 +6,11 @@
   "type": "Ricky",
   "topics": [
     "Apple Vision Pro",
-    "visionOS"
+    "visionOS",
+    "Possible Vindication"
   ],
   "host": "Myke",
   "pick-conditions": 2,
+  "score": -1,
   "overcast-picked": "https://overcast.fm/+FXx56qHEU/51:59"
 }
