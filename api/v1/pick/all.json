@@ -999,6 +999,18 @@
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:28"
   },
   {
+    "text": "Another Windows handheld is declared to be \"the best\", resulting in Ticci selling his Legion Go",
+    "full-pick-text": "Another Windows handheld is declared to be \"the best\", resulting in Ticci selling his Legion Go",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
+  },
+  {
     "text": "Any kind of release timeframe is provided for macOS Monterey",
     "full-pick-text": "Any kind of release timeframe is provided for macOS Monterey",
     "notes": "<p><ul><li>Apparently feeling humble, Federico admits that this is a \"boring\" pick. It was originally \"release date\", but when some questioning about whether just a month would count came up, he watered it down.</li></ul></p>",
@@ -4459,6 +4471,120 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:35:32"
   },
   {
+    "text": "Federico buys a 3D printer",
+    "full-pick-text": "Federico buys a 3D printer",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "NonGraded",
+    "topics": [
+      "Accessories",
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Federico considers implanting a magnet and/or NFC chip into his body",
+    "full-pick-text": "Federico considers implanting a magnet and/or NFC chip into his body",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "Passion Pick",
+    "topics": [
+      "Live Edited",
+      "Non-Apple Related"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Federico creates another Frankenstein computer device",
+    "full-pick-text": "Federico creates another Frankenstein computer device",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "Passion Pick",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Federico discovers a new kickstand technology",
+    "full-pick-text": "Federico discovers a new kickstand technology",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "Passion Pick",
+    "topics": [
+      "Accessories",
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Federico drills a hole in wall for running a cable to an external GPU",
+    "full-pick-text": "Federico drills a hole in wall for running a cable to an external GPU",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "NonGraded",
+    "topics": [
+      "Accessories",
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Federico finds a use for Thunderbolt 5",
+    "full-pick-text": "Federico finds a use for Thunderbolt 5",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "NonGraded",
+    "topics": [
+      "Accessories",
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Federico makes more than 10 Flexie picks in one game of the Rickies",
+    "full-pick-text": "Federico makes more than 10 Flexie picks in one game of the Rickies",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Federico re-explores the world of glasses that serve as an external display",
+    "full-pick-text": "Federico re-explores the world of glasses that serve as an external display",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "NonGraded",
+    "topics": [
+      "Accessories",
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Federico speaks before a government body in an official capacity about AI training",
+    "full-pick-text": "Federico speaks before a government body in an official capacity about AI training",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
+  },
+  {
     "text": "Final Cut for iPad gains a feature specifically for video in visionOS",
     "full-pick-text": "Final Cut for iPad gains a feature specifically for video in visionOS",
     "notes": "",
@@ -4525,6 +4651,18 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:17:10",
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:14:19"
+  },
+  {
+    "text": "He gets a new technology-related tattoo",
+    "full-pick-text": "He gets a new technology-related tattoo",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "Passion Pick",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "HeadPods will be wireless only and they will have no headphone jack and will charge via Lightning or USB-C",
@@ -10617,6 +10755,55 @@
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/20:52"
   },
   {
+    "text": "Ticci builds something new with magnets",
+    "full-pick-text": "Ticci builds something new with magnets",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "Passion Pick",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Ticci finally breaks down and admits his friends were right and buys an Ayn Odin 2",
+    "full-pick-text": "Ticci finally breaks down and admits his friends were right and buys an Ayn Odin 2",
+    "notes": "<p><ul><li>\"And why he hasn't yet.\"</li></ul></p>",
+    "game": "The Ticcilympics",
+    "type": "Passion Pick",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 2
+  },
+  {
+    "text": "Ticci returns to WWDC and tries a new food. He doesn't like it",
+    "full-pick-text": "Ticci returns to WWDC and tries a new food. He doesn't like it",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "Passion Pick",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3
+  },
+  {
+    "text": "Ticci tries an e-ink phone to help reduce distractions and get more into reading",
+    "full-pick-text": "Ticci tries an e-ink phone to help reduce distractions and get more into reading",
+    "notes": "<p><ul><li>After writing down the pick but before the episode was recorded, Federico <a href=\"https://www.threads.net/@viticci/post/C9KvVPxtP1G/\">mused about this on Threads</a>, but the other hosts will allow it. And he might already have one that he doesn't use.</li></ul></p>",
+    "game": "The Ticcilympics",
+    "type": "NonGraded",
+    "topics": [
+      "Accessories",
+      "Non-Apple Related"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
+  },
+  {
     "text": "Tim Cook interacts with a celebrity",
     "full-pick-text": "Tim Cook interacts with a celebrity",
     "notes": "",
@@ -10945,6 +11132,18 @@
     "host": "Myke",
     "pick-conditions": 1,
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:14:21"
+  },
+  {
+    "text": "Viticci adds a water feature to his balcony",
+    "full-pick-text": "Viticci adds a water feature to his balcony",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "watchOS 10 gets widgets",

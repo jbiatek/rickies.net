@@ -918,6 +918,71 @@
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:28:50"
   },
   {
+    "text": "Federico buys a 3D printer",
+    "full-pick-text": "Federico buys a 3D printer",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "NonGraded",
+    "topics": [
+      "Accessories",
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Federico discovers a new kickstand technology",
+    "full-pick-text": "Federico discovers a new kickstand technology",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "Passion Pick",
+    "topics": [
+      "Accessories",
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Federico drills a hole in wall for running a cable to an external GPU",
+    "full-pick-text": "Federico drills a hole in wall for running a cable to an external GPU",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "NonGraded",
+    "topics": [
+      "Accessories",
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Federico finds a use for Thunderbolt 5",
+    "full-pick-text": "Federico finds a use for Thunderbolt 5",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "NonGraded",
+    "topics": [
+      "Accessories",
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Federico re-explores the world of glasses that serve as an external display",
+    "full-pick-text": "Federico re-explores the world of glasses that serve as an external display",
+    "notes": "",
+    "game": "The Ticcilympics",
+    "type": "NonGraded",
+    "topics": [
+      "Accessories",
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1
+  },
+  {
     "text": "HeadPods will be wireless only and they will have no headphone jack and will charge via Lightning or USB-C",
     "full-pick-text": "HeadPods will be wireless only and they will have no headphone jack and will charge via Lightning or USB-C",
     "notes": "",
@@ -1699,6 +1764,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/51:07",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:05:39"
+  },
+  {
+    "text": "Ticci tries an e-ink phone to help reduce distractions and get more into reading",
+    "full-pick-text": "Ticci tries an e-ink phone to help reduce distractions and get more into reading",
+    "notes": "<p><ul><li>After writing down the pick but before the episode was recorded, Federico <a href=\"https://www.threads.net/@viticci/post/C9KvVPxtP1G/\">mused about this on Threads</a>, but the other hosts will allow it. And he might already have one that he doesn't use.</li></ul></p>",
+    "game": "The Ticcilympics",
+    "type": "NonGraded",
+    "topics": [
+      "Accessories",
+      "Non-Apple Related"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
   },
   {
     "text": "USB-C charging is faster than the new MagSafe",

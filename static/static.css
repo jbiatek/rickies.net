@@ -2919,7 +2919,11 @@ linear-gradient(to bottom, transparent, transparent, transparent, transparent, t
     old-background-image: conic-gradient(transparent, transparent, transparent, transparent, transparent, transparent, aliceblue, aliceblue), linear-gradient(to bottom, lavenderblush, white, lavenderblush, white, lavenderblush, white, lavenderblush, white, lavenderblush, white, lavenderblush, white, lavenderblush);
     border-radius: 0px 0px 5px 0px;
 }
-.Federico, .Myke, .Stephen {
+.OTJ {
+    background-image: linear-gradient(to right, aliceblue, aliceblue, white, white, lavenderblush, lavenderblush);
+    border-radius: 0px 0px 5px 0px;
+}
+.Federico, .Myke, .Stephen, .OTJ {
     text-align: center;
 }
 
@@ -2959,7 +2963,7 @@ linear-gradient(to bottom, transparent, transparent, transparent, transparent, t
     text-align: center; 
 }
 .nonotes .notes, .nonotes .notes-spacer, .nopicktype .picktype,
-.nohost .Federico, .nohost .Myke, .nohost .Stephen { 
+.nohost .Federico, .nohost .Myke, .nohost .Stephen, .nohost .OTJ { 
 display: none; 
 }
 
@@ -2969,7 +2973,7 @@ display: none;
   border-right: none;
   border-bottom: none;
 }
-.picktable td.Myke, .picktable td.Stephen, .picktable td.Federico, .picktable td.picktype, .picktable td.pick, .picktable td.score {
+.picktable td.Myke, .picktable td.Stephen, .picktable td.Federico, .picktable td.OTJ, .picktable td.picktype, .picktable td.pick, .picktable td.score {
     border-top: 1px solid #dddddd;
 }[data-tiddler-title="$:/Search"] input[type="search"] {
     width: 75%;
