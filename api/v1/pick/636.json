@@ -3,7 +3,7 @@
   "full-pick-text": "Changes to rules about apps being installed from alternate sources",
   "notes": "<p><ul><li>Specifically, that users no longer need to reinstall an application to get it from a different app marketplace.</li></ul></p>",
   "game": "The EUies",
-  "type": "NonGraded",
+  "type": "Regular",
   "topics": [
     "Developer tools"
   ],

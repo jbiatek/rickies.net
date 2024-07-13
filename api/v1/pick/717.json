@@ -3,10 +3,11 @@
   "full-pick-text": "He gets a new technology-related tattoo",
   "notes": "",
   "game": "The Ticcilympics",
-  "type": "Passion Pick",
+  "type": "NonGraded",
   "topics": [
     "Non-Apple Related"
   ],
   "host": "Stephen",
-  "pick-conditions": 1
+  "pick-conditions": 1,
+  "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:16:14"
 }

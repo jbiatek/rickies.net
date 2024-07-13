@@ -3,10 +3,11 @@
   "full-pick-text": "Viticci adds a water feature to his balcony",
   "notes": "",
   "game": "The Ticcilympics",
-  "type": "NonGraded",
+  "type": "Regular",
   "topics": [
     "Non-Apple Related"
   ],
   "host": "Stephen",
-  "pick-conditions": 1
+  "pick-conditions": 1,
+  "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:04:40"
 }

@@ -3,10 +3,11 @@
   "full-pick-text": "Ticci builds something new with magnets",
   "notes": "",
   "game": "The Ticcilympics",
-  "type": "Passion Pick",
+  "type": "NonGraded",
   "topics": [
     "Non-Apple Related"
   ],
   "host": "OTJ",
-  "pick-conditions": 1
+  "pick-conditions": 1,
+  "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:10:05"
 }

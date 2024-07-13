@@ -238,6 +238,7 @@
     "host": "Myke",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:36:16",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:21:47"
   },
   {
@@ -393,6 +394,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:23:31",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/59:31"
   },
   {
@@ -806,15 +808,16 @@
   {
     "text": "Federico considers implanting a magnet and/or NFC chip into his body",
     "full-pick-text": "Federico considers implanting a magnet and/or NFC chip into his body",
-    "notes": "",
+    "notes": "<p><ul><li>Added on the fly during recording.</li></ul></p>",
     "game": "The Ticcilympics",
-    "type": "Passion Pick",
+    "type": "NonGraded",
     "topics": [
       "Live Edited",
       "Non-Apple Related"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:16:40"
   },
   {
     "text": "iOS 16 brings major changes for systemwide design customization",
@@ -1221,6 +1224,7 @@
     "host": "Federico",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:38:31",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:27:08"
   },
   {
@@ -1643,6 +1647,7 @@
     "host": "Stephen",
     "pick-conditions": 2,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/41:17",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/32:33"
   },
   {

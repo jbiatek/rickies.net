@@ -922,65 +922,70 @@
     "full-pick-text": "Federico buys a 3D printer",
     "notes": "",
     "game": "The Ticcilympics",
-    "type": "NonGraded",
+    "type": "Regular",
     "topics": [
       "Accessories",
       "Non-Apple Related"
     ],
     "host": "OTJ",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:59:50"
   },
   {
     "text": "Federico discovers a new kickstand technology",
     "full-pick-text": "Federico discovers a new kickstand technology",
     "notes": "",
     "game": "The Ticcilympics",
-    "type": "Passion Pick",
+    "type": "NonGraded",
     "topics": [
       "Accessories",
       "Non-Apple Related"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:15:13"
   },
   {
     "text": "Federico drills a hole in wall for running a cable to an external GPU",
     "full-pick-text": "Federico drills a hole in wall for running a cable to an external GPU",
     "notes": "",
     "game": "The Ticcilympics",
-    "type": "NonGraded",
+    "type": "Regular",
     "topics": [
       "Accessories",
       "Non-Apple Related"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:48:11"
   },
   {
     "text": "Federico finds a use for Thunderbolt 5",
     "full-pick-text": "Federico finds a use for Thunderbolt 5",
     "notes": "",
     "game": "The Ticcilympics",
-    "type": "NonGraded",
+    "type": "Regular",
     "topics": [
       "Accessories",
       "Non-Apple Related"
     ],
     "host": "OTJ",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:45:14"
   },
   {
     "text": "Federico re-explores the world of glasses that serve as an external display",
     "full-pick-text": "Federico re-explores the world of glasses that serve as an external display",
     "notes": "",
     "game": "The Ticcilympics",
-    "type": "NonGraded",
+    "type": "Regular",
     "topics": [
       "Accessories",
       "Non-Apple Related"
     ],
     "host": "OTJ",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:06:02"
   },
   {
     "text": "HeadPods will be wireless only and they will have no headphone jack and will charge via Lightning or USB-C",
@@ -1768,15 +1773,16 @@
   {
     "text": "Ticci tries an e-ink phone to help reduce distractions and get more into reading",
     "full-pick-text": "Ticci tries an e-ink phone to help reduce distractions and get more into reading",
-    "notes": "<p><ul><li>After writing down the pick but before the episode was recorded, Federico <a href=\"https://www.threads.net/@viticci/post/C9KvVPxtP1G/\">mused about this on Threads</a>, but the other hosts will allow it. And he might already have one that he doesn't use.</li></ul></p>",
+    "notes": "<p><ul><li>After writing down the pick but before the episode was recorded, Federico <a href=\"https://www.threads.net/@viticci/post/C9KvVPxtP1G/\">mused about this on Threads</a>, but the other hosts will allow it. And he might already have one that he doesn't use already. The key is that Federico needs to actually speak about it.</li></ul></p>",
     "game": "The Ticcilympics",
-    "type": "NonGraded",
+    "type": "Regular",
     "topics": [
       "Accessories",
       "Non-Apple Related"
     ],
     "host": "Stephen",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:50:57"
   },
   {
     "text": "USB-C charging is faster than the new MagSafe",

@@ -609,14 +609,14 @@
     "game-type": "Other",
     "date-graded": "",
     "date-picked": "2024-03-13",
-    "nongraded": {
+    "main-game": {
       "picks": [
         {
           "text": "The core technology fee is considerably altered, especially for web distribution",
           "full-pick-text": "The core technology fee is considerably altered, especially for web distribution",
           "notes": "",
           "game": "The EUies",
-          "type": "NonGraded",
+          "type": "Regular",
           "topics": [
             "Developer tools"
           ],
@@ -629,7 +629,7 @@
           "full-pick-text": "The language of \"member in good standing\" is removed",
           "notes": "",
           "game": "The EUies",
-          "type": "NonGraded",
+          "type": "Regular",
           "topics": [
             "Developer tools"
           ],
@@ -642,7 +642,7 @@
           "full-pick-text": "The two \"scare sheets\" for linking to external websites for payment will become optional",
           "notes": "",
           "game": "The EUies",
-          "type": "NonGraded",
+          "type": "Regular",
           "topics": [
             "Developer tools"
           ],
@@ -655,7 +655,7 @@
           "full-pick-text": "Phil Schiller is replaced as the head of the initiative",
           "notes": "",
           "game": "The EUies",
-          "type": "NonGraded",
+          "type": "Regular",
           "topics": [
             "Apple management"
           ],
@@ -668,7 +668,7 @@
           "full-pick-text": "The core technology fee is removed for fully free applications",
           "notes": "",
           "game": "The EUies",
-          "type": "NonGraded",
+          "type": "Regular",
           "topics": [
             "Developer tools"
           ],
@@ -681,7 +681,7 @@
           "full-pick-text": "Changes to rules about apps being installed from alternate sources",
           "notes": "<p><ul><li>Specifically, that users no longer need to reinstall an application to get it from a different app marketplace.</li></ul></p>",
           "game": "The EUies",
-          "type": "NonGraded",
+          "type": "Regular",
           "topics": [
             "Developer tools"
           ],
@@ -690,6 +690,7 @@
           "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/1:02:50"
         }
       ],
+      "coin-flips": [],
       "winner": "TBD"
     },
     "relevant-episodes": [
@@ -710,112 +711,165 @@
     "game-type": "Other",
     "date-graded": "",
     "date-picked": "2024-07-10",
-    "nongraded": {
+    "main-game": {
       "picks": [
         {
           "text": "Federico finds a use for Thunderbolt 5",
           "full-pick-text": "Federico finds a use for Thunderbolt 5",
           "notes": "",
           "game": "The Ticcilympics",
-          "type": "NonGraded",
+          "type": "Regular",
           "topics": [
             "Accessories",
             "Non-Apple Related"
           ],
           "host": "OTJ",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:45:14"
         },
         {
           "text": "Federico drills a hole in wall for running a cable to an external GPU",
           "full-pick-text": "Federico drills a hole in wall for running a cable to an external GPU",
           "notes": "",
           "game": "The Ticcilympics",
-          "type": "NonGraded",
+          "type": "Regular",
           "topics": [
             "Accessories",
             "Non-Apple Related"
           ],
           "host": "Myke",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:48:11"
         },
         {
           "text": "Ticci tries an e-ink phone to help reduce distractions and get more into reading",
           "full-pick-text": "Ticci tries an e-ink phone to help reduce distractions and get more into reading",
-          "notes": "<p><ul><li>After writing down the pick but before the episode was recorded, Federico <a href=\"https://www.threads.net/@viticci/post/C9KvVPxtP1G/\">mused about this on Threads</a>, but the other hosts will allow it. And he might already have one that he doesn't use.</li></ul></p>",
+          "notes": "<p><ul><li>After writing down the pick but before the episode was recorded, Federico <a href=\"https://www.threads.net/@viticci/post/C9KvVPxtP1G/\">mused about this on Threads</a>, but the other hosts will allow it. And he might already have one that he doesn't use already. The key is that Federico needs to actually speak about it.</li></ul></p>",
           "game": "The Ticcilympics",
-          "type": "NonGraded",
+          "type": "Regular",
           "topics": [
             "Accessories",
             "Non-Apple Related"
           ],
           "host": "Stephen",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:50:57"
         },
         {
           "text": "Another Windows handheld is declared to be \"the best\", resulting in Ticci selling his Legion Go",
           "full-pick-text": "Another Windows handheld is declared to be \"the best\", resulting in Ticci selling his Legion Go",
           "notes": "",
           "game": "The Ticcilympics",
-          "type": "NonGraded",
+          "type": "Regular",
           "topics": [
             "Non-Apple Related"
           ],
           "host": "Myke",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:53:24"
         },
         {
           "text": "Federico speaks before a government body in an official capacity about AI training",
           "full-pick-text": "Federico speaks before a government body in an official capacity about AI training",
           "notes": "",
           "game": "The Ticcilympics",
-          "type": "NonGraded",
+          "type": "Regular",
           "topics": [
             "Non-Apple Related"
           ],
           "host": "Stephen",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:55:00"
         },
         {
           "text": "Federico buys a 3D printer",
           "full-pick-text": "Federico buys a 3D printer",
           "notes": "",
           "game": "The Ticcilympics",
-          "type": "NonGraded",
+          "type": "Regular",
           "topics": [
             "Accessories",
             "Non-Apple Related"
           ],
           "host": "OTJ",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:59:50"
         },
         {
           "text": "Viticci adds a water feature to his balcony",
           "full-pick-text": "Viticci adds a water feature to his balcony",
           "notes": "",
           "game": "The Ticcilympics",
-          "type": "NonGraded",
+          "type": "Regular",
           "topics": [
             "Non-Apple Related"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:04:40"
         },
         {
           "text": "Federico re-explores the world of glasses that serve as an external display",
           "full-pick-text": "Federico re-explores the world of glasses that serve as an external display",
           "notes": "",
           "game": "The Ticcilympics",
-          "type": "NonGraded",
+          "type": "Regular",
           "topics": [
             "Accessories",
             "Non-Apple Related"
           ],
           "host": "OTJ",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:06:02"
         },
         {
           "text": "Federico makes more than 10 Flexie picks in one game of the Rickies",
           "full-pick-text": "Federico makes more than 10 Flexie picks in one game of the Rickies",
+          "notes": "",
+          "game": "The Ticcilympics",
+          "type": "Regular",
+          "topics": [
+            "Non-Apple Related"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:07:54"
+        }
+      ],
+      "coin-flips": [],
+      "winner": "TBD"
+    },
+    "nongraded": {
+      "picks": [
+        {
+          "text": "Ticci builds something new with magnets",
+          "full-pick-text": "Ticci builds something new with magnets",
+          "notes": "",
+          "game": "The Ticcilympics",
+          "type": "NonGraded",
+          "topics": [
+            "Non-Apple Related"
+          ],
+          "host": "OTJ",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:10:05"
+        },
+        {
+          "text": "Ticci finally breaks down and admits his friends were right and buys an Ayn Odin 2",
+          "full-pick-text": "Ticci finally breaks down and admits his friends were right and buys an Ayn Odin 2",
+          "notes": "<p><ul><li>OTJ gives a lesson on Ticci Psychology in explaining why this has not already happened.</li></ul></p>",
+          "game": "The Ticcilympics",
+          "type": "NonGraded",
+          "topics": [
+            "Non-Apple Related"
+          ],
+          "host": "OTJ",
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:10:25"
+        },
+        {
+          "text": "Ticci returns to WWDC and tries a new food. He doesn't like it",
+          "full-pick-text": "Ticci returns to WWDC and tries a new food. He doesn't like it",
           "notes": "",
           "game": "The Ticcilympics",
           "type": "NonGraded",
@@ -823,14 +877,69 @@
             "Non-Apple Related"
           ],
           "host": "Myke",
-          "pick-conditions": 1
+          "pick-conditions": 3,
+          "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:12:44"
+        },
+        {
+          "text": "Federico creates another Frankenstein computer device",
+          "full-pick-text": "Federico creates another Frankenstein computer device",
+          "notes": "",
+          "game": "The Ticcilympics",
+          "type": "NonGraded",
+          "topics": [
+            "Non-Apple Related"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:15:02"
+        },
+        {
+          "text": "Federico discovers a new kickstand technology",
+          "full-pick-text": "Federico discovers a new kickstand technology",
+          "notes": "",
+          "game": "The Ticcilympics",
+          "type": "NonGraded",
+          "topics": [
+            "Accessories",
+            "Non-Apple Related"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:15:13"
+        },
+        {
+          "text": "He gets a new technology-related tattoo",
+          "full-pick-text": "He gets a new technology-related tattoo",
+          "notes": "",
+          "game": "The Ticcilympics",
+          "type": "NonGraded",
+          "topics": [
+            "Non-Apple Related"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:16:14"
+        },
+        {
+          "text": "Federico considers implanting a magnet and/or NFC chip into his body",
+          "full-pick-text": "Federico considers implanting a magnet and/or NFC chip into his body",
+          "notes": "<p><ul><li>Added on the fly during recording.</li></ul></p>",
+          "game": "The Ticcilympics",
+          "type": "NonGraded",
+          "topics": [
+            "Live Edited",
+            "Non-Apple Related"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:16:40"
         }
       ],
       "winner": "TBD"
     },
     "relevant-episodes": [
       {
-        "title": "Connected #510: The Ticcilympics",
+        "title": "Connected #510: The Ticcilympics (2024)",
         "url": "https://relay.fm/connected/510",
         "episode-number": 510
       }

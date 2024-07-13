@@ -1,12 +1,13 @@
 {
   "text": "Ticci finally breaks down and admits his friends were right and buys an Ayn Odin 2",
   "full-pick-text": "Ticci finally breaks down and admits his friends were right and buys an Ayn Odin 2",
-  "notes": "<p><ul><li>\"And why he hasn't yet.\"</li></ul></p>",
+  "notes": "<p><ul><li>OTJ gives a lesson on Ticci Psychology in explaining why this has not already happened.</li></ul></p>",
   "game": "The Ticcilympics",
-  "type": "Passion Pick",
+  "type": "NonGraded",
   "topics": [
     "Non-Apple Related"
   ],
   "host": "OTJ",
-  "pick-conditions": 2
+  "pick-conditions": 2,
+  "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:10:25"
 }

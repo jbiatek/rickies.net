@@ -1,13 +1,14 @@
 {
   "text": "Federico considers implanting a magnet and/or NFC chip into his body",
   "full-pick-text": "Federico considers implanting a magnet and/or NFC chip into his body",
-  "notes": "",
+  "notes": "<p><ul><li>Added on the fly during recording.</li></ul></p>",
   "game": "The Ticcilympics",
-  "type": "Passion Pick",
+  "type": "NonGraded",
   "topics": [
     "Live Edited",
     "Non-Apple Related"
   ],
   "host": "Stephen",
-  "pick-conditions": 1
+  "pick-conditions": 1,
+  "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:16:40"
 }
