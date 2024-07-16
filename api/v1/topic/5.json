@@ -658,11 +658,12 @@
     "type": "Flexie",
     "topics": [
       "iOS",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Federico",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 892,
     "overcast-graded": "https://overcast.fm/+FXx6bXcOY/51:37",
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:26:10"
   },
@@ -782,7 +783,7 @@
   {
     "text": "Legacy widgets are completely removed from the system, and there is no longer a place to put widgets to the left of the main home screen",
     "full-pick-text": "Legacy widgets are completely removed from the system, and there is no longer a place to put widgets to the left of the main home screen",
-    "notes": "",
+    "notes": "<p><ul><li>Legacy widgets finally met their end at WWDC 2024, but the space for new-fashioned widgets remained.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Ricky",
     "topics": [
@@ -1140,11 +1141,12 @@
     "type": "Flexie",
     "topics": [
       "iOS",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Federico",
     "pick-conditions": 3,
     "score": 0,
+    "ahead-by": 1098,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:23:20",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:40:58"
   },
@@ -1156,12 +1158,13 @@
     "type": "Flexie",
     "topics": [
       "iOS",
-      "Apple Apps",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "Apple Apps"
     ],
     "host": "Federico",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 1098,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:17:41",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:37:27"
   },

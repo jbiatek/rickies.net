@@ -299,6 +299,24 @@
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:10:27"
   },
   {
+    "text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
+    "full-pick-text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
+    "notes": "<p><ul><li>Not graded: \"A feature in Xcode that uses AI/ML to suggest how to improve your code or solve common problems. It will most likely live in a sidebar and will probably be a Beta feature.\"\n</li></ul></p>",
+    "game": "2023 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Ahead of Its Time",
+      "Developer tools",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": -1,
+    "ahead-by": 370,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/30:41",
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/42:28"
+  },
+  {
     "text": "Apple launches a new HD tier for Apple Music",
     "full-pick-text": "Apple launches a new HD tier for Apple Music",
     "notes": "<p><ul><li>This feature <a href=\"https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/\" target=\"_blank\">did come eventually</a>, in 2021.</li></ul></p>",
@@ -419,6 +437,24 @@
     "ahead-by": 156,
     "overcast-graded": "https://overcast.fm/+FXx6bXcOY/48:27",
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:41"
+  },
+  {
+    "text": "Apple ships an AR, VR, and/or MR dedicated device",
+    "full-pick-text": "Apple ships an AR, VR, and/or MR dedicated device",
+    "notes": "",
+    "game": "2021 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Ahead of Its Time",
+      "Augmented Reality",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 520,
+    "overcast-graded": "https://overcast.fm/+FXx6bXcOY/57:23",
+    "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:33:30"
   },
   {
     "text": "Apple TV box gets a price cut",
@@ -953,6 +989,23 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:36:05"
   },
   {
+    "text": "iOS gets a native feature to change icons for any app you want",
+    "full-pick-text": "iOS gets a native feature to change icons for any app you want",
+    "notes": "",
+    "game": "2021 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Ahead of Its Time"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 892,
+    "overcast-graded": "https://overcast.fm/+FXx6bXcOY/51:37",
+    "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:26:10"
+  },
+  {
     "text": "iPad Air preorder date announced",
     "full-pick-text": "iPad Air preorder date announced",
     "notes": "<p><ul><li>Orders began on <a href=\"https://www.apple.com/newsroom/2020/10/all-new-ipad-air-with-advanced-a14-bionic-chip-available-to-order-starting-today/\" target=\"_blank\">October 16th</a>, with no advanced notice. Unfortunately, the picks had already been graded by then.</li></ul></p>",
@@ -1095,6 +1148,24 @@
     "ahead-by": 712,
     "overcast-graded": "https://overcast.fm/+FXx7KvDUI/29:40",
     "overcast-picked": "https://overcast.fm/+FXx7FoU8U/29:30"
+  },
+  {
+    "text": "New iPad Pro accessory",
+    "full-pick-text": "New iPad Pro accessory",
+    "notes": "<p><ul><li>\"Something we haven't seen before, or is redesigned significantly, e.g. Apple Pencil 1 to 2.\"</li></ul></p>",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Accessories",
+      "Ahead of Its Time"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 1111,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:24:48",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:24:53"
   },
   {
     "text": "New iPads",
@@ -1270,6 +1341,23 @@
     "overcast-picked": "https://overcast.fm/+FXx7hS2kY/47:20"
   },
   {
+    "text": "The 15-inch MacBook Air will be powered by an M3",
+    "full-pick-text": "The 15-inch MacBook Air will be powered by an M3",
+    "notes": "",
+    "game": "2023 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Ahead of Its Time"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "score": 0,
+    "ahead-by": 272,
+    "overcast-graded": "https://overcast.fm/+FXx5Das8Q/52:10",
+    "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:09"
+  },
+  {
     "text": "The 9th generation iPad is introduced with a USB-C connector",
     "full-pick-text": "The 9th generation iPad is introduced with a USB-C connector",
     "notes": "",
@@ -1322,6 +1410,23 @@
     "ahead-by": 356,
     "overcast-graded": "https://overcast.fm/+FXx6z4vdc/42:32",
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/40:31"
+  },
+  {
+    "text": "The camera on the iPad Pro moves to the long side",
+    "full-pick-text": "The camera on the iPad Pro moves to the long side",
+    "notes": "",
+    "game": "2021 April Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Ahead of Its Time"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 1111,
+    "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:26:44",
+    "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:26:16"
   },
   {
     "text": "The Intel Mac mini is removed from sale",
@@ -1538,6 +1643,41 @@
     "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:20:41"
   },
   {
+    "text": "The next version of iOS lets you change icons for apps natively",
+    "full-pick-text": "The next version of iOS lets you change icons for apps natively",
+    "notes": "<p><ul><li>\"Without Shortcuts or custom profiles.\"</li></ul></p>",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Ahead of Its Time"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3,
+    "score": 0,
+    "ahead-by": 1098,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:23:20",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:40:58"
+  },
+  {
+    "text": "The Passwords feature of Settings becomes a standalone app",
+    "full-pick-text": "The Passwords feature of Settings becomes a standalone app",
+    "notes": "",
+    "game": "2021 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Ahead of Its Time",
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 1098,
+    "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:17:41",
+    "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:37:27"
+  },
+  {
     "text": "The Weather app comes to iPad",
     "full-pick-text": "The Weather app comes to iPad",
     "notes": "",
@@ -1642,6 +1782,24 @@
     "ahead-by": 350,
     "overcast-graded": "https://overcast.fm/+FXx7KvDUI/45:27",
     "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:20:23"
+  },
+  {
+    "text": "We get a colour option that is new to the MacBook Pro (name)",
+    "full-pick-text": "We get a colour option that is new to the MacBook Pro (name)",
+    "notes": "<p><ul><li>This was originally \"new in name or hue\", but some questioning of what a new hue would be resulted in relying solely on a new colour name.</li><li>Came true two years later... with \"space black\" replacing \"space gray\" in name at least.</li></ul></p>",
+    "game": "2021 October Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "Ahead of Its Time",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 740,
+    "overcast-graded": "https://overcast.fm/+FXx5nWhwg/58:17",
+    "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/38:39"
   },
   {
     "text": "WidgetKit gains new interactivity features that allow you to perform actions inside widgets without launching the associated app",

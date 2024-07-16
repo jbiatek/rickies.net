@@ -58,13 +58,14 @@
     "game": "2023 WWDC Rickies",
     "type": "Ricky",
     "topics": [
+      "Ahead of Its Time",
       "Developer tools",
-      "Machine Learning/AI",
-      "Possible Vindication"
+      "Machine Learning/AI"
     ],
     "host": "Myke",
     "pick-conditions": 1,
     "score": -1,
+    "ahead-by": 370,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/30:41",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/42:28"
   },

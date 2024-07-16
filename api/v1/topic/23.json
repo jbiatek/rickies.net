@@ -457,13 +457,14 @@
     "game": "2021 Annual Rickies",
     "type": "Flexie",
     "topics": [
+      "Ahead of Its Time",
       "Augmented Reality",
-      "Live Edited",
-      "Possible Vindication"
+      "Live Edited"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 520,
     "overcast-graded": "https://overcast.fm/+FXx6bXcOY/57:23",
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:33:30"
   },
@@ -967,7 +968,7 @@
   {
     "text": "Legacy widgets are completely removed from the system, and there is no longer a place to put widgets to the left of the main home screen",
     "full-pick-text": "Legacy widgets are completely removed from the system, and there is no longer a place to put widgets to the left of the main home screen",
-    "notes": "",
+    "notes": "<p><ul><li>Legacy widgets finally met their end at WWDC 2024, but the space for new-fashioned widgets remained.</li></ul></p>",
     "game": "2021 WWDC Rickies",
     "type": "Ricky",
     "topics": [
@@ -1739,17 +1740,18 @@
   {
     "text": "We get a colour option that is new to the MacBook Pro (name)",
     "full-pick-text": "We get a colour option that is new to the MacBook Pro (name)",
-    "notes": "<p><ul><li>This was originally \"new in name or hue\", but some questioning of what a new hue would be resulted in relying solely on a new colour name.</li></ul></p>",
+    "notes": "<p><ul><li>This was originally \"new in name or hue\", but some questioning of what a new hue would be resulted in relying solely on a new colour name.</li><li>Came true two years later... with \"space black\" replacing \"space gray\" in name at least.</li></ul></p>",
     "game": "2021 October Rickies",
     "type": "Regular",
     "topics": [
       "Mac",
-      "Live Edited",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "Live Edited"
     ],
     "host": "Myke",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 740,
     "overcast-graded": "https://overcast.fm/+FXx5nWhwg/58:17",
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/38:39"
   }

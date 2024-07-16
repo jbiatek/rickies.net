@@ -933,11 +933,12 @@
     "topics": [
       "iPad",
       "Accessories",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Myke",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 1111,
     "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:24:48",
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:24:53"
   },
@@ -1341,11 +1342,12 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Myke",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 1111,
     "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:26:44",
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:26:16"
   },

@@ -108,13 +108,14 @@
     "game": "2021 Annual Rickies",
     "type": "Flexie",
     "topics": [
+      "Ahead of Its Time",
       "Augmented Reality",
-      "Live Edited",
-      "Possible Vindication"
+      "Live Edited"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 520,
     "overcast-graded": "https://overcast.fm/+FXx6bXcOY/57:23",
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:33:30"
   },
