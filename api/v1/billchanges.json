@@ -138,5 +138,9 @@
   {
     "episode": 505,
     "changes": "<p>A host who is both the current Keynote Chairman and Annual Chairman is henceforth known as the Ricky Benchman (think two chairs next to each other) and is introduced as such in <a href=\"https://connectedintro.com\" target=\"_blank\">the intro for every show</a>.</p>"
+  },
+  {
+    "episode": 516,
+    "changes": "<p>Ahead of the iPhone event, the hosts <a href=\"https://overcast.fm/+FXx6htrSA/54:05\" target=\"_blank\">continue to reform the game to break the years-long streak of overly risky Risky picks and games decided by tiebreakers</a>. There's a live brainstorming session, but some of Silvia's suggestions stand out as clear winners.<ul><li>Ultimately, the risky picks get a bit more structure: at least 3 <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Success%20By%20Pick%20Complexity\">conditions</a>, and new scoring based on the conditions. As before, a completely correct Risky pick is 2 points, but partial success is now also allowed, 2 correct conditions earning a point, 1 correct condition earning no points, and only if all conditions are incorrect will the host lose a point.</li><li>In the regular picks, hosts may make a bonus pick for every <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Bonus%20Regular%20Pick%20Candidates\">incorrect pick that later came true going back to the last 3 games</a>, further shaking things up and hopefully cutting down on everything <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Coin%20Flips\">coming down to the coins</a>.</li></ul></p>"
   }
 ]
