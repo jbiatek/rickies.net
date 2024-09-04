@@ -2923,7 +2923,11 @@ linear-gradient(to bottom, transparent, transparent, transparent, transparent, t
     background-image: linear-gradient(to right, aliceblue, aliceblue, white, white, lavenderblush, lavenderblush);
     border-radius: 0px 0px 5px 0px;
 }
-.Federico, .Myke, .Stephen, .OTJ {
+.ChatGPT {
+    background-image: radial-gradient(circle, white, white, #ddd, #ddd, #ddd, #ddd);
+    border-radius: 0px 0px 5px 0px;
+}
+.Federico, .Myke, .Stephen, .OTJ, .ChatGPT {
     text-align: center;
 }
 
