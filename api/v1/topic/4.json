@@ -184,6 +184,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:09:29"
   },
   {
+    "text": "Apple does not say \"AI\" or \"Artificial Intelligence\"",
+    "full-pick-text": "Apple does not say \"AI\" or \"Artificial Intelligence\"",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:14:32"
+  },
+  {
     "text": "Apple gives a quick tour of improvements to next round of software updates",
     "full-pick-text": "Apple gives a quick tour of improvements to next round of software updates",
     "notes": "",
@@ -233,6 +247,20 @@
     "ahead-by": 156,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:09:41",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:07:46"
+  },
+  {
+    "text": "Apple Intelligence features are demoed again",
+    "full-pick-text": "Apple Intelligence features are demoed again",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:09:43"
   },
   {
     "text": "Apple mentions at least 1 feature \"coming later\"",
@@ -350,6 +378,22 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5peDck/1:02:31",
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:32:15"
+  },
+  {
+    "text": "Apple specifically mention RAM/Memory in the iPhone, say it will be at least 8GB, and state it is to power Apple Intelligence",
+    "full-pick-text": "Apple specifically mention RAM/Memory in the iPhone, say it will be at least 8GB, and state it is to power Apple Intelligence",
+    "notes": "<p><ul><li>This pick triggered some confusion about the new three-condition risky pick rules, and it got a bit heated. But ultimately the rules were revised to clarify that the risky pick is the three conditions, and doesn't need an additional overarching pick.</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/52:16"
   },
   {
     "text": "Apple talks about App Tracking Transparency in iOS 14.5",
@@ -487,6 +531,20 @@
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/59:00"
   },
   {
+    "text": "ChatGPT is mentioned again",
+    "full-pick-text": "ChatGPT is mentioned again",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:11:34"
+  },
+  {
     "text": "Craig demos Big Sur features",
     "full-pick-text": "Craig demos Big Sur features",
     "notes": "<p><ul><li>The instant wake demo is counted for this.</li></ul></p>",
@@ -505,6 +563,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:38:40"
   },
   {
+    "text": "Craig Federighi is stranded somewhere",
+    "full-pick-text": "Craig Federighi is stranded somewhere",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:25:01"
+  },
+  {
     "text": "Craig is wearing a blue shirt",
     "full-pick-text": "Craig is wearing a blue shirt",
     "notes": "",
@@ -520,6 +592,34 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4aVfvI/51:16",
     "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:16:09"
+  },
+  {
+    "text": "Craig travels from one set to another in a ridiculous fashion",
+    "full-pick-text": "Craig travels from one set to another in a ridiculous fashion",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:25:36"
+  },
+  {
+    "text": "Craig wears a costume for some portion of the event",
+    "full-pick-text": "Craig wears a costume for some portion of the event",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:25:51"
   },
   {
     "text": "Event looks mostly like WWDC",
@@ -590,6 +690,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/52:42",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:42"
+  },
+  {
+    "text": "Jeff Williams is seen in nature",
+    "full-pick-text": "Jeff Williams is seen in nature",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:24:28"
   },
   {
     "text": "Jeff Williams will take a greater role in the keynote",
@@ -1078,6 +1192,21 @@
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:30:18"
   },
   {
+    "text": "The Apple Watch segment is presented in and around a gym",
+    "full-pick-text": "The Apple Watch segment is presented in and around a gym",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Watch",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:24:36"
+  },
+  {
     "text": "The David Guetta song doesn't play",
     "full-pick-text": "The David Guetta song doesn't play",
     "notes": "<p><ul><li><a href=\"https://www.youtube.com/watch?v=JRfuAukYTKg\" target=\"_blank\">\"Titanium\"</a> is the song in question, of course.</li></ul></p>",
@@ -1123,6 +1252,21 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx7hkz9o/48:04",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/56:38"
+  },
+  {
+    "text": "The flashlight in the new iPhones is mentioned as being brighter than before",
+    "full-pick-text": "The flashlight in the new iPhones is mentioned as being brighter than before",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:18:55"
   },
   {
     "text": "The headset portion of the keynote lasts over an hour",
@@ -1290,6 +1434,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:08:39"
   },
   {
+    "text": "There is a segment about Apple Intelligence that lasts at least 10 minutes",
+    "full-pick-text": "There is a segment about Apple Intelligence that lasts at least 10 minutes",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:12:22"
+  },
+  {
     "text": "There is going to be a funny scene involving one of the characters of Ted Lasso",
     "full-pick-text": "There is going to be a funny scene involving one of the characters of Ted Lasso",
     "notes": "<p><ul><li>Federico originally had \"Universal Control has been postponed to a future macOS Monterey update\", but during the show a new macOS beta was released with the feature not available, but at least mentioned in an unselectable check box.</li></ul></p>",
@@ -1321,6 +1479,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx75P5Bg/33:14",
     "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:16:30"
+  },
+  {
+    "text": "Tim Cook is surrounded by long grass",
+    "full-pick-text": "Tim Cook is surrounded by long grass",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:24:07"
   },
   {
     "text": "Tim Cook mentions the war in Ukraine",
@@ -1656,6 +1828,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:23:43",
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:21:57"
+  },
+  {
+    "text": "We see the rainbow stage at Apple Park in the video",
+    "full-pick-text": "We see the rainbow stage at Apple Park in the video",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:23:40"
   },
   {
     "text": "Webcam will be called \"highest quality on a Mac\"",

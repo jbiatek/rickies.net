@@ -315,6 +315,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:10:27"
   },
   {
+    "text": "Apple introduces a faster chip for the iPhone",
+    "full-pick-text": "Apple introduces a faster chip for the iPhone",
+    "notes": "<p><ul><li>Was originally \"The Pro iPhones increase in size\" but Stephen argued that his round 2 pick pre-empted this one because he drafts first as the previous winner, and <a href=\"https://overcast.fm/+FXx6F3FTY/32:54\" target=\"_blank\">the first two rounds are \"equal.\"</a></li><li>Ungraded, Myke thinks the chip name may include \"AI\".</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/29:06"
+  },
+  {
     "text": "Apple introduces a new, lower end Apple Watch model in addition to the higher end Series 6",
     "full-pick-text": "Apple introduces a new, lower end Apple Watch model in addition to the higher end Series 6",
     "notes": "",
@@ -329,6 +343,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5peDck/41:32",
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:03:12"
+  },
+  {
+    "text": "Apple introduces new \"vegan leather\" cases",
+    "full-pick-text": "Apple introduces new \"vegan leather\" cases",
+    "notes": "<p><ul><li>Added late in the episode to go \"from 7 to 11\"... but that's only the beginning.</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:18:04"
   },
   {
     "text": "Apple launches at least one iPad model with a new display technology",
@@ -574,6 +602,34 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:20:25"
   },
   {
+    "text": "Apple Watch SE is updated and it's not made of aluminium",
+    "full-pick-text": "Apple Watch SE is updated and it's not made of aluminium",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Watch",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:20:58"
+  },
+  {
+    "text": "Apple Watches get thinner",
+    "full-pick-text": "Apple Watches get thinner",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Watch",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:21:16"
+  },
+  {
     "text": "Apple will bring back some kind of \"app list/launcher\" UI element on iPad",
     "full-pick-text": "Apple will bring back some kind of \"app list/launcher\" UI element on iPad",
     "notes": "<p><ul><li>Federico cites parts of Slide Over's new multitasking interface, and when that doesn't seem to be working, says \"If you don't give me this point, I will call the police.\" It escalates to the point of typing 911 into his phone.</li><li>\"Some kind of\" is vague enough to count this, and it definitely is not because of the threat.</li></ul></p>",
@@ -807,6 +863,48 @@
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/55:09"
   },
   {
+    "text": "Craig Federighi is stranded somewhere",
+    "full-pick-text": "Craig Federighi is stranded somewhere",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:25:01"
+  },
+  {
+    "text": "Craig travels from one set to another in a ridiculous fashion",
+    "full-pick-text": "Craig travels from one set to another in a ridiculous fashion",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:25:36"
+  },
+  {
+    "text": "Craig wears a costume for some portion of the event",
+    "full-pick-text": "Craig wears a costume for some portion of the event",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:25:51"
+  },
+  {
     "text": "Federico considers implanting a magnet and/or NFC chip into his body",
     "full-pick-text": "Federico considers implanting a magnet and/or NFC chip into his body",
     "notes": "<p><ul><li>Added on the fly during recording.</li></ul></p>",
@@ -836,6 +934,20 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx5wv1as/18:15",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:23:24"
+  },
+  {
+    "text": "iOS 18.1 announced to ship in \"October\"",
+    "full-pick-text": "iOS 18.1 announced to ship in \"October\"",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:22:57"
   },
   {
     "text": "iOS gets split-view support for multitasking to use 2 apps at once (reuse)",
@@ -966,6 +1078,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:42"
   },
   {
+    "text": "Jeff Williams is seen in nature",
+    "full-pick-text": "Jeff Williams is seen in nature",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:24:28"
+  },
+  {
     "text": "Legacy widgets are completely removed from the system, and there is no longer a place to put widgets to the left of the main home screen",
     "full-pick-text": "Legacy widgets are completely removed from the system, and there is no longer a place to put widgets to the left of the main home screen",
     "notes": "<p><ul><li>Legacy widgets finally met their end at WWDC 2024, but the space for new-fashioned widgets remained.</li></ul></p>",
@@ -1090,6 +1216,22 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx61sqT4/42:47",
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:03:04"
+  },
+  {
+    "text": "No Macs and iPads at this event",
+    "full-pick-text": "No Macs and iPads at this event",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Mac",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:19:31"
   },
   {
     "text": "No new Mac announced will have a touchscreen",
@@ -1264,6 +1406,21 @@
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:04:16"
   },
   {
+    "text": "The Apple Watch segment is presented in and around a gym",
+    "full-pick-text": "The Apple Watch segment is presented in and around a gym",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Watch",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:24:36"
+  },
+  {
     "text": "The big iPad Pro is updated with a feature that is unique to it",
     "full-pick-text": "The big iPad Pro is updated with a feature that is unique to it",
     "notes": "",
@@ -1279,6 +1436,35 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6J60tU/53:56",
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/48:54"
+  },
+  {
+    "text": "The brown iPhone Pro does not have \"gold\" in its name",
+    "full-pick-text": "The brown iPhone Pro does not have \"gold\" in its name",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:21:57"
+  },
+  {
+    "text": "The flashlight in the new iPhones is mentioned as being brighter than before",
+    "full-pick-text": "The flashlight in the new iPhones is mentioned as being brighter than before",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:18:55"
   },
   {
     "text": "The HomePod will gain multiple user support via voice detection",
@@ -1386,6 +1572,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/53:09"
   },
   {
+    "text": "The iPhone Pro comes with color-matched cables",
+    "full-pick-text": "The iPhone Pro comes with color-matched cables",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:22:17"
+  },
+  {
     "text": "The keyboard for iPad Pro is substantially redesigned for the first time since its introduction in 2020",
     "full-pick-text": "The keyboard for iPad Pro is substantially redesigned for the first time since its introduction in 2020",
     "notes": "<p><ul><li>Federico's cohosts generously helped workshop some of the possible nitpicks out of the pick.</li><li>Ungraded: \"function row, backlight, material change, multiple USB ports, different viewing angles\"</li></ul></p>",
@@ -1465,6 +1665,34 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6z4vdc/34:29",
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/37:29"
+  },
+  {
+    "text": "The new Apple Watch SE costs $199",
+    "full-pick-text": "The new Apple Watch SE costs $199",
+    "notes": "<p><ul><li>Stephen is pressured into adding more, you know, for the kids.</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Watch",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:21:31"
+  },
+  {
+    "text": "The new iPhone color is called Earth Titanium",
+    "full-pick-text": "The new iPhone color is called Earth Titanium",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:23:55"
   },
   {
     "text": "The new iPhones will carry a new design inspired by the iPad Pro/iPhone 4",
@@ -1551,6 +1779,20 @@
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/33:26"
   },
   {
+    "text": "The regular Apple Watch models each get larger screens and cases",
+    "full-pick-text": "The regular Apple Watch models each get larger screens and cases",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Watch",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:22:41"
+  },
+  {
     "text": "The removal of Force Touch on watchOS is framed as the inclusion of Haptic Touch",
     "full-pick-text": "The removal of Force Touch on watchOS is framed as the inclusion of Haptic Touch",
     "notes": "",
@@ -1601,6 +1843,22 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/49:21",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:45"
+  },
+  {
+    "text": "There are new AirPods Max, but they don't fold",
+    "full-pick-text": "There are new AirPods Max, but they don't fold",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "AirPods",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:19:39"
   },
   {
     "text": "There are new ways to turn off the alerts that Shortcuts displays constantly",
@@ -1704,6 +1962,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/20:52"
   },
   {
+    "text": "Tim Cook is surrounded by long grass",
+    "full-pick-text": "Tim Cook is surrounded by long grass",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:24:07"
+  },
+  {
     "text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn't stand",
     "full-pick-text": "Tim Cook thanks Jony Ive, the camera shows Jony in the audience, Jony doesn't stand",
     "notes": "",
@@ -1720,6 +1992,20 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx61sqT4/49:50",
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:13:04"
+  },
+  {
+    "text": "Vertical lenses on the 16",
+    "full-pick-text": "Vertical lenses on the 16",
+    "notes": "<p><ul><li>Myke digs deep for more Flexies.</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/10:20:24"
   },
   {
     "text": "watchOS 10 gets widgets",
@@ -1754,5 +2040,19 @@
     "ahead-by": 740,
     "overcast-graded": "https://overcast.fm/+FXx5nWhwg/58:17",
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/38:39"
+  },
+  {
+    "text": "We see the rainbow stage at Apple Park in the video",
+    "full-pick-text": "We see the rainbow stage at Apple Park in the video",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:23:40"
   }
 ]

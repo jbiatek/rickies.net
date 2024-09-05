@@ -16,6 +16,19 @@
     "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/1:12:34"
   },
   {
+    "text": "A button is introduced to an iPhone that directly lets you capture photos",
+    "full-pick-text": "A button is introduced to an iPhone that directly lets you capture photos",
+    "notes": "<p><ul><li>Studiously avoiding the specific term \"capture button.\"</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/38:54"
+  },
+  {
     "text": "A new color of iPhone 13 (family) is announced",
     "full-pick-text": "A new color of iPhone 13 (family) is announced",
     "notes": "",
@@ -79,6 +92,20 @@
     "ahead-by": 1825,
     "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:28:13",
     "overcast-picked": "https://overcast.fm/+FXx4E3x_I/55:37"
+  },
+  {
+    "text": "All the iPhones announced support Apple Intelligence",
+    "full-pick-text": "All the iPhones announced support Apple Intelligence",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/27:10"
   },
   {
     "text": "An iPhone gets a periscope camera",
@@ -227,6 +254,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:30:52"
   },
   {
+    "text": "Apple introduces a faster chip for the iPhone",
+    "full-pick-text": "Apple introduces a faster chip for the iPhone",
+    "notes": "<p><ul><li>Was originally \"The Pro iPhones increase in size\" but Stephen argued that his round 2 pick pre-empted this one because he drafts first as the previous winner, and <a href=\"https://overcast.fm/+FXx6F3FTY/32:54\" target=\"_blank\">the first two rounds are \"equal.\"</a></li><li>Ungraded, Myke thinks the chip name may include \"AI\".</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/29:06"
+  },
+  {
     "text": "Apple introduces a new proximity-based software feature for iPhone based on the U1 chip",
     "full-pick-text": "Apple introduces a new proximity-based software feature for iPhone based on the U1 chip",
     "notes": "",
@@ -240,6 +281,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx7YIi-0/1:09:43",
     "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:20:36"
+  },
+  {
+    "text": "Apple introduces a new telephoto lens to the Pro Max that has...",
+    "full-pick-text": "Apple introduces a new telephoto lens to the Pro Max that has 10x zoom, It will feature enhanced low light performance that is branded NightSight Pro, and it will include a new sensor-shift stabilization system",
+    "notes": "<p><ul><li>\"10x zoom\"</li><li>\"It will feature enhanced low light performance that is branded NightSight Pro\"</li><li>\"and it will include a new sensor-shift stabilization system.\"</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "ChatGPT",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/57:46"
   },
   {
     "text": "Apple releases an iPhone subscription service that bundles a device, AppleCare, and a selection of other Apple content services into one monthly payment",
@@ -341,6 +395,22 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5peDck/1:02:31",
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:32:15"
+  },
+  {
+    "text": "Apple specifically mention RAM/Memory in the iPhone, say it will be at least 8GB, and state it is to power Apple Intelligence",
+    "full-pick-text": "Apple specifically mention RAM/Memory in the iPhone, say it will be at least 8GB, and state it is to power Apple Intelligence",
+    "notes": "<p><ul><li>This pick triggered some confusion about the new three-condition risky pick rules, and it got a bit heated. But ultimately the rules were revised to clarify that the risky pick is the three conditions, and doesn't need an additional overarching pick.</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/52:16"
   },
   {
     "text": "Astrophotography feature",
@@ -515,6 +585,19 @@
     "overcast-picked": "https://overcast.fm/+FXx7hS2kY/50:07"
   },
   {
+    "text": "At least one of the new iPhones is brighter than before",
+    "full-pick-text": "At least one of the new iPhones is brighter than before",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:11:47"
+  },
+  {
     "text": "At least one of the next 'Pro' iPhones will have an always-on display",
     "full-pick-text": "At least one of the next 'Pro' iPhones will have an always-on display",
     "notes": "",
@@ -674,6 +757,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:11:38",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:12:38"
+  },
+  {
+    "text": "iPhone 16 and 16 Pro can run Apple Intelligence",
+    "full-pick-text": "iPhone 16 and 16 Pro can run Apple Intelligence",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:16:39"
   },
   {
     "text": "iPhone 9 will come in colors",
@@ -1072,6 +1169,20 @@
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/56:33"
   },
   {
+    "text": "The brown iPhone Pro does not have \"gold\" in its name",
+    "full-pick-text": "The brown iPhone Pro does not have \"gold\" in its name",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:21:57"
+  },
+  {
     "text": "The cheaper iPhone will be called iPhone 9",
     "full-pick-text": "The cheaper iPhone will be called iPhone 9",
     "notes": "",
@@ -1086,6 +1197,21 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:27:31",
     "overcast-picked": "https://overcast.fm/+FXx4E3x_I/53:39"
+  },
+  {
+    "text": "The flashlight in the new iPhones is mentioned as being brighter than before",
+    "full-pick-text": "The flashlight in the new iPhones is mentioned as being brighter than before",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:18:55"
   },
   {
     "text": "The iPad Pro line is updated before the iPhone with a hardware feature that's not on any current iPhone in 2019 or 2020",
@@ -1206,6 +1332,58 @@
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:17:18"
   },
   {
+    "text": "The iPhone 16 and 16 Pro are larger than their predecessors",
+    "full-pick-text": "The iPhone 16 and 16 Pro are larger than their predecessors",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/33:33"
+  },
+  {
+    "text": "The iPhone 16 has a better range of colours than the iPhone 16 Pro",
+    "full-pick-text": "The iPhone 16 has a better range of colours than the iPhone 16 Pro",
+    "notes": "<p><ul><li>An intentionally subjective pick that's testing how a vibes-based pick could work out. \"The vibe is the colours are better.\"</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:15:20"
+  },
+  {
+    "text": "The iPhone 16 lineup will introduce a new under-display FaceID system, removing the notch or Dynamic Island",
+    "full-pick-text": "The iPhone 16 lineup will introduce a new under-display FaceID system, removing the notch or Dynamic Island",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "ChatGPT",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/39:25"
+  },
+  {
+    "text": "The iPhone 16 Pro gains a 5x zoom",
+    "full-pick-text": "The iPhone 16 Pro gains a 5x zoom",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/25:44"
+  },
+  {
     "text": "The iPhone 7S and 7S+ will look like the 7 and 7+, not this edge to edge unicorn phone that has been rumored",
     "full-pick-text": "The iPhone 7S and 7S+ will look like the 7 and 7+, not this edge to edge unicorn phone that has been rumored",
     "notes": "<p><ul><li>This was deemed correct during grading, allowing for the \"7S\" actually being named the 8.</li><li>During grading, Myke wondered if Stephen had been thinking that there would be <em>a</em> phone with the traditional design, or if he was thinking that there would be no \"unicorn\" phone at all. Of course, it is impossible to read his mind, but in the original pick, Stephen seems to imply that it will just be the \"7S\".</li></ul></p>",
@@ -1237,6 +1415,20 @@
     "ahead-by": 176,
     "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:09:49",
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:13:59"
+  },
+  {
+    "text": "The iPhone Pro comes with color-matched cables",
+    "full-pick-text": "The iPhone Pro comes with color-matched cables",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:22:17"
   },
   {
     "text": "The iPhone Pro moves to USB-C",
@@ -1315,6 +1507,47 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/1:29:03",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:37:35"
+  },
+  {
+    "text": "The new Capture button...",
+    "full-pick-text": "The new Capture button: Supports at least two user-configurable gestures, Will support third-party camera apps in addition to the system camera, Will integrate with the Controls API to configure various commands",
+    "notes": "<p><ul><li>\"Supports at least two user-configurable gestures\"</li>\n<li>\"Will support third-party camera apps in addition to the system camera\"</li>\n<li>\"Will integrate with the Controls API to configure various commands\"</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/45:59"
+  },
+  {
+    "text": "The new iPhone color is called Earth Titanium",
+    "full-pick-text": "The new iPhone color is called Earth Titanium",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:23:55"
+  },
+  {
+    "text": "The new iPhone color is called Gold Titanium",
+    "full-pick-text": "The new iPhone color is called Gold Titanium",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:10:11"
   },
   {
     "text": "The new iPhone colour will be a new version of a colour they've already used",
@@ -1506,6 +1739,19 @@
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:17:56"
   },
   {
+    "text": "The screen on the iPhone 16 Pro Max will increase to at least 6.9 inches",
+    "full-pick-text": "The screen on the iPhone 16 Pro Max will increase to at least 6.9 inches",
+    "notes": "<p><ul><li>A new competitor enters the game with a boldly specific pick for the first round... and also no sourcing for its \"thinking.\"</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "ChatGPT",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/31:55"
+  },
+  {
     "text": "The two Pro phones will have different camera features",
     "full-pick-text": "The two Pro phones will have different camera features",
     "notes": "<p><ul><li>It is agreed not to quibble too much about the name \"Pro\" if there ends up being something like an Ultra phone.</li></ul></p>",
@@ -1519,6 +1765,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4c3VV0/37:36",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/35:36"
+  },
+  {
+    "text": "The ultra wide camera on the 16 Pro is considerably improved",
+    "full-pick-text": "The ultra wide camera on the 16 Pro is considerably improved",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:11:41"
   },
   {
     "text": "There is a new system for changing the colors of icons on the home screen",
@@ -1648,6 +1907,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/40:05",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/39:07"
+  },
+  {
+    "text": "Vertical lenses on the 16",
+    "full-pick-text": "Vertical lenses on the 16",
+    "notes": "<p><ul><li>Myke digs deep for more Flexies.</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/10:20:24"
   },
   {
     "text": "We see at least one new Dynamic Island feature",

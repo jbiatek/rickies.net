@@ -213,6 +213,22 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/36:30"
   },
   {
+    "text": "Apple specifically mention RAM/Memory in the iPhone, say it will be at least 8GB, and state it is to power Apple Intelligence",
+    "full-pick-text": "Apple specifically mention RAM/Memory in the iPhone, say it will be at least 8GB, and state it is to power Apple Intelligence",
+    "notes": "<p><ul><li>This pick triggered some confusion about the new three-condition risky pick rules, and it got a bit heated. But ultimately the rules were revised to clarify that the risky pick is the three conditions, and doesn't need an additional overarching pick.</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/52:16"
+  },
+  {
     "text": "Apple talks about App Tracking Transparency in iOS 14.5",
     "full-pick-text": "Apple talks about App Tracking Transparency in iOS 14.5",
     "notes": "",
@@ -632,6 +648,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:00:10"
   },
   {
+    "text": "iOS 18.1 announced to ship in \"October\"",
+    "full-pick-text": "iOS 18.1 announced to ship in \"October\"",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:22:57"
+  },
+  {
     "text": "iOS and iPadOS 15 get native HomeKit widgets",
     "full-pick-text": "iOS and iPadOS 15 get native HomeKit widgets",
     "notes": "<p><ul><li>These came to the iOS 16 lock screen the next year.</li></ul></p>",
@@ -797,6 +827,21 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:01:53",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:09:19"
+  },
+  {
+    "text": "macOS Sequioa released with iOS 18",
+    "full-pick-text": "macOS Sequioa released with iOS 18",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Mac",
+      "macOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:16:17"
   },
   {
     "text": "Memoji will get updated to include face coverings",
@@ -1102,6 +1147,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/53:09"
   },
   {
+    "text": "The new Capture button...",
+    "full-pick-text": "The new Capture button: Supports at least two user-configurable gestures, Will support third-party camera apps in addition to the system camera, Will integrate with the Controls API to configure various commands",
+    "notes": "<p><ul><li>\"Supports at least two user-configurable gestures\"</li>\n<li>\"Will support third-party camera apps in addition to the system camera\"</li>\n<li>\"Will integrate with the Controls API to configure various commands\"</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/45:59"
+  },
+  {
     "text": "The next version of iOS brings at least one new AirPods-related feature",
     "full-pick-text": "The next version of iOS brings at least one new AirPods-related feature",
     "notes": "<p><ul><li>Adaptive audio was introduced.</li></ul></p>",
@@ -1251,6 +1310,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:31:05",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:45:01"
+  },
+  {
+    "text": "We get a release window for 18.1",
+    "full-pick-text": "We get a release window for 18.1",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:14:52"
   },
   {
     "text": "We see at least one new Dynamic Island feature",

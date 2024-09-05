@@ -1,5 +1,19 @@
 [
   {
+    "text": "All the iPhones announced support Apple Intelligence",
+    "full-pick-text": "All the iPhones announced support Apple Intelligence",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/27:10"
+  },
+  {
     "text": "Apple announces AI-powered changes to iWork",
     "full-pick-text": "Apple announces AI-powered changes to iWork",
     "notes": "",
@@ -50,6 +64,48 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:17:23",
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:15:56"
+  },
+  {
+    "text": "Apple does not say \"AI\" or \"Artificial Intelligence\"",
+    "full-pick-text": "Apple does not say \"AI\" or \"Artificial Intelligence\"",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:14:32"
+  },
+  {
+    "text": "Apple Intelligence features are demoed again",
+    "full-pick-text": "Apple Intelligence features are demoed again",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:09:43"
+  },
+  {
+    "text": "Apple Intelligence gains no new features",
+    "full-pick-text": "Apple Intelligence gains no new features",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Buzzkill",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:16:25"
   },
   {
     "text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
@@ -175,6 +231,22 @@
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:29:09"
   },
   {
+    "text": "Apple specifically mention RAM/Memory in the iPhone, say it will be at least 8GB, and state it is to power Apple Intelligence",
+    "full-pick-text": "Apple specifically mention RAM/Memory in the iPhone, say it will be at least 8GB, and state it is to power Apple Intelligence",
+    "notes": "<p><ul><li>This pick triggered some confusion about the new three-condition risky pick rules, and it got a bit heated. But ultimately the rules were revised to clarify that the risky pick is the three conditions, and doesn't need an additional overarching pick.</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/52:16"
+  },
+  {
     "text": "Chatbot features from AI partners are available only to iCloud+ subscribers after a free trial",
     "full-pick-text": "Chatbot features from AI partners are available only to iCloud+ subscribers after a free trial",
     "notes": "",
@@ -191,6 +263,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:36:43",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:23:36"
+  },
+  {
+    "text": "ChatGPT is mentioned again",
+    "full-pick-text": "ChatGPT is mentioned again",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:11:34"
   },
   {
     "text": "iOS 18 will bring new AI features based on LLMs with some generative capabilities",
@@ -224,6 +310,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:10:12",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/57:12"
+  },
+  {
+    "text": "iPhone 16 and 16 Pro can run Apple Intelligence",
+    "full-pick-text": "iPhone 16 and 16 Pro can run Apple Intelligence",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:16:39"
   },
   {
     "text": "Notification summaries are provided by a new AI system",
@@ -274,6 +374,34 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:37:15",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:26:50"
+  },
+  {
+    "text": "The iPad mini is updated with an A17 Pro or higher and a larger, brighter display. It will run Apple Intelligence.",
+    "full-pick-text": "The iPad mini is updated with an A17 Pro or higher and a larger, brighter display. It will run Apple Intelligence.",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/41:47"
+  },
+  {
+    "text": "There is a segment about Apple Intelligence that lasts at least 10 minutes",
+    "full-pick-text": "There is a segment about Apple Intelligence that lasts at least 10 minutes",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:12:22"
   },
   {
     "text": "You will be able to create Shortcuts with the new LLM-infused Siri in iOS 18",

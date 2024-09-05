@@ -34,6 +34,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:34:27"
   },
   {
+    "text": "Apple Intelligence gains no new features",
+    "full-pick-text": "Apple Intelligence gains no new features",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Buzzkill",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:16:25"
+  },
+  {
     "text": "Apple mentions at least 1 feature \"coming later\"",
     "full-pick-text": "Apple mentions at least 1 feature \"coming later\"",
     "notes": "",
@@ -65,6 +79,21 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:42:16",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:29:09"
+  },
+  {
+    "text": "Apple Watch band attachments will change",
+    "full-pick-text": "Apple Watch band attachments will change",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "Apple Watch",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:12:47"
   },
   {
     "text": "Apple Watch SE is not updated, but receives a price cut",
@@ -149,6 +178,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/1:29:12",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:39:28"
+  },
+  {
+    "text": "FineWoven cases mysteriously disappear",
+    "full-pick-text": "FineWoven cases mysteriously disappear",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:15:03"
   },
   {
     "text": "iPad Pro does not get an M4",
@@ -353,6 +396,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:10:13"
   },
   {
+    "text": "No iPad hardware",
+    "full-pick-text": "No iPad hardware",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:14:56"
+  },
+  {
     "text": "No iPads, iPhone and Apple Watch only",
     "full-pick-text": "No iPads, iPhone and Apple Watch only",
     "notes": "",
@@ -454,6 +511,22 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:25:32",
     "overcast-picked": "https://overcast.fm/+FXx4E3x_I/56:27"
+  },
+  {
+    "text": "No Macs and iPads at this event",
+    "full-pick-text": "No Macs and iPads at this event",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Mac",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:19:31"
   },
   {
     "text": "No mention of AirTags",
@@ -1045,6 +1118,22 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx7hkz9o/30:59",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/35:42"
+  },
+  {
+    "text": "There are new AirPods Max, but they don't fold",
+    "full-pick-text": "There are new AirPods Max, but they don't fold",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "AirPods",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:19:39"
   },
   {
     "text": "There is no additional external display support for iPadOS",

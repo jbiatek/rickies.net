@@ -1,0 +1,16 @@
+{
+  "text": "Apple specifically mention RAM/Memory in the iPhone, say it will be at least 8GB, and state it is to power Apple Intelligence",
+  "full-pick-text": "Apple specifically mention RAM/Memory in the iPhone, say it will be at least 8GB, and state it is to power Apple Intelligence",
+  "notes": "<p><ul><li>This pick triggered some confusion about the new three-condition risky pick rules, and it got a bit heated. But ultimately the rules were revised to clarify that the risky pick is the three conditions, and doesn't need an additional overarching pick.</li></ul></p>",
+  "game": "2024 September Rickies",
+  "type": "Ricky",
+  "topics": [
+    "iPhone",
+    "iOS",
+    "Machine Learning/AI",
+    "Stagecraft"
+  ],
+  "host": "Myke",
+  "pick-conditions": 3,
+  "overcast-picked": "https://overcast.fm/+FXx6F3FTY/52:16"
+}

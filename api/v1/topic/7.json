@@ -436,6 +436,20 @@
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:19:52"
   },
   {
+    "text": "Apple debuts new AirPods model",
+    "full-pick-text": "Apple debuts new AirPods model",
+    "notes": "<p><ul><li>Non-graded: with USB-C.</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "Accessories",
+      "AirPods"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/35:21"
+  },
+  {
     "text": "Apple introduces a HomePod with a screen",
     "full-pick-text": "Apple introduces a HomePod with a screen",
     "notes": "",
@@ -463,6 +477,20 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx7hkz9o/35:53",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/46:41"
+  },
+  {
+    "text": "Apple introduces new \"vegan leather\" cases",
+    "full-pick-text": "Apple introduces new \"vegan leather\" cases",
+    "notes": "<p><ul><li>Added late in the episode to go \"from 7 to 11\"... but that's only the beginning.</li></ul></p>",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:18:04"
   },
   {
     "text": "Apple launches 'AirTags' accessories for tracking physical objects",
@@ -710,6 +738,21 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:28:16",
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:32:10"
+  },
+  {
+    "text": "Apple Watch band attachments will change",
+    "full-pick-text": "Apple Watch band attachments will change",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "Apple Watch",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:12:47"
   },
   {
     "text": "Apple will create some new noise-cancelling technology",
@@ -986,6 +1029,33 @@
     "host": "OTJ",
     "pick-conditions": 1,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:06:02"
+  },
+  {
+    "text": "FineWoven cases mysteriously disappear",
+    "full-pick-text": "FineWoven cases mysteriously disappear",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:15:03"
+  },
+  {
+    "text": "FineWoven lives on",
+    "full-pick-text": "FineWoven lives on",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:17:05"
   },
   {
     "text": "HeadPods will be wireless only and they will have no headphone jack and will charge via Lightning or USB-C",
@@ -1770,6 +1840,50 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/51:07",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:05:39"
+  },
+  {
+    "text": "There are multiple AirPods models",
+    "full-pick-text": "There are multiple AirPods models",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "AirPods"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:09:24"
+  },
+  {
+    "text": "There are new AirPods Max, but they don't fold",
+    "full-pick-text": "There are new AirPods Max, but they don't fold",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "AirPods",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:19:39"
+  },
+  {
+    "text": "There is a new AirPods model with noise cancellation",
+    "full-pick-text": "There is a new AirPods model with noise cancellation",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "AirPods"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:09:58"
   },
   {
     "text": "Ticci tries an e-ink phone to help reduce distractions and get more into reading",

@@ -1,0 +1,14 @@
+{
+  "text": "The new Capture button...",
+  "full-pick-text": "The new Capture button: Supports at least two user-configurable gestures, Will support third-party camera apps in addition to the system camera, Will integrate with the Controls API to configure various commands",
+  "notes": "<p><ul><li>\"Supports at least two user-configurable gestures\"</li>\n<li>\"Will support third-party camera apps in addition to the system camera\"</li>\n<li>\"Will integrate with the Controls API to configure various commands\"</li></ul></p>",
+  "game": "2024 September Rickies",
+  "type": "Ricky",
+  "topics": [
+    "iPhone",
+    "iOS"
+  ],
+  "host": "Federico",
+  "pick-conditions": 3,
+  "overcast-picked": "https://overcast.fm/+FXx6F3FTY/45:59"
+}

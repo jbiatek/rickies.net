@@ -1059,6 +1059,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/55:27"
   },
   {
+    "text": "No iPad hardware",
+    "full-pick-text": "No iPad hardware",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:14:56"
+  },
+  {
     "text": "No iPads, iPhone and Apple Watch only",
     "full-pick-text": "No iPads, iPhone and Apple Watch only",
     "notes": "",
@@ -1095,6 +1109,22 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx61sqT4/42:47",
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:03:04"
+  },
+  {
+    "text": "No Macs and iPads at this event",
+    "full-pick-text": "No Macs and iPads at this event",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Mac",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:19:31"
   },
   {
     "text": "No new iPad mini",
@@ -1481,6 +1511,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/31:51",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:09:12"
+  },
+  {
+    "text": "The iPad mini is updated with an A17 Pro or higher and a larger, brighter display. It will run Apple Intelligence.",
+    "full-pick-text": "The iPad mini is updated with an A17 Pro or higher and a larger, brighter display. It will run Apple Intelligence.",
+    "notes": "",
+    "game": "2024 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPad",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx6F3FTY/41:47"
   },
   {
     "text": "The iPad mini will be updated",
