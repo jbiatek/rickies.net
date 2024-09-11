@@ -447,6 +447,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/35:21"
   },
   {
@@ -490,6 +491,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:18:04"
   },
   {
@@ -752,6 +754,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:12:47"
   },
   {
@@ -1042,12 +1045,13 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:15:03"
   },
   {
     "text": "FineWoven lives on",
     "full-pick-text": "FineWoven lives on",
-    "notes": "",
+    "notes": "<p><ul><li>Although the cases did disappear, other products still use the brand, so counterintuitively, both this and <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#FineWoven%20cases%20mysteriously%20disappear\">this</a> are correct!</li></ul></p>",
     "game": "2024 September Rickies",
     "type": "Flexie",
     "topics": [
@@ -1055,6 +1059,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:17:05"
   },
   {
@@ -1853,6 +1858,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:09:24"
   },
   {
@@ -1869,6 +1875,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:19:39"
   },
   {
@@ -1883,6 +1890,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:09:58"
   },
   {

@@ -1,7 +1,7 @@
 {
   "text": "The iPhone 16 and 16 Pro are larger than their predecessors",
   "full-pick-text": "The iPhone 16 and 16 Pro are larger than their predecessors",
-  "notes": "",
+  "notes": "<p><ul><li>Stephen meant \"Pro\" and \"Pro Max\", but no one caught what he had actually written.</li></ul></p>",
   "game": "2024 September Rickies",
   "type": "Regular",
   "topics": [
@@ -9,5 +9,6 @@
   ],
   "host": "Stephen",
   "pick-conditions": 2,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx6F3FTY/33:33"
 }

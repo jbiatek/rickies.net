@@ -124,5 +124,12 @@
     "donation": 150,
     "charity-name": "WWF",
     "charity-url": "https://worldwildlife.org"
+  },
+  {
+    "game": "2024 September Rickies",
+    "donator": "Myke",
+    "donation": 150,
+    "charity-name": "MVO Woodworks for St. Jude",
+    "charity-url": "https://mvo.live/"
   }
 ]

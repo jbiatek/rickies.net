@@ -1,7 +1,7 @@
 {
   "name": "2024 September Rickies",
   "game-type": "Keynote",
-  "date-graded": "",
+  "date-graded": "2024-09-11",
   "date-picked": "2024-09-04",
   "main-game": {
     "picks": [
@@ -16,6 +16,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/25:44"
       },
       {
@@ -30,6 +31,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/27:10"
       },
       {
@@ -44,6 +46,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/29:06"
       },
       {
@@ -57,12 +60,13 @@
         ],
         "host": "ChatGPT",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/31:55"
       },
       {
         "text": "The iPhone 16 and 16 Pro are larger than their predecessors",
         "full-pick-text": "The iPhone 16 and 16 Pro are larger than their predecessors",
-        "notes": "",
+        "notes": "<p><ul><li>Stephen meant \"Pro\" and \"Pro Max\", but no one caught what he had actually written.</li></ul></p>",
         "game": "2024 September Rickies",
         "type": "Regular",
         "topics": [
@@ -70,6 +74,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 2,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/33:33"
       },
       {
@@ -84,6 +89,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/35:21"
       },
       {
@@ -97,6 +103,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/38:54"
       },
       {
@@ -110,6 +117,7 @@
         ],
         "host": "ChatGPT",
         "pick-conditions": 2,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/39:25"
       },
       {
@@ -124,6 +132,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 3,
+        "score": -1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/41:47"
       },
       {
@@ -138,6 +147,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 3,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/45:59"
       },
       {
@@ -154,6 +164,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 3,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/52:16"
       },
       {
@@ -167,11 +178,26 @@
         ],
         "host": "ChatGPT",
         "pick-conditions": 3,
+        "score": -1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/57:46"
       }
     ],
     "coin-flips": [],
-    "winner": "TBD"
+    "scores": [
+      {
+        "host": "Myke",
+        "score": 3
+      },
+      {
+        "host": "Federico",
+        "score": 2
+      },
+      {
+        "host": "Stephen",
+        "score": 0
+      }
+    ],
+    "winner": "Myke"
   },
   "the-flexies": {
     "picks": [
@@ -187,6 +213,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:09:24"
       },
       {
@@ -201,6 +228,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:09:43"
       },
       {
@@ -215,6 +243,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 2,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:09:58"
       },
       {
@@ -228,6 +257,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:10:11"
       },
       {
@@ -242,6 +272,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:11:34"
       },
       {
@@ -255,6 +286,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:11:41"
       },
       {
@@ -268,6 +300,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:11:47"
       },
       {
@@ -282,6 +315,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:12:22"
       },
       {
@@ -297,6 +331,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:12:47"
       },
       {
@@ -311,6 +346,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 2,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:14:32"
       },
       {
@@ -324,6 +360,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:14:52"
       },
       {
@@ -338,6 +375,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:14:56"
       },
       {
@@ -352,6 +390,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:15:03"
       },
       {
@@ -365,6 +404,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:15:20"
       },
       {
@@ -378,6 +418,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:15:45"
       },
       {
@@ -393,6 +434,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:16:17"
       },
       {
@@ -407,6 +449,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:16:25"
       },
       {
@@ -421,12 +464,13 @@
         ],
         "host": "Stephen",
         "pick-conditions": 2,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:16:39"
       },
       {
         "text": "FineWoven lives on",
         "full-pick-text": "FineWoven lives on",
-        "notes": "",
+        "notes": "<p><ul><li>Although the cases did disappear, other products still use the brand, so counterintuitively, both this and <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#FineWoven%20cases%20mysteriously%20disappear\">this</a> are correct!</li></ul></p>",
         "game": "2024 September Rickies",
         "type": "Flexie",
         "topics": [
@@ -434,6 +478,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:17:05"
       },
       {
@@ -448,6 +493,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:18:04"
       },
       {
@@ -463,6 +509,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 2,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:18:55"
       },
       {
@@ -479,6 +526,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 2,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:19:31"
       },
       {
@@ -495,6 +543,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 2,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:19:39"
       },
       {
@@ -509,6 +558,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/10:20:24"
       },
       {
@@ -523,6 +573,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 2,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:20:58"
       },
       {
@@ -537,6 +588,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:21:16"
       },
       {
@@ -551,6 +603,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:21:31"
       },
       {
@@ -565,6 +618,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:21:57"
       },
       {
@@ -579,6 +633,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:22:17"
       },
       {
@@ -593,6 +648,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 2,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:22:41"
       },
       {
@@ -607,6 +663,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:22:57"
       },
       {
@@ -621,6 +678,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:23:40"
       },
       {
@@ -635,6 +693,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:23:55"
       },
       {
@@ -649,6 +708,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:24:07"
       },
       {
@@ -663,6 +723,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:24:28"
       },
       {
@@ -678,6 +739,7 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:24:36"
       },
       {
@@ -692,6 +754,7 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:25:01"
       },
       {
@@ -706,6 +769,7 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:25:36"
       },
       {
@@ -720,11 +784,33 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 0,
         "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:25:51"
       }
     ],
     "coin-flips": [],
-    "winner": "TBD"
+    "scores": [
+      {
+        "host": "Stephen",
+        "correct": 8,
+        "total": 13
+      },
+      {
+        "host": "Federico",
+        "correct": 8,
+        "total": 13
+      },
+      {
+        "host": "Myke",
+        "correct": 7,
+        "total": 13
+      }
+    ],
+    "charity-name": "MVO Woodworks for St. Jude",
+    "charity-url": "https://mvo.live/",
+    "donation": 150,
+    "donator": "Myke",
+    "winner": "Stephen"
   },
   "relevant-episodes": [
     {

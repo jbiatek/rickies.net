@@ -226,6 +226,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 3,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/52:16"
   },
   {
@@ -659,6 +660,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:22:57"
   },
   {
@@ -841,6 +843,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:16:17"
   },
   {
@@ -1158,6 +1161,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 3,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/45:59"
   },
   {
@@ -1322,6 +1326,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:14:52"
   },
   {
