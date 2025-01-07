@@ -19,12 +19,12 @@
   {
     "text": "Apple (of its own choice, not in direct response to a legal case) will allow developers to use payment methods outside the App Store",
     "full-pick-text": "Apple (of its own choice, not in direct response to a legal case) will allow developers to use payment methods outside the App Store",
-    "notes": "",
+    "notes": "<p><ul><li>In 2024, <a href=\"https://developer.apple.com/app-store/review/guidelines/#link-to-other-purchase-methods\" target=\"_blank\">Apple did update this policy</a>, but it was <a href=\"https://www.theverge.com/2024/1/16/24040881/apple-outside-payments-app-store-policies-iphone-ipad\" target=\"_blank\">in response to <i>Epic Games v. Apple</i></a>.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Ricky",
     "topics": [
       "Services",
-      "Possible Vindication"
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
