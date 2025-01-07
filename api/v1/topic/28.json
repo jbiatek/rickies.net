@@ -12,6 +12,7 @@
     "host": "Federico",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/00:28:51",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/27:10"
   },
   {
@@ -74,11 +75,13 @@
     "type": "Flexie",
     "topics": [
       "Machine Learning/AI",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 2,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:20:36",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:14:32"
   },
   {
@@ -94,6 +97,7 @@
     "host": "Federico",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:15:02",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:09:43"
   },
   {
@@ -104,11 +108,13 @@
     "type": "Flexie",
     "topics": [
       "Buzzkill",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:26:24",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:16:25"
   },
   {
@@ -249,6 +255,7 @@
     "host": "Myke",
     "pick-conditions": 3,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:04:07",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/52:16"
   },
   {
@@ -282,6 +289,7 @@
     "host": "Federico",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:16:11",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:11:34"
   },
   {
@@ -330,6 +338,7 @@
     "host": "Stephen",
     "pick-conditions": 2,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:26:35",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:16:39"
   },
   {
@@ -390,11 +399,13 @@
     "type": "Ricky",
     "topics": [
       "iPad",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 3,
     "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/00:55:40",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/41:47"
   },
   {
@@ -410,6 +421,7 @@
     "host": "Myke",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:20:10",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:12:22"
   },
   {

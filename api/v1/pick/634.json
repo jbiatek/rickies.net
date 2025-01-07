@@ -5,9 +5,12 @@
   "game": "The EUies",
   "type": "Regular",
   "topics": [
-    "Apple management"
+    "Apple management",
+    "Possible Vindication"
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 0,
+  "overcast-graded": "https://overcast.fm/+FXx5VhM7s/00:36:40",
   "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/55:07"
 }

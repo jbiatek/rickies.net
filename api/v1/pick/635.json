@@ -1,7 +1,7 @@
 {
   "text": "The core technology fee is removed for fully free applications",
   "full-pick-text": "The core technology fee is removed for fully free applications",
-  "notes": "",
+  "notes": "<p><ul><li>It was removed for developers with no revenue... another half point!</li></ul></p>",
   "game": "The EUies",
   "type": "Regular",
   "topics": [
@@ -9,5 +9,7 @@
   ],
   "host": "Myke",
   "pick-conditions": 1,
+  "score": 0.5,
+  "overcast-graded": "https://overcast.fm/+FXx5VhM7s/00:37:10",
   "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/58:40"
 }

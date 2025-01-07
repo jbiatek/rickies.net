@@ -5,9 +5,12 @@
   "game": "The EUies",
   "type": "Regular",
   "topics": [
-    "Developer tools"
+    "Developer tools",
+    "Possible Vindication"
   ],
   "host": "Myke",
   "pick-conditions": 1,
+  "score": 0,
+  "overcast-graded": "https://overcast.fm/+FXx5VhM7s/00:34:27",
   "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/50:13"
 }

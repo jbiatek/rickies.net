@@ -57,11 +57,13 @@
     "topics": [
       "Accessories",
       "Apple Watch",
-      "Buzzkill"
+      "Buzzkill",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:20:23",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:12:47"
   },
   {
@@ -89,11 +91,13 @@
     "type": "Flexie",
     "topics": [
       "Apple Watch",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 2,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:21:38",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:20:58"
   },
   {
@@ -119,11 +123,13 @@
     "game": "2024 September Rickies",
     "type": "Flexie",
     "topics": [
-      "Apple Watch"
+      "Apple Watch",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:25:18",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:15:45"
   },
   {
@@ -156,6 +162,7 @@
     "host": "Myke",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:20:25",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:21:16"
   },
   {
@@ -427,11 +434,13 @@
     "topics": [
       "Apple Watch",
       "Live Edited",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:22:35",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:24:36"
   },
   {
@@ -457,11 +466,13 @@
     "type": "Flexie",
     "topics": [
       "Apple Watch",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:28:13",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:21:31"
   },
   {
@@ -508,6 +519,7 @@
     "host": "Stephen",
     "pick-conditions": 2,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:29:30",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:22:41"
   },
   {

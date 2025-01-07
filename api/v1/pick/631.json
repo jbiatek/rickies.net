@@ -1,7 +1,7 @@
 {
   "text": "The core technology fee is considerably altered, especially for web distribution",
   "full-pick-text": "The core technology fee is considerably altered, especially for web distribution",
-  "notes": "",
+  "notes": "<p><ul><li><a href=\"https://www.macrumors.com/2024/05/02/apple-updates-core-technology-fee-eu/\" target=\"_blank\">MacRumors outlines CTF changes</a>, but not especially for web distribution. But with Stephen away, and this being an exhibition game... hello half points!</li></ul></p>",
   "game": "The EUies",
   "type": "Regular",
   "topics": [
@@ -9,5 +9,7 @@
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 0.5,
+  "overcast-graded": "https://overcast.fm/+FXx5VhM7s/00:32:06",
   "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/48:31"
 }

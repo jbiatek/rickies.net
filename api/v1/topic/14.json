@@ -180,10 +180,13 @@
     "game": "The EUies",
     "type": "Regular",
     "topics": [
-      "Developer tools"
+      "Developer tools",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5VhM7s/00:37:44",
     "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/1:02:50"
   },
   {
@@ -298,7 +301,7 @@
   {
     "text": "The core technology fee is considerably altered, especially for web distribution",
     "full-pick-text": "The core technology fee is considerably altered, especially for web distribution",
-    "notes": "",
+    "notes": "<p><ul><li><a href=\"https://www.macrumors.com/2024/05/02/apple-updates-core-technology-fee-eu/\" target=\"_blank\">MacRumors outlines CTF changes</a>, but not especially for web distribution. But with Stephen away, and this being an exhibition game... hello half points!</li></ul></p>",
     "game": "The EUies",
     "type": "Regular",
     "topics": [
@@ -306,12 +309,14 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0.5,
+    "overcast-graded": "https://overcast.fm/+FXx5VhM7s/00:32:06",
     "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/48:31"
   },
   {
     "text": "The core technology fee is removed for fully free applications",
     "full-pick-text": "The core technology fee is removed for fully free applications",
-    "notes": "",
+    "notes": "<p><ul><li>It was removed for developers with no revenue... another half point!</li></ul></p>",
     "game": "The EUies",
     "type": "Regular",
     "topics": [
@@ -319,6 +324,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0.5,
+    "overcast-graded": "https://overcast.fm/+FXx5VhM7s/00:37:10",
     "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/58:40"
   },
   {
@@ -365,10 +372,13 @@
     "game": "The EUies",
     "type": "Regular",
     "topics": [
-      "Developer tools"
+      "Developer tools",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5VhM7s/00:34:27",
     "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/50:13"
   },
   {
@@ -396,10 +406,13 @@
     "game": "The EUies",
     "type": "Regular",
     "topics": [
-      "Developer tools"
+      "Developer tools",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx5VhM7s/00:35:37",
     "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/52:30"
   },
   {

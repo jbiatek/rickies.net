@@ -327,6 +327,7 @@
     "host": "Myke",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/00:32:01",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/29:06"
   },
   {
@@ -353,11 +354,13 @@
     "type": "Flexie",
     "topics": [
       "Accessories",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:17:07",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:18:04"
   },
   {
@@ -611,11 +614,13 @@
     "type": "Flexie",
     "topics": [
       "Apple Watch",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 2,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:21:38",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:20:58"
   },
   {
@@ -631,6 +636,7 @@
     "host": "Myke",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:20:25",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:21:16"
   },
   {
@@ -825,7 +831,7 @@
       "Accessories",
       "AirPods",
       "Live Edited",
-      "Possible Vindication"
+      "Unvindicatable"
     ],
     "host": "Federico",
     "pick-conditions": 3,
@@ -879,6 +885,7 @@
     "host": "Federico",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:18:38",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:25:01"
   },
   {
@@ -889,11 +896,13 @@
     "type": "Flexie",
     "topics": [
       "Live Edited",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:30:47",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:25:36"
   },
   {
@@ -904,11 +913,13 @@
     "type": "Flexie",
     "topics": [
       "Live Edited",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:22:48",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:25:51"
   },
   {
@@ -955,6 +966,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:29:59",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:22:57"
   },
   {
@@ -1098,6 +1110,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:30:18",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:24:28"
   },
   {
@@ -1127,12 +1140,13 @@
     "topics": [
       "iPhone",
       "Accessories",
-      "Live Edited",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "Live Edited"
     ],
     "host": "Stephen",
     "pick-conditions": 3,
     "score": -1,
+    "ahead-by": 1089,
     "overcast-graded": "https://overcast.fm/+FXx6z4vdc/52:27",
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/58:05"
   },
@@ -1241,6 +1255,7 @@
     "host": "Federico",
     "pick-conditions": 2,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:17:28",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:19:31"
   },
   {
@@ -1424,11 +1439,13 @@
     "topics": [
       "Apple Watch",
       "Live Edited",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:22:35",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:24:36"
   },
   {
@@ -1461,6 +1478,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:28:22",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:21:57"
   },
   {
@@ -1472,11 +1490,13 @@
     "topics": [
       "iPhone",
       "Live Edited",
-      "Stagecraft"
+      "Stagecraft",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:17:16",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:18:55"
   },
   {
@@ -1592,11 +1612,13 @@
     "type": "Flexie",
     "topics": [
       "iPhone",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:28:42",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:22:17"
   },
   {
@@ -1688,11 +1710,13 @@
     "type": "Flexie",
     "topics": [
       "Apple Watch",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:28:13",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:21:31"
   },
   {
@@ -1703,11 +1727,13 @@
     "type": "Flexie",
     "topics": [
       "iPhone",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:18:19",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:23:55"
   },
   {
@@ -1807,6 +1833,7 @@
     "host": "Stephen",
     "pick-conditions": 2,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:29:30",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:22:41"
   },
   {
@@ -1876,6 +1903,7 @@
     "host": "Federico",
     "pick-conditions": 2,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:17:34",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:19:39"
   },
   {
@@ -1987,11 +2015,13 @@
     "type": "Flexie",
     "topics": [
       "Live Edited",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
     "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:22:12",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:24:07"
   },
   {
@@ -2025,6 +2055,7 @@
     "host": "Myke",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:21:36",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/10:20:24"
   },
   {
@@ -2074,6 +2105,7 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:30:04",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:23:40"
   }
 ]
