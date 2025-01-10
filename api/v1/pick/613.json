@@ -1,13 +1,16 @@
 {
   "text": "Apple's CEO succession plan leaks",
   "full-pick-text": "Apple's CEO succession plan leaks",
-  "notes": "<p><ul><li>Midway through the year... <a href=\"https://512pixels.net/2024/05/our-boy-john-ternus/\" target=\"_blank\">an interesting development</a>, but the grading debate hasn't been had yet.</li></ul></p>",
+  "notes": "<p><ul><li>Midway through the year... <a href=\"https://512pixels.net/2024/05/our-boy-john-ternus/\" target=\"_blank\">an interesting development</a>, but the grading debate hasn't been had yet.</li><li>Ultimately, Jason Snell adjudicates and gives the thumbs down.</li></ul></p>",
   "game": "2024 Annual Rickies",
   "type": "Ricky",
   "topics": [
-    "Apple management"
+    "Apple management",
+    "Possible Vindication"
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": -1,
+  "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:14:29",
   "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:02:10"
 }

@@ -1,5 +1,18 @@
 [
   {
+    "text": "\"HomePod Touch\" is the name of the smart device",
+    "full-pick-text": "\"HomePod Touch\" is the name of the smart device",
+    "notes": "",
+    "game": "2025 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:13:37"
+  },
+  {
     "text": "A Mac gets a screen that supports touch and/or Apple Pencil input",
     "full-pick-text": "A Mac gets a screen that supports touch and/or Apple Pencil input",
     "notes": "<p><ul><li> Myke was torn between this and \"<a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#iPad%20multitasking%20is%20overhauled%20again\">iPad multitasking is overhauled again</a>\", but elected to make the more passionate pick.</li></ul></p>",
@@ -51,6 +64,19 @@
     "ahead-by": 34,
     "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:10:10",
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:15:31"
+  },
+  {
+    "text": "A new AirTag is introduced with better tracking capabilities",
+    "full-pick-text": "A new AirTag is introduced with better tracking capabilities",
+    "notes": "",
+    "game": "2025 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "Accessories"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:48:47"
   },
   {
     "text": "A new Apple Display",
@@ -212,11 +238,28 @@
     "type": "Flexie",
     "topics": [
       "Accessories",
-      "AirPods"
+      "AirPods",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:24:09",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:08:41"
+  },
+  {
+    "text": "AirPods Pro get hardware changes to support new health features",
+    "full-pick-text": "AirPods Pro get hardware changes to support new health features",
+    "notes": "",
+    "game": "2025 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "AirPods"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:20"
   },
   {
     "text": "AirPods to gain more controls via touch actions",
@@ -458,10 +501,13 @@
     "game": "2024 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:28:37",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:14:15"
   },
   {
@@ -479,6 +525,21 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx7hkz9o/35:53",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/46:41"
+  },
+  {
+    "text": "Apple introduces a new smart home product that features a screen...",
+    "full-pick-text": "Apple introduces a new smart home product that features a screen. It will be in the HomePod line of products, it will feature eye/hand tracking as a way to control the interface without needing to touch the screen, and it will feature support for third party apps to run on the device.",
+    "notes": "<p><ul><li>\"It will be in the HomePod line of products.\"</li><li>\"It will feature eye or hand tracking as a way to control the interface without needing to touch the screen.\"</li><li>\"And it will feature support for third party apps to run on the device.\"</li><li>Apps may not necessarily come from a dedicated App Store, it may be more like CarPlay or some form of mirroring. Just widgets or Live Activities will not count, there has to be UI that you interact with.</li></ul></p>",
+    "game": "2025 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Accessories",
+      "Developer tools",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 4,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:04:20"
   },
   {
     "text": "Apple introduces new \"vegan leather\" cases",
@@ -1198,20 +1259,21 @@
     "type": "Flexie",
     "topics": [
       "Accessories",
+      "Ahead of Its Time",
       "AirPods",
-      "Live Edited",
-      "Possible Vindication"
+      "Live Edited"
     ],
     "host": "Myke",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 617,
     "overcast-graded": "https://overcast.fm/+FXx5wv1as/32:09",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:34:07"
   },
   {
     "text": "New AirPods Max in 2024",
     "full-pick-text": "New AirPods Max",
-    "notes": "<p><ul><li><a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#New%20AirPods%20Max\">This might</a> be <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20announces%20new%20AirPods%20Max%2C%20featuring%20USB-C%20and%20made%20of%20titanium\">the year</a>!</li></ul></p>",
+    "notes": "<p><ul><li><a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#New%20AirPods%20Max\">This might</a> be <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20announces%20new%20AirPods%20Max%2C%20featuring%20USB-C%20and%20made%20of%20titanium\">the year</a>!</li><li>\"Technically correct.\"</li></ul></p>",
     "game": "2024 Annual Rickies",
     "type": "Flexie",
     "topics": [
@@ -1220,6 +1282,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:27:11",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:12:51"
   },
   {
@@ -1599,6 +1663,19 @@
     "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:20:02"
   },
   {
+    "text": "The HomePod mini is updated",
+    "full-pick-text": "The HomePod mini is updated",
+    "notes": "<p><ul><li>Something as small as a color change counts as an update.</li></ul></p>",
+    "game": "2025 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:20:48"
+  },
+  {
     "text": "The HomePod will gain multiple user support via voice detection",
     "full-pick-text": "The HomePod will gain multiple user support via voice detection",
     "notes": "",
@@ -1661,6 +1738,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:05:49",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/54:52"
   },
   {

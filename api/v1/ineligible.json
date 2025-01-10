@@ -1,44 +1,45 @@
 {
   "Stephen": [
     {
-      "text": "Apple's CEO succession plan leaks",
-      "full-pick-text": "Apple's CEO succession plan leaks",
-      "notes": "<p><ul><li>Midway through the year... <a href=\"https://512pixels.net/2024/05/our-boy-john-ternus/\" target=\"_blank\">an interesting development</a>, but the grading debate hasn't been had yet.</li></ul></p>",
-      "game": "2024 Annual Rickies",
+      "text": "Apple replaces the \"Plus\" iPhone with an all new model...",
+      "full-pick-text": "Apple replaces the \"Plus\" iPhone with an all new model. It's the thinnest iPhone ever, but is made of titanium to remain strong. It has no Camera Control and/or Action Button. It does not offer an always-on display.",
+      "notes": "<p><ul><li>\"It's the thinnest iPhone ever, but is made of titanium to remain strong.\"</li>\n<li>\"It has no Camera Control and/or Action Button.\"</li>\n<li>\"It does not offer an always-on display.\"</li></ul></p>",
+      "game": "2025 Annual Rickies",
       "type": "Ricky",
       "topics": [
-        "Apple management"
+        "iPhone",
+        "Buzzkill"
       ],
       "host": "Stephen",
-      "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:02:10"
+      "pick-conditions": 5,
+      "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:08:12"
     },
     {
-      "text": "The Apple Watch 10 brings an updated design inspired by the Apple Watch Ultra in some way",
-      "full-pick-text": "The Apple Watch 10 brings an updated design inspired by the Apple Watch Ultra in some way",
-      "notes": "<p><ul><li>Ungraded: \"Action Button, flat glass or crown guard, for example\"</li></ul></p>",
-      "game": "2024 Annual Rickies",
+      "text": "Apple ships the Apple Watch Ultra 3",
+      "full-pick-text": "Apple ships the Apple Watch Ultra 3",
+      "notes": "",
+      "game": "2025 Annual Rickies",
       "type": "Regular",
       "topics": [
         "Apple Watch"
       ],
       "host": "Stephen",
       "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/52:45"
+      "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:46:59"
     },
     {
-      "text": "There will be no second-generation Vision Pro announced in 2024",
-      "full-pick-text": "There will be no second-generation Vision Pro announced in 2024",
-      "notes": "",
-      "game": "2024 Annual Rickies",
+      "text": "The M1 MacBook Air is not for sale at the end of 2025",
+      "full-pick-text": "The M1 MacBook Air is not for sale at the end of 2025",
+      "notes": "<p><ul><li>Wal-Mart selling the M1 <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20M1%20MacBook%20Air%20is%20still%20on%20sale%20at%20the%20end%20of%20the%20year\">counted for it still being \"on sale\"</a> moments before this, so one would assume they must stop selling it in 2025.</li></ul></p>",
+      "game": "2025 Annual Rickies",
       "type": "Regular",
       "topics": [
-        "Apple Vision Pro",
+        "Mac",
         "Buzzkill"
       ],
       "host": "Stephen",
       "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/58:58"
+      "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:50:21"
     },
     {
       "text": "The iPad mini is updated with an A17 Pro or higher and a larger, brighter display. It will run Apple Intelligence.",
@@ -91,43 +92,58 @@
   ],
   "Myke": [
     {
-      "text": "A game made by a studio owned by Meta is released on Vision Pro",
-      "full-pick-text": "A game made by a studio owned by Meta is released on Vision Pro",
-      "notes": "",
-      "game": "2024 Annual Rickies",
+      "text": "Apple introduces a new smart home product that features a screen...",
+      "full-pick-text": "Apple introduces a new smart home product that features a screen. It will be in the HomePod line of products, it will feature eye/hand tracking as a way to control the interface without needing to touch the screen, and it will feature support for third party apps to run on the device.",
+      "notes": "<p><ul><li>\"It will be in the HomePod line of products.\"</li><li>\"It will feature eye or hand tracking as a way to control the interface without needing to touch the screen.\"</li><li>\"And it will feature support for third party apps to run on the device.\"</li><li>Apps may not necessarily come from a dedicated App Store, it may be more like CarPlay or some form of mirroring. Just widgets or Live Activities will not count, there has to be UI that you interact with.</li></ul></p>",
+      "game": "2025 Annual Rickies",
       "type": "Ricky",
       "topics": [
-        "Apple Vision Pro"
+        "Accessories",
+        "Developer tools",
+        "Live Edited"
+      ],
+      "host": "Myke",
+      "pick-conditions": 4,
+      "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:04:20"
+    },
+    {
+      "text": "Apple introduces its own LLM to power Siri",
+      "full-pick-text": "Apple introduces its own LLM to power Siri",
+      "notes": "<p><ul><li>It does not have to <em>ship</em> in 2025, though.</li></ul></p>",
+      "game": "2025 Annual Rickies",
+      "type": "Regular",
+      "topics": [
+        "Machine Learning/AI"
       ],
       "host": "Myke",
       "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:00:54"
+      "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:44:29"
     },
     {
-      "text": "The first OLED iPad is introduced",
-      "full-pick-text": "The first OLED iPad is introduced",
+      "text": "Apple introduces the thinnest iPhone ever",
+      "full-pick-text": "Apple introduces the thinnest iPhone ever",
       "notes": "",
-      "game": "2024 Annual Rickies",
+      "game": "2025 Annual Rickies",
       "type": "Regular",
       "topics": [
-        "iPad"
+        "iPhone"
       ],
       "host": "Myke",
       "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/52:03"
+      "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:49:50"
     },
     {
-      "text": "There is a new, larger, non-Pro iPad",
-      "full-pick-text": "There is a new, larger, non-Pro iPad",
-      "notes": "",
-      "game": "2024 Annual Rickies",
+      "text": "Mac Studio is updated with a new chip",
+      "full-pick-text": "Mac Studio is updated with a new chip",
+      "notes": "<p><ul><li>The first ever <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Bonus%20Regular%20Pick%20Candidates\">bonus pick</a>, thanks to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20announces%20a%20new%20Mac%20Pro%20powered%20by%20Apple%20Silicon\">a pick coming true after it was graded false</a>. Before the hosts remembered that bonus picks were a thing now, this was a Flexie.</li></ul></p>",
+      "game": "2025 Annual Rickies",
       "type": "Regular",
       "topics": [
-        "iPad"
+        "Mac"
       ],
       "host": "Myke",
-      "pick-conditions": 2,
-      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/57:49"
+      "pick-conditions": 1,
+      "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:51:02"
     },
     {
       "text": "A button is introduced to an iPhone that directly lets you capture photos",
@@ -181,46 +197,46 @@
   ],
   "Federico": [
     {
-      "text": "A new iPad Pro will feature...",
-      "full-pick-text": "A new iPad Pro will feature a front-facing camera on the landscape side, higher than 27W fast charging, and eventually support more than 4 windows in the same Stage Manager workspace",
-      "notes": "<p><ul><li>\"... a front-facing camera on the landscape side, higher than 27W fast charging, and eventually support more than 4 windows in the same Stage Manager workspace.\"</li><li>Before the episode, this pick also included the detail of some models coming with more than 16 GB of RAM, but in keeping with the new, less outlandish tone of risky picks, Myke asked that it be toned down a bit.</li></ul></p>",
-      "game": "2024 Annual Rickies",
-      "type": "Ricky",
-      "topics": [
-        "iPad"
-      ],
-      "host": "Federico",
-      "pick-conditions": 3,
-      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:02:36"
-    },
-    {
-      "text": "iOS 18 will bring new AI features based on LLMs with some generative capabilities",
-      "full-pick-text": "iOS 18 will bring new AI features based on LLMs with some generative capabilities",
-      "notes": "",
-      "game": "2024 Annual Rickies",
+      "text": "A new \"iPhone SE\" is introduced with a new design",
+      "full-pick-text": "A new \"iPhone SE\" is introduced with a new design",
+      "notes": "<p><ul><li>Or something in its place, the name doesn't have to be \"SE\".</li><li>Ungraded, Stephen thinks this may be the first pick to come true in 2025.</li></ul></p>",
+      "game": "2025 Annual Rickies",
       "type": "Regular",
       "topics": [
-        "iOS",
+        "iPhone"
+      ],
+      "host": "Federico",
+      "pick-conditions": 2,
+      "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:42:47"
+    },
+    {
+      "text": "A new AirTag is introduced with better tracking capabilities",
+      "full-pick-text": "A new AirTag is introduced with better tracking capabilities",
+      "notes": "",
+      "game": "2025 Annual Rickies",
+      "type": "Regular",
+      "topics": [
+        "Accessories"
+      ],
+      "host": "Federico",
+      "pick-conditions": 2,
+      "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:48:47"
+    },
+    {
+      "text": "Apple announces a new standalone \"Siri app\" based on a new LLM that will...",
+      "full-pick-text": "Apple announces a new standalone \"Siri app\" based on a new LLM that will be multilingual and support multiple languages at the same time, support multiple modalities – e.g. text input, voice input, and image attachments in the same conversation, and display content from third-party apps inline based on a new developer framework.",
+      "notes": "<p><ul><li>\"Be multilingual and support multiple languages at the same time.\"</li>\n<li>\"Support multiple modalities – e.g. text input, voice input, or image attachments in the same conversation.\"</li>\n<li>\"Display content from third-party apps inline based on a new developer framework.\"</li><li>If the overall pick about a \"Siri app\" is wrong, all the details will be counted as wrong as well. But that won't be a problem because Federico thinks that this approach is \"so obvious\".</li></ul></p>",
+      "game": "2025 Annual Rickies",
+      "type": "Ricky",
+      "topics": [
+        "Apple Apps",
+        "Developer tools",
+        "Live Edited",
         "Machine Learning/AI"
       ],
       "host": "Federico",
-      "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:00:10"
-    },
-    {
-      "text": "The keyboard for iPad Pro is substantially redesigned for the first time since its introduction in 2020",
-      "full-pick-text": "The keyboard for iPad Pro is substantially redesigned for the first time since its introduction in 2020",
-      "notes": "<p><ul><li>Federico's cohosts generously helped workshop some of the possible nitpicks out of the pick.</li><li>Ungraded: \"function row, backlight, material change, multiple USB ports, different viewing angles\"</li></ul></p>",
-      "game": "2024 Annual Rickies",
-      "type": "Regular",
-      "topics": [
-        "iPad",
-        "Accessories",
-        "Live Edited"
-      ],
-      "host": "Federico",
-      "pick-conditions": 1,
-      "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/54:52"
+      "pick-conditions": 6,
+      "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:55:00"
     },
     {
       "text": "All the iPhones announced support Apple Intelligence",

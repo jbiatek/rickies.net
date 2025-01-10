@@ -102,14 +102,17 @@
   {
     "text": "A new iPad Pro will feature...",
     "full-pick-text": "A new iPad Pro will feature a front-facing camera on the landscape side, higher than 27W fast charging, and eventually support more than 4 windows in the same Stage Manager workspace",
-    "notes": "<p><ul><li>\"... a front-facing camera on the landscape side, higher than 27W fast charging, and eventually support more than 4 windows in the same Stage Manager workspace.\"</li><li>Before the episode, this pick also included the detail of some models coming with more than 16 GB of RAM, but in keeping with the new, less outlandish tone of risky picks, Myke asked that it be toned down a bit.</li></ul></p>",
+    "notes": "<p><ul><li>\"... a front-facing camera on the landscape side, higher than 27W fast charging, and eventually support more than 4 windows in the same Stage Manager workspace.\"</li><li>Before the episode, this pick also included the detail of some models coming with more than 16 GB of RAM, but in keeping with the new, less outlandish tone of risky picks, Myke asked that it be toned down a bit.</li><li>In the new rules, this would've earned some points, but with some parts wrong, it's wrong.</li></ul></p>",
     "game": "2024 Annual Rickies",
     "type": "Ricky",
     "topics": [
-      "iPad"
+      "iPad",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 3,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:19:41",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:02:36"
   },
   {
@@ -132,14 +135,17 @@
   {
     "text": "An updated iPad Air comes in at least one new color",
     "full-pick-text": "An updated iPad Air comes in at least one new color",
-    "notes": "<p><ul><li>At pick time, the colors were: Space Gray, Starlight, Pink, Purple, and Blue.</li></ul></p>",
+    "notes": "<p><ul><li>At pick time, the colors were: Space Gray, Starlight, Pink, Purple, and Blue.</li><li>After May 2024, the colors were: Blue, Purple, Starlight, Space Gray... so the exact opposite.</li></ul></p>",
     "game": "2024 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "iPad"
+      "iPad",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:23:19",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:05:55"
   },
   {
@@ -763,10 +769,13 @@
     "type": "Flexie",
     "topics": [
       "iPad",
-      "iPadOS"
+      "iPadOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:26:50",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:12:33"
   },
   {
@@ -1332,6 +1341,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:22:59",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:05:18"
   },
   {
@@ -1396,6 +1407,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:04:08",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/52:03"
   },
   {
@@ -1729,6 +1742,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:05:49",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/54:52"
   },
   {
@@ -2046,6 +2061,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:07:02",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/57:49"
   },
   {

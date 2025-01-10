@@ -1,0 +1,16 @@
+{
+  "text": "Apple announces a new standalone \"Siri app\" based on a new LLM that will...",
+  "full-pick-text": "Apple announces a new standalone \"Siri app\" based on a new LLM that will be multilingual and support multiple languages at the same time, support multiple modalities – e.g. text input, voice input, and image attachments in the same conversation, and display content from third-party apps inline based on a new developer framework.",
+  "notes": "<p><ul><li>\"Be multilingual and support multiple languages at the same time.\"</li>\n<li>\"Support multiple modalities – e.g. text input, voice input, or image attachments in the same conversation.\"</li>\n<li>\"Display content from third-party apps inline based on a new developer framework.\"</li><li>If the overall pick about a \"Siri app\" is wrong, all the details will be counted as wrong as well. But that won't be a problem because Federico thinks that this approach is \"so obvious\".</li></ul></p>",
+  "game": "2025 Annual Rickies",
+  "type": "Ricky",
+  "topics": [
+    "Apple Apps",
+    "Developer tools",
+    "Live Edited",
+    "Machine Learning/AI"
+  ],
+  "host": "Federico",
+  "pick-conditions": 6,
+  "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:55:00"
+}

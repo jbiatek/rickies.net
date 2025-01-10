@@ -6,11 +6,28 @@
     "game": "2024 Annual Rickies",
     "type": "Ricky",
     "topics": [
-      "Apple Vision Pro"
+      "Apple Vision Pro",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:13:23",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:00:54"
+  },
+  {
+    "text": "A second-generation Vision Pro is rumored to feature an M4 but doesn't launch in 2025",
+    "full-pick-text": "A second-generation Vision Pro is rumored to feature an M4 but doesn't launch in 2025",
+    "notes": "<p><ul><li>A rumor existing isn't very gradable, so a more concrete provision about when it (doesn't) launch was added.</li></ul></p>",
+    "game": "2025 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:16:36"
   },
   {
     "text": "A Vision Pro will be used on the International Space Station",
@@ -19,10 +36,13 @@
     "game": "2024 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Apple Vision Pro"
+      "Apple Vision Pro",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:25:56",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:10:39"
   },
   {
@@ -50,10 +70,13 @@
     "topics": [
       "Apple Vision Pro",
       "Apple TV+",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:23:54",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:06:27"
   },
   {
@@ -168,6 +191,21 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/52:42",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:42"
+  },
+  {
+    "text": "No new Vision hardware announced",
+    "full-pick-text": "No new Vision hardware announced",
+    "notes": "",
+    "game": "2025 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:06"
   },
   {
     "text": "The announced price of the headset will be less than $2,500",
@@ -305,6 +343,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:09:20",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/58:58"
   },
   {
@@ -369,6 +409,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:24:58",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:10:11"
   },
   {
@@ -400,6 +442,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:28:48",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:14:21"
   },
   {
@@ -431,6 +475,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:27:51",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:12:58"
   }
 ]

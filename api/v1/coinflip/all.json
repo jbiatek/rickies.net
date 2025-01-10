@@ -406,5 +406,17 @@
     "prize": 1,
     "result": "Tails",
     "winner": "Stephen"
+  },
+  {
+    "game": "",
+    "called": "Heads",
+    "caller": "Stephen",
+    "flip-method": "Dice by PCalc",
+    "game-phase": "Rickies",
+    "loser": "Myke",
+    "overcast-link": "https://overcast.fm/+FXx6e_hj0/00:20:58",
+    "prize": 1,
+    "result": "Heads",
+    "winner": "Federico"
   }
 ]

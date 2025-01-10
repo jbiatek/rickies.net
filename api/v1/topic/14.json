@@ -17,6 +17,22 @@
     "overcast-picked": "https://overcast.fm/+FXx5giTnQ/1:01:21"
   },
   {
+    "text": "Apple announces a new standalone \"Siri app\" based on a new LLM that will...",
+    "full-pick-text": "Apple announces a new standalone \"Siri app\" based on a new LLM that will be multilingual and support multiple languages at the same time, support multiple modalities – e.g. text input, voice input, and image attachments in the same conversation, and display content from third-party apps inline based on a new developer framework.",
+    "notes": "<p><ul><li>\"Be multilingual and support multiple languages at the same time.\"</li>\n<li>\"Support multiple modalities – e.g. text input, voice input, or image attachments in the same conversation.\"</li>\n<li>\"Display content from third-party apps inline based on a new developer framework.\"</li><li>If the overall pick about a \"Siri app\" is wrong, all the details will be counted as wrong as well. But that won't be a problem because Federico thinks that this approach is \"so obvious\".</li></ul></p>",
+    "game": "2025 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Apple Apps",
+      "Developer tools",
+      "Live Edited",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 6,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:55:00"
+  },
+  {
     "text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
     "full-pick-text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
     "notes": "<p><ul><li>Not graded: \"A feature in Xcode that uses AI/ML to suggest how to improve your code or solve common problems. It will most likely live in a sidebar and will probably be a Beta feature.\"\n</li></ul></p>",
@@ -33,6 +49,21 @@
     "ahead-by": 370,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/30:41",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/42:28"
+  },
+  {
+    "text": "Apple introduces a new smart home product that features a screen...",
+    "full-pick-text": "Apple introduces a new smart home product that features a screen. It will be in the HomePod line of products, it will feature eye/hand tracking as a way to control the interface without needing to touch the screen, and it will feature support for third party apps to run on the device.",
+    "notes": "<p><ul><li>\"It will be in the HomePod line of products.\"</li><li>\"It will feature eye or hand tracking as a way to control the interface without needing to touch the screen.\"</li><li>\"And it will feature support for third party apps to run on the device.\"</li><li>Apps may not necessarily come from a dedicated App Store, it may be more like CarPlay or some form of mirroring. Just widgets or Live Activities will not count, there has to be UI that you interact with.</li></ul></p>",
+    "game": "2025 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Accessories",
+      "Developer tools",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 4,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:04:20"
   },
   {
     "text": "Apple introduces a proper Reminders API for developers",

@@ -50,6 +50,22 @@
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:49:51"
   },
   {
+    "text": "Apple announces a new standalone \"Siri app\" based on a new LLM that will...",
+    "full-pick-text": "Apple announces a new standalone \"Siri app\" based on a new LLM that will be multilingual and support multiple languages at the same time, support multiple modalities – e.g. text input, voice input, and image attachments in the same conversation, and display content from third-party apps inline based on a new developer framework.",
+    "notes": "<p><ul><li>\"Be multilingual and support multiple languages at the same time.\"</li>\n<li>\"Support multiple modalities – e.g. text input, voice input, or image attachments in the same conversation.\"</li>\n<li>\"Display content from third-party apps inline based on a new developer framework.\"</li><li>If the overall pick about a \"Siri app\" is wrong, all the details will be counted as wrong as well. But that won't be a problem because Federico thinks that this approach is \"so obvious\".</li></ul></p>",
+    "game": "2025 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Apple Apps",
+      "Developer tools",
+      "Live Edited",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 6,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:55:00"
+  },
+  {
     "text": "Apple announces AI-powered changes to iWork",
     "full-pick-text": "Apple announces AI-powered changes to iWork",
     "notes": "",
@@ -138,6 +154,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:29:23"
   },
   {
+    "text": "Apple does something with Pixelmator beyond keeping it on the App Store or updating its privacy policy",
+    "full-pick-text": "Apple does something with Pixelmator beyond keeping it on the App Store or updating its privacy policy",
+    "notes": "<p><ul><li>Taking it off of the app store counts.</li></ul></p>",
+    "game": "2025 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:21:14"
+  },
+  {
     "text": "Apple introduces a brand new journaling app",
     "full-pick-text": "Apple introduces a brand new journaling app",
     "notes": "<p><ul><li>Not graded: \"location features for friends, ability to take notes and attach images, maybe integration with Music?\"</li></ul></p>",
@@ -205,6 +235,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/32:38",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:09:41"
+  },
+  {
+    "text": "Apple Music gets natural language playlist creation",
+    "full-pick-text": "Apple Music gets natural language playlist creation",
+    "notes": "",
+    "game": "2025 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:22:21"
   },
   {
     "text": "Apple Notes will borrow some features from the modern generation of note-taking apps",
@@ -293,6 +337,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4xqI14/22:53",
     "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/34:06"
+  },
+  {
+    "text": "Apple showcases building Shortcuts with natural language",
+    "full-pick-text": "Apple showcases building Shortcuts with natural language",
+    "notes": "",
+    "game": "2025 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:22:01"
   },
   {
     "text": "Apple shows off the ability for Siri to control apps, but it's not launching this year",
@@ -1132,10 +1190,13 @@
     "topics": [
       "iOS",
       "Apple Apps",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:26:11",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:11:38"
   },
   {

@@ -33,6 +33,19 @@
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:03:12"
   },
   {
+    "text": "Apple ships the Apple Watch Ultra 3",
+    "full-pick-text": "Apple ships the Apple Watch Ultra 3",
+    "notes": "",
+    "game": "2025 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "Apple Watch"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:46:59"
+  },
+  {
     "text": "Apple unveils a new Apple Watch",
     "full-pick-text": "Apple unveils a new Apple Watch",
     "notes": "<p><ul><li>While Federico had some criticism of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20iPad%20home%20screen%20gets%20new%20features\">a couple</a> of <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Memoji%20will%20get%20updated%20to%20include%20face%20coverings\">Myke's picks</a> in <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#2020%20Summer%20Rickies\">the previous game</a> along the same lines, this was the very first time that Federico specifically called out a lack of \"passion\" in a pick.</li></ul></p>",
@@ -368,10 +381,13 @@
     "game": "2024 Annual Rickies",
     "type": "Regular",
     "topics": [
-      "Apple Watch"
+      "Apple Watch",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:05:12",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/52:45"
   },
   {
@@ -580,10 +596,13 @@
     "game": "2024 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Apple Watch"
+      "Apple Watch",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:28:25",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:13:35"
   },
   {

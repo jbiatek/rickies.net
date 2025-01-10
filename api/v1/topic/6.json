@@ -31,6 +31,19 @@
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/38:54"
   },
   {
+    "text": "A new \"iPhone SE\" is introduced with a new design",
+    "full-pick-text": "A new \"iPhone SE\" is introduced with a new design",
+    "notes": "<p><ul><li>Or something in its place, the name doesn't have to be \"SE\".</li><li>Ungraded, Stephen thinks this may be the first pick to come true in 2025.</li></ul></p>",
+    "game": "2025 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:42:47"
+  },
+  {
     "text": "A new color of iPhone 13 (family) is announced",
     "full-pick-text": "A new color of iPhone 13 (family) is announced",
     "notes": "",
@@ -305,6 +318,19 @@
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/57:46"
   },
   {
+    "text": "Apple introduces the thinnest iPhone ever",
+    "full-pick-text": "Apple introduces the thinnest iPhone ever",
+    "notes": "",
+    "game": "2025 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:49:50"
+  },
+  {
     "text": "Apple releases an iPhone subscription service that bundles a device, AppleCare, and a selection of other Apple content services into one monthly payment",
     "full-pick-text": "Apple releases an iPhone subscription service that bundles a device, AppleCare, and a selection of other Apple content services into one monthly payment",
     "notes": "<p><ul><li>\"(Not just additional iCloud space)\"</li><li>The free AppleTV+ trial with new devices combined with an iPhone Upgrade Program purchase is deemed to not count during grading.</li></ul></p>",
@@ -336,6 +362,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:12:50",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:13:49"
+  },
+  {
+    "text": "Apple replaces the \"Plus\" iPhone with an all new model...",
+    "full-pick-text": "Apple replaces the \"Plus\" iPhone with an all new model. It's the thinnest iPhone ever, but is made of titanium to remain strong. It has no Camera Control and/or Action Button. It does not offer an always-on display.",
+    "notes": "<p><ul><li>\"It's the thinnest iPhone ever, but is made of titanium to remain strong.\"</li>\n<li>\"It has no Camera Control and/or Action Button.\"</li>\n<li>\"It does not offer an always-on display.\"</li></ul></p>",
+    "game": "2025 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "Buzzkill"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 5,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:08:12"
   },
   {
     "text": "Apple sells an \"iPhone 15 Ultra\"",
@@ -739,6 +779,21 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/1:25:07",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:35:41"
+  },
+  {
+    "text": "iOS 19 brings agreements with new LLM partners beyond OpenAI",
+    "full-pick-text": "iOS 19 brings agreements with new LLM partners beyond OpenAI",
+    "notes": "",
+    "game": "2025 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:18:55"
   },
   {
     "text": "iPhone 15 and 15 Plus get an always-on display",
@@ -1623,6 +1678,19 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx4aVfvI/42:39",
     "overcast-picked": "https://overcast.fm/+FXx4VfMWE/51:54"
+  },
+  {
+    "text": "The new iPhone SE is called iPhone 16e",
+    "full-pick-text": "The new iPhone SE is called iPhone 16e",
+    "notes": "",
+    "game": "2025 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:19:52"
   },
   {
     "text": "The new iPhone will be the 12S, not the 13",

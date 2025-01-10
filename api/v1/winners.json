@@ -1,17 +1,20 @@
 {
   "titles": {
     "Stephen": [
-      "Secretary of Deflex"
+      "Attorney General Flexie"
     ],
     "Myke": [
-      "Ricky Benchman"
+      "Keynote Chairman",
+      "Duke of Flexington"
     ],
-    "Federico": []
+    "Federico": [
+      "Annual Chairman"
+    ]
   },
   "annual": {
-    "game-name": "2023 Annual Rickies",
-    "date": "2024-01-10",
-    "winner": "Myke",
+    "game-name": "2024 Annual Rickies",
+    "date": "2025-01-08",
+    "winner": "Federico",
     "social": "https://twitter.com/AnnualChairman",
     "title": "Annual Chairman"
   },
@@ -23,25 +26,25 @@
     "title": "Keynote Chairman"
   },
   "flexies": {
-    "game-name": "2024 September Rickies",
-    "date": "2024-09-11",
-    "winner": "Stephen",
-    "title": "Attorney General Flexie",
+    "game-name": "2024 Annual Rickies",
+    "date": "2025-01-08",
+    "winner": "Myke",
+    "title": "Duke of Flexington",
     "social": ""
   },
   "annual-flexies": {
-    "game-name": "2023 Annual Rickies",
-    "date": "2024-01-10",
-    "winner": "Stephen",
+    "game-name": "2024 Annual Rickies",
+    "date": "2025-01-08",
+    "winner": "Myke",
     "social": "",
-    "title": "Secretary of Deflex"
+    "title": "Duke of Flexington"
   },
   "keynote-flexies": {
     "game-name": "2024 September Rickies",
     "date": "2024-09-11",
     "winner": "Stephen",
     "social": "",
-    "title": "Secretary of Deflex"
+    "title": "Attorney General Flexie"
   },
-  "the-tricky-image": "https://rickies.net/files/images/tricky/MykeMyke.png"
+  "the-tricky-image": "https://rickies.net/files/images/tricky/FedericoMyke.png"
 }

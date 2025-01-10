@@ -1,7 +1,7 @@
 {
   "name": "2024 Annual Rickies",
   "game-type": "Annual",
-  "date-graded": "",
+  "date-graded": "2025-01-08",
   "date-picked": "2024-01-10",
   "main-game": {
     "picks": [
@@ -16,6 +16,8 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:04:08",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/52:03"
       },
       {
@@ -25,10 +27,13 @@
         "game": "2024 Annual Rickies",
         "type": "Regular",
         "topics": [
-          "Apple Watch"
+          "Apple Watch",
+          "Possible Vindication"
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:05:12",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/52:45"
       },
       {
@@ -44,6 +49,8 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:05:49",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/54:52"
       },
       {
@@ -57,6 +64,8 @@
         ],
         "host": "Myke",
         "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:07:02",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/57:49"
       },
       {
@@ -71,6 +80,8 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:09:20",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/58:58"
       },
       {
@@ -85,6 +96,8 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:10:21",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:00:10"
       },
       {
@@ -94,41 +107,64 @@
         "game": "2024 Annual Rickies",
         "type": "Ricky",
         "topics": [
-          "Apple Vision Pro"
+          "Apple Vision Pro",
+          "Possible Vindication"
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:13:23",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:00:54"
       },
       {
         "text": "Apple's CEO succession plan leaks",
         "full-pick-text": "Apple's CEO succession plan leaks",
-        "notes": "<p><ul><li>Midway through the year... <a href=\"https://512pixels.net/2024/05/our-boy-john-ternus/\" target=\"_blank\">an interesting development</a>, but the grading debate hasn't been had yet.</li></ul></p>",
+        "notes": "<p><ul><li>Midway through the year... <a href=\"https://512pixels.net/2024/05/our-boy-john-ternus/\" target=\"_blank\">an interesting development</a>, but the grading debate hasn't been had yet.</li><li>Ultimately, Jason Snell adjudicates and gives the thumbs down.</li></ul></p>",
         "game": "2024 Annual Rickies",
         "type": "Ricky",
         "topics": [
-          "Apple management"
+          "Apple management",
+          "Possible Vindication"
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:14:29",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:02:10"
       },
       {
         "text": "A new iPad Pro will feature...",
         "full-pick-text": "A new iPad Pro will feature a front-facing camera on the landscape side, higher than 27W fast charging, and eventually support more than 4 windows in the same Stage Manager workspace",
-        "notes": "<p><ul><li>\"... a front-facing camera on the landscape side, higher than 27W fast charging, and eventually support more than 4 windows in the same Stage Manager workspace.\"</li><li>Before the episode, this pick also included the detail of some models coming with more than 16 GB of RAM, but in keeping with the new, less outlandish tone of risky picks, Myke asked that it be toned down a bit.</li></ul></p>",
+        "notes": "<p><ul><li>\"... a front-facing camera on the landscape side, higher than 27W fast charging, and eventually support more than 4 windows in the same Stage Manager workspace.\"</li><li>Before the episode, this pick also included the detail of some models coming with more than 16 GB of RAM, but in keeping with the new, less outlandish tone of risky picks, Myke asked that it be toned down a bit.</li><li>In the new rules, this would've earned some points, but with some parts wrong, it's wrong.</li></ul></p>",
         "game": "2024 Annual Rickies",
         "type": "Ricky",
         "topics": [
-          "iPad"
+          "iPad",
+          "Possible Vindication"
         ],
         "host": "Federico",
         "pick-conditions": 3,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:19:41",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:02:36"
       }
     ],
     "coin-flips": [],
-    "winner": "TBD"
+    "scores": [
+      {
+        "host": "Federico",
+        "score": 1
+      },
+      {
+        "host": "Myke",
+        "score": 1
+      },
+      {
+        "host": "Stephen",
+        "score": 0
+      }
+    ],
+    "winner": "Federico"
   },
   "the-flexies": {
     "picks": [
@@ -143,6 +179,8 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:22:54",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:05:02"
       },
       {
@@ -156,19 +194,24 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:22:59",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:05:18"
       },
       {
         "text": "An updated iPad Air comes in at least one new color",
         "full-pick-text": "An updated iPad Air comes in at least one new color",
-        "notes": "<p><ul><li>At pick time, the colors were: Space Gray, Starlight, Pink, Purple, and Blue.</li></ul></p>",
+        "notes": "<p><ul><li>At pick time, the colors were: Space Gray, Starlight, Pink, Purple, and Blue.</li><li>After May 2024, the colors were: Blue, Purple, Starlight, Space Gray... so the exact opposite.</li></ul></p>",
         "game": "2024 Annual Rickies",
         "type": "Flexie",
         "topics": [
-          "iPad"
+          "iPad",
+          "Unvindicatable"
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:23:19",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:05:55"
       },
       {
@@ -180,10 +223,13 @@
         "topics": [
           "Apple Vision Pro",
           "Apple TV+",
-          "Live Edited"
+          "Live Edited",
+          "Possible Vindication"
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:23:54",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:06:27"
       },
       {
@@ -194,10 +240,13 @@
         "type": "Flexie",
         "topics": [
           "Accessories",
-          "AirPods"
+          "AirPods",
+          "Possible Vindication"
         ],
         "host": "Stephen",
         "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:24:09",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:08:41"
       },
       {
@@ -207,10 +256,13 @@
         "game": "2024 Annual Rickies",
         "type": "Flexie",
         "topics": [
-          "iOS"
+          "iOS",
+          "Possible Vindication"
         ],
         "host": "Federico",
         "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:24:41",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:09:13"
       },
       {
@@ -225,6 +277,8 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:24:58",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:10:11"
       },
       {
@@ -234,10 +288,13 @@
         "game": "2024 Annual Rickies",
         "type": "Flexie",
         "topics": [
-          "Apple Vision Pro"
+          "Apple Vision Pro",
+          "Possible Vindication"
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:25:56",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:10:39"
       },
       {
@@ -249,10 +306,13 @@
         "topics": [
           "iOS",
           "Apple Apps",
-          "Machine Learning/AI"
+          "Machine Learning/AI",
+          "Possible Vindication"
         ],
         "host": "Federico",
         "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:26:11",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:11:38"
       },
       {
@@ -263,16 +323,19 @@
         "type": "Flexie",
         "topics": [
           "iPad",
-          "iPadOS"
+          "iPadOS",
+          "Possible Vindication"
         ],
         "host": "Federico",
         "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:26:50",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:12:33"
       },
       {
         "text": "New AirPods Max in 2024",
         "full-pick-text": "New AirPods Max",
-        "notes": "<p><ul><li><a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#New%20AirPods%20Max\">This might</a> be <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20announces%20new%20AirPods%20Max%2C%20featuring%20USB-C%20and%20made%20of%20titanium\">the year</a>!</li></ul></p>",
+        "notes": "<p><ul><li><a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#New%20AirPods%20Max\">This might</a> be <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Apple%20announces%20new%20AirPods%20Max%2C%20featuring%20USB-C%20and%20made%20of%20titanium\">the year</a>!</li><li>\"Technically correct.\"</li></ul></p>",
         "game": "2024 Annual Rickies",
         "type": "Flexie",
         "topics": [
@@ -281,6 +344,8 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:27:11",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:12:51"
       },
       {
@@ -294,6 +359,8 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:27:51",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:12:58"
       },
       {
@@ -303,10 +370,13 @@
         "game": "2024 Annual Rickies",
         "type": "Flexie",
         "topics": [
-          "Apple TV+"
+          "Apple TV+",
+          "Possible Vindication"
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:28:19",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:13:13"
       },
       {
@@ -316,10 +386,13 @@
         "game": "2024 Annual Rickies",
         "type": "Flexie",
         "topics": [
-          "Apple Watch"
+          "Apple Watch",
+          "Possible Vindication"
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:28:25",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:13:35"
       },
       {
@@ -329,10 +402,13 @@
         "game": "2024 Annual Rickies",
         "type": "Flexie",
         "topics": [
-          "Accessories"
+          "Accessories",
+          "Possible Vindication"
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:28:37",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:14:15"
       },
       {
@@ -347,17 +423,45 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:28:48",
         "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:14:21"
       }
     ],
     "coin-flips": [],
-    "winner": "TBD"
+    "scores": [
+      {
+        "host": "Myke",
+        "correct": 3,
+        "total": 6
+      },
+      {
+        "host": "Stephen",
+        "correct": 2,
+        "total": 5
+      },
+      {
+        "host": "Federico",
+        "correct": 1,
+        "total": 5
+      }
+    ],
+    "charity-name": "Mermaids",
+    "charity-url": "https://mermaidsuk.org.uk",
+    "donation": 100,
+    "donator": "Federico",
+    "winner": "Myke"
   },
   "relevant-episodes": [
     {
       "title": "Connected #484: The Rickies (January 2024)",
       "url": "https://relay.fm/connected/484",
       "episode-number": 484
+    },
+    {
+      "title": "Connected #534: The Rickies (January 2025)",
+      "url": "https://relay.fm/connected/534",
+      "episode-number": 534
     }
   ]
 }

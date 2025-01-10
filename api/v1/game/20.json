@@ -197,13 +197,14 @@
         "type": "Flexie",
         "topics": [
           "Accessories",
+          "Ahead of Its Time",
           "AirPods",
-          "Live Edited",
-          "Possible Vindication"
+          "Live Edited"
         ],
         "host": "Myke",
         "pick-conditions": 1,
         "score": 0,
+        "ahead-by": 617,
         "overcast-graded": "https://overcast.fm/+FXx5wv1as/32:09",
         "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:34:07"
       },

@@ -131,5 +131,12 @@
     "donation": 150,
     "charity-name": "MVO Woodworks for St. Jude",
     "charity-url": "https://mvo.live/"
+  },
+  {
+    "game": "2024 Annual Rickies",
+    "donator": "Federico",
+    "donation": 100,
+    "charity-name": "Mermaids",
+    "charity-url": "https://mermaidsuk.org.uk"
   }
 ]

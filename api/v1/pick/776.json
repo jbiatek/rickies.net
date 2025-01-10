@@ -1,0 +1,15 @@
+{
+  "text": "Apple introduces a new smart home product that features a screen...",
+  "full-pick-text": "Apple introduces a new smart home product that features a screen. It will be in the HomePod line of products, it will feature eye/hand tracking as a way to control the interface without needing to touch the screen, and it will feature support for third party apps to run on the device.",
+  "notes": "<p><ul><li>\"It will be in the HomePod line of products.\"</li><li>\"It will feature eye or hand tracking as a way to control the interface without needing to touch the screen.\"</li><li>\"And it will feature support for third party apps to run on the device.\"</li><li>Apps may not necessarily come from a dedicated App Store, it may be more like CarPlay or some form of mirroring. Just widgets or Live Activities will not count, there has to be UI that you interact with.</li></ul></p>",
+  "game": "2025 Annual Rickies",
+  "type": "Ricky",
+  "topics": [
+    "Accessories",
+    "Developer tools",
+    "Live Edited"
+  ],
+  "host": "Myke",
+  "pick-conditions": 4,
+  "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:04:20"
+}

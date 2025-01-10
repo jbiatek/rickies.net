@@ -119,6 +119,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:29:41"
   },
   {
+    "text": "A second-generation Vision Pro is rumored to feature an M4 but doesn't launch in 2025",
+    "full-pick-text": "A second-generation Vision Pro is rumored to feature an M4 but doesn't launch in 2025",
+    "notes": "<p><ul><li>A rumor existing isn't very gradable, so a more concrete provision about when it (doesn't) launch was added.</li></ul></p>",
+    "game": "2025 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:16:36"
+  },
+  {
     "text": "An Apple Silicon Mac is available to order in November 2020",
     "full-pick-text": "An Apple Silicon Mac is available to order in November 2020",
     "notes": "",
@@ -134,6 +148,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx61X3jI/32:26",
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/56:39"
+  },
+  {
+    "text": "Another person on the Apple leadership page changes their title in 2025",
+    "full-pick-text": "Another person on the Apple leadership page changes their title in 2025",
+    "notes": "<p><ul><li><a href=\"https://web.archive.org/web/20250108030952/https://www.apple.com/leadership/\" target=\"_blank\">The leadership page at the time of recording</a>.</li></ul></p>",
+    "game": "2025 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:27"
   },
   {
     "text": "Any kind of release timeframe is provided for macOS Monterey",
@@ -225,6 +253,22 @@
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/57:49"
   },
   {
+    "text": "Apple announces a new standalone \"Siri app\" based on a new LLM that will...",
+    "full-pick-text": "Apple announces a new standalone \"Siri app\" based on a new LLM that will be multilingual and support multiple languages at the same time, support multiple modalities – e.g. text input, voice input, and image attachments in the same conversation, and display content from third-party apps inline based on a new developer framework.",
+    "notes": "<p><ul><li>\"Be multilingual and support multiple languages at the same time.\"</li>\n<li>\"Support multiple modalities – e.g. text input, voice input, or image attachments in the same conversation.\"</li>\n<li>\"Display content from third-party apps inline based on a new developer framework.\"</li><li>If the overall pick about a \"Siri app\" is wrong, all the details will be counted as wrong as well. But that won't be a problem because Federico thinks that this approach is \"so obvious\".</li></ul></p>",
+    "game": "2025 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Apple Apps",
+      "Developer tools",
+      "Live Edited",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 6,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:55:00"
+  },
+  {
     "text": "Apple announces an AI deal with Google",
     "full-pick-text": "Apple announces an AI deal with Google",
     "notes": "<p><ul><li>Originally included the word \"also\" but that was confusing things.</li></ul></p>",
@@ -257,6 +301,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx7XKpU4/31:22",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/19:31"
+  },
+  {
+    "text": "Apple does something with Pixelmator beyond keeping it on the App Store or updating its privacy policy",
+    "full-pick-text": "Apple does something with Pixelmator beyond keeping it on the App Store or updating its privacy policy",
+    "notes": "<p><ul><li>Taking it off of the app store counts.</li></ul></p>",
+    "game": "2025 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:21:14"
   },
   {
     "text": "Apple gives a sneak peak of the new Mac Pro...",
@@ -331,6 +389,21 @@
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/29:06"
   },
   {
+    "text": "Apple introduces a new smart home product that features a screen...",
+    "full-pick-text": "Apple introduces a new smart home product that features a screen. It will be in the HomePod line of products, it will feature eye/hand tracking as a way to control the interface without needing to touch the screen, and it will feature support for third party apps to run on the device.",
+    "notes": "<p><ul><li>\"It will be in the HomePod line of products.\"</li><li>\"It will feature eye or hand tracking as a way to control the interface without needing to touch the screen.\"</li><li>\"And it will feature support for third party apps to run on the device.\"</li><li>Apps may not necessarily come from a dedicated App Store, it may be more like CarPlay or some form of mirroring. Just widgets or Live Activities will not count, there has to be UI that you interact with.</li></ul></p>",
+    "game": "2025 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Accessories",
+      "Developer tools",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 4,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:04:20"
+  },
+  {
     "text": "Apple introduces a new, lower end Apple Watch model in addition to the higher end Series 6",
     "full-pick-text": "Apple introduces a new, lower end Apple Watch model in addition to the higher end Series 6",
     "notes": "",
@@ -388,10 +461,13 @@
     "topics": [
       "Apple Vision Pro",
       "Apple TV+",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:23:54",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:06:27"
   },
   {
@@ -465,6 +541,20 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/21:01",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:04:42"
+  },
+  {
+    "text": "Apple services see a price increase in the US",
+    "full-pick-text": "Apple services see a price increase in the US",
+    "notes": "",
+    "game": "2025 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Services"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:19:05"
   },
   {
     "text": "Apple shares a video touting the benefits of the time-of-flight sensor found in the 2020 iPad Pros for AR",
@@ -1158,13 +1248,14 @@
     "type": "Flexie",
     "topics": [
       "Accessories",
+      "Ahead of Its Time",
       "AirPods",
-      "Live Edited",
-      "Possible Vindication"
+      "Live Edited"
     ],
     "host": "Myke",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 617,
     "overcast-graded": "https://overcast.fm/+FXx5wv1as/32:09",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:34:07"
   },
@@ -1274,6 +1365,21 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx61X3jI/46:38",
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:07:14"
+  },
+  {
+    "text": "No new Vision hardware announced",
+    "full-pick-text": "No new Vision hardware announced",
+    "notes": "",
+    "game": "2025 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:06"
   },
   {
     "text": "No preview of AR/VR/MR-focused hardware",
@@ -1634,6 +1740,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:05:49",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/54:52"
   },
   {

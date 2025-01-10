@@ -146,5 +146,9 @@
   {
     "episode": 517,
     "changes": "<p>With the new Rickies rules now being put into practice, some clarifications about whether the risky pick <em>contains</em> conditions or is <em>made up of</em> conditions need to be made. Ultimately, <a href=\"https://overcast.fm/+FXx6F3FTY/01:02:15\" target=\"_blank\">the wording is changed to \"a pick comprising three conditions\"</a> to settle it.</p>"
+  },
+  {
+    "episode": 534,
+    "changes": "<p>Tweaked the new risky pick rules to say \"with three supporting details\" instead of \"comprising three conditions\" and replace \"conditions\" with \"details\" in general, as the same confusion and debate keeps coming up.</p>"
   }
 ]

@@ -5,9 +5,12 @@
   "game": "2024 Annual Rickies",
   "type": "Ricky",
   "topics": [
-    "Apple Vision Pro"
+    "Apple Vision Pro",
+    "Possible Vindication"
   ],
   "host": "Myke",
   "pick-conditions": 1,
+  "score": -1,
+  "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:13:23",
   "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:00:54"
 }
