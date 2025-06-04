@@ -1,0 +1,13 @@
+{
+  "text": "Apple opens up AFM (Apple Foundation Model) to developers",
+  "full-pick-text": "Apple opens up AFM (Apple Foundation Model) to developers. It's a 3B parameter version only that runs on device. It's designed in a way that only specific \"endpoints\" can be used with a native API, like summarization or writing or prioritizing content. Apple shows off examples of how they're using the same tech in its own system apps.",
+  "notes": "<p><ul><li>\"It's a 3B parameter version only that runs on device.\"</li><li>\"It's designed in a way that only specific \"endpoints\" can be used with a native API, like summarization or writing or prioritizing content.\" (In other words, developers won't be able to prompt the API with arbitrary text, they only have access to particular tasks like summarization.)</li><li>\"Apple shows off examples of how they're using the same tech in its own system apps.\"</li></ul></p>",
+  "game": "2025 WWDC Rickies",
+  "type": "Ricky",
+  "topics": [
+    "Developer tools",
+    "Machine Learning/AI"
+  ],
+  "host": "Federico",
+  "pick-conditions": 3
+}

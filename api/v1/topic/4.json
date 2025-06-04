@@ -1,5 +1,18 @@
 [
   {
+    "text": "A disclaimer is added to some features in the video saying whether it's real footage or simulated",
+    "full-pick-text": "A disclaimer is added to some features in the video saying whether it's real footage or simulated",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "A presenter references the fact that some developers are at Apple Park for the keynote",
     "full-pick-text": "A presenter references the fact that some developers are at Apple Park for the keynote",
     "notes": "<p><ul><li>This is litigated a bit later when <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Tim%20presents%20some%20portion%20of%20the%20keynote%20in%20front%20of%20a%20live%20audience\">Myke's very similar pick got graded</a>, as Tim Cook did address the audience before the video played. He was decided to not be \"a presenter\" at the time, ultimately.</li></ul></p>",
@@ -14,6 +27,18 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:26:22",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:21:31"
+  },
+  {
+    "text": "Alan Dye is in the presentation to talk about the redesign",
+    "full-pick-text": "Alan Dye is in the presentation to talk about the redesign",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
   },
   {
     "text": "All outside shots are filmed in the evening",
@@ -252,6 +277,18 @@
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:07:46"
   },
   {
+    "text": "Apple hints that a new \"glass-like\" material for its UI design is true to the nature of the hardware itself",
+    "full-pick-text": "Apple hints that a new \"glass-like\" material for its UI design is true to the nature of the hardware itself",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "Apple Intelligence features are demoed again",
     "full-pick-text": "Apple Intelligence features are demoed again",
     "notes": "",
@@ -266,6 +303,18 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:15:02",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:09:43"
+  },
+  {
+    "text": "Apple introduces the new OS design with an animated video showing the old look morphing in to the new look",
+    "full-pick-text": "Apple introduces the new OS design with an animated video showing the old look morphing in to the new look",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   },
   {
     "text": "Apple mentions at least 1 feature \"coming later\"",
@@ -436,6 +485,19 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:05:31",
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/54:03"
+  },
+  {
+    "text": "Apple teases bigger versions of AFM on the horizon",
+    "full-pick-text": "Apple teases bigger versions of AFM on the horizon",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "Apple TV+ content is featured in the keynote",
@@ -637,6 +699,18 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:22:48",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:25:51"
+  },
+  {
+    "text": "During the opening, Tim Cook uses the words \"love\" and \"developers\" in the same sentence",
+    "full-pick-text": "During the opening, Tim Cook uses the words \"love\" and \"developers\" in the same sentence",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
   },
   {
     "text": "Event looks mostly like WWDC",
@@ -1292,6 +1366,19 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:17:16",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:18:55"
+  },
+  {
+    "text": "The Google Gemini logo is shown on screen as part of a partnership announcement",
+    "full-pick-text": "The Google Gemini logo is shown on screen as part of a partnership announcement",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "The headset portion of the keynote lasts over an hour",

@@ -235,6 +235,23 @@
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/55:41"
   },
   {
+    "text": "Apple rebrands version numbers of its operating systems",
+    "full-pick-text": "Apple rebrands version numbers of its operating systems",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iOS",
+      "iPad",
+      "iPadOS",
+      "Mac",
+      "macOS",
+      "visionOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "Apple releases a bigger iPad Pro",
     "full-pick-text": "Apple releases a bigger iPad Pro",
     "notes": "",
@@ -797,6 +814,19 @@
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:30:14"
   },
   {
+    "text": "iPadOS gets updated window management tools",
+    "full-pick-text": "iPadOS gets updated window management tools",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "iPadOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
     "full-pick-text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
     "notes": "<p><ul><li>Was originally a Risky pick with the addition of a \"with keyboard and trackpad\" clause, but <a href=\"https://twitter.com/stroughtonsmith/status/1529836983874469891\" target=\"_blank\">some WebKit source code changes</a> made it much less risky. He watered it down further by removing an \"overlapping\" clause as well and not phrasing it as a \"desktop-like mode\", but then decided to just go all the way back to the original pick.</li></ul></p>",
@@ -1225,6 +1255,23 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:42:03",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:32:30"
+  },
+  {
+    "text": "Significantly new OS design on at least one platform",
+    "full-pick-text": "Significantly new OS design on at least one platform",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iOS",
+      "iPad",
+      "iPadOS",
+      "Mac",
+      "macOS",
+      "visionOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   },
   {
     "text": "Some Mac-only Shortcuts actions will become available on iPhone and iPad",

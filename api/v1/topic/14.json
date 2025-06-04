@@ -33,6 +33,31 @@
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:55:00"
   },
   {
+    "text": "Apple announces a third party assistant API for some markets",
+    "full-pick-text": "Apple announces a third party assistant API for some markets",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Developer tools"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Apple has a new app for gamers",
+    "full-pick-text": "Apple has a new app for gamers. It's called Apple Games. It creates new, specific developer terms for games. It features a partnership with Microsoft for Xbox Game Pass.",
+    "notes": "<p><ul><li>\"It's called Apple Games.\"</li><li>\"It creates new, specific developer terms for games.\"</li><li>\"It features a partnership with Microsoft for Xbox Game Pass.\"</li></ul></p>",
+    "game": "2025 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Apple Apps",
+      "Developer tools"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3
+  },
+  {
     "text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
     "full-pick-text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
     "notes": "<p><ul><li>Not graded: \"A feature in Xcode that uses AI/ML to suggest how to improve your code or solve common problems. It will most likely live in a sidebar and will probably be a Beta feature.\"\n</li></ul></p>",
@@ -100,6 +125,33 @@
     "ahead-by": 87,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:04:50",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:17:38"
+  },
+  {
+    "text": "Apple opens up AFM (Apple Foundation Model) to developers",
+    "full-pick-text": "Apple opens up AFM (Apple Foundation Model) to developers. It's a 3B parameter version only that runs on device. It's designed in a way that only specific \"endpoints\" can be used with a native API, like summarization or writing or prioritizing content. Apple shows off examples of how they're using the same tech in its own system apps.",
+    "notes": "<p><ul><li>\"It's a 3B parameter version only that runs on device.\"</li><li>\"It's designed in a way that only specific \"endpoints\" can be used with a native API, like summarization or writing or prioritizing content.\" (In other words, developers won't be able to prompt the API with arbitrary text, they only have access to particular tasks like summarization.)</li><li>\"Apple shows off examples of how they're using the same tech in its own system apps.\"</li></ul></p>",
+    "game": "2025 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Developer tools",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3
+  },
+  {
+    "text": "Apple partners with Anthropic for Xcode",
+    "full-pick-text": "3.5",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Developer tools",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   },
   {
     "text": "Apple releases a Safari API to deal with cookie consent forms",
@@ -188,6 +240,18 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:26:44",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:21:49"
+  },
+  {
+    "text": "At least one new OS is referred to by its old marketing name in developer documentation or tools",
+    "full-pick-text": "At least one new OS is referred to by its old marketing name in developer documentation or tools",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Developer tools"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "Big improvements to SwiftUI",
@@ -330,6 +394,19 @@
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:28:43"
   },
   {
+    "text": "Swift Assist mentioned and promised again",
+    "full-pick-text": "Swift Assist mentioned and promised again",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Developer tools",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
     "text": "The core technology fee is considerably altered, especially for web distribution",
     "full-pick-text": "The core technology fee is considerably altered, especially for web distribution",
     "notes": "<p><ul><li><a href=\"https://www.macrumors.com/2024/05/02/apple-updates-core-technology-fee-eu/\" target=\"_blank\">MacRumors outlines CTF changes</a>, but not especially for web distribution. But with Stephen away, and this being an exhibition game... hello half points!</li></ul></p>",
@@ -445,6 +522,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5VhM7s/00:35:37",
     "overcast-picked": "https://overcast.fm/+FXx4MxYoQ/52:30"
+  },
+  {
+    "text": "There is no macOS developer beta by the time of recording",
+    "full-pick-text": "There is no macOS developer beta by the time of recording",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Developer tools"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "Third party widgets gain interactivity",

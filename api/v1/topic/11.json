@@ -110,6 +110,23 @@
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:09:29"
   },
   {
+    "text": "Apple rebrands version numbers of its operating systems",
+    "full-pick-text": "Apple rebrands version numbers of its operating systems",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iOS",
+      "iPad",
+      "iPadOS",
+      "Mac",
+      "macOS",
+      "visionOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together",
     "full-pick-text": "Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together",
     "notes": "",
@@ -186,6 +203,20 @@
     "ahead-by": 153,
     "overcast-graded": "https://overcast.fm/+FXx495ZrA/10:38",
     "overcast-picked": "https://overcast.fm/+FXx5giTnQ/1:08:27"
+  },
+  {
+    "text": "Automator remains",
+    "full-pick-text": "Automator remains",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Apple Apps"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "Big Sur gets a release date",
@@ -464,6 +495,23 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:00:05"
   },
   {
+    "text": "Significantly new OS design on at least one platform",
+    "full-pick-text": "Significantly new OS design on at least one platform",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iOS",
+      "iPad",
+      "iPadOS",
+      "Mac",
+      "macOS",
+      "visionOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "Something in the default Dock of Catalina becomes a Catalyst app",
     "full-pick-text": "Something in the default Dock of Catalina becomes a Catalyst app",
     "notes": "",
@@ -515,6 +563,19 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:07:31",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:03:14"
+  },
+  {
+    "text": "The new version of macOS drops support for some Intel Macs",
+    "full-pick-text": "The new version of macOS drops support for some Intel Macs",
+    "notes": "<p><ul><li>\"Not all, but some.\"</li></ul></p>",
+    "game": "2025 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "macOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
   },
   {
     "text": "The next version of macOS comes with a redesigned Today view",
@@ -615,6 +676,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/43:39",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/34:36"
+  },
+  {
+    "text": "There is no macOS developer beta by the time of recording",
+    "full-pick-text": "There is no macOS developer beta by the time of recording",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Developer tools"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "Universal Control is demoed again",

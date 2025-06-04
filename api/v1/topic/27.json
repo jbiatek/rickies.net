@@ -1,5 +1,18 @@
 [
   {
+    "text": "Apple and Sony partner over VR controllers",
+    "full-pick-text": "Apple and Sony partner over VR controllers",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "Apple announces some new immersive video content coming to Vision Pro",
     "full-pick-text": "Apple announces some new immersive video content coming to Vision Pro",
     "notes": "",
@@ -35,6 +48,23 @@
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/59:31"
   },
   {
+    "text": "Apple rebrands version numbers of its operating systems",
+    "full-pick-text": "Apple rebrands version numbers of its operating systems",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iOS",
+      "iPad",
+      "iPadOS",
+      "Mac",
+      "macOS",
+      "visionOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "At least one of the 'Coming Soon' environments in visionOS 2 is removed",
     "full-pick-text": "At least one of the 'Coming Soon' environments in visionOS 2 is removed",
     "notes": "",
@@ -50,6 +80,18 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:35:34",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:19:54"
+  },
+  {
+    "text": "At least one visionOS app in compatibility mode becomes a native one",
+    "full-pick-text": "At least one visionOS app in compatibility mode becomes a native one",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "visionOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "At least two of Apple's first-party apps escape iPad compatibility mode on visionOS to become full-blown native apps",
@@ -109,6 +151,23 @@
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:46"
   },
   {
+    "text": "Significantly new OS design on at least one platform",
+    "full-pick-text": "Significantly new OS design on at least one platform",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iOS",
+      "iPad",
+      "iPadOS",
+      "Mac",
+      "macOS",
+      "visionOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
     "full-pick-text": "The iPadOS cursor appears to be repurposed for using iPad apps in VR",
     "notes": "<p><ul><li>It wasn't obvious from the keynote, but <a href=\"https://mastodon.social/@stroughtonsmith/110498901199712804\" target=\"_blank\">later session information showed that when connected to a trackpad, visionOS indeed uses an almost exact clone of the iPad cursor</a>.</li></ul></p>",
@@ -146,6 +205,18 @@
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:09:43"
   },
   {
+    "text": "The updated visionOS gets an eye scrolling feature",
+    "full-pick-text": "The updated visionOS gets an eye scrolling feature",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "visionOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "visionOS 2 has keyboard passthrough when in an environment and it works with any keyboard, not just the ones Apple makes",
     "full-pick-text": "visionOS 2 has keyboard passthrough when in an environment and it works with any keyboard, not just the ones Apple makes",
     "notes": "",
@@ -161,6 +232,31 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:21:17",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/51:59"
+  },
+  {
+    "text": "visionOS gets a dark mode",
+    "full-pick-text": "visionOS gets a dark mode",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "visionOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "visionOS gets support for VR game controllers",
+    "full-pick-text": "visionOS gets support for VR game controllers",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   },
   {
     "text": "visionOS receives updates at WWDC that ship later in 2024",

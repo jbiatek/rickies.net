@@ -1,0 +1,13 @@
+{
+  "text": "The new version of macOS drops support for some Intel Macs",
+  "full-pick-text": "The new version of macOS drops support for some Intel Macs",
+  "notes": "<p><ul><li>\"Not all, but some.\"</li></ul></p>",
+  "game": "2025 WWDC Rickies",
+  "type": "Regular",
+  "topics": [
+    "Mac",
+    "macOS"
+  ],
+  "host": "Stephen",
+  "pick-conditions": 2
+}

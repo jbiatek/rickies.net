@@ -334,6 +334,18 @@
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/56:47"
   },
   {
+    "text": "Apple announces an updated Mac Pro",
+    "full-pick-text": "Apple announces an updated Mac Pro. The starting price remains at $6,999. The starting system on a chip is the Apple M3 Ultra chip with 32-core CPU, 80-core GPU, and 32-core Neural Engine. There is a build-to-order option that exceeds the unified memory available on the Mac Studio, which currently tops out at 512 GB.",
+    "notes": "<p><ul><li>\"The starting price remains at $6,999.\"</li><li>\"The starting system on a chip is the Apple M3 Ultra chip with 32-core CPU, 80-core GPU, and 32-core Neural Engine.\"</li><li>\"There is a build-to-order option that exceeds the unified memory available on the Mac Studio, which currently tops out at 512 GB.\"</li><li>Like <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20desktop%20Apple%20Silicon%20Mac%20is%20announced\">a previous pick</a>, this pick was prophesied in a dream, and one detail of the dream (the size of the Mac Pro wheels) was already confirmed, so it's basically a lock.</li></ul></p>",
+    "game": "2025 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 6
+  },
+  {
     "text": "Apple announces the first M2 Mac",
     "full-pick-text": "Apple announces the first M2 Mac",
     "notes": "",
@@ -489,6 +501,23 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4aVfvI/18:35",
     "overcast-picked": "https://overcast.fm/+FXx4VfMWE/23:00"
+  },
+  {
+    "text": "Apple rebrands version numbers of its operating systems",
+    "full-pick-text": "Apple rebrands version numbers of its operating systems",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iOS",
+      "iPad",
+      "iPadOS",
+      "Mac",
+      "macOS",
+      "visionOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together",
@@ -894,6 +923,20 @@
     "ahead-by": 343,
     "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:08:52",
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:41:13"
+  },
+  {
+    "text": "Automator remains",
+    "full-pick-text": "Automator remains",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Apple Apps"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "Big Sur gets a release date",
@@ -1627,6 +1670,23 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:00:05"
   },
   {
+    "text": "Significantly new OS design on at least one platform",
+    "full-pick-text": "Significantly new OS design on at least one platform",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "iOS",
+      "iPad",
+      "iPadOS",
+      "Mac",
+      "macOS",
+      "visionOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "Some AI features on the Mac require an M2 or later",
     "full-pick-text": "Some AI features on the Mac require an M2 or later",
     "notes": "",
@@ -2196,6 +2256,19 @@
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:03:14"
   },
   {
+    "text": "The new version of macOS drops support for some Intel Macs",
+    "full-pick-text": "The new version of macOS drops support for some Intel Macs",
+    "notes": "<p><ul><li>\"Not all, but some.\"</li></ul></p>",
+    "game": "2025 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "macOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
+  },
+  {
     "text": "The next version of macOS comes with a redesigned Today view",
     "full-pick-text": "The next version of macOS comes with a redesigned Today view",
     "notes": "",
@@ -2313,6 +2386,20 @@
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/35:42"
   },
   {
+    "text": "There is no macOS developer beta by the time of recording",
+    "full-pick-text": "There is no macOS developer beta by the time of recording",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Developer tools"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "There will be a chip named M1 followed by a letter",
     "full-pick-text": "There will be a chip named M1 followed by a letter",
     "notes": "",
@@ -2392,7 +2479,8 @@
     "type": "Ricky",
     "topics": [
       "Mac",
-      "Ahead of Its Time"
+      "Ahead of Its Time",
+      "Used As Bonus Pick"
     ],
     "host": "Stephen",
     "pick-conditions": 1,

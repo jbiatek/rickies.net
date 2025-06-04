@@ -150,5 +150,9 @@
   {
     "episode": 534,
     "changes": "<p>Tweaked the new risky pick rules to say \"with three supporting details\" instead of \"comprising three conditions\" and replace \"conditions\" with \"details\" in general, as the same confusion and debate keeps coming up.</p>"
+  },
+  {
+    "episode": 555,
+    "changes": "<p><ul><li>Jason Snell's long-standing coin flipping ban was reversed after graduating Coin Flipping University.</li></ul></p>"
   }
 ]

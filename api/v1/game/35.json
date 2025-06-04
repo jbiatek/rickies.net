@@ -1,0 +1,477 @@
+{
+  "name": "2025 WWDC Rickies",
+  "game-type": "Keynote",
+  "date-graded": "",
+  "date-picked": "2025-07-04",
+  "main-game": {
+    "picks": [
+      {
+        "text": "Significantly new OS design on at least one platform",
+        "full-pick-text": "Significantly new OS design on at least one platform",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "iOS",
+          "iPad",
+          "iPadOS",
+          "Mac",
+          "macOS",
+          "visionOS"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Apple rebrands version numbers of its operating systems",
+        "full-pick-text": "Apple rebrands version numbers of its operating systems",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "iOS",
+          "iPad",
+          "iPadOS",
+          "Mac",
+          "macOS",
+          "visionOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "The new version of macOS drops support for some Intel Macs",
+        "full-pick-text": "The new version of macOS drops support for some Intel Macs",
+        "notes": "<p><ul><li>\"Not all, but some.\"</li></ul></p>",
+        "game": "2025 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "Mac",
+          "macOS"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2
+      },
+      {
+        "text": "New features are announced that are powered by Apple Intelligence",
+        "full-pick-text": "New features are announced that are powered by Apple Intelligence",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "Machine Learning/AI"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1
+      },
+      {
+        "text": "The updated visionOS gets an eye scrolling feature",
+        "full-pick-text": "The updated visionOS gets an eye scrolling feature",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "visionOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "iPadOS gets updated window management tools",
+        "full-pick-text": "iPadOS gets updated window management tools",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPad",
+          "iPadOS"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1
+      },
+      {
+        "text": "At least one visionOS app in compatibility mode becomes a native one",
+        "full-pick-text": "At least one visionOS app in compatibility mode becomes a native one",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "visionOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "The Google Gemini logo is shown on screen as part of a partnership announcement",
+        "full-pick-text": "The Google Gemini logo is shown on screen as part of a partnership announcement",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Regular",
+        "topics": [
+          "Machine Learning/AI",
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Apple has a new app for gamers",
+        "full-pick-text": "Apple has a new app for gamers. It's called Apple Games. It creates new, specific developer terms for games. It features a partnership with Microsoft for Xbox Game Pass.",
+        "notes": "<p><ul><li>\"It's called Apple Games.\"</li><li>\"It creates new, specific developer terms for games.\"</li><li>\"It features a partnership with Microsoft for Xbox Game Pass.\"</li></ul></p>",
+        "game": "2025 WWDC Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Apple Apps",
+          "Developer tools"
+        ],
+        "host": "Myke",
+        "pick-conditions": 3
+      },
+      {
+        "text": "Apple opens up AFM (Apple Foundation Model) to developers",
+        "full-pick-text": "Apple opens up AFM (Apple Foundation Model) to developers. It's a 3B parameter version only that runs on device. It's designed in a way that only specific \"endpoints\" can be used with a native API, like summarization or writing or prioritizing content. Apple shows off examples of how they're using the same tech in its own system apps.",
+        "notes": "<p><ul><li>\"It's a 3B parameter version only that runs on device.\"</li><li>\"It's designed in a way that only specific \"endpoints\" can be used with a native API, like summarization or writing or prioritizing content.\" (In other words, developers won't be able to prompt the API with arbitrary text, they only have access to particular tasks like summarization.)</li><li>\"Apple shows off examples of how they're using the same tech in its own system apps.\"</li></ul></p>",
+        "game": "2025 WWDC Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Developer tools",
+          "Machine Learning/AI"
+        ],
+        "host": "Federico",
+        "pick-conditions": 3
+      },
+      {
+        "text": "Apple announces an updated Mac Pro",
+        "full-pick-text": "Apple announces an updated Mac Pro. The starting price remains at $6,999. The starting system on a chip is the Apple M3 Ultra chip with 32-core CPU, 80-core GPU, and 32-core Neural Engine. There is a build-to-order option that exceeds the unified memory available on the Mac Studio, which currently tops out at 512 GB.",
+        "notes": "<p><ul><li>\"The starting price remains at $6,999.\"</li><li>\"The starting system on a chip is the Apple M3 Ultra chip with 32-core CPU, 80-core GPU, and 32-core Neural Engine.\"</li><li>\"There is a build-to-order option that exceeds the unified memory available on the Mac Studio, which currently tops out at 512 GB.\"</li><li>Like <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20desktop%20Apple%20Silicon%20Mac%20is%20announced\">a previous pick</a>, this pick was prophesied in a dream, and one detail of the dream (the size of the Mac Pro wheels) was already confirmed, so it's basically a lock.</li></ul></p>",
+        "game": "2025 WWDC Rickies",
+        "type": "Ricky",
+        "topics": [
+          "Mac"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 6
+      }
+    ],
+    "coin-flips": [],
+    "winner": "TBD"
+  },
+  "the-flexies": {
+    "picks": [
+      {
+        "text": "At least one new OS is referred to by its old marketing name in developer documentation or tools",
+        "full-pick-text": "At least one new OS is referred to by its old marketing name in developer documentation or tools",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Developer tools"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1
+      },
+      {
+        "text": "There is no macOS developer beta by the time of recording",
+        "full-pick-text": "There is no macOS developer beta by the time of recording",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Developer tools"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Image Playgrounds is updated to not be quite as terrible",
+        "full-pick-text": "Image Playgrounds is updated to not be quite as terrible",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Apps",
+          "Machine Learning/AI"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2
+      },
+      {
+        "text": "At least one Apple Intelligence feature is announced for watchOS",
+        "full-pick-text": "At least one Apple Intelligence feature is announced for watchOS",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Watch",
+          "Machine Learning/AI"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1
+      },
+      {
+        "text": "visionOS gets a dark mode",
+        "full-pick-text": "visionOS gets a dark mode",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "visionOS"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1
+      },
+      {
+        "text": "iOS gets new home screen customization options",
+        "full-pick-text": "iOS gets new home screen customization options",
+        "notes": "<p><ul><li>Ungraded: perhaps icon shapes, icon tinting for light mode</li></ul></p>",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Automator remains",
+        "full-pick-text": "Automator remains",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "macOS",
+          "Apple Apps"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Alan Dye is in the presentation to talk about the redesign",
+        "full-pick-text": "Alan Dye is in the presentation to talk about the redesign",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 2
+      },
+      {
+        "text": "Apple teases bigger versions of AFM on the horizon",
+        "full-pick-text": "Apple teases bigger versions of AFM on the horizon",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Machine Learning/AI",
+          "Stagecraft"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Apple hints that a new \"glass-like\" material for its UI design is true to the nature of the hardware itself",
+        "full-pick-text": "Apple hints that a new \"glass-like\" material for its UI design is true to the nature of the hardware itself",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Split screen multitasking comes to the iPhone too",
+        "full-pick-text": "Split screen multitasking comes to the iPhone too",
+        "notes": "<p><ul><li>Even at the time of picking, Federico thought this was likely too early, but hope springs eternal.</li></ul></p>",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "iOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Swift Assist mentioned and promised again",
+        "full-pick-text": "Swift Assist mentioned and promised again",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Developer tools",
+          "Machine Learning/AI"
+        ],
+        "host": "Federico",
+        "pick-conditions": 2
+      },
+      {
+        "text": "The ChatGPT integration with Siri now has access to reasoning models",
+        "full-pick-text": "The ChatGPT integration with Siri now has access to reasoning models",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Machine Learning/AI"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "A disclaimer is added to some features in the video saying whether it's real footage or simulated",
+        "full-pick-text": "A disclaimer is added to some features in the video saying whether it's real footage or simulated",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Live Edited",
+          "Stagecraft"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "visionOS gets support for VR game controllers",
+        "full-pick-text": "visionOS gets support for VR game controllers",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Vision Pro",
+          "visionOS"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Apple and Sony partner over VR controllers",
+        "full-pick-text": "Apple and Sony partner over VR controllers",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Vision Pro",
+          "visionOS"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Apple introduces the new OS design with an animated video showing the old look morphing in to the new look",
+        "full-pick-text": "Apple introduces the new OS design with an animated video showing the old look morphing in to the new look",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Animated Genmoji",
+        "full-pick-text": "Animated Genmoji",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Apps",
+          "Machine Learning/AI"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Image Playgrounds can make terrible videos",
+        "full-pick-text": "Image Playgrounds can make terrible videos",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Apps",
+          "Machine Learning/AI"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2
+      },
+      {
+        "text": "Apple partners with Anthropic for Xcode",
+        "full-pick-text": "3.5",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Apps",
+          "Developer tools",
+          "Machine Learning/AI"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1
+      },
+      {
+        "text": "People start claiming to have found evidence of a folding iPhone",
+        "full-pick-text": "People start claiming to have found evidence of a folding iPhone",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Shortcuts gets new Apple Intelligence actions",
+        "full-pick-text": "Shortcuts gets new Apple Intelligence actions",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Apps",
+          "Machine Learning/AI"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "Apple announces a third party assistant API for some markets",
+        "full-pick-text": "Apple announces a third party assistant API for some markets",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Developer tools"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1
+      },
+      {
+        "text": "During the opening, Tim Cook uses the words \"love\" and \"developers\" in the same sentence",
+        "full-pick-text": "During the opening, Tim Cook uses the words \"love\" and \"developers\" in the same sentence",
+        "notes": "",
+        "game": "2025 WWDC Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 2
+      }
+    ],
+    "coin-flips": [],
+    "winner": "TBD"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #555: The Rickies (WWDC 2025)",
+      "url": "https://relay.fm/connected/555",
+      "episode-number": 555
+    }
+  ]
+}

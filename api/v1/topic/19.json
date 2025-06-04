@@ -35,6 +35,19 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:42:34"
   },
   {
+    "text": "Animated Genmoji",
+    "full-pick-text": "Animated Genmoji",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "Apple adds more filters to smart folders in Notes",
     "full-pick-text": "Apple adds more filters to smart folders in Notes",
     "notes": "",
@@ -168,6 +181,19 @@
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:21:14"
   },
   {
+    "text": "Apple has a new app for gamers",
+    "full-pick-text": "Apple has a new app for gamers. It's called Apple Games. It creates new, specific developer terms for games. It features a partnership with Microsoft for Xbox Game Pass.",
+    "notes": "<p><ul><li>\"It's called Apple Games.\"</li><li>\"It creates new, specific developer terms for games.\"</li><li>\"It features a partnership with Microsoft for Xbox Game Pass.\"</li></ul></p>",
+    "game": "2025 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Apple Apps",
+      "Developer tools"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3
+  },
+  {
     "text": "Apple introduces a brand new journaling app",
     "full-pick-text": "Apple introduces a brand new journaling app",
     "notes": "<p><ul><li>Not graded: \"location features for friends, ability to take notes and attach images, maybe integration with Music?\"</li></ul></p>",
@@ -266,6 +292,20 @@
     "ahead-by": 155,
     "overcast-graded": "https://overcast.fm/+FXx5wv1as/37:08",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:45:53"
+  },
+  {
+    "text": "Apple partners with Anthropic for Xcode",
+    "full-pick-text": "3.5",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Developer tools",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   },
   {
     "text": "Apple Podcast app launches on Android",
@@ -493,6 +533,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:21:57"
   },
   {
+    "text": "Automator remains",
+    "full-pick-text": "Automator remains",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Apple Apps"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "Final Cut for iPad gains a feature specifically for video in visionOS",
     "full-pick-text": "Final Cut for iPad gains a feature specifically for video in visionOS",
     "notes": "",
@@ -511,6 +565,32 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:12:00",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:11"
+  },
+  {
+    "text": "Image Playgrounds can make terrible videos",
+    "full-pick-text": "Image Playgrounds can make terrible videos",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
+  },
+  {
+    "text": "Image Playgrounds is updated to not be quite as terrible",
+    "full-pick-text": "Image Playgrounds is updated to not be quite as terrible",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
   },
   {
     "text": "Improved support for ZIP archives in the Files app and framework",
@@ -833,6 +913,19 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:27:40",
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:30:08"
+  },
+  {
+    "text": "Shortcuts gets new Apple Intelligence actions",
+    "full-pick-text": "Shortcuts gets new Apple Intelligence actions",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "Shortcuts gets new Files actions",

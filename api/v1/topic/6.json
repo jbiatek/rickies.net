@@ -404,6 +404,7 @@
       "iOS",
       "Ahead of Its Time",
       "Machine Learning/AI",
+      "Used As Bonus Pick",
       "Possible Vindication"
     ],
     "host": "Federico",
@@ -1096,6 +1097,18 @@
     "overcast-picked": "https://overcast.fm/+FXx5SWQQA/48:53"
   },
   {
+    "text": "People start claiming to have found evidence of a folding iPhone",
+    "full-pick-text": "People start claiming to have found evidence of a folding iPhone",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "ProMotion does not come to new iPhones",
     "full-pick-text": "ProMotion does not come to new iPhones",
     "notes": "",
@@ -1195,6 +1208,19 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:34:25",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:14:03"
+  },
+  {
+    "text": "Split screen multitasking comes to the iPhone too",
+    "full-pick-text": "Split screen multitasking comes to the iPhone too",
+    "notes": "<p><ul><li>Even at the time of picking, Federico thought this was likely too early, but hope springs eternal.</li></ul></p>",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "The 2020 iPhone line will feature at least one 5G phone",

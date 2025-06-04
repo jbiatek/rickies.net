@@ -46,6 +46,19 @@
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:10:39"
   },
   {
+    "text": "Apple and Sony partner over VR controllers",
+    "full-pick-text": "Apple and Sony partner over VR controllers",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "Apple announces some new immersive video content coming to Vision Pro",
     "full-pick-text": "Apple announces some new immersive video content coming to Vision Pro",
     "notes": "",
@@ -429,6 +442,19 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:21:17",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/51:59"
+  },
+  {
+    "text": "visionOS gets support for VR game controllers",
+    "full-pick-text": "visionOS gets support for VR game controllers",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "visionOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   },
   {
     "text": "visionOS receives updates at WWDC that ship later in 2024",

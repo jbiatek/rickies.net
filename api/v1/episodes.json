@@ -474,5 +474,12 @@
       "2024 Annual Rickies",
       "2025 Annual Rickies"
     ]
+  },
+  {
+    "episode": 555,
+    "permalink": "https://relay.fm/connected/555",
+    "relevant-games": [
+      "2025 WWDC Rickies"
+    ]
   }
 ]

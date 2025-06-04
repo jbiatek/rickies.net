@@ -16,5 +16,44 @@
     "ahead-by": 520,
     "overcast-graded": "https://overcast.fm/+FXx6bXcOY/23:15",
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/56:47"
+  },
+  {
+    "text": "Apple shows a 'Siri Camera' (not official name) feature that lets you point the iPhone at something and use AI to understand what you're looking at",
+    "full-pick-text": "Apple shows a 'Siri Camera' (not official name) feature that lets you point the iPhone at something and use AI to understand what you're looking at",
+    "notes": "<p><ul><li> Non-graded: this is also why the next iPhone will have a physical camera button </li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Ahead of Its Time",
+      "Machine Learning/AI",
+      "Used As Bonus Pick",
+      "Possible Vindication"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": -1,
+    "ahead-by": 87,
+    "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:22:46",
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/53:35"
+  },
+  {
+    "text": "We get new Macs",
+    "full-pick-text": "We get new Macs",
+    "notes": "<p><ul><li><s>Ungraded: probably a new Mac mini</s></li></ul></p>",
+    "game": "2024 May Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Mac",
+      "Ahead of Its Time",
+      "Used As Bonus Pick"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": -1,
+    "ahead-by": 166,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/57:39",
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/44:18"
   }
 ]

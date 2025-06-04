@@ -1,0 +1,13 @@
+{
+  "text": "Apple has a new app for gamers",
+  "full-pick-text": "Apple has a new app for gamers. It's called Apple Games. It creates new, specific developer terms for games. It features a partnership with Microsoft for Xbox Game Pass.",
+  "notes": "<p><ul><li>\"It's called Apple Games.\"</li><li>\"It creates new, specific developer terms for games.\"</li><li>\"It features a partnership with Microsoft for Xbox Game Pass.\"</li></ul></p>",
+  "game": "2025 WWDC Rickies",
+  "type": "Ricky",
+  "topics": [
+    "Apple Apps",
+    "Developer tools"
+  ],
+  "host": "Myke",
+  "pick-conditions": 3
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Apple announces an updated Mac Pro",
+  "full-pick-text": "Apple announces an updated Mac Pro. The starting price remains at $6,999. The starting system on a chip is the Apple M3 Ultra chip with 32-core CPU, 80-core GPU, and 32-core Neural Engine. There is a build-to-order option that exceeds the unified memory available on the Mac Studio, which currently tops out at 512 GB.",
+  "notes": "<p><ul><li>\"The starting price remains at $6,999.\"</li><li>\"The starting system on a chip is the Apple M3 Ultra chip with 32-core CPU, 80-core GPU, and 32-core Neural Engine.\"</li><li>\"There is a build-to-order option that exceeds the unified memory available on the Mac Studio, which currently tops out at 512 GB.\"</li><li>Like <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20desktop%20Apple%20Silicon%20Mac%20is%20announced\">a previous pick</a>, this pick was prophesied in a dream, and one detail of the dream (the size of the Mac Pro wheels) was already confirmed, so it's basically a lock.</li></ul></p>",
+  "game": "2025 WWDC Rickies",
+  "type": "Ricky",
+  "topics": [
+    "Mac"
+  ],
+  "host": "Stephen",
+  "pick-conditions": 6
+}

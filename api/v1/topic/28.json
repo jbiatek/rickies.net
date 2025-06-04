@@ -16,6 +16,19 @@
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/27:10"
   },
   {
+    "text": "Animated Genmoji",
+    "full-pick-text": "Animated Genmoji",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "Apple announces a new standalone \"Siri app\" based on a new LLM that will...",
     "full-pick-text": "Apple announces a new standalone \"Siri app\" based on a new LLM that will be multilingual and support multiple languages at the same time, support multiple modalities – e.g. text input, voice input, and image attachments in the same conversation, and display content from third-party apps inline based on a new developer framework.",
     "notes": "<p><ul><li>\"Be multilingual and support multiple languages at the same time.\"</li>\n<li>\"Support multiple modalities – e.g. text input, voice input, or image attachments in the same conversation.\"</li>\n<li>\"Display content from third-party apps inline based on a new developer framework.\"</li><li>If the overall pick about a \"Siri app\" is wrong, all the details will be counted as wrong as well. But that won't be a problem because Federico thinks that this approach is \"so obvious\".</li></ul></p>",
@@ -213,6 +226,33 @@
     "overcast-picked": "https://overcast.fm/+FXx7nikbQ/39:07"
   },
   {
+    "text": "Apple opens up AFM (Apple Foundation Model) to developers",
+    "full-pick-text": "Apple opens up AFM (Apple Foundation Model) to developers. It's a 3B parameter version only that runs on device. It's designed in a way that only specific \"endpoints\" can be used with a native API, like summarization or writing or prioritizing content. Apple shows off examples of how they're using the same tech in its own system apps.",
+    "notes": "<p><ul><li>\"It's a 3B parameter version only that runs on device.\"</li><li>\"It's designed in a way that only specific \"endpoints\" can be used with a native API, like summarization or writing or prioritizing content.\" (In other words, developers won't be able to prompt the API with arbitrary text, they only have access to particular tasks like summarization.)</li><li>\"Apple shows off examples of how they're using the same tech in its own system apps.\"</li></ul></p>",
+    "game": "2025 WWDC Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Developer tools",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3
+  },
+  {
+    "text": "Apple partners with Anthropic for Xcode",
+    "full-pick-text": "3.5",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Developer tools",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "Apple previews a new visionOS feature that puts overlays over the camera passthrough with information about objects in view",
     "full-pick-text": "Apple previews a new visionOS feature that puts overlays over the camera passthrough with information about objects in view",
     "notes": "<p><ul><li>Was originally \"app\" instead of \"feature\".</li></ul></p>",
@@ -273,6 +313,7 @@
       "iOS",
       "Ahead of Its Time",
       "Machine Learning/AI",
+      "Used As Bonus Pick",
       "Possible Vindication"
     ],
     "host": "Federico",
@@ -318,6 +359,32 @@
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/52:16"
   },
   {
+    "text": "Apple teases bigger versions of AFM on the horizon",
+    "full-pick-text": "Apple teases bigger versions of AFM on the horizon",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
+    "text": "At least one Apple Intelligence feature is announced for watchOS",
+    "full-pick-text": "At least one Apple Intelligence feature is announced for watchOS",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Watch",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "Chatbot features from AI partners are available only to iCloud+ subscribers after a free trial",
     "full-pick-text": "Chatbot features from AI partners are available only to iCloud+ subscribers after a free trial",
     "notes": "",
@@ -350,6 +417,32 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:16:11",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:11:34"
+  },
+  {
+    "text": "Image Playgrounds can make terrible videos",
+    "full-pick-text": "Image Playgrounds can make terrible videos",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
+  },
+  {
+    "text": "Image Playgrounds is updated to not be quite as terrible",
+    "full-pick-text": "Image Playgrounds is updated to not be quite as terrible",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
   },
   {
     "text": "iOS 18 will bring new AI features based on LLMs with some generative capabilities",
@@ -418,6 +511,18 @@
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:16:39"
   },
   {
+    "text": "New features are announced that are powered by Apple Intelligence",
+    "full-pick-text": "New features are announced that are powered by Apple Intelligence",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "Notification summaries are provided by a new AI system",
     "full-pick-text": "Notification summaries are provided by a new AI system",
     "notes": "",
@@ -431,6 +536,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/44:57",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/35:26"
+  },
+  {
+    "text": "Shortcuts gets new Apple Intelligence actions",
+    "full-pick-text": "Shortcuts gets new Apple Intelligence actions",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "Some AI features on the Mac require an M2 or later",
@@ -466,6 +584,44 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:37:15",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:26:50"
+  },
+  {
+    "text": "Swift Assist mentioned and promised again",
+    "full-pick-text": "Swift Assist mentioned and promised again",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Developer tools",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The ChatGPT integration with Siri now has access to reasoning models",
+    "full-pick-text": "The ChatGPT integration with Siri now has access to reasoning models",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The Google Gemini logo is shown on screen as part of a partnership announcement",
+    "full-pick-text": "The Google Gemini logo is shown on screen as part of a partnership announcement",
+    "notes": "",
+    "game": "2025 WWDC Rickies",
+    "type": "Regular",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "The iPad mini is updated with an A17 Pro or higher and a larger, brighter display. It will run Apple Intelligence.",
