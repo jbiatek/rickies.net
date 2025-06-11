@@ -56,7 +56,8 @@
       "visionOS"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:10:32"
   },
   {
     "text": "Apple announces some new immersive video content coming to Vision Pro",
@@ -454,7 +455,8 @@
       "visionOS"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:10:26"
   },
   {
     "text": "visionOS receives updates at WWDC that ship later in 2024",

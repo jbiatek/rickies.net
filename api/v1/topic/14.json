@@ -42,7 +42,8 @@
       "Developer tools"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:14:13"
   },
   {
     "text": "Apple has a new app for gamers",
@@ -55,7 +56,8 @@
       "Developer tools"
     ],
     "host": "Myke",
-    "pick-conditions": 3
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:40:02"
   },
   {
     "text": "Apple introduces a Copilot-like feature for Xcode powered by AI/ML",
@@ -137,7 +139,8 @@
       "Machine Learning/AI"
     ],
     "host": "Federico",
-    "pick-conditions": 3
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:41:59"
   },
   {
     "text": "Apple partners with Anthropic for Xcode",
@@ -151,7 +154,8 @@
       "Machine Learning/AI"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:12:46"
   },
   {
     "text": "Apple releases a Safari API to deal with cookie consent forms",
@@ -251,7 +255,8 @@
       "Developer tools"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:03:16"
   },
   {
     "text": "Big improvements to SwiftUI",
@@ -404,7 +409,8 @@
       "Machine Learning/AI"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:07:40"
   },
   {
     "text": "The core technology fee is considerably altered, especially for web distribution",
@@ -535,7 +541,8 @@
       "Developer tools"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:03:51"
   },
   {
     "text": "Third party widgets gain interactivity",

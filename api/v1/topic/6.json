@@ -1106,7 +1106,8 @@
       "iPhone"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:13:03"
   },
   {
     "text": "ProMotion does not come to new iPhones",
@@ -1220,7 +1221,8 @@
       "iOS"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:07:04"
   },
   {
     "text": "The 2020 iPhone line will feature at least one 5G phone",

@@ -174,7 +174,8 @@
       "visionOS"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:24:19"
   },
   {
     "text": "Apple showcases at least one new feature coming in iOS or iPadOS 14.1",
@@ -781,7 +782,8 @@
       "iOS"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:04:40"
   },
   {
     "text": "iOS gets split-view support for multitasking to use 2 apps at once",
@@ -1131,7 +1133,8 @@
       "visionOS"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:17:51"
   },
   {
     "text": "Siri on iOS will gain more verbal responses, speak more than it does now when activated with your voice",
@@ -1213,7 +1216,8 @@
       "iOS"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:07:04"
   },
   {
     "text": "The iPhone 14 Pro Camera app introduces some kind of 3D capturing functionality",

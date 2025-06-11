@@ -45,7 +45,8 @@
       "Machine Learning/AI"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:11:15"
   },
   {
     "text": "Apple adds more filters to smart folders in Notes",
@@ -191,7 +192,8 @@
       "Developer tools"
     ],
     "host": "Myke",
-    "pick-conditions": 3
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:40:02"
   },
   {
     "text": "Apple introduces a brand new journaling app",
@@ -305,7 +307,8 @@
       "Machine Learning/AI"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:12:46"
   },
   {
     "text": "Apple Podcast app launches on Android",
@@ -544,7 +547,8 @@
       "Apple Apps"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:33"
   },
   {
     "text": "Final Cut for iPad gains a feature specifically for video in visionOS",
@@ -577,7 +581,8 @@
       "Machine Learning/AI"
     ],
     "host": "Myke",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:11:39"
   },
   {
     "text": "Image Playgrounds is updated to not be quite as terrible",
@@ -590,7 +595,8 @@
       "Machine Learning/AI"
     ],
     "host": "Stephen",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:03:59"
   },
   {
     "text": "Improved support for ZIP archives in the Files app and framework",
@@ -925,7 +931,8 @@
       "Machine Learning/AI"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:13:59"
   },
   {
     "text": "Shortcuts gets new Files actions",

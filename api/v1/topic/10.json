@@ -249,7 +249,8 @@
       "visionOS"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:24:19"
   },
   {
     "text": "Apple releases a bigger iPad Pro",
@@ -824,7 +825,8 @@
       "iPadOS"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:33:28"
   },
   {
     "text": "iPadOS is updated to include a more desktop-like mode with resizable and overlapping windows",
@@ -1271,7 +1273,8 @@
       "visionOS"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:17:51"
   },
   {
     "text": "Some Mac-only Shortcuts actions will become available on iPhone and iPad",

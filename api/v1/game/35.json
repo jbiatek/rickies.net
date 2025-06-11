@@ -20,7 +20,8 @@
           "visionOS"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:17:51"
       },
       {
         "text": "Apple rebrands version numbers of its operating systems",
@@ -37,7 +38,8 @@
           "visionOS"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:24:19"
       },
       {
         "text": "The new version of macOS drops support for some Intel Macs",
@@ -50,7 +52,8 @@
           "macOS"
         ],
         "host": "Stephen",
-        "pick-conditions": 2
+        "pick-conditions": 2,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:26:24"
       },
       {
         "text": "New features are announced that are powered by Apple Intelligence",
@@ -62,7 +65,8 @@
           "Machine Learning/AI"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:28:19"
       },
       {
         "text": "The updated visionOS gets an eye scrolling feature",
@@ -74,7 +78,8 @@
           "visionOS"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:30:53"
       },
       {
         "text": "iPadOS gets updated window management tools",
@@ -87,7 +92,8 @@
           "iPadOS"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:33:28"
       },
       {
         "text": "At least one visionOS app in compatibility mode becomes a native one",
@@ -99,7 +105,8 @@
           "visionOS"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:34:41"
       },
       {
         "text": "The Google Gemini logo is shown on screen as part of a partnership announcement",
@@ -112,7 +119,8 @@
           "Stagecraft"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:35:38"
       },
       {
         "text": "Apple has a new app for gamers",
@@ -125,7 +133,8 @@
           "Developer tools"
         ],
         "host": "Myke",
-        "pick-conditions": 3
+        "pick-conditions": 3,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:40:02"
       },
       {
         "text": "Apple opens up AFM (Apple Foundation Model) to developers",
@@ -138,7 +147,8 @@
           "Machine Learning/AI"
         ],
         "host": "Federico",
-        "pick-conditions": 3
+        "pick-conditions": 3,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:41:59"
       },
       {
         "text": "Apple announces an updated Mac Pro",
@@ -150,7 +160,8 @@
           "Mac"
         ],
         "host": "Stephen",
-        "pick-conditions": 6
+        "pick-conditions": 6,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:48:29"
       }
     ],
     "coin-flips": [],
@@ -168,7 +179,8 @@
           "Developer tools"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:03:16"
       },
       {
         "text": "There is no macOS developer beta by the time of recording",
@@ -182,7 +194,8 @@
           "Developer tools"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:03:51"
       },
       {
         "text": "Image Playgrounds is updated to not be quite as terrible",
@@ -195,7 +208,8 @@
           "Machine Learning/AI"
         ],
         "host": "Stephen",
-        "pick-conditions": 2
+        "pick-conditions": 2,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:03:59"
       },
       {
         "text": "At least one Apple Intelligence feature is announced for watchOS",
@@ -208,7 +222,8 @@
           "Machine Learning/AI"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:04:20"
       },
       {
         "text": "visionOS gets a dark mode",
@@ -220,7 +235,8 @@
           "visionOS"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:04:25"
       },
       {
         "text": "iOS gets new home screen customization options",
@@ -232,7 +248,8 @@
           "iOS"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:04:40"
       },
       {
         "text": "Automator remains",
@@ -246,7 +263,8 @@
           "Apple Apps"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:33"
       },
       {
         "text": "Alan Dye is in the presentation to talk about the redesign",
@@ -258,7 +276,8 @@
           "Stagecraft"
         ],
         "host": "Stephen",
-        "pick-conditions": 2
+        "pick-conditions": 2,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:43"
       },
       {
         "text": "Apple teases bigger versions of AFM on the horizon",
@@ -271,7 +290,8 @@
           "Stagecraft"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:52"
       },
       {
         "text": "Apple hints that a new \"glass-like\" material for its UI design is true to the nature of the hardware itself",
@@ -283,7 +303,8 @@
           "Stagecraft"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:06:11"
       },
       {
         "text": "Split screen multitasking comes to the iPhone too",
@@ -296,7 +317,8 @@
           "iOS"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:07:04"
       },
       {
         "text": "Swift Assist mentioned and promised again",
@@ -309,7 +331,8 @@
           "Machine Learning/AI"
         ],
         "host": "Federico",
-        "pick-conditions": 2
+        "pick-conditions": 2,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:07:40"
       },
       {
         "text": "The ChatGPT integration with Siri now has access to reasoning models",
@@ -321,7 +344,8 @@
           "Machine Learning/AI"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:08:25"
       },
       {
         "text": "A disclaimer is added to some features in the video saying whether it's real footage or simulated",
@@ -334,7 +358,8 @@
           "Stagecraft"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:08:44"
       },
       {
         "text": "visionOS gets support for VR game controllers",
@@ -347,7 +372,8 @@
           "visionOS"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:10:26"
       },
       {
         "text": "Apple and Sony partner over VR controllers",
@@ -360,7 +386,8 @@
           "visionOS"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:10:32"
       },
       {
         "text": "Apple introduces the new OS design with an animated video showing the old look morphing in to the new look",
@@ -372,7 +399,8 @@
           "Stagecraft"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:10:52"
       },
       {
         "text": "Animated Genmoji",
@@ -385,7 +413,8 @@
           "Machine Learning/AI"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:11:15"
       },
       {
         "text": "Image Playgrounds can make terrible videos",
@@ -398,7 +427,8 @@
           "Machine Learning/AI"
         ],
         "host": "Myke",
-        "pick-conditions": 2
+        "pick-conditions": 2,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:11:39"
       },
       {
         "text": "Apple partners with Anthropic for Xcode",
@@ -412,7 +442,8 @@
           "Machine Learning/AI"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:12:46"
       },
       {
         "text": "People start claiming to have found evidence of a folding iPhone",
@@ -424,7 +455,8 @@
           "iPhone"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:13:03"
       },
       {
         "text": "Shortcuts gets new Apple Intelligence actions",
@@ -437,7 +469,8 @@
           "Machine Learning/AI"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:13:59"
       },
       {
         "text": "Apple announces a third party assistant API for some markets",
@@ -449,7 +482,8 @@
           "Developer tools"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:14:13"
       },
       {
         "text": "During the opening, Tim Cook uses the words \"love\" and \"developers\" in the same sentence",
@@ -461,7 +495,8 @@
           "Stagecraft"
         ],
         "host": "Myke",
-        "pick-conditions": 2
+        "pick-conditions": 2,
+        "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:14:24"
       }
     ],
     "coin-flips": [],

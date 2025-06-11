@@ -10,7 +10,8 @@
       "Stagecraft"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:08:44"
   },
   {
     "text": "A presenter references the fact that some developers are at Apple Park for the keynote",
@@ -38,7 +39,8 @@
       "Stagecraft"
     ],
     "host": "Stephen",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:43"
   },
   {
     "text": "All outside shots are filmed in the evening",
@@ -286,7 +288,8 @@
       "Stagecraft"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:06:11"
   },
   {
     "text": "Apple Intelligence features are demoed again",
@@ -314,7 +317,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:10:52"
   },
   {
     "text": "Apple mentions at least 1 feature \"coming later\"",
@@ -497,7 +501,8 @@
       "Stagecraft"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:52"
   },
   {
     "text": "Apple TV+ content is featured in the keynote",
@@ -710,7 +715,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:14:24"
   },
   {
     "text": "Event looks mostly like WWDC",
@@ -1378,7 +1384,8 @@
       "Stagecraft"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:35:38"
   },
   {
     "text": "The headset portion of the keynote lasts over an hour",

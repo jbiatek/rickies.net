@@ -343,7 +343,8 @@
       "Mac"
     ],
     "host": "Stephen",
-    "pick-conditions": 6
+    "pick-conditions": 6,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:48:29"
   },
   {
     "text": "Apple announces the first M2 Mac",
@@ -517,7 +518,8 @@
       "visionOS"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:24:19"
   },
   {
     "text": "Apple redesigns the App Store app for Mac to include iOS, macOS, and iPadOS apps together",
@@ -936,7 +938,8 @@
       "Apple Apps"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:33"
   },
   {
     "text": "Big Sur gets a release date",
@@ -1684,7 +1687,8 @@
       "visionOS"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:17:51"
   },
   {
     "text": "Some AI features on the Mac require an M2 or later",
@@ -2266,7 +2270,8 @@
       "macOS"
     ],
     "host": "Stephen",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:26:24"
   },
   {
     "text": "The next version of macOS comes with a redesigned Today view",
@@ -2397,7 +2402,8 @@
       "Developer tools"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:03:51"
   },
   {
     "text": "There will be a chip named M1 followed by a letter",

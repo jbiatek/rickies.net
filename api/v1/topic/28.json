@@ -26,7 +26,8 @@
       "Machine Learning/AI"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:11:15"
   },
   {
     "text": "Apple announces a new standalone \"Siri app\" based on a new LLM that will...",
@@ -236,7 +237,8 @@
       "Machine Learning/AI"
     ],
     "host": "Federico",
-    "pick-conditions": 3
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:41:59"
   },
   {
     "text": "Apple partners with Anthropic for Xcode",
@@ -250,7 +252,8 @@
       "Machine Learning/AI"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:12:46"
   },
   {
     "text": "Apple previews a new visionOS feature that puts overlays over the camera passthrough with information about objects in view",
@@ -369,7 +372,8 @@
       "Stagecraft"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:52"
   },
   {
     "text": "At least one Apple Intelligence feature is announced for watchOS",
@@ -382,7 +386,8 @@
       "Machine Learning/AI"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:04:20"
   },
   {
     "text": "Chatbot features from AI partners are available only to iCloud+ subscribers after a free trial",
@@ -429,7 +434,8 @@
       "Machine Learning/AI"
     ],
     "host": "Myke",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:11:39"
   },
   {
     "text": "Image Playgrounds is updated to not be quite as terrible",
@@ -442,7 +448,8 @@
       "Machine Learning/AI"
     ],
     "host": "Stephen",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:03:59"
   },
   {
     "text": "iOS 18 will bring new AI features based on LLMs with some generative capabilities",
@@ -520,7 +527,8 @@
       "Machine Learning/AI"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:28:19"
   },
   {
     "text": "Notification summaries are provided by a new AI system",
@@ -548,7 +556,8 @@
       "Machine Learning/AI"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:13:59"
   },
   {
     "text": "Some AI features on the Mac require an M2 or later",
@@ -596,7 +605,8 @@
       "Machine Learning/AI"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:07:40"
   },
   {
     "text": "The ChatGPT integration with Siri now has access to reasoning models",
@@ -608,7 +618,8 @@
       "Machine Learning/AI"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:08:25"
   },
   {
     "text": "The Google Gemini logo is shown on screen as part of a partnership announcement",
@@ -621,7 +632,8 @@
       "Stagecraft"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:35:38"
   },
   {
     "text": "The iPad mini is updated with an A17 Pro or higher and a larger, brighter display. It will run Apple Intelligence.",
