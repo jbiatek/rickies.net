@@ -1,7 +1,7 @@
 {
   "text": "Apple hints that a new \"glass-like\" material for its UI design is true to the nature of the hardware itself",
   "full-pick-text": "Apple hints that a new \"glass-like\" material for its UI design is true to the nature of the hardware itself",
-  "notes": "",
+  "notes": "<p><ul><li>Stephen cites Alan Dye's mention of the rounded corners on many Apple screens influencing the design.</li></ul></p>",
   "game": "2025 WWDC Rickies",
   "type": "Flexie",
   "topics": [
@@ -9,5 +9,6 @@
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 1,
   "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:06:11"
 }

@@ -4,11 +4,10 @@
       "Attorney General Flexie"
     ],
     "Myke": [
-      "Keynote Chairman",
       "Duke of Flexington"
     ],
     "Federico": [
-      "Annual Chairman"
+      "Ricky Benchman"
     ]
   },
   "annual": {
@@ -19,17 +18,17 @@
     "title": "Annual Chairman"
   },
   "keynote": {
-    "game-name": "2024 September Rickies",
-    "date": "2024-09-11",
-    "winner": "Myke",
+    "game-name": "2025 WWDC Rickies",
+    "date": "2025-07-11",
+    "winner": "Federico",
     "social": "https://twitter.com/KeynoteChairman",
     "title": "Keynote Chairman"
   },
   "flexies": {
-    "game-name": "2024 Annual Rickies",
-    "date": "2025-01-08",
-    "winner": "Myke",
-    "title": "Duke of Flexington",
+    "game-name": "2025 WWDC Rickies",
+    "date": "2025-07-11",
+    "winner": "Stephen",
+    "title": "Attorney General Flexie",
     "social": ""
   },
   "annual-flexies": {
@@ -40,11 +39,11 @@
     "title": "Duke of Flexington"
   },
   "keynote-flexies": {
-    "game-name": "2024 September Rickies",
-    "date": "2024-09-11",
+    "game-name": "2025 WWDC Rickies",
+    "date": "2025-07-11",
     "winner": "Stephen",
     "social": "",
     "title": "Attorney General Flexie"
   },
-  "the-tricky-image": "https://rickies.net/files/images/tricky/FedericoMyke.png"
+  "the-tricky-image": "https://rickies.net/files/images/tricky/FedericoFederico.png"
 }

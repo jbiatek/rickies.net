@@ -5,9 +5,11 @@
   "game": "2025 WWDC Rickies",
   "type": "Regular",
   "topics": [
-    "visionOS"
+    "visionOS",
+    "Possible Vindication"
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:34:41"
 }

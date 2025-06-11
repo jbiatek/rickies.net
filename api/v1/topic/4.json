@@ -7,10 +7,12 @@
     "type": "Flexie",
     "topics": [
       "Live Edited",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:08:44"
   },
   {
@@ -40,6 +42,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:43"
   },
   {
@@ -281,7 +284,7 @@
   {
     "text": "Apple hints that a new \"glass-like\" material for its UI design is true to the nature of the hardware itself",
     "full-pick-text": "Apple hints that a new \"glass-like\" material for its UI design is true to the nature of the hardware itself",
-    "notes": "",
+    "notes": "<p><ul><li>Stephen cites Alan Dye's mention of the rounded corners on many Apple screens influencing the design.</li></ul></p>",
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -289,6 +292,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:06:11"
   },
   {
@@ -314,10 +318,12 @@
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:10:52"
   },
   {
@@ -498,10 +504,12 @@
     "type": "Flexie",
     "topics": [
       "Machine Learning/AI",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:52"
   },
   {
@@ -712,10 +720,12 @@
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:14:24"
   },
   {
@@ -1381,10 +1391,12 @@
     "type": "Regular",
     "topics": [
       "Machine Learning/AI",
-      "Stagecraft"
+      "Stagecraft",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:35:38"
   },
   {

@@ -6,9 +6,11 @@
   "type": "Flexie",
   "topics": [
     "Apple Apps",
-    "Machine Learning/AI"
+    "Machine Learning/AI",
+    "Possible Vindication"
   ],
   "host": "Myke",
   "pick-conditions": 2,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:11:39"
 }

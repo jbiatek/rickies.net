@@ -5,9 +5,11 @@
   "game": "2025 WWDC Rickies",
   "type": "Flexie",
   "topics": [
-    "Stagecraft"
+    "Stagecraft",
+    "Unvindicatable"
   ],
   "host": "Myke",
   "pick-conditions": 2,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:14:24"
 }

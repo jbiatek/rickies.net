@@ -1,7 +1,7 @@
 {
   "text": "At least one Apple Intelligence feature is announced for watchOS",
   "full-pick-text": "At least one Apple Intelligence feature is announced for watchOS",
-  "notes": "",
+  "notes": "<p><ul><li>Workout Buddy counts, barely.</li></ul></p>",
   "game": "2025 WWDC Rickies",
   "type": "Flexie",
   "topics": [
@@ -10,5 +10,6 @@
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": 1,
   "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:04:20"
 }

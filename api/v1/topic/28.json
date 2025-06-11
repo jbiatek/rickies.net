@@ -23,10 +23,12 @@
     "type": "Flexie",
     "topics": [
       "Apple Apps",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:11:15"
   },
   {
@@ -238,6 +240,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 3,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:41:59"
   },
   {
@@ -249,10 +252,12 @@
     "topics": [
       "Apple Apps",
       "Developer tools",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:12:46"
   },
   {
@@ -369,16 +374,18 @@
     "type": "Flexie",
     "topics": [
       "Machine Learning/AI",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:52"
   },
   {
     "text": "At least one Apple Intelligence feature is announced for watchOS",
     "full-pick-text": "At least one Apple Intelligence feature is announced for watchOS",
-    "notes": "",
+    "notes": "<p><ul><li>Workout Buddy counts, barely.</li></ul></p>",
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -387,6 +394,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:04:20"
   },
   {
@@ -431,10 +439,12 @@
     "type": "Flexie",
     "topics": [
       "Apple Apps",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:11:39"
   },
   {
@@ -449,6 +459,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:03:59"
   },
   {
@@ -528,6 +539,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:28:19"
   },
   {
@@ -557,6 +569,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:13:59"
   },
   {
@@ -606,6 +619,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:07:40"
   },
   {
@@ -615,10 +629,12 @@
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:08:25"
   },
   {
@@ -629,10 +645,12 @@
     "type": "Regular",
     "topics": [
       "Machine Learning/AI",
-      "Stagecraft"
+      "Stagecraft",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:35:38"
   },
   {

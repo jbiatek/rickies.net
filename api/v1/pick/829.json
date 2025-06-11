@@ -5,9 +5,11 @@
   "game": "2025 WWDC Rickies",
   "type": "Flexie",
   "topics": [
-    "Developer tools"
+    "Developer tools",
+    "Possible Vindication"
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:14:13"
 }

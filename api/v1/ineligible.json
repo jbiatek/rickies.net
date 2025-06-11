@@ -42,52 +42,65 @@
       "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:50:21"
     },
     {
-      "text": "The iPad mini is updated with an A17 Pro or higher and a larger, brighter display. It will run Apple Intelligence.",
-      "full-pick-text": "The iPad mini is updated with an A17 Pro or higher and a larger, brighter display. It will run Apple Intelligence.",
-      "notes": "",
-      "game": "2024 September Rickies",
+      "text": "Apple announces an updated Mac Pro",
+      "full-pick-text": "Apple announces an updated Mac Pro. The starting price remains at $6,999. The starting system on a chip is the Apple M3 Ultra chip with 32-core CPU, 80-core GPU, and 32-core Neural Engine. There is a build-to-order option that exceeds the unified memory available on the Mac Studio, which currently tops out at 512 GB.",
+      "notes": "<p><ul><li>\"The starting price remains at $6,999.\"</li><li>\"The starting system on a chip is the Apple M3 Ultra chip with 32-core CPU, 80-core GPU, and 32-core Neural Engine.\"</li><li>\"There is a build-to-order option that exceeds the unified memory available on the Mac Studio, which currently tops out at 512 GB.\"</li><li>Like <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20desktop%20Apple%20Silicon%20Mac%20is%20announced\">a previous pick</a>, this pick was prophesied in a dream, and one detail of the dream (the size of the Mac Pro wheels) was already confirmed, so it's basically a lock.</li></ul></p>",
+      "game": "2025 WWDC Rickies",
       "type": "Ricky",
       "topics": [
-        "iPad",
-        "Machine Learning/AI",
+        "Mac",
         "Possible Vindication"
       ],
       "host": "Stephen",
-      "pick-conditions": 3,
+      "pick-conditions": 6,
       "score": -1,
-      "overcast-graded": "https://overcast.fm/+FXx4DRf-c/00:55:40",
-      "overcast-picked": "https://overcast.fm/+FXx6F3FTY/41:47"
+      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:48:29"
     },
     {
-      "text": "The iPhone 16 and 16 Pro are larger than their predecessors",
-      "full-pick-text": "The iPhone 16 and 16 Pro are larger than their predecessors",
-      "notes": "<p><ul><li>Stephen meant \"Pro\" and \"Pro Max\", but no one caught what he had actually written.</li></ul></p>",
-      "game": "2024 September Rickies",
-      "type": "Regular",
-      "topics": [
-        "iPhone",
-        "Unvindicatable"
-      ],
-      "host": "Stephen",
-      "pick-conditions": 2,
-      "score": 0,
-      "overcast-graded": "https://overcast.fm/+FXx4DRf-c/00:39:50",
-      "overcast-picked": "https://overcast.fm/+FXx6F3FTY/33:33"
-    },
-    {
-      "text": "The iPhone 16 Pro gains a 5x zoom",
-      "full-pick-text": "The iPhone 16 Pro gains a 5x zoom",
+      "text": "iPadOS gets updated window management tools",
+      "full-pick-text": "iPadOS gets updated window management tools",
       "notes": "",
-      "game": "2024 September Rickies",
+      "game": "2025 WWDC Rickies",
       "type": "Regular",
       "topics": [
-        "iPhone"
+        "iPad",
+        "iPadOS"
       ],
       "host": "Stephen",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4DRf-c/00:26:42",
-      "overcast-picked": "https://overcast.fm/+FXx6F3FTY/25:44"
+      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:33:28"
+    },
+    {
+      "text": "The Google Gemini logo is shown on screen as part of a partnership announcement",
+      "full-pick-text": "The Google Gemini logo is shown on screen as part of a partnership announcement",
+      "notes": "",
+      "game": "2025 WWDC Rickies",
+      "type": "Regular",
+      "topics": [
+        "Machine Learning/AI",
+        "Stagecraft",
+        "Possible Vindication"
+      ],
+      "host": "Stephen",
+      "pick-conditions": 1,
+      "score": 0,
+      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:35:38"
+    },
+    {
+      "text": "The new version of macOS drops support for some Intel Macs",
+      "full-pick-text": "The new version of macOS drops support for some Intel Macs",
+      "notes": "<p><ul><li>\"Not all, but some.\"</li></ul></p>",
+      "game": "2025 WWDC Rickies",
+      "type": "Regular",
+      "topics": [
+        "Mac",
+        "macOS"
+      ],
+      "host": "Stephen",
+      "pick-conditions": 2,
+      "score": 1,
+      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:26:24"
     }
   ],
   "Myke": [
@@ -146,53 +159,52 @@
       "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:51:02"
     },
     {
-      "text": "A button is introduced to an iPhone that directly lets you capture photos",
-      "full-pick-text": "A button is introduced to an iPhone that directly lets you capture photos",
-      "notes": "<p><ul><li>Studiously avoiding the specific term \"capture button.\"</li></ul></p>",
-      "game": "2024 September Rickies",
-      "type": "Regular",
-      "topics": [
-        "iPhone"
-      ],
-      "host": "Myke",
-      "pick-conditions": 1,
-      "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4DRf-c/00:45:44",
-      "overcast-picked": "https://overcast.fm/+FXx6F3FTY/38:54"
-    },
-    {
-      "text": "Apple introduces a faster chip for the iPhone",
-      "full-pick-text": "Apple introduces a faster chip for the iPhone",
-      "notes": "<p><ul><li>Was originally \"The Pro iPhones increase in size\" but Stephen argued that his round 2 pick pre-empted this one because he drafts first as the previous winner, and <a href=\"https://overcast.fm/+FXx6F3FTY/32:54\" target=\"_blank\">the first two rounds are \"equal.\"</a></li><li>Ungraded, Myke thinks the chip name may include \"AI\".</li></ul></p>",
-      "game": "2024 September Rickies",
-      "type": "Regular",
-      "topics": [
-        "iPhone",
-        "Live Edited"
-      ],
-      "host": "Myke",
-      "pick-conditions": 1,
-      "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4DRf-c/00:32:01",
-      "overcast-picked": "https://overcast.fm/+FXx6F3FTY/29:06"
-    },
-    {
-      "text": "Apple specifically mention RAM/Memory in the iPhone, say it will be at least 8GB, and state it is to power Apple Intelligence",
-      "full-pick-text": "Apple specifically mention RAM/Memory in the iPhone, say it will be at least 8GB, and state it is to power Apple Intelligence",
-      "notes": "<p><ul><li>This pick triggered some confusion about the new three-condition risky pick rules, and it got a bit heated. But ultimately the rules were revised to clarify that the risky pick is the three conditions, and doesn't need an additional overarching pick.</li></ul></p>",
-      "game": "2024 September Rickies",
+      "text": "Apple has a new app for gamers",
+      "full-pick-text": "Apple has a new app for gamers. It's called Apple Games. It creates new, specific developer terms for games. It features a partnership with Microsoft for Xbox Game Pass.",
+      "notes": "<p><ul><li>\"It's called Apple Games.\"</li><li>\"It creates new, specific developer terms for games.\"</li><li>\"It features a partnership with Microsoft for Xbox Game Pass.\"</li></ul></p>",
+      "game": "2025 WWDC Rickies",
       "type": "Ricky",
       "topics": [
-        "iPhone",
-        "iOS",
-        "Machine Learning/AI",
-        "Stagecraft"
+        "Apple Apps",
+        "Developer tools"
       ],
       "host": "Myke",
       "pick-conditions": 3,
+      "score": 0,
+      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:40:02"
+    },
+    {
+      "text": "New features are announced that are powered by Apple Intelligence",
+      "full-pick-text": "New features are announced that are powered by Apple Intelligence",
+      "notes": "",
+      "game": "2025 WWDC Rickies",
+      "type": "Regular",
+      "topics": [
+        "Machine Learning/AI"
+      ],
+      "host": "Myke",
+      "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:04:07",
-      "overcast-picked": "https://overcast.fm/+FXx6F3FTY/52:16"
+      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:28:19"
+    },
+    {
+      "text": "Significantly new OS design on at least one platform",
+      "full-pick-text": "Significantly new OS design on at least one platform",
+      "notes": "",
+      "game": "2025 WWDC Rickies",
+      "type": "Regular",
+      "topics": [
+        "iOS",
+        "iPad",
+        "iPadOS",
+        "Mac",
+        "macOS",
+        "visionOS"
+      ],
+      "host": "Myke",
+      "pick-conditions": 1,
+      "score": 1,
+      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:17:51"
     }
   ],
   "Federico": [
@@ -239,52 +251,67 @@
       "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:55:00"
     },
     {
-      "text": "All the iPhones announced support Apple Intelligence",
-      "full-pick-text": "All the iPhones announced support Apple Intelligence",
-      "notes": "",
-      "game": "2024 September Rickies",
-      "type": "Regular",
+      "text": "Apple opens up AFM (Apple Foundation Model) to developers",
+      "full-pick-text": "Apple opens up AFM (Apple Foundation Model) to developers. It's a 3B parameter version only that runs on device. It's designed in a way that only specific \"endpoints\" can be used with a native API, like summarization or writing or prioritizing content. Apple shows off examples of how they're using the same tech in its own system apps.",
+      "notes": "<p><ul><li>\"It's a 3B parameter version only that runs on device.\"</li><li>\"It's designed in a way that only specific \"endpoints\" can be used with a native API, like summarization or writing or prioritizing content.\" (In other words, developers won't be able to prompt the API with arbitrary text, they only have access to particular tasks like summarization.)</li><li>\"Apple shows off examples of how they're using the same tech in its own system apps.\"</li></ul></p>",
+      "game": "2025 WWDC Rickies",
+      "type": "Ricky",
       "topics": [
-        "iPhone",
+        "Developer tools",
         "Machine Learning/AI"
       ],
       "host": "Federico",
-      "pick-conditions": 1,
+      "pick-conditions": 3,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4DRf-c/00:28:51",
-      "overcast-picked": "https://overcast.fm/+FXx6F3FTY/27:10"
+      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:41:59"
     },
     {
-      "text": "Apple debuts new AirPods model",
-      "full-pick-text": "Apple debuts new AirPods model",
-      "notes": "<p><ul><li>Non-graded: with USB-C.</li></ul></p>",
-      "game": "2024 September Rickies",
+      "text": "Apple rebrands version numbers of its operating systems",
+      "full-pick-text": "Apple rebrands version numbers of its operating systems",
+      "notes": "",
+      "game": "2025 WWDC Rickies",
       "type": "Regular",
       "topics": [
-        "Accessories",
-        "AirPods"
+        "iOS",
+        "iPad",
+        "iPadOS",
+        "Mac",
+        "macOS",
+        "visionOS"
       ],
       "host": "Federico",
       "pick-conditions": 1,
       "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4DRf-c/00:41:32",
-      "overcast-picked": "https://overcast.fm/+FXx6F3FTY/35:21"
+      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:24:19"
     },
     {
-      "text": "The new Capture button...",
-      "full-pick-text": "The new Capture button: Supports at least two user-configurable gestures, Will support third-party camera apps in addition to the system camera, Will integrate with the Controls API to configure various commands",
-      "notes": "<p><ul><li>\"Supports at least two user-configurable gestures\"</li>\n<li>\"Will support third-party camera apps in addition to the system camera\"</li>\n<li>\"Will integrate with the Controls API to configure various commands\"</li></ul></p>",
-      "game": "2024 September Rickies",
-      "type": "Ricky",
+      "text": "At least one visionOS app in compatibility mode becomes a native one",
+      "full-pick-text": "At least one visionOS app in compatibility mode becomes a native one",
+      "notes": "",
+      "game": "2025 WWDC Rickies",
+      "type": "Regular",
       "topics": [
-        "iPhone",
-        "iOS"
+        "visionOS",
+        "Possible Vindication"
       ],
       "host": "Federico",
-      "pick-conditions": 3,
+      "pick-conditions": 1,
       "score": 0,
-      "overcast-graded": "https://overcast.fm/+FXx4DRf-c/00:58:52",
-      "overcast-picked": "https://overcast.fm/+FXx6F3FTY/45:59"
+      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:34:41"
+    },
+    {
+      "text": "The updated visionOS gets an eye scrolling feature",
+      "full-pick-text": "The updated visionOS gets an eye scrolling feature",
+      "notes": "",
+      "game": "2025 WWDC Rickies",
+      "type": "Regular",
+      "topics": [
+        "visionOS"
+      ],
+      "host": "Federico",
+      "pick-conditions": 1,
+      "score": 1,
+      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:30:53"
     }
   ]
 }

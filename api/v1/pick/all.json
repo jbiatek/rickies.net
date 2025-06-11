@@ -166,10 +166,12 @@
     "type": "Flexie",
     "topics": [
       "Live Edited",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:08:44"
   },
   {
@@ -898,6 +900,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:43"
   },
   {
@@ -1130,10 +1133,12 @@
     "type": "Flexie",
     "topics": [
       "Apple Apps",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:11:15"
   },
   {
@@ -1275,6 +1280,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:10:32"
   },
   {
@@ -1433,10 +1439,12 @@
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
-      "Developer tools"
+      "Developer tools",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:14:13"
   },
   {
@@ -1513,10 +1521,12 @@
     "game": "2025 WWDC Rickies",
     "type": "Ricky",
     "topics": [
-      "Mac"
+      "Mac",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 6,
+    "score": -1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:48:29"
   },
   {
@@ -1985,6 +1995,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 3,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:40:02"
   },
   {
@@ -2008,7 +2019,7 @@
   {
     "text": "Apple hints that a new \"glass-like\" material for its UI design is true to the nature of the hardware itself",
     "full-pick-text": "Apple hints that a new \"glass-like\" material for its UI design is true to the nature of the hardware itself",
-    "notes": "",
+    "notes": "<p><ul><li>Stephen cites Alan Dye's mention of the rounded corners on many Apple screens influencing the design.</li></ul></p>",
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -2016,6 +2027,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:06:11"
   },
   {
@@ -2280,10 +2292,12 @@
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:10:52"
   },
   {
@@ -2590,6 +2604,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 3,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:41:59"
   },
   {
@@ -2601,10 +2616,12 @@
     "topics": [
       "Apple Apps",
       "Developer tools",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:12:46"
   },
   {
@@ -2676,6 +2693,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:24:19"
   },
   {
@@ -3318,10 +3336,12 @@
     "type": "Flexie",
     "topics": [
       "Machine Learning/AI",
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:52"
   },
   {
@@ -4354,7 +4374,7 @@
   {
     "text": "At least one Apple Intelligence feature is announced for watchOS",
     "full-pick-text": "At least one Apple Intelligence feature is announced for watchOS",
-    "notes": "",
+    "notes": "<p><ul><li>Workout Buddy counts, barely.</li></ul></p>",
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -4363,6 +4383,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:04:20"
   },
   {
@@ -4544,7 +4565,7 @@
   {
     "text": "At least one new OS is referred to by its old marketing name in developer documentation or tools",
     "full-pick-text": "At least one new OS is referred to by its old marketing name in developer documentation or tools",
-    "notes": "",
+    "notes": "<p><ul><li>Stephen cites logs mentioning iOS 19 and some \"iPadOS 19\" documentation.</li></ul></p>",
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -4552,6 +4573,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:03:16"
   },
   {
@@ -4738,10 +4760,12 @@
     "game": "2025 WWDC Rickies",
     "type": "Regular",
     "topics": [
-      "visionOS"
+      "visionOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:34:41"
   },
   {
@@ -4807,6 +4831,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:33"
   },
   {
@@ -5237,10 +5262,12 @@
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:14:24"
   },
   {
@@ -5630,10 +5657,12 @@
     "type": "Flexie",
     "topics": [
       "Apple Apps",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:11:39"
   },
   {
@@ -5648,6 +5677,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:03:59"
   },
   {
@@ -6066,6 +6096,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:04:40"
   },
   {
@@ -6306,6 +6337,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:33:28"
   },
   {
@@ -7236,6 +7268,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:28:19"
   },
   {
@@ -8313,7 +8346,7 @@
   {
     "text": "People start claiming to have found evidence of a folding iPhone",
     "full-pick-text": "People start claiming to have found evidence of a folding iPhone",
-    "notes": "",
+    "notes": "<p><ul><li>Stephen himself speculates that vertical extra-large widgets would make sense for a folding phone, and Stephen counts as people.</li></ul></p>",
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -8321,6 +8354,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:13:03"
   },
   {
@@ -8702,6 +8736,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:13:59"
   },
   {
@@ -8782,6 +8817,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:17:51"
   },
   {
@@ -9073,10 +9109,12 @@
     "type": "Flexie",
     "topics": [
       "iPhone",
-      "iOS"
+      "iOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:07:04"
   },
   {
@@ -9125,6 +9163,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:07:40"
   },
   {
@@ -9563,10 +9602,12 @@
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:08:25"
   },
   {
@@ -9765,10 +9806,12 @@
     "type": "Regular",
     "topics": [
       "Machine Learning/AI",
-      "Stagecraft"
+      "Stagecraft",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:35:38"
   },
   {
@@ -11445,6 +11488,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:26:24"
   },
   {
@@ -11882,6 +11926,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:30:53"
   },
   {
@@ -12188,10 +12233,12 @@
     "topics": [
       "Mac",
       "macOS",
-      "Developer tools"
+      "Developer tools",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:03:51"
   },
   {
@@ -12879,10 +12926,12 @@
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
-      "visionOS"
+      "visionOS",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:04:25"
   },
   {
@@ -12897,6 +12946,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:10:26"
   },
   {

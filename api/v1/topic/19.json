@@ -42,10 +42,12 @@
     "type": "Flexie",
     "topics": [
       "Apple Apps",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:11:15"
   },
   {
@@ -193,6 +195,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 3,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:40:02"
   },
   {
@@ -304,10 +307,12 @@
     "topics": [
       "Apple Apps",
       "Developer tools",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:12:46"
   },
   {
@@ -548,6 +553,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:33"
   },
   {
@@ -578,10 +584,12 @@
     "type": "Flexie",
     "topics": [
       "Apple Apps",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:11:39"
   },
   {
@@ -596,6 +604,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:03:59"
   },
   {
@@ -932,6 +941,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:13:59"
   },
   {

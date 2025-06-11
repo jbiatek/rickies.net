@@ -39,10 +39,12 @@
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
-      "Developer tools"
+      "Developer tools",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:14:13"
   },
   {
@@ -57,6 +59,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 3,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:40:02"
   },
   {
@@ -140,6 +143,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 3,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:41:59"
   },
   {
@@ -151,10 +155,12 @@
     "topics": [
       "Apple Apps",
       "Developer tools",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:12:46"
   },
   {
@@ -248,7 +254,7 @@
   {
     "text": "At least one new OS is referred to by its old marketing name in developer documentation or tools",
     "full-pick-text": "At least one new OS is referred to by its old marketing name in developer documentation or tools",
-    "notes": "",
+    "notes": "<p><ul><li>Stephen cites logs mentioning iOS 19 and some \"iPadOS 19\" documentation.</li></ul></p>",
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -256,6 +262,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:03:16"
   },
   {
@@ -410,6 +417,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:07:40"
   },
   {
@@ -538,10 +546,12 @@
     "topics": [
       "Mac",
       "macOS",
-      "Developer tools"
+      "Developer tools",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:03:51"
   },
   {

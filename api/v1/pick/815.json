@@ -6,9 +6,11 @@
   "type": "Flexie",
   "topics": [
     "Machine Learning/AI",
-    "Stagecraft"
+    "Stagecraft",
+    "Unvindicatable"
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:52"
 }

@@ -1,7 +1,7 @@
 {
   "text": "At least one new OS is referred to by its old marketing name in developer documentation or tools",
   "full-pick-text": "At least one new OS is referred to by its old marketing name in developer documentation or tools",
-  "notes": "",
+  "notes": "<p><ul><li>Stephen cites logs mentioning iOS 19 and some \"iPadOS 19\" documentation.</li></ul></p>",
   "game": "2025 WWDC Rickies",
   "type": "Flexie",
   "topics": [
@@ -9,5 +9,6 @@
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": 1,
   "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:03:16"
 }

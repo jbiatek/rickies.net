@@ -175,6 +175,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:24:19"
   },
   {
@@ -783,6 +784,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:04:40"
   },
   {
@@ -1134,6 +1136,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:17:51"
   },
   {
@@ -1213,10 +1216,12 @@
     "type": "Flexie",
     "topics": [
       "iPhone",
-      "iOS"
+      "iOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:07:04"
   },
   {

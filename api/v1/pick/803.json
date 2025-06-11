@@ -6,9 +6,11 @@
   "type": "Regular",
   "topics": [
     "Machine Learning/AI",
-    "Stagecraft"
+    "Stagecraft",
+    "Possible Vindication"
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:35:38"
 }

@@ -1099,7 +1099,7 @@
   {
     "text": "People start claiming to have found evidence of a folding iPhone",
     "full-pick-text": "People start claiming to have found evidence of a folding iPhone",
-    "notes": "",
+    "notes": "<p><ul><li>Stephen himself speculates that vertical extra-large widgets would make sense for a folding phone, and Stephen counts as people.</li></ul></p>",
     "game": "2025 WWDC Rickies",
     "type": "Flexie",
     "topics": [
@@ -1107,6 +1107,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:13:03"
   },
   {
@@ -1218,10 +1219,12 @@
     "type": "Flexie",
     "topics": [
       "iPhone",
-      "iOS"
+      "iOS",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:07:04"
   },
   {

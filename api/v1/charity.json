@@ -138,5 +138,12 @@
     "donation": 100,
     "charity-name": "Mermaids",
     "charity-url": "https://mermaidsuk.org.uk"
+  },
+  {
+    "game": "2025 WWDC Rickies",
+    "donator": "Myke",
+    "donation": 125,
+    "charity-name": "The Trevor Project",
+    "charity-url": "https://www.thetrevorproject.org"
   }
 ]

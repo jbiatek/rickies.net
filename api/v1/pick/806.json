@@ -5,9 +5,11 @@
   "game": "2025 WWDC Rickies",
   "type": "Ricky",
   "topics": [
-    "Mac"
+    "Mac",
+    "Possible Vindication"
   ],
   "host": "Stephen",
   "pick-conditions": 6,
+  "score": -1,
   "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:48:29"
 }
