@@ -6,9 +6,11 @@
   "type": "Regular",
   "topics": [
     "Accessories",
-    "Non-Apple Related"
+    "Non-Apple Related",
+    "Possible Vindication"
   ],
   "host": "OTJ",
   "pick-conditions": 1,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:59:50"
 }

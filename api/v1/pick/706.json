@@ -1,7 +1,7 @@
 {
   "text": "Another Windows handheld is declared to be \"the best\", resulting in Ticci selling his Legion Go",
   "full-pick-text": "Another Windows handheld is declared to be \"the best\", resulting in Ticci selling his Legion Go",
-  "notes": "",
+  "notes": "<p><ul><li>With no rules <em>against</em> half-points, the fact that Federico has kept but repurposed his Legion Go as a SteamOS device and no longer considers it \"the best\" gets partial credit.</li></ul></p>",
   "game": "The Ticcilympics",
   "type": "Regular",
   "topics": [
@@ -9,5 +9,6 @@
   ],
   "host": "Myke",
   "pick-conditions": 2,
+  "score": 0.5,
   "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:53:24"
 }

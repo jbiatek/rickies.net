@@ -5,9 +5,11 @@
   "game": "The Ticcilympics",
   "type": "Regular",
   "topics": [
-    "Non-Apple Related"
+    "Non-Apple Related",
+    "Possible Vindication"
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:04:40"
 }

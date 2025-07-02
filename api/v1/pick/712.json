@@ -5,9 +5,11 @@
   "game": "The Ticcilympics",
   "type": "NonGraded",
   "topics": [
-    "Non-Apple Related"
+    "Non-Apple Related",
+    "Possible Vindication"
   ],
   "host": "OTJ",
   "pick-conditions": 1,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:10:05"
 }

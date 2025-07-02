@@ -1,7 +1,7 @@
 {
   "text": "Federico creates another Frankenstein computer device",
   "full-pick-text": "Federico creates another Frankenstein computer device",
-  "notes": "",
+  "notes": "<p><ul><li>Federico initially thinks not, but a \"crazy eGPU that at some point caught on fire\" definitely counts.</li></ul></p>",
   "game": "The Ticcilympics",
   "type": "NonGraded",
   "topics": [
@@ -9,5 +9,6 @@
   ],
   "host": "Myke",
   "pick-conditions": 1,
+  "score": 1,
   "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:15:02"
 }

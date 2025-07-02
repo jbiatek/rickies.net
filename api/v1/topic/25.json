@@ -2,7 +2,7 @@
   {
     "text": "Another Windows handheld is declared to be \"the best\", resulting in Ticci selling his Legion Go",
     "full-pick-text": "Another Windows handheld is declared to be \"the best\", resulting in Ticci selling his Legion Go",
-    "notes": "",
+    "notes": "<p><ul><li>With no rules <em>against</em> half-points, the fact that Federico has kept but repurposed his Legion Go as a SteamOS device and no longer considers it \"the best\" gets partial credit.</li></ul></p>",
     "game": "The Ticcilympics",
     "type": "Regular",
     "topics": [
@@ -10,6 +10,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 2,
+    "score": 0.5,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:53:24"
   },
   {
@@ -35,10 +36,12 @@
     "type": "Regular",
     "topics": [
       "Accessories",
-      "Non-Apple Related"
+      "Non-Apple Related",
+      "Possible Vindication"
     ],
     "host": "OTJ",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:59:50"
   },
   {
@@ -49,16 +52,18 @@
     "type": "NonGraded",
     "topics": [
       "Live Edited",
-      "Non-Apple Related"
+      "Non-Apple Related",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:16:40"
   },
   {
     "text": "Federico creates another Frankenstein computer device",
     "full-pick-text": "Federico creates another Frankenstein computer device",
-    "notes": "",
+    "notes": "<p><ul><li>Federico initially thinks not, but a \"crazy eGPU that at some point caught on fire\" definitely counts.</li></ul></p>",
     "game": "The Ticcilympics",
     "type": "NonGraded",
     "topics": [
@@ -66,6 +71,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:15:02"
   },
   {
@@ -76,10 +82,12 @@
     "type": "NonGraded",
     "topics": [
       "Accessories",
-      "Non-Apple Related"
+      "Non-Apple Related",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:15:13"
   },
   {
@@ -90,10 +98,12 @@
     "type": "Regular",
     "topics": [
       "Accessories",
-      "Non-Apple Related"
+      "Non-Apple Related",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:48:11"
   },
   {
@@ -104,10 +114,12 @@
     "type": "Regular",
     "topics": [
       "Accessories",
-      "Non-Apple Related"
+      "Non-Apple Related",
+      "Possible Vindication"
     ],
     "host": "OTJ",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:45:14"
   },
   {
@@ -121,6 +133,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:07:54"
   },
   {
@@ -135,6 +148,7 @@
     ],
     "host": "OTJ",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:06:02"
   },
   {
@@ -144,10 +158,12 @@
     "game": "The Ticcilympics",
     "type": "Regular",
     "topics": [
-      "Non-Apple Related"
+      "Non-Apple Related",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:55:00"
   },
   {
@@ -157,10 +173,12 @@
     "game": "The Ticcilympics",
     "type": "NonGraded",
     "topics": [
-      "Non-Apple Related"
+      "Non-Apple Related",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:16:14"
   },
   {
@@ -170,10 +188,12 @@
     "game": "The Ticcilympics",
     "type": "NonGraded",
     "topics": [
-      "Non-Apple Related"
+      "Non-Apple Related",
+      "Possible Vindication"
     ],
     "host": "OTJ",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:10:05"
   },
   {
@@ -187,12 +207,13 @@
     ],
     "host": "OTJ",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:10:25"
   },
   {
     "text": "Ticci returns to WWDC and tries a new food. He doesn't like it",
     "full-pick-text": "Ticci returns to WWDC and tries a new food. He doesn't like it",
-    "notes": "",
+    "notes": "<p><ul><li>OTJ further predicts being pressed into service as Federico's food taster after some events of the previous year.</li><li><a href=\"https://www.youtube.com/watch?v=44P913QlIgQ\" target=\"_blank\">It was even captured on video</a>.</li></ul></p>",
     "game": "The Ticcilympics",
     "type": "NonGraded",
     "topics": [
@@ -200,6 +221,7 @@
     ],
     "host": "Myke",
     "pick-conditions": 3,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:12:44"
   },
   {
@@ -214,6 +236,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:50:57"
   },
   {
@@ -239,10 +262,12 @@
     "game": "The Ticcilympics",
     "type": "Regular",
     "topics": [
-      "Non-Apple Related"
+      "Non-Apple Related",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:04:40"
   }
 ]

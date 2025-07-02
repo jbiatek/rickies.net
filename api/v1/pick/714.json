@@ -1,7 +1,7 @@
 {
   "text": "Ticci returns to WWDC and tries a new food. He doesn't like it",
   "full-pick-text": "Ticci returns to WWDC and tries a new food. He doesn't like it",
-  "notes": "",
+  "notes": "<p><ul><li>OTJ further predicts being pressed into service as Federico's food taster after some events of the previous year.</li><li><a href=\"https://www.youtube.com/watch?v=44P913QlIgQ\" target=\"_blank\">It was even captured on video</a>.</li></ul></p>",
   "game": "The Ticcilympics",
   "type": "NonGraded",
   "topics": [
@@ -9,5 +9,6 @@
   ],
   "host": "Myke",
   "pick-conditions": 3,
+  "score": 1,
   "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:12:44"
 }
