@@ -15718,6 +15718,7 @@
           "host": "OTJ",
           "pick-conditions": 1,
           "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:01:45",
           "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:45:14"
         },
         {
@@ -15734,6 +15735,7 @@
           "host": "Myke",
           "pick-conditions": 1,
           "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:02:26",
           "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:48:11"
         },
         {
@@ -15749,6 +15751,7 @@
           "host": "Stephen",
           "pick-conditions": 2,
           "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:03:28",
           "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:50:57"
         },
         {
@@ -15763,6 +15766,7 @@
           "host": "Myke",
           "pick-conditions": 2,
           "score": 0.5,
+          "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:05:38",
           "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:53:24"
         },
         {
@@ -15778,6 +15782,7 @@
           "host": "Stephen",
           "pick-conditions": 2,
           "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:07:44",
           "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:55:00"
         },
         {
@@ -15794,6 +15799,7 @@
           "host": "OTJ",
           "pick-conditions": 1,
           "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:08:02",
           "overcast-picked": "https://overcast.fm/+FXx6ipIrI/00:59:50"
         },
         {
@@ -15809,6 +15815,7 @@
           "host": "Stephen",
           "pick-conditions": 1,
           "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:09:06",
           "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:04:40"
         },
         {
@@ -15824,6 +15831,7 @@
           "host": "OTJ",
           "pick-conditions": 1,
           "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:09:54",
           "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:06:02"
         },
         {
@@ -15838,6 +15846,7 @@
           "host": "Myke",
           "pick-conditions": 1,
           "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:12:41",
           "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:07:54"
         }
       ],
@@ -15873,6 +15882,7 @@
           "host": "OTJ",
           "pick-conditions": 1,
           "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:14:14",
           "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:10:05"
         },
         {
@@ -15887,6 +15897,7 @@
           "host": "OTJ",
           "pick-conditions": 2,
           "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:14:40",
           "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:10:25"
         },
         {
@@ -15901,6 +15912,7 @@
           "host": "Myke",
           "pick-conditions": 3,
           "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:15:41",
           "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:12:44"
         },
         {
@@ -15915,6 +15927,7 @@
           "host": "Myke",
           "pick-conditions": 1,
           "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:19:07",
           "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:15:02"
         },
         {
@@ -15931,6 +15944,7 @@
           "host": "Myke",
           "pick-conditions": 1,
           "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:19:43",
           "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:15:13"
         },
         {
@@ -15946,6 +15960,7 @@
           "host": "Stephen",
           "pick-conditions": 1,
           "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:19:51",
           "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:16:14"
         },
         {
@@ -15962,6 +15977,7 @@
           "host": "Stephen",
           "pick-conditions": 1,
           "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:20:11",
           "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:16:40"
         }
       ],
