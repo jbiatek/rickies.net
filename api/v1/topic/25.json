@@ -81,17 +81,16 @@
   {
     "text": "Federico discovers a new kickstand technology",
     "full-pick-text": "Federico discovers a new kickstand technology",
-    "notes": "",
+    "notes": "<p><ul><li>Initially graded as incorrect, a week later <a href=\"https://overcast.fm/+FXx5_PFg4/00:18:35\" target=\"_blank\">it was revealed</a> that Federico has been enjoying <a href=\"https://journeyofficial.com/products/loc8-finder-wallet-and-stand\" target=\"_blank\">a MagSafe wallet that features a kickstand</a>, granting Myke some retroactive passion points.</li></ul></p>",
     "game": "The Ticcilympics",
     "type": "NonGraded",
     "topics": [
       "Accessories",
-      "Non-Apple Related",
-      "Possible Vindication"
+      "Non-Apple Related"
     ],
     "host": "Myke",
     "pick-conditions": 1,
-    "score": 0,
+    "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:19:43",
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:15:13"
   },
@@ -193,6 +192,310 @@
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:16:14"
   },
   {
+    "text": "One of Stephen's old pieces of Apple gear gets misplaced",
+    "full-pick-text": "One of Stephen's old pieces of Apple gear gets misplaced",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/01:01:33"
+  },
+  {
+    "text": "Stephen at some point will assemble a gallery of the Liquid Glass design evolution through the betas",
+    "full-pick-text": "Stephen at some point will assemble a gallery of the Liquid Glass design evolution through the betas",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "iOS",
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:31:33"
+  },
+  {
+    "text": "Stephen buys and returns at least one iPhone from the 2025 lineup",
+    "full-pick-text": "Stephen buys and returns at least one iPhone from the 2025 lineup",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:54:39"
+  },
+  {
+    "text": "Stephen digs another trench",
+    "full-pick-text": "Stephen digs another trench",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:54:51"
+  },
+  {
+    "text": "Stephen goes back to a desktop Mac",
+    "full-pick-text": "Stephen goes back to a desktop Mac",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:23:54"
+  },
+  {
+    "text": "Stephen has a mustache and a shaved head",
+    "full-pick-text": "Stephen has a mustache and a shaved head",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:42:14"
+  },
+  {
+    "text": "Stephen hurts himself trying to do some physical work",
+    "full-pick-text": "Stephen hurts himself trying to do some physical work",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/01:00:39"
+  },
+  {
+    "text": "Stephen is going to assemble some shelving",
+    "full-pick-text": "Stephen is going to assemble some shelving",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:50:37"
+  },
+  {
+    "text": "Stephen is going to go back to a Mac setup that involves two or more Macs",
+    "full-pick-text": "Stephen is going to go back to a Mac setup that involves two or more Macs",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:22:51"
+  },
+  {
+    "text": "Stephen is going to install a weather station",
+    "full-pick-text": "Stephen is going to install a weather station",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:44:29"
+  },
+  {
+    "text": "Stephen is going to start a home improvement project with a technology goal",
+    "full-pick-text": "Stephen is going to start a home improvement project with a technology goal",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:30:26"
+  },
+  {
+    "text": "Stephen is going to switch email clients on the iPhone",
+    "full-pick-text": "Stephen is going to switch email clients on the iPhone",
+    "notes": "<p><ul><li>Mimestream for iOS is a promising candidate if it ever happens.</li></ul></p>",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:33:50"
+  },
+  {
+    "text": "Stephen is going to take apart a major household appliance",
+    "full-pick-text": "Stephen is going to take apart a major household appliance",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:45:51"
+  },
+  {
+    "text": "Stephen is going to upgrade his NAS setup",
+    "full-pick-text": "Stephen is going to upgrade his NAS setup",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:43:01"
+  },
+  {
+    "text": "Stephen launches another Kickstarter campaign",
+    "full-pick-text": "Stephen launches another Kickstarter campaign",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:53:35"
+  },
+  {
+    "text": "Stephen sees Yellowcard or Death Cab for Cutie again",
+    "full-pick-text": "Stephen sees Yellowcard or Death Cab for Cutie again",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:59:56"
+  },
+  {
+    "text": "Stephen will end up buying both the iPhone 17 Air and the 17 Pro within the span of 12 months",
+    "full-pick-text": "Stephen will end up buying both the iPhone 17 Air and the 17 Pro within the span of 12 months",
+    "notes": "<p><ul><li>Specifically for himself, not for a family member.</li><li>\"Within 12 months\" is referring to the date of the pick, which is when it'll be graded anyway, but we're all just having some fun here, not worrying about the rule arguments as much this time.</li></ul></p>",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:26:04"
+  },
+  {
+    "text": "Stephen will finish at least one game on the new Analogue Nintendo 64 console",
+    "full-pick-text": "Stephen will finish at least one game on the new Analogue Nintendo 64 console",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:57:09"
+  },
+  {
+    "text": "Stephen will go to WWDC '26",
+    "full-pick-text": "Stephen will go to WWDC '26",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:30:07"
+  },
+  {
+    "text": "Stephen will install something in his truck",
+    "full-pick-text": "Stephen will install something in his truck",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:43:40"
+  },
+  {
+    "text": "Stephen will not win the Relay Co-Founder Championship at the Podcastathon",
+    "full-pick-text": "Stephen will not win the Relay Co-Founder Championship at the Podcastathon",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:56:31"
+  },
+  {
+    "text": "Stephen will win the Relay Co-Founder's Championship at the Podcastathon",
+    "full-pick-text": "Stephen will win the Relay Co-Founder's Championship at the Podcastathon",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:56:52"
+  },
+  {
+    "text": "Stephen's next computer has more than 8 terabytes of SSD",
+    "full-pick-text": "Stephen's next computer has more than 8 terabytes of SSD",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Mac",
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:51:54"
+  },
+  {
     "text": "Ticci builds something new with magnets",
     "full-pick-text": "Ticci builds something new with magnets",
     "notes": "",
@@ -285,5 +588,18 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:09:06",
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:04:40"
+  },
+  {
+    "text": "When reading this pick, Stephen will confess to another piece of technology that he has broken and not told us about",
+    "full-pick-text": "When reading this pick, Stephen will confess to another piece of technology that he has broken and not told us about",
+    "notes": "<p><ul><li>If it's the iPhone 17 Air specifically, then extra props go to Federico for calling it.</li></ul></p>",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:28:41"
   }
 ]

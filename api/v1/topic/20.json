@@ -1,5 +1,25 @@
 [
   {
+    "text": "\"Improvements\" to Stage Manager are announced",
+    "full-pick-text": "\"Improvements\" to Stage Manager are announced",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Mac",
+      "macOS",
+      "Ahead of Its Time"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 361,
+    "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:33:35",
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:13:23"
+  },
+  {
     "text": "A more powerful Mac Mini is announced, but it is not a \"Mac Mini Pro\"",
     "full-pick-text": "A more powerful Mac Mini is announced, but it is not a \"Mac Mini Pro\"",
     "notes": "<p><ul><li>The Mac Studio is very close, but this pick was about the name and the Mac Studio, while very reminiscent of the Mini, is not named as such.</li><li>Just 2 weeks after the grading window closed, <a href=\"https://www.apple.com/newsroom/2023/01/apple-introduces-new-mac-mini-with-m2-and-m2-pro-more-powerful-capable-and-versatile-than-ever/\" target=\"_blank\">the M2 Pro Mac mini was announced</a>.</li></ul></p>",
@@ -226,6 +246,24 @@
     "ahead-by": 520,
     "overcast-graded": "https://overcast.fm/+FXx6bXcOY/23:15",
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/56:47"
+  },
+  {
+    "text": "Apple announces AI-powered changes to iWork",
+    "full-pick-text": "Apple announces AI-powered changes to iWork",
+    "notes": "",
+    "game": "2024 May Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Ahead of Its Time",
+      "Apple Apps",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 217,
+    "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:11:26",
+    "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:48"
   },
   {
     "text": "Apple announces original podcast content",
@@ -974,6 +1012,23 @@
     "overcast-picked": "https://overcast.fm/+FXx7nikbQ/48:07"
   },
   {
+    "text": "iOS 12 features a large scale UI redesign across iOS, the biggest since iOS 7",
+    "full-pick-text": "iOS 12 features a large scale UI redesign across iOS, the biggest since iOS 7",
+    "notes": "",
+    "game": "2018 Annual Predictions",
+    "type": "Ricky",
+    "topics": [
+      "iOS",
+      "Ahead of Its Time"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "score": -1,
+    "ahead-by": 2352,
+    "overcast-graded": "https://overcast.fm/+FXx495ZrA/08:12",
+    "overcast-picked": "https://overcast.fm/+FXx5giTnQ/53:35"
+  },
+  {
     "text": "iOS 14.5 will drop within 24 hours of the event",
     "full-pick-text": "iOS 14.5 will drop within 24 hours of the event",
     "notes": "<p><ul><li>It was a week later.</li></ul></p>",
@@ -1115,6 +1170,25 @@
     "ahead-by": 187,
     "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:24:25",
     "overcast-picked": "https://overcast.fm/+FXx4E3x_I/42:39"
+  },
+  {
+    "text": "Journal app comes to iPadOS",
+    "full-pick-text": "Journal app comes to iPadOS",
+    "notes": "",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Ahead of Its Time",
+      "Apple Apps"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 361,
+    "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:34:42",
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:14:48"
   },
   {
     "text": "MagSafe is updated to support 20 watt charging or higher, but a new puck is required",
@@ -1735,6 +1809,42 @@
     "ahead-by": 1098,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:23:20",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:40:58"
+  },
+  {
+    "text": "The next version of macOS is named Tahoe",
+    "full-pick-text": "The next version of macOS is named Tahoe",
+    "notes": "<p><ul><li>Stolen from one of Myke's <a href=\"https://upgrade.cards/card/apple062023\" target=\"_blank\">choices in the Upgrade Draft</a> for the last 2 years.</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS",
+      "Ahead of Its Time"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 361,
+    "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:34:48",
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:15:47"
+  },
+  {
+    "text": "The next version of Stage Manager supports more than 4 windows at once on some iPad models",
+    "full-pick-text": "The next version of Stage Manager supports more than 4 windows at once on some iPad models",
+    "notes": "<p><ul><li>This would complete <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20new%20iPad%20Pro%20will%20feature...\">Federico's annual risky pick for the year</a> as well. (Reuse of an annual pick is allowed in The Flexies.)</li></ul></p>",
+    "game": "2024 WWDC Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "iPadOS",
+      "Ahead of Its Time"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "score": 0,
+    "ahead-by": 361,
+    "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:42:55",
+    "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:32:08"
   },
   {
     "text": "The Passwords feature of Settings becomes a standalone app",

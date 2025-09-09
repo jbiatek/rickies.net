@@ -234,17 +234,16 @@
       {
         "text": "Federico discovers a new kickstand technology",
         "full-pick-text": "Federico discovers a new kickstand technology",
-        "notes": "",
+        "notes": "<p><ul><li>Initially graded as incorrect, a week later <a href=\"https://overcast.fm/+FXx5_PFg4/00:18:35\" target=\"_blank\">it was revealed</a> that Federico has been enjoying <a href=\"https://journeyofficial.com/products/loc8-finder-wallet-and-stand\" target=\"_blank\">a MagSafe wallet that features a kickstand</a>, granting Myke some retroactive passion points.</li></ul></p>",
         "game": "The Ticcilympics",
         "type": "NonGraded",
         "topics": [
           "Accessories",
-          "Non-Apple Related",
-          "Possible Vindication"
+          "Non-Apple Related"
         ],
         "host": "Myke",
         "pick-conditions": 1,
-        "score": 0,
+        "score": 1,
         "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:19:43",
         "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:15:13"
       },

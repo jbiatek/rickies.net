@@ -444,11 +444,12 @@
     "type": "Ricky",
     "topics": [
       "iOS",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Myke",
     "pick-conditions": 1,
     "score": -1,
+    "ahead-by": 2352,
     "overcast-graded": "https://overcast.fm/+FXx495ZrA/08:12",
     "overcast-picked": "https://overcast.fm/+FXx5giTnQ/53:35"
   },
@@ -707,6 +708,45 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:18:55"
+  },
+  {
+    "text": "iOS 26 comes out on Monday, September 15th",
+    "full-pick-text": "iOS 26 comes out on Monday, September 15th",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:09:50"
+  },
+  {
+    "text": "iOS 26 comes out on Tuesday, September 16th",
+    "full-pick-text": "iOS 26 comes out on Tuesday, September 16th",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:14:54"
+  },
+  {
+    "text": "iOS 26 gets a release date of the week of September 15",
+    "full-pick-text": "iOS 26 gets a release date of the week of September 15",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:04:32"
   },
   {
     "text": "iOS and iPadOS 15 get native HomeKit widgets",
@@ -1227,6 +1267,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/01:17:19",
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:07:04"
+  },
+  {
+    "text": "Stephen at some point will assemble a gallery of the Liquid Glass design evolution through the betas",
+    "full-pick-text": "Stephen at some point will assemble a gallery of the Liquid Glass design evolution through the betas",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "iOS",
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:31:33"
   },
   {
     "text": "The iPhone 14 Pro Camera app introduces some kind of 3D capturing functionality",

@@ -1,0 +1,593 @@
+{
+  "name": "2025 September Rickies",
+  "game-type": "Keynote",
+  "date-graded": "",
+  "date-picked": "2025-09-04",
+  "main-game": {
+    "picks": [
+      {
+        "text": "Apple introduces a new \"thin\" iPhone model",
+        "full-pick-text": "Apple introduces a new \"thin\" iPhone model",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:22:55"
+      },
+      {
+        "text": "Apple has a new case option to replace FineWoven",
+        "full-pick-text": "Apple has a new case option to replace FineWoven",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone",
+          "Accessories"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:28:05"
+      },
+      {
+        "text": "The iPhone Pro and Pro Max have different camera systems",
+        "full-pick-text": "The iPhone Pro and Pro Max have different camera systems",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:31:25"
+      },
+      {
+        "text": "The Pro iPhones have a wider, rectangular camera bar on the back",
+        "full-pick-text": "The Pro iPhones have a wider, rectangular camera bar on the back",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:34:07"
+      },
+      {
+        "text": "The Apple Watch Ultra finally goes to '3'",
+        "full-pick-text": "The Apple Watch Ultra finally goes to '3'",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "Apple Watch"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:37:49"
+      },
+      {
+        "text": "Apple announces AirPods Pro 3",
+        "full-pick-text": "Apple announces AirPods Pro 3",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Regular",
+        "topics": [
+          "Accessories",
+          "AirPods"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:38:39"
+      },
+      {
+        "text": "The new iPhone 17 Pro devices have additional Apple Intelligence features",
+        "full-pick-text": "The new iPhone 17 Pro devices have additional Apple Intelligence features",
+        "notes": "<p><ul><li>\"They have more RAM than other iPhones and can run on-device models faster.\"</li><li>\"The 17 Pros can run the 7B version of Apple Foundation Model on-device\"</li><li>\"The 17 Pros get new image and/or camera related AI features\"</li></ul></p>",
+        "game": "2025 September Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPhone",
+          "Machine Learning/AI"
+        ],
+        "host": "Federico",
+        "pick-conditions": 4,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:43:10"
+      },
+      {
+        "text": "Apple announces the iPhone Air",
+        "full-pick-text": "Apple announces the iPhone Air",
+        "notes": "<p><ul><li>\"It weighs between 146-148 grams.\"</li><li>\"It does not have the worst quoted battery life of the 17 line (equal or better than 17).\"</li><li>\"It is more expensive than the Pro.\"</li></ul></p>",
+        "game": "2025 September Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Myke",
+        "pick-conditions": 3,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:51:57"
+      },
+      {
+        "text": "The iPhone Pro and Pro Max come in a unique finish",
+        "full-pick-text": "The iPhone Pro and Pro Max come in a unique finish",
+        "notes": "<p><ul><li>\"It refracts/reflects light.\"</li><li>\"It has a rainbow effect as light passes over it.\"</li><li>\"Apple calls the finish 'Glass'.\"</li></ul></p>",
+        "game": "2025 September Rickies",
+        "type": "Ricky",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 3,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:58:19"
+      }
+    ],
+    "coin-flips": [],
+    "winner": "TBD"
+  },
+  "the-flexies": {
+    "picks": [
+      {
+        "text": "The Apple Watch Ultra Series 3 has a larger screen than the Ultra 2",
+        "full-pick-text": "The Apple Watch Ultra Series 3 has a larger screen than the Ultra 2",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Watch"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:04:10"
+      },
+      {
+        "text": "iOS 26 gets a release date of the week of September 15",
+        "full-pick-text": "iOS 26 gets a release date of the week of September 15",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:04:32"
+      },
+      {
+        "text": "Apple releases a new external iPhone battery",
+        "full-pick-text": "Apple releases a new external iPhone battery",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Accessories"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:04:58"
+      },
+      {
+        "text": "Joz introduces the Pro iPhones in a dark setting",
+        "full-pick-text": "Joz introduces the Pro iPhones in a dark setting",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:05:03"
+      },
+      {
+        "text": "Apple announces AirTags 2",
+        "full-pick-text": "Apple announces AirTags 2",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:05:10"
+      },
+      {
+        "text": "The iPhone Air is the \"one more thing\"",
+        "full-pick-text": "The iPhone Air is the \"one more thing\"",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Stagecraft"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:05:17"
+      },
+      {
+        "text": "Apple has a new \"lanyard\" accessory for iPhone",
+        "full-pick-text": "Apple has a new \"lanyard\" accessory for iPhone",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Accessories"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:05:58"
+      },
+      {
+        "text": "AirTags 2 feature new-generation UWB technology",
+        "full-pick-text": "AirTags 2 feature new-generation UWB technology",
+        "notes": "<p><ul><li>Tweaked after it turned ultra wide band was, in fact, a feature of AirTags from the beginning.</li></ul></p>",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Accessories",
+          "Live Edited"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:06:03"
+      },
+      {
+        "text": "Apple announces partnership with Google for Gemini",
+        "full-pick-text": "Apple announces partnership with Google for Gemini",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Machine Learning/AI"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:07:25"
+      },
+      {
+        "text": "All iPhones have a ProMotion display",
+        "full-pick-text": "All iPhones have a ProMotion display",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Federico",
+        "pick-conditions": 4,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:07:52"
+      },
+      {
+        "text": "Some of the new iPhones have a redesigned thermal system",
+        "full-pick-text": "Some of the new iPhones have a redesigned thermal system",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:08:00"
+      },
+      {
+        "text": "All iPhones have an improved selfie camera",
+        "full-pick-text": "All iPhones have an improved selfie camera",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Federico",
+        "pick-conditions": 4,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:08:08"
+      },
+      {
+        "text": "The back of the Pro iPhones looks different",
+        "full-pick-text": "The back of the Pro iPhones looks different",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:08:26"
+      },
+      {
+        "text": "Shortcuts' \"Use Model\" action for AI is mentioned/shown on screen",
+        "full-pick-text": "Shortcuts' \"Use Model\" action for AI is mentioned/shown on screen",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Apps",
+          "Stagecraft"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:09:32"
+      },
+      {
+        "text": "iOS 26 comes out on Monday, September 15th",
+        "full-pick-text": "iOS 26 comes out on Monday, September 15th",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:09:50"
+      },
+      {
+        "text": "No iPhone colour has the word 'orange' in its name",
+        "full-pick-text": "No iPhone colour has the word 'orange' in its name",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:10:17"
+      },
+      {
+        "text": "The iPhone line is called '17'",
+        "full-pick-text": "The iPhone line is called '17'",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:10:34"
+      },
+      {
+        "text": "iPhone 17 Air has a ProMotion display",
+        "full-pick-text": "iPhone 17 Air has a ProMotion display",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:10:40"
+      },
+      {
+        "text": "iPhone Air bumper case",
+        "full-pick-text": "iPhone Air bumper case",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Accessories"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:10:44"
+      },
+      {
+        "text": "Matte display for the Pro iPhone",
+        "full-pick-text": "Matte display for the Pro iPhone",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:10:52"
+      },
+      {
+        "text": "New headband for the Vision Pro",
+        "full-pick-text": "New headband for the Vision Pro",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Vision Pro",
+          "Accessories"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:11:22"
+      },
+      {
+        "text": "The iPhone 17 Air is pulled from an envelope",
+        "full-pick-text": "The iPhone 17 Air is pulled from an envelope",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:11:32"
+      },
+      {
+        "text": "Apple specifically calls out the blood oxygen features of the Apple Watch",
+        "full-pick-text": "Apple specifically calls out the blood oxygen features of the Apple Watch",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Apple Watch",
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:14:18"
+      },
+      {
+        "text": "The 17 line is all made of aluminium",
+        "full-pick-text": "The 17 line is all made of aluminium",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone"
+        ],
+        "host": "Myke",
+        "pick-conditions": 4,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:14:43"
+      },
+      {
+        "text": "iOS 26 comes out on Tuesday, September 16th",
+        "full-pick-text": "iOS 26 comes out on Tuesday, September 16th",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iOS"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:14:54"
+      },
+      {
+        "text": "No date for macOS Tahoe",
+        "full-pick-text": "No date for macOS Tahoe",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Mac",
+          "macOS"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:15:01"
+      },
+      {
+        "text": "There is an iPhone Pro that is orange by the eye",
+        "full-pick-text": "There is an iPhone Pro that is orange by the eye",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Live Edited"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:15:19"
+      },
+      {
+        "text": "There is an iPhone Pro that is copper by the eye",
+        "full-pick-text": "There is an iPhone Pro that is copper by the eye",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Live Edited"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:15:59"
+      },
+      {
+        "text": "The new iPhone Pro color is called Tangerine",
+        "full-pick-text": "The new iPhone Pro color is called Tangerine",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Live Edited"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:16:06"
+      },
+      {
+        "text": "The new iPhone colour is called Rust",
+        "full-pick-text": "The new iPhone colour is called Rust",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Live Edited"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:16:20"
+      },
+      {
+        "text": "The new iPhone Pro color is called Copper",
+        "full-pick-text": "The new iPhone Pro color is called Copper",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Live Edited"
+        ],
+        "host": "Stephen",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:16:39"
+      },
+      {
+        "text": "The iPhone Air is introduced with a video that makes it appear from behind an iPhone 17 Pro laying flat on a surface",
+        "full-pick-text": "The iPhone Air is introduced with a video that makes it appear from behind an iPhone 17 Pro laying flat on a surface",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "iPhone",
+          "Live Edited",
+          "Stagecraft"
+        ],
+        "host": "Federico",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:17:18"
+      },
+      {
+        "text": "Tim Cook says 'iPhone 17 Air' before anyone else",
+        "full-pick-text": "Tim Cook says 'iPhone 17 Air' before anyone else",
+        "notes": "",
+        "game": "2025 September Rickies",
+        "type": "Flexie",
+        "topics": [
+          "Live Edited",
+          "Stagecraft"
+        ],
+        "host": "Myke",
+        "pick-conditions": 1,
+        "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:17:52"
+      }
+    ],
+    "coin-flips": [],
+    "winner": "TBD"
+  },
+  "relevant-episodes": [
+    {
+      "title": "Connected #561: The Rickies (September 2025)",
+      "url": "https://relay.fm/connected/175",
+      "episode-number": 175
+    }
+  ]
+}

@@ -55,13 +55,14 @@
     "game": "2024 May Rickies",
     "type": "Flexie",
     "topics": [
+      "Ahead of Its Time",
       "Apple Apps",
-      "Machine Learning/AI",
-      "Possible Vindication"
+      "Machine Learning/AI"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 217,
     "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:11:26",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:48"
   },
@@ -81,6 +82,19 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:36:16",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:21:47"
+  },
+  {
+    "text": "Apple announces partnership with Google for Gemini",
+    "full-pick-text": "Apple announces partnership with Google for Gemini",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:07:25"
   },
   {
     "text": "Apple demos a Mac app that takes advantage of the updated Neural Engine",
@@ -681,6 +695,20 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx4DRf-c/00:55:40",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/41:47"
+  },
+  {
+    "text": "The new iPhone 17 Pro devices have additional Apple Intelligence features",
+    "full-pick-text": "The new iPhone 17 Pro devices have additional Apple Intelligence features",
+    "notes": "<p><ul><li>\"They have more RAM than other iPhones and can run on-device models faster.\"</li><li>\"The 17 Pros can run the 7B version of Apple Foundation Model on-device\"</li><li>\"The 17 Pros get new image and/or camera related AI features\"</li></ul></p>",
+    "game": "2025 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 4,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:43:10"
   },
   {
     "text": "There is a segment about Apple Intelligence that lasts at least 10 minutes",

@@ -23,11 +23,12 @@
       "iPadOS",
       "Mac",
       "macOS",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 361,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:33:35",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:13:23"
   },
@@ -876,6 +877,20 @@
     "overcast-picked": "https://overcast.fm/+FXx56vlEY/43:46"
   },
   {
+    "text": "AirTags 2 feature new-generation UWB technology",
+    "full-pick-text": "AirTags 2 feature new-generation UWB technology",
+    "notes": "<p><ul><li>Tweaked after it turned ultra wide band was, in fact, a feature of AirTags from the beginning.</li></ul></p>",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:06:03"
+  },
+  {
     "text": "AirTags unveiled",
     "full-pick-text": "AirTags unveiled",
     "notes": "",
@@ -904,6 +919,32 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/01:15:09",
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:43"
+  },
+  {
+    "text": "All iPhones have a ProMotion display",
+    "full-pick-text": "All iPhones have a ProMotion display",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 4,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:07:52"
+  },
+  {
+    "text": "All iPhones have an improved selfie camera",
+    "full-pick-text": "All iPhones have an improved selfie camera",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 4,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:08:08"
   },
   {
     "text": "All outside shots are filmed in the evening",
@@ -1476,15 +1517,43 @@
     "game": "2024 May Rickies",
     "type": "Flexie",
     "topics": [
+      "Ahead of Its Time",
       "Apple Apps",
-      "Machine Learning/AI",
-      "Possible Vindication"
+      "Machine Learning/AI"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 217,
     "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:11:26",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:48"
+  },
+  {
+    "text": "Apple announces AirPods Pro 3",
+    "full-pick-text": "Apple announces AirPods Pro 3",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "Accessories",
+      "AirPods"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:38:39"
+  },
+  {
+    "text": "Apple announces AirTags 2",
+    "full-pick-text": "Apple announces AirTags 2",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:05:10"
   },
   {
     "text": "Apple announces an AI deal with Google",
@@ -1604,6 +1673,19 @@
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:29:58"
   },
   {
+    "text": "Apple announces partnership with Google for Gemini",
+    "full-pick-text": "Apple announces partnership with Google for Gemini",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:07:25"
+  },
+  {
     "text": "Apple announces some new immersive video content coming to Vision Pro",
     "full-pick-text": "Apple announces some new immersive video content coming to Vision Pro",
     "notes": "",
@@ -1648,6 +1730,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:28:48",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:22:51"
+  },
+  {
+    "text": "Apple announces the iPhone Air",
+    "full-pick-text": "Apple announces the iPhone Air",
+    "notes": "<p><ul><li>\"It weighs between 146-148 grams.\"</li><li>\"It does not have the worst quoted battery life of the 17 line (equal or better than 17).\"</li><li>\"It is more expensive than the Pro.\"</li></ul></p>",
+    "game": "2025 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:51:57"
   },
   {
     "text": "Apple announces updates for Final Cut Pro and/or Logic for the iPad",
@@ -1992,6 +2087,20 @@
     "overcast-picked": "https://overcast.fm/+FXx5SWQQA/38:54"
   },
   {
+    "text": "Apple has a new \"lanyard\" accessory for iPhone",
+    "full-pick-text": "Apple has a new \"lanyard\" accessory for iPhone",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Accessories"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:05:58"
+  },
+  {
     "text": "Apple has a new app for gamers",
     "full-pick-text": "Apple has a new app for gamers. It's called Apple Games. It creates new, specific developer terms for games. It features a partnership with Microsoft for Xbox Game Pass.",
     "notes": "<p><ul><li>\"It's called Apple Games.\"</li><li>\"It creates new, specific developer terms for games.\"</li><li>\"It features a partnership with Microsoft for Xbox Game Pass.\"</li></ul></p>",
@@ -2006,6 +2115,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/00:47:41",
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:40:02"
+  },
+  {
+    "text": "Apple has a new case option to replace FineWoven",
+    "full-pick-text": "Apple has a new case option to replace FineWoven",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:28:05"
   },
   {
     "text": "Apple has Apple Silicon versions of all of its Intel Macs on sale by the end of 2021",
@@ -2137,6 +2260,19 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:28:37",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:14:15"
+  },
+  {
+    "text": "Apple introduces a new \"thin\" iPhone model",
+    "full-pick-text": "Apple introduces a new \"thin\" iPhone model",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:22:55"
   },
   {
     "text": "Apple introduces a new desktop keyboard and/or trackpad that supports connecting to multiple devices at once. They also support USB-C connections now",
@@ -2795,6 +2931,20 @@
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/46:34"
   },
   {
+    "text": "Apple releases a new external iPhone battery",
+    "full-pick-text": "Apple releases a new external iPhone battery",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Accessories"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:04:58"
+  },
+  {
     "text": "Apple releases a new Mac mini",
     "full-pick-text": "Apple releases a new Mac mini",
     "notes": "<p><ul><li>Ungraded: Probably the same design but with an M2 chip. More Thunderbolt ports would be nice.</li></ul></p>",
@@ -3271,6 +3421,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5peDck/1:02:31",
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/1:32:15"
+  },
+  {
+    "text": "Apple specifically calls out the blood oxygen features of the Apple Watch",
+    "full-pick-text": "Apple specifically calls out the blood oxygen features of the Apple Watch",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Watch",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:14:18"
   },
   {
     "text": "Apple specifically mention RAM/Memory in the iPhone, say it will be at least 8GB, and state it is to power Apple Intelligence",
@@ -5404,17 +5568,16 @@
   {
     "text": "Federico discovers a new kickstand technology",
     "full-pick-text": "Federico discovers a new kickstand technology",
-    "notes": "",
+    "notes": "<p><ul><li>Initially graded as incorrect, a week later <a href=\"https://overcast.fm/+FXx5_PFg4/00:18:35\" target=\"_blank\">it was revealed</a> that Federico has been enjoying <a href=\"https://journeyofficial.com/products/loc8-finder-wallet-and-stand\" target=\"_blank\">a MagSafe wallet that features a kickstand</a>, granting Myke some retroactive passion points.</li></ul></p>",
     "game": "The Ticcilympics",
     "type": "NonGraded",
     "topics": [
       "Accessories",
-      "Non-Apple Related",
-      "Possible Vindication"
+      "Non-Apple Related"
     ],
     "host": "Myke",
     "pick-conditions": 1,
-    "score": 0,
+    "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6P7kG8/01:19:43",
     "overcast-picked": "https://overcast.fm/+FXx6ipIrI/01:15:13"
   },
@@ -5804,11 +5967,12 @@
     "type": "Ricky",
     "topics": [
       "iOS",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Myke",
     "pick-conditions": 1,
     "score": -1,
+    "ahead-by": 2352,
     "overcast-graded": "https://overcast.fm/+FXx495ZrA/08:12",
     "overcast-picked": "https://overcast.fm/+FXx5giTnQ/53:35"
   },
@@ -6067,6 +6231,45 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:18:55"
+  },
+  {
+    "text": "iOS 26 comes out on Monday, September 15th",
+    "full-pick-text": "iOS 26 comes out on Monday, September 15th",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:09:50"
+  },
+  {
+    "text": "iOS 26 comes out on Tuesday, September 16th",
+    "full-pick-text": "iOS 26 comes out on Tuesday, September 16th",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:14:54"
+  },
+  {
+    "text": "iOS 26 gets a release date of the week of September 15",
+    "full-pick-text": "iOS 26 gets a release date of the week of September 15",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:04:32"
   },
   {
     "text": "iOS and iPadOS 15 get native HomeKit widgets",
@@ -6495,6 +6698,19 @@
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:16:39"
   },
   {
+    "text": "iPhone 17 Air has a ProMotion display",
+    "full-pick-text": "iPhone 17 Air has a ProMotion display",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:10:40"
+  },
+  {
     "text": "iPhone 9 will come in colors",
     "full-pick-text": "iPhone 9 will come in colors",
     "notes": "",
@@ -6508,6 +6724,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:26:06",
     "overcast-picked": "https://overcast.fm/+FXx4E3x_I/59:01"
+  },
+  {
+    "text": "iPhone Air bumper case",
+    "full-pick-text": "iPhone Air bumper case",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:10:44"
   },
   {
     "text": "iPhone Pro models will be equipped with Thunderbolt, but will come with a USB-C cable in the box, requiring a separate purchase of a Thunderbolt cable",
@@ -6708,14 +6938,29 @@
     "topics": [
       "iPad",
       "iPadOS",
-      "Apple Apps",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "Apple Apps"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 361,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:34:42",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:14:48"
+  },
+  {
+    "text": "Joz introduces the Pro iPhones in a dark setting",
+    "full-pick-text": "Joz introduces the Pro iPhones in a dark setting",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:05:03"
   },
   {
     "text": "Joz presents a new product",
@@ -7010,6 +7255,19 @@
     "pick-conditions": 1,
     "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:33:40"
+  },
+  {
+    "text": "Matte display for the Pro iPhone",
+    "full-pick-text": "Matte display for the Pro iPhone",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:10:52"
   },
   {
     "text": "Memoji will get updated to include face coverings",
@@ -7353,6 +7611,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:00:46",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/48:34"
+  },
+  {
+    "text": "New headband for the Vision Pro",
+    "full-pick-text": "New headband for the Vision Pro",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Vision Pro",
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:11:22"
   },
   {
     "text": "New HomePod model",
@@ -7716,6 +7988,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/27:02"
   },
   {
+    "text": "No date for macOS Tahoe",
+    "full-pick-text": "No date for macOS Tahoe",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:15:01"
+  },
+  {
     "text": "No date is provided for macOS Monterey",
     "full-pick-text": "No date is provided for macOS Monterey",
     "notes": "",
@@ -7812,6 +8098,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5Kx09c/1:25:29",
     "overcast-picked": "https://overcast.fm/+FXx4E3x_I/55:57"
+  },
+  {
+    "text": "No iPhone colour has the word 'orange' in its name",
+    "full-pick-text": "No iPhone colour has the word 'orange' in its name",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:10:17"
   },
   {
     "text": "No Mac gets 5G",
@@ -8294,6 +8593,19 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx7KvDUI/45:17",
     "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:19:33"
+  },
+  {
+    "text": "One of Stephen's old pieces of Apple gear gets misplaced",
+    "full-pick-text": "One of Stephen's old pieces of Apple gear gets misplaced",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/01:01:33"
   },
   {
     "text": "One of the new iPhones will not have the USB charger in the box",
@@ -8856,6 +9168,20 @@
     "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:23:20"
   },
   {
+    "text": "Shortcuts' \"Use Model\" action for AI is mentioned/shown on screen",
+    "full-pick-text": "Shortcuts' \"Use Model\" action for AI is mentioned/shown on screen",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:09:32"
+  },
+  {
     "text": "Significantly new OS design on at least one platform",
     "full-pick-text": "Significantly new OS design on at least one platform",
     "notes": "",
@@ -9024,6 +9350,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/49:34",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:05:23"
+  },
+  {
+    "text": "Some of the new iPhones have a redesigned thermal system",
+    "full-pick-text": "Some of the new iPhones have a redesigned thermal system",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:08:00"
   },
   {
     "text": "Some of the new iPhones will be more expensive in some European countries",
@@ -9208,6 +9547,297 @@
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:18:57"
   },
   {
+    "text": "Stephen at some point will assemble a gallery of the Liquid Glass design evolution through the betas",
+    "full-pick-text": "Stephen at some point will assemble a gallery of the Liquid Glass design evolution through the betas",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "iOS",
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:31:33"
+  },
+  {
+    "text": "Stephen buys and returns at least one iPhone from the 2025 lineup",
+    "full-pick-text": "Stephen buys and returns at least one iPhone from the 2025 lineup",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:54:39"
+  },
+  {
+    "text": "Stephen digs another trench",
+    "full-pick-text": "Stephen digs another trench",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:54:51"
+  },
+  {
+    "text": "Stephen goes back to a desktop Mac",
+    "full-pick-text": "Stephen goes back to a desktop Mac",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:23:54"
+  },
+  {
+    "text": "Stephen has a mustache and a shaved head",
+    "full-pick-text": "Stephen has a mustache and a shaved head",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:42:14"
+  },
+  {
+    "text": "Stephen hurts himself trying to do some physical work",
+    "full-pick-text": "Stephen hurts himself trying to do some physical work",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/01:00:39"
+  },
+  {
+    "text": "Stephen is going to assemble some shelving",
+    "full-pick-text": "Stephen is going to assemble some shelving",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:50:37"
+  },
+  {
+    "text": "Stephen is going to go back to a Mac setup that involves two or more Macs",
+    "full-pick-text": "Stephen is going to go back to a Mac setup that involves two or more Macs",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:22:51"
+  },
+  {
+    "text": "Stephen is going to install a weather station",
+    "full-pick-text": "Stephen is going to install a weather station",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:44:29"
+  },
+  {
+    "text": "Stephen is going to start a home improvement project with a technology goal",
+    "full-pick-text": "Stephen is going to start a home improvement project with a technology goal",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:30:26"
+  },
+  {
+    "text": "Stephen is going to switch email clients on the iPhone",
+    "full-pick-text": "Stephen is going to switch email clients on the iPhone",
+    "notes": "<p><ul><li>Mimestream for iOS is a promising candidate if it ever happens.</li></ul></p>",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:33:50"
+  },
+  {
+    "text": "Stephen is going to take apart a major household appliance",
+    "full-pick-text": "Stephen is going to take apart a major household appliance",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:45:51"
+  },
+  {
+    "text": "Stephen is going to upgrade his NAS setup",
+    "full-pick-text": "Stephen is going to upgrade his NAS setup",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:43:01"
+  },
+  {
+    "text": "Stephen launches another Kickstarter campaign",
+    "full-pick-text": "Stephen launches another Kickstarter campaign",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:53:35"
+  },
+  {
+    "text": "Stephen sees Yellowcard or Death Cab for Cutie again",
+    "full-pick-text": "Stephen sees Yellowcard or Death Cab for Cutie again",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:59:56"
+  },
+  {
+    "text": "Stephen will end up buying both the iPhone 17 Air and the 17 Pro within the span of 12 months",
+    "full-pick-text": "Stephen will end up buying both the iPhone 17 Air and the 17 Pro within the span of 12 months",
+    "notes": "<p><ul><li>Specifically for himself, not for a family member.</li><li>\"Within 12 months\" is referring to the date of the pick, which is when it'll be graded anyway, but we're all just having some fun here, not worrying about the rule arguments as much this time.</li></ul></p>",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:26:04"
+  },
+  {
+    "text": "Stephen will finish at least one game on the new Analogue Nintendo 64 console",
+    "full-pick-text": "Stephen will finish at least one game on the new Analogue Nintendo 64 console",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:57:09"
+  },
+  {
+    "text": "Stephen will go to WWDC '26",
+    "full-pick-text": "Stephen will go to WWDC '26",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:30:07"
+  },
+  {
+    "text": "Stephen will install something in his truck",
+    "full-pick-text": "Stephen will install something in his truck",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:43:40"
+  },
+  {
+    "text": "Stephen will not win the Relay Co-Founder Championship at the Podcastathon",
+    "full-pick-text": "Stephen will not win the Relay Co-Founder Championship at the Podcastathon",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:56:31"
+  },
+  {
+    "text": "Stephen will win the Relay Co-Founder's Championship at the Podcastathon",
+    "full-pick-text": "Stephen will win the Relay Co-Founder's Championship at the Podcastathon",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:56:52"
+  },
+  {
+    "text": "Stephen's next computer has more than 8 terabytes of SSD",
+    "full-pick-text": "Stephen's next computer has more than 8 terabytes of SSD",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Mac",
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:51:54"
+  },
+  {
     "text": "Swift Assist mentioned and promised again",
     "full-pick-text": "Swift Assist mentioned and promised again",
     "notes": "",
@@ -9338,6 +9968,19 @@
     "ahead-by": 272,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/52:10",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:09"
+  },
+  {
+    "text": "The 17 line is all made of aluminium",
+    "full-pick-text": "The 17 line is all made of aluminium",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 4,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:14:43"
   },
   {
     "text": "The 2020 iPhone line will feature at least one 5G phone",
@@ -9555,6 +10198,32 @@
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/48:40"
   },
   {
+    "text": "The Apple Watch Ultra finally goes to '3'",
+    "full-pick-text": "The Apple Watch Ultra finally goes to '3'",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "Apple Watch"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:37:49"
+  },
+  {
+    "text": "The Apple Watch Ultra Series 3 has a larger screen than the Ultra 2",
+    "full-pick-text": "The Apple Watch Ultra Series 3 has a larger screen than the Ultra 2",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Watch"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:04:10"
+  },
+  {
     "text": "The ARM transition box will be a Mac mini",
     "full-pick-text": "The ARM transition box will be a Mac mini",
     "notes": "",
@@ -9568,6 +10237,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx7KvDUI/44:37",
     "overcast-picked": "https://overcast.fm/+FXx7FoU8U/1:16:57"
+  },
+  {
+    "text": "The back of the Pro iPhones looks different",
+    "full-pick-text": "The back of the Pro iPhones looks different",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:08:26"
   },
   {
     "text": "The big iPad Pro is updated with a feature that is unique to it",
@@ -10486,6 +11168,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/25:44"
   },
   {
+    "text": "The iPhone 17 Air is pulled from an envelope",
+    "full-pick-text": "The iPhone 17 Air is pulled from an envelope",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:11:32"
+  },
+  {
     "text": "The iPhone 7S and 7S+ will look like the 7 and 7+, not this edge to edge unicorn phone that has been rumored",
     "full-pick-text": "The iPhone 7S and 7S+ will look like the 7 and 7+, not this edge to edge unicorn phone that has been rumored",
     "notes": "<p><ul><li>This was deemed correct during grading, allowing for the \"7S\" actually being named the 8.</li><li>During grading, Myke wondered if Stephen had been thinking that there would be <em>a</em> phone with the traditional design, or if he was thinking that there would be no \"unicorn\" phone at all. Of course, it is impossible to read his mind, but in the original pick, Stephen seems to imply that it will just be the \"7S\".</li></ul></p>",
@@ -10500,6 +11196,74 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx75_MJc/02:39",
     "overcast-picked": "https://overcast.fm/+FXx7nikbQ/30:06"
+  },
+  {
+    "text": "The iPhone Air is introduced with a video that makes it appear from behind an iPhone 17 Pro laying flat on a surface",
+    "full-pick-text": "The iPhone Air is introduced with a video that makes it appear from behind an iPhone 17 Pro laying flat on a surface",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:17:18"
+  },
+  {
+    "text": "The iPhone Air is the \"one more thing\"",
+    "full-pick-text": "The iPhone Air is the \"one more thing\"",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:05:17"
+  },
+  {
+    "text": "The iPhone line is called '17'",
+    "full-pick-text": "The iPhone line is called '17'",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:10:34"
+  },
+  {
+    "text": "The iPhone Pro and Pro Max come in a unique finish",
+    "full-pick-text": "The iPhone Pro and Pro Max come in a unique finish",
+    "notes": "<p><ul><li>\"It refracts/reflects light.\"</li><li>\"It has a rainbow effect as light passes over it.\"</li><li>\"Apple calls the finish 'Glass'.\"</li></ul></p>",
+    "game": "2025 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:58:19"
+  },
+  {
+    "text": "The iPhone Pro and Pro Max have different camera systems",
+    "full-pick-text": "The iPhone Pro and Pro Max have different camera systems",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:31:25"
   },
   {
     "text": "The iPhone Pro comes in 5 colors/finishes, not the traditional 4",
@@ -11311,6 +12075,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:12:59"
   },
   {
+    "text": "The new iPhone 17 Pro devices have additional Apple Intelligence features",
+    "full-pick-text": "The new iPhone 17 Pro devices have additional Apple Intelligence features",
+    "notes": "<p><ul><li>\"They have more RAM than other iPhones and can run on-device models faster.\"</li><li>\"The 17 Pros can run the 7B version of Apple Foundation Model on-device\"</li><li>\"The 17 Pros get new image and/or camera related AI features\"</li></ul></p>",
+    "game": "2025 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 4,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:43:10"
+  },
+  {
     "text": "The new iPhone color is called Earth Titanium",
     "full-pick-text": "The new iPhone color is called Earth Titanium",
     "notes": "",
@@ -11344,6 +12122,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:10:11"
   },
   {
+    "text": "The new iPhone colour is called Rust",
+    "full-pick-text": "The new iPhone colour is called Rust",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:16:20"
+  },
+  {
     "text": "The new iPhone colour will be a new version of a colour they've already used",
     "full-pick-text": "The new iPhone colour will be a new version of a colour they've already used",
     "notes": "<p><ul><li>e.g. a new shade of blue, green, gold, black, etc.</li></ul></p>",
@@ -11357,6 +12149,34 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6z4vdc/1:06:07",
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/1:08:55"
+  },
+  {
+    "text": "The new iPhone Pro color is called Copper",
+    "full-pick-text": "The new iPhone Pro color is called Copper",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:16:39"
+  },
+  {
+    "text": "The new iPhone Pro color is called Tangerine",
+    "full-pick-text": "The new iPhone Pro color is called Tangerine",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:16:06"
   },
   {
     "text": "The new iPhone SE has a design influenced by the iPhone mini, it does not feature Face ID, it has a Touch ID power button",
@@ -11472,7 +12292,7 @@
   {
     "text": "The new Mac Pro will be...",
     "full-pick-text": "The new Mac Pro will be smaller, not a cube shape, feature no support for the current MPX modules and/or will allow for some form of expandability outside of Thunderbolt. It will be only be available in one color.",
-    "notes": "<p><ul><li>\"... smaller, not a cube shape, feature no support for the current MPX modules and/or will allow for some form of expandability outside of Thunderbolt. It will be only be available in one color.\"</li><li>Another \"and/or\" added to a pick, which happened a few times this episode. It applies to just the MPX modules and expandability clause.</li></ul></p>",
+    "notes": "<p><ul><li>\"... smaller, not a cube shape, feature no support for the current MPX modules and/or will allow for some form of expandability outside of Thunderbolt. It will be only be available in one colour.\"</li><li>Another \"and/or\" added to a pick, which happened a few times this episode. It applies to just the MPX modules and expandability clause.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Ricky",
     "topics": [
@@ -11710,11 +12530,12 @@
     "topics": [
       "Mac",
       "macOS",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 361,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:34:48",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:15:47"
   },
@@ -11759,11 +12580,12 @@
     "topics": [
       "iPad",
       "iPadOS",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Federico",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 361,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:42:55",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:32:08"
   },
@@ -11849,6 +12671,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6z4vdc/26:43",
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/33:26"
+  },
+  {
+    "text": "The Pro iPhones have a wider, rectangular camera bar on the back",
+    "full-pick-text": "The Pro iPhones have a wider, rectangular camera bar on the back",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:34:07"
   },
   {
     "text": "The Pro iPhones will use titanium instead of stainless steel for the chassis",
@@ -12233,6 +13068,34 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:20:10",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:12:22"
+  },
+  {
+    "text": "There is an iPhone Pro that is copper by the eye",
+    "full-pick-text": "There is an iPhone Pro that is copper by the eye",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:15:59"
+  },
+  {
+    "text": "There is an iPhone Pro that is orange by the eye",
+    "full-pick-text": "There is an iPhone Pro that is orange by the eye",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:15:19"
   },
   {
     "text": "There is going to be a funny scene involving one of the characters of Ted Lasso",
@@ -12686,6 +13549,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4aVfvI/49:44",
     "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:09:53"
+  },
+  {
+    "text": "Tim Cook says 'iPhone 17 Air' before anyone else",
+    "full-pick-text": "Tim Cook says 'iPhone 17 Air' before anyone else",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:17:52"
   },
   {
     "text": "Tim Cook says \"good morning\"",
@@ -13428,6 +14305,19 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:23:07",
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:26:21"
+  },
+  {
+    "text": "When reading this pick, Stephen will confess to another piece of technology that he has broken and not told us about",
+    "full-pick-text": "When reading this pick, Stephen will confess to another piece of technology that he has broken and not told us about",
+    "notes": "<p><ul><li>If it's the iPhone 17 Air specifically, then extra props go to Federico for calling it.</li></ul></p>",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:28:41"
   },
   {
     "text": "WidgetKit gains new interactivity features that allow you to perform actions inside widgets without launching the associated app",

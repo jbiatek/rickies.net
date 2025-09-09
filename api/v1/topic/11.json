@@ -10,11 +10,12 @@
       "iPadOS",
       "Mac",
       "macOS",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 361,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:33:35",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:13:23"
   },
@@ -466,6 +467,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:47:08"
   },
   {
+    "text": "No date for macOS Tahoe",
+    "full-pick-text": "No date for macOS Tahoe",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:15:01"
+  },
+  {
     "text": "No date is provided for macOS Monterey",
     "full-pick-text": "No date is provided for macOS Monterey",
     "notes": "",
@@ -649,11 +664,12 @@
     "topics": [
       "Mac",
       "macOS",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 361,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:34:48",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:15:47"
   },

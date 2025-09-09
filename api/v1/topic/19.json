@@ -89,13 +89,14 @@
     "game": "2024 May Rickies",
     "type": "Flexie",
     "topics": [
+      "Ahead of Its Time",
       "Apple Apps",
-      "Machine Learning/AI",
-      "Possible Vindication"
+      "Machine Learning/AI"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 217,
     "overcast-graded": "https://overcast.fm/+FXx7XKpU4/01:11:26",
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:00:48"
   },
@@ -675,12 +676,13 @@
     "topics": [
       "iPad",
       "iPadOS",
-      "Apple Apps",
-      "Possible Vindication"
+      "Ahead of Its Time",
+      "Apple Apps"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 361,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:34:42",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:14:48"
   },
@@ -1012,6 +1014,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx7iyi9k/22:09",
     "overcast-picked": "https://overcast.fm/+FXx7rqIoM/1:23:20"
+  },
+  {
+    "text": "Shortcuts' \"Use Model\" action for AI is mentioned/shown on screen",
+    "full-pick-text": "Shortcuts' \"Use Model\" action for AI is mentioned/shown on screen",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Apps",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:09:32"
   },
   {
     "text": "Some Mac-only Shortcuts actions will become available on iPhone and iPad",

@@ -10,11 +10,12 @@
       "iPadOS",
       "Mac",
       "macOS",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 361,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:33:35",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:13:23"
   },
@@ -1330,6 +1331,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:36:34"
   },
   {
+    "text": "No date for macOS Tahoe",
+    "full-pick-text": "No date for macOS Tahoe",
+    "notes": "",
+    "game": "2025 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "macOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:15:01"
+  },
+  {
     "text": "No date is provided for macOS Monterey",
     "full-pick-text": "No date is provided for macOS Monterey",
     "notes": "",
@@ -1734,6 +1749,48 @@
     "score": 2,
     "overcast-graded": "https://overcast.fm/+FXx7KvDUI/35:44",
     "overcast-picked": "https://overcast.fm/+FXx7FoU8U/57:29"
+  },
+  {
+    "text": "Stephen goes back to a desktop Mac",
+    "full-pick-text": "Stephen goes back to a desktop Mac",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:23:54"
+  },
+  {
+    "text": "Stephen is going to go back to a Mac setup that involves two or more Macs",
+    "full-pick-text": "Stephen is going to go back to a Mac setup that involves two or more Macs",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "Non-Apple Related"
+    ],
+    "host": "OTJ",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:22:51"
+  },
+  {
+    "text": "Stephen's next computer has more than 8 terabytes of SSD",
+    "full-pick-text": "Stephen's next computer has more than 8 terabytes of SSD",
+    "notes": "",
+    "game": "The Stephenlympics",
+    "type": "NonGraded",
+    "topics": [
+      "Mac",
+      "Non-Apple Related"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:51:54"
   },
   {
     "text": "The 12\" MacBook does not return",
@@ -2220,7 +2277,7 @@
   {
     "text": "The new Mac Pro will be...",
     "full-pick-text": "The new Mac Pro will be smaller, not a cube shape, feature no support for the current MPX modules and/or will allow for some form of expandability outside of Thunderbolt. It will be only be available in one color.",
-    "notes": "<p><ul><li>\"... smaller, not a cube shape, feature no support for the current MPX modules and/or will allow for some form of expandability outside of Thunderbolt. It will be only be available in one color.\"</li><li>Another \"and/or\" added to a pick, which happened a few times this episode. It applies to just the MPX modules and expandability clause.</li></ul></p>",
+    "notes": "<p><ul><li>\"... smaller, not a cube shape, feature no support for the current MPX modules and/or will allow for some form of expandability outside of Thunderbolt. It will be only be available in one colour.\"</li><li>Another \"and/or\" added to a pick, which happened a few times this episode. It applies to just the MPX modules and expandability clause.</li></ul></p>",
     "game": "2022 Annual Rickies",
     "type": "Ricky",
     "topics": [
@@ -2344,11 +2401,12 @@
     "topics": [
       "Mac",
       "macOS",
-      "Possible Vindication"
+      "Ahead of Its Time"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 361,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:34:48",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:15:47"
   },
