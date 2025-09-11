@@ -1338,10 +1338,12 @@
     "type": "Flexie",
     "topics": [
       "Mac",
-      "macOS"
+      "macOS",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:15:01"
   },
   {

@@ -5,9 +5,11 @@
   "game": "2025 September Rickies",
   "type": "Flexie",
   "topics": [
-    "Accessories"
+    "Accessories",
+    "Possible Vindication"
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": 0,
   "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:05:10"
 }

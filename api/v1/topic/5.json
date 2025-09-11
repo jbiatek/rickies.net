@@ -720,6 +720,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:09:50"
   },
   {
@@ -729,10 +730,12 @@
     "game": "2025 September Rickies",
     "type": "Flexie",
     "topics": [
-      "iOS"
+      "iOS",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:14:54"
   },
   {
@@ -746,6 +749,7 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:04:32"
   },
   {

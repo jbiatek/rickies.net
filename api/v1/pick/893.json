@@ -1,7 +1,7 @@
 {
   "text": "Apple specifically calls out the blood oxygen features of the Apple Watch",
   "full-pick-text": "Apple specifically calls out the blood oxygen features of the Apple Watch",
-  "notes": "",
+  "notes": "<p><ul><li>Well, it appeared in the keynote at least.</li></ul></p>",
   "game": "2025 September Rickies",
   "type": "Flexie",
   "topics": [
@@ -10,5 +10,6 @@
   ],
   "host": "Myke",
   "pick-conditions": 1,
+  "score": 1,
   "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:14:18"
 }

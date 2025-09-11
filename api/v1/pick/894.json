@@ -1,7 +1,7 @@
 {
   "text": "The 17 line is all made of aluminium",
   "full-pick-text": "The 17 line is all made of aluminium",
-  "notes": "",
+  "notes": "<p><ul><li>Myke successfully argues that this <em>doesn't</em> include the iPhone Air, as it's not numbered... despite getting leniency about \"Air\" vs \"17 Air\" earlier. (It helps that it doesn't affect things too much.)</li></ul></p>",
   "game": "2025 September Rickies",
   "type": "Flexie",
   "topics": [
@@ -9,5 +9,6 @@
   ],
   "host": "Myke",
   "pick-conditions": 4,
+  "score": 1,
   "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:14:43"
 }

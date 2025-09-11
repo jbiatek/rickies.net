@@ -10688,7 +10688,7 @@
   {
     "name": "2025 September Rickies",
     "game-type": "Keynote",
-    "date-graded": "",
+    "date-graded": "2025-09-11",
     "date-picked": "2025-09-04",
     "main-game": {
       "picks": [
@@ -10703,6 +10703,7 @@
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:22:55"
         },
         {
@@ -10717,6 +10718,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:28:05"
         },
         {
@@ -10726,10 +10728,12 @@
           "game": "2025 September Rickies",
           "type": "Regular",
           "topics": [
-            "iPhone"
+            "iPhone",
+            "Unvindicatable"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:31:25"
         },
         {
@@ -10743,6 +10747,7 @@
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:34:07"
         },
         {
@@ -10756,6 +10761,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:37:49"
         },
         {
@@ -10770,6 +10776,7 @@
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:38:39"
         },
         {
@@ -10784,6 +10791,7 @@
           ],
           "host": "Federico",
           "pick-conditions": 4,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:43:10"
         },
         {
@@ -10793,10 +10801,12 @@
           "game": "2025 September Rickies",
           "type": "Ricky",
           "topics": [
-            "iPhone"
+            "iPhone",
+            "Unvindicatable"
           ],
           "host": "Myke",
           "pick-conditions": 3,
+          "score": -1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:51:57"
         },
         {
@@ -10806,15 +10816,31 @@
           "game": "2025 September Rickies",
           "type": "Ricky",
           "topics": [
-            "iPhone"
+            "iPhone",
+            "Possible Vindication"
           ],
           "host": "Stephen",
           "pick-conditions": 3,
+          "score": -1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:58:19"
         }
       ],
       "coin-flips": [],
-      "winner": "TBD"
+      "scores": [
+        {
+          "host": "Federico",
+          "score": 3
+        },
+        {
+          "host": "Myke",
+          "score": 1
+        },
+        {
+          "host": "Stephen",
+          "score": 0
+        }
+      ],
+      "winner": "Federico"
     },
     "the-flexies": {
       "picks": [
@@ -10829,6 +10855,7 @@
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:04:10"
         },
         {
@@ -10842,6 +10869,7 @@
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:04:32"
         },
         {
@@ -10856,6 +10884,7 @@
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:04:58"
         },
         {
@@ -10870,6 +10899,7 @@
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:05:03"
         },
         {
@@ -10879,10 +10909,12 @@
           "game": "2025 September Rickies",
           "type": "Flexie",
           "topics": [
-            "Accessories"
+            "Accessories",
+            "Possible Vindication"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:05:10"
         },
         {
@@ -10893,10 +10925,12 @@
           "type": "Flexie",
           "topics": [
             "iPhone",
-            "Stagecraft"
+            "Stagecraft",
+            "Unvindicatable"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:05:17"
         },
         {
@@ -10911,6 +10945,7 @@
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:05:58"
         },
         {
@@ -10921,10 +10956,12 @@
           "type": "Flexie",
           "topics": [
             "Accessories",
-            "Live Edited"
+            "Live Edited",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:06:03"
         },
         {
@@ -10934,10 +10971,12 @@
           "game": "2025 September Rickies",
           "type": "Flexie",
           "topics": [
-            "Machine Learning/AI"
+            "Machine Learning/AI",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:07:25"
         },
         {
@@ -10951,6 +10990,7 @@
           ],
           "host": "Federico",
           "pick-conditions": 4,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:07:52"
         },
         {
@@ -10964,6 +11004,7 @@
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:08:00"
         },
         {
@@ -10977,6 +11018,7 @@
           ],
           "host": "Federico",
           "pick-conditions": 4,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:08:08"
         },
         {
@@ -10990,6 +11032,7 @@
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:08:26"
         },
         {
@@ -11000,10 +11043,12 @@
           "type": "Flexie",
           "topics": [
             "Apple Apps",
-            "Stagecraft"
+            "Stagecraft",
+            "Unvindicatable"
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:09:32"
         },
         {
@@ -11017,6 +11062,7 @@
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:09:50"
         },
         {
@@ -11026,10 +11072,12 @@
           "game": "2025 September Rickies",
           "type": "Flexie",
           "topics": [
-            "iPhone"
+            "iPhone",
+            "Unvindicatable"
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:10:17"
         },
         {
@@ -11043,6 +11091,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:10:34"
         },
         {
@@ -11056,6 +11105,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:10:40"
         },
         {
@@ -11070,6 +11120,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:10:44"
         },
         {
@@ -11079,10 +11130,12 @@
           "game": "2025 September Rickies",
           "type": "Flexie",
           "topics": [
-            "iPhone"
+            "iPhone",
+            "Possible Vindication"
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:10:52"
         },
         {
@@ -11093,10 +11146,12 @@
           "type": "Flexie",
           "topics": [
             "Apple Vision Pro",
-            "Accessories"
+            "Accessories",
+            "Possible Vindication"
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:11:22"
         },
         {
@@ -11107,16 +11162,18 @@
           "type": "Flexie",
           "topics": [
             "iPhone",
-            "Stagecraft"
+            "Stagecraft",
+            "Unvindicatable"
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:11:32"
         },
         {
           "text": "Apple specifically calls out the blood oxygen features of the Apple Watch",
           "full-pick-text": "Apple specifically calls out the blood oxygen features of the Apple Watch",
-          "notes": "",
+          "notes": "<p><ul><li>Well, it appeared in the keynote at least.</li></ul></p>",
           "game": "2025 September Rickies",
           "type": "Flexie",
           "topics": [
@@ -11125,12 +11182,13 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:14:18"
         },
         {
           "text": "The 17 line is all made of aluminium",
           "full-pick-text": "The 17 line is all made of aluminium",
-          "notes": "",
+          "notes": "<p><ul><li>Myke successfully argues that this <em>doesn't</em> include the iPhone Air, as it's not numbered... despite getting leniency about \"Air\" vs \"17 Air\" earlier. (It helps that it doesn't affect things too much.)</li></ul></p>",
           "game": "2025 September Rickies",
           "type": "Flexie",
           "topics": [
@@ -11138,6 +11196,7 @@
           ],
           "host": "Myke",
           "pick-conditions": 4,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:14:43"
         },
         {
@@ -11147,10 +11206,12 @@
           "game": "2025 September Rickies",
           "type": "Flexie",
           "topics": [
-            "iOS"
+            "iOS",
+            "Unvindicatable"
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:14:54"
         },
         {
@@ -11161,10 +11222,12 @@
           "type": "Flexie",
           "topics": [
             "Mac",
-            "macOS"
+            "macOS",
+            "Unvindicatable"
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:15:01"
         },
         {
@@ -11179,6 +11242,7 @@
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 1,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:15:19"
         },
         {
@@ -11189,10 +11253,12 @@
           "type": "Flexie",
           "topics": [
             "iPhone",
-            "Live Edited"
+            "Live Edited",
+            "Possible Vindication"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:15:59"
         },
         {
@@ -11203,10 +11269,12 @@
           "type": "Flexie",
           "topics": [
             "iPhone",
-            "Live Edited"
+            "Live Edited",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:16:06"
         },
         {
@@ -11217,10 +11285,12 @@
           "type": "Flexie",
           "topics": [
             "iPhone",
-            "Live Edited"
+            "Live Edited",
+            "Possible Vindication"
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:16:20"
         },
         {
@@ -11231,10 +11301,12 @@
           "type": "Flexie",
           "topics": [
             "iPhone",
-            "Live Edited"
+            "Live Edited",
+            "Possible Vindication"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:16:39"
         },
         {
@@ -11246,10 +11318,12 @@
           "topics": [
             "iPhone",
             "Live Edited",
-            "Stagecraft"
+            "Stagecraft",
+            "Unvindicatable"
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:17:18"
         },
         {
@@ -11260,15 +11334,38 @@
           "type": "Flexie",
           "topics": [
             "Live Edited",
-            "Stagecraft"
+            "Stagecraft",
+            "Unvindicatable"
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 0,
           "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:17:52"
         }
       ],
       "coin-flips": [],
-      "winner": "TBD"
+      "scores": [
+        {
+          "host": "Stephen",
+          "correct": 5,
+          "total": 9
+        },
+        {
+          "host": "Federico",
+          "correct": 6,
+          "total": 11
+        },
+        {
+          "host": "Myke",
+          "correct": 5,
+          "total": 13
+        }
+      ],
+      "charity-name": "St. Jude",
+      "charity-url": "https://stjude.org/relay",
+      "donation": 225,
+      "donator": "Myke",
+      "winner": "Stephen"
     },
     "relevant-episodes": [
       {

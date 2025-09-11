@@ -90,10 +90,12 @@
     "game": "2025 September Rickies",
     "type": "Flexie",
     "topics": [
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:07:25"
   },
   {
@@ -708,6 +710,7 @@
     ],
     "host": "Federico",
     "pick-conditions": 4,
+    "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx7dNRBI/00:43:10"
   },
   {

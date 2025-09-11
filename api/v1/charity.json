@@ -145,5 +145,12 @@
     "donation": 125,
     "charity-name": "The Trevor Project",
     "charity-url": "https://www.thetrevorproject.org"
+  },
+  {
+    "game": "2025 September Rickies",
+    "donator": "Myke",
+    "donation": 225,
+    "charity-name": "St. Jude",
+    "charity-url": "https://stjude.org/relay"
   }
 ]
