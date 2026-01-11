@@ -1,7 +1,7 @@
 {
   "text": "Apple Music gets natural language playlist creation",
   "full-pick-text": "Apple Music gets natural language playlist creation",
-  "notes": "",
+  "notes": "<p><ul><li>Some controversy as Federico pushes for the ChatGPT features integrating with Apple Music and makes a convincing enough argument. After he gets his way, he does admit that that's not really what he was predicting, but that's the game.</li></ul></p>",
   "game": "2025 Annual Rickies",
   "type": "Flexie",
   "topics": [
@@ -10,5 +10,7 @@
   ],
   "host": "Federico",
   "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:37:08",
   "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:22:21"
 }

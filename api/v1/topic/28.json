@@ -1,5 +1,18 @@
 [
   {
+    "text": "A Google LLM is powering Siri's features by default",
+    "full-pick-text": "A Google LLM is powering Siri's features by default",
+    "notes": "<p><ul><li>This might not be verifiable if Apple keeps the details close, but Myke is confident that if it's true, we'll know.</li></ul></p>",
+    "game": "2026 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/00:59:52"
+  },
+  {
     "text": "All the iPhones announced support Apple Intelligence",
     "full-pick-text": "All the iPhones announced support Apple Intelligence",
     "notes": "",
@@ -42,10 +55,13 @@
       "Apple Apps",
       "Developer tools",
       "Live Edited",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 6,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:14:10",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:55:00"
   },
   {
@@ -191,11 +207,29 @@
     "game": "2025 Annual Rickies",
     "type": "Regular",
     "topics": [
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:08:06",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:44:29"
+  },
+  {
+    "text": "Apple introduces some kind of MCP integration for iOS apps",
+    "full-pick-text": "Apple introduces some kind of MCP integration for iOS apps",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Developer tools",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:25:31"
   },
   {
     "text": "Apple mentions that it has created its own LLM",
@@ -216,7 +250,7 @@
   {
     "text": "Apple Music gets natural language playlist creation",
     "full-pick-text": "Apple Music gets natural language playlist creation",
-    "notes": "",
+    "notes": "<p><ul><li>Some controversy as Federico pushes for the ChatGPT features integrating with Apple Music and makes a convincing enough argument. After he gets his way, he does admit that that's not really what he was predicting, but that's the game.</li></ul></p>",
     "game": "2025 Annual Rickies",
     "type": "Flexie",
     "topics": [
@@ -225,6 +259,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:37:08",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:22:21"
   },
   {
@@ -316,6 +352,19 @@
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:06:25"
   },
   {
+    "text": "Apple ships some of the AI features previously seen in 2024",
+    "full-pick-text": "Apple ships some of the AI features previously seen in 2024",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:01:54"
+  },
+  {
     "text": "Apple showcases building Shortcuts with natural language",
     "full-pick-text": "Apple showcases building Shortcuts with natural language",
     "notes": "",
@@ -323,10 +372,13 @@
     "type": "Flexie",
     "topics": [
       "Apple Apps",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:36:29",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:22:01"
   },
   {
@@ -419,6 +471,21 @@
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:04:20"
   },
   {
+    "text": "By the end of the year, Apple will not have shipped equivalent features for the Apple Intelligence features shown at WWDC 2024",
+    "full-pick-text": "By the end of the year, Apple will not have shipped equivalent features for the Apple Intelligence features shown at WWDC 2024. Craig Federighi will talk at least once more about there being '2 architectures.' Apple will once again promise that the missing features will be shipping by the end of the next year. Actions across apps is one of the features that will not ship.",
+    "notes": "<p><ul><li>\"Craig Federighi will talk at least once more about there being '2 architectures.'\"</li>\n\n<li>\"Apple will once again promise that the missing features will be shipping by the end of the next year.\"</li>\n\n<li>\"Actions across apps is one of the features that will not ship.\"</li>\n</ul></p>",
+    "game": "2026 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Buzzkill",
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:10:17"
+  },
+  {
     "text": "Chatbot features from AI partners are available only to iCloud+ subscribers after a free trial",
     "full-pick-text": "Chatbot features from AI partners are available only to iCloud+ subscribers after a free trial",
     "notes": "",
@@ -504,16 +571,19 @@
   {
     "text": "iOS 19 brings agreements with new LLM partners beyond OpenAI",
     "full-pick-text": "iOS 19 brings agreements with new LLM partners beyond OpenAI",
-    "notes": "",
+    "notes": "<p><ul><li>Apple did announce some partnerships, but not much shipped, and nothing particularly \"brought\" by iOS <strike>19</strike> 26, so the particular wording knocks this out.</li></ul></p>",
     "game": "2025 Annual Rickies",
     "type": "Flexie",
     "topics": [
       "iPhone",
       "iOS",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:32:48",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:18:55"
   },
   {

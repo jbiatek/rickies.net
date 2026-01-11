@@ -31,6 +31,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/38:54"
   },
   {
+    "text": "A case option for the iPhone Duo, made by Apple, has a kickstand",
+    "full-pick-text": "A case option for the iPhone Duo, made by Apple, has a kickstand",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Accessories"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:25:41"
+  },
+  {
     "text": "A new \"iPhone SE\" is introduced with a new design",
     "full-pick-text": "A new \"iPhone SE\" is introduced with a new design",
     "notes": "<p><ul><li>Or something in its place, the name doesn't have to be \"SE\".</li><li>Ungraded, Stephen thinks this may be the first pick to come true in 2025.</li></ul></p>",
@@ -41,6 +55,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:06:27",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:42:47"
   },
   {
@@ -298,6 +314,20 @@
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:19:52"
   },
   {
+    "text": "Apple does not ship the base model iPhone by the end of the year",
+    "full-pick-text": "Apple does not ship the base model iPhone by the end of the year",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:26:32"
+  },
+  {
     "text": "Apple gives a new name to the A15 chip found in the non-Pro iPhones",
     "full-pick-text": "Apple gives a new name to the A15 chip found in the non-Pro iPhones",
     "notes": "<p><ul><li>For example, instead of A15 Bionic, the A15 <em>Tri</em>onic, just to make it sound newer.</li></ul></p>",
@@ -415,6 +445,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:11:14",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:49:50"
   },
   {
@@ -477,6 +509,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 5,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:22:09",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:08:12"
   },
   {
@@ -494,6 +528,34 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/33:08",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:11:26"
+  },
+  {
+    "text": "Apple ships a foldable phone that:",
+    "full-pick-text": "Apple ships a foldable phone that: Is called 'iPhone Duo.' Runs both iOS and iPadOS apps and seamlessly switches between them. Has a feature that operates both the outer and inner screens at the same time.",
+    "notes": "<p><ul><li>\"Is called 'iPhone Duo.'\"</li>\n\n<li>\"Runs both iOS and iPadOS apps and seamlessly switches between them.\"</li>\n\n<li>\"Has a feature that operates both the outer and inner screens at the same time.\"</li>\n</ul></p>",
+    "game": "2026 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 4,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:12:51"
+  },
+  {
+    "text": "Apple ships a folding iPhone",
+    "full-pick-text": "Apple ships a folding iPhone",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/00:48:26"
   },
   {
     "text": "Apple shows a 'Siri Camera' (not official name) feature that lets you point the iPhone at something and use AI to understand what you're looking at",
@@ -888,16 +950,19 @@
   {
     "text": "iOS 19 brings agreements with new LLM partners beyond OpenAI",
     "full-pick-text": "iOS 19 brings agreements with new LLM partners beyond OpenAI",
-    "notes": "",
+    "notes": "<p><ul><li>Apple did announce some partnerships, but not much shipped, and nothing particularly \"brought\" by iOS <strike>19</strike> 26, so the particular wording knocks this out.</li></ul></p>",
     "game": "2025 Annual Rickies",
     "type": "Flexie",
     "topics": [
       "iPhone",
       "iOS",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:32:48",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:18:55"
   },
   {
@@ -1559,6 +1624,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:18:55"
   },
   {
+    "text": "The foldable is called the iPhone Ultra",
+    "full-pick-text": "The foldable is called the iPhone Ultra",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:29:18"
+  },
+  {
     "text": "The iPad Pro line is updated before the iPhone with a hardware feature that's not on any current iPhone in 2019 or 2020",
     "full-pick-text": "The iPad Pro line is updated before the iPhone with a hardware feature that's not on any current iPhone in 2019 or 2020",
     "notes": "<p><ul><li>Myke says during grading that he originally expected 5G to get him this point but LIDAR did instead, but he actually focused on LIDAR when originally explaining this pick. (During the grading, Federico delivers his impromptu review of the 2020 iPad Pro.)\n</li></ul></p>",
@@ -1753,6 +1832,19 @@
     "pick-conditions": 1,
     "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:11:32"
+  },
+  {
+    "text": "The iPhone 17e ships in 2026",
+    "full-pick-text": "The iPhone 17e ships in 2026",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/00:59:45"
   },
   {
     "text": "The iPhone 7S and 7S+ will look like the 7 and 7+, not this edge to edge unicorn phone that has been rumored",
@@ -2113,6 +2205,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:35:18",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:19:52"
   },
   {

@@ -56,6 +56,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/42:37"
   },
   {
+    "text": "Apple announces a Mac with a touch screen",
+    "full-pick-text": "Apple announces a Mac with a touch screen. It is an update to an existing notebook. macOS does not radically change to accommodate touch. The product comes with the Apple Polishing Cloth in the box.",
+    "notes": "<p><ul><li>\"It is an update to an existing notebook.\" (in other words, not a new line like \"MacBook Touch\")</li>\n\n<li>\"macOS does not radically change to accommodate touch.\" (Specifically, the macOS on this machine does not have a custom UI compared to a non-touch Mac.)</li>\n\n<li>\"The product comes with the Apple Polishing Cloth in the box.\"\n</li></ul></p>",
+    "game": "2026 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Mac",
+      "macOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:07:42"
+  },
+  {
     "text": "Apple announces Windows for ARM coming via virtualization in the future",
     "full-pick-text": "Apple announces Windows for ARM coming via virtualization in the future",
     "notes": "<p><ul><li>Parallels was updated to do this by 2021, but it wasn't announced at this event.</li></ul></p>",
@@ -368,6 +382,21 @@
     "overcast-picked": "https://overcast.fm/+FXx5giTnQ/51:14"
   },
   {
+    "text": "Liquid Glass persists in the OS 27 releases",
+    "full-pick-text": "Liquid Glass persists in the OS 27 releases",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPadOS",
+      "macOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:51"
+  },
+  {
     "text": "macOS 12.3 does not come out within 48 hours of the event",
     "full-pick-text": "macOS 12.3 does not come out within 48 hours of the event",
     "notes": "<p><ul><li>This will have to be judged by announced release, since episode recording is a day after the event.</li></ul></p>",
@@ -412,6 +441,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:31:55",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:18:13"
   },
   {

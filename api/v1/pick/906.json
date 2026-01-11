@@ -1,0 +1,15 @@
+{
+  "text": "Apple ships a foldable phone that:",
+  "full-pick-text": "Apple ships a foldable phone that: Is called 'iPhone Duo.' Runs both iOS and iPadOS apps and seamlessly switches between them. Has a feature that operates both the outer and inner screens at the same time.",
+  "notes": "<p><ul><li>\"Is called 'iPhone Duo.'\"</li>\n\n<li>\"Runs both iOS and iPadOS apps and seamlessly switches between them.\"</li>\n\n<li>\"Has a feature that operates both the outer and inner screens at the same time.\"</li>\n</ul></p>",
+  "game": "2026 Annual Rickies",
+  "type": "Ricky",
+  "topics": [
+    "iPhone",
+    "iOS",
+    "iPadOS"
+  ],
+  "host": "Federico",
+  "pick-conditions": 4,
+  "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:12:51"
+}

@@ -1,15 +1,18 @@
 {
   "text": "iOS 19 brings agreements with new LLM partners beyond OpenAI",
   "full-pick-text": "iOS 19 brings agreements with new LLM partners beyond OpenAI",
-  "notes": "",
+  "notes": "<p><ul><li>Apple did announce some partnerships, but not much shipped, and nothing particularly \"brought\" by iOS <strike>19</strike> 26, so the particular wording knocks this out.</li></ul></p>",
   "game": "2025 Annual Rickies",
   "type": "Flexie",
   "topics": [
     "iPhone",
     "iOS",
-    "Machine Learning/AI"
+    "Machine Learning/AI",
+    "Possible Vindication"
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": 0,
+  "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:32:48",
   "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:18:55"
 }

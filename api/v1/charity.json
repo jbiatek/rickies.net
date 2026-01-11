@@ -152,5 +152,12 @@
     "donation": 225,
     "charity-name": "St. Jude",
     "charity-url": "https://stjude.org/relay"
+  },
+  {
+    "game": "2025 Annual Rickies",
+    "donator": "Stephen",
+    "donation": 75,
+    "charity-name": "Ente Nazionale Protezione Animali",
+    "charity-url": "https://enpa.org/"
   }
 ]

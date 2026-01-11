@@ -11566,7 +11566,20 @@
           "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:48:29"
         }
       ],
-      "coin-flips": [],
+      "coin-flips": [
+        {
+          "game": "2025 WWDC Rickies",
+          "called": "Heads",
+          "caller": "Myke",
+          "flip-method": "Dice by PCalc",
+          "game-phase": "Rickies",
+          "loser": "Myke",
+          "overcast-link": "https://overcast.fm/+FXx6hag-g/00:22:53",
+          "prize": 1,
+          "result": "Tails",
+          "winner": "Stephen"
+        }
+      ],
       "scores": [
         {
           "host": "Federico",

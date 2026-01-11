@@ -6,11 +6,28 @@
     "game": "2025 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:29:15",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:13:37"
+  },
+  {
+    "text": "A case option for the iPhone Duo, made by Apple, has a kickstand",
+    "full-pick-text": "A case option for the iPhone Duo, made by Apple, has a kickstand",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Accessories"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:25:41"
   },
   {
     "text": "A Mac gets a screen that supports touch and/or Apple Pencil input",
@@ -72,10 +89,13 @@
     "game": "2025 Annual Rickies",
     "type": "Regular",
     "topics": [
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:10:21",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:48:47"
   },
   {
@@ -259,6 +279,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:29:53",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:20"
   },
   {
@@ -406,6 +428,19 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6bXcOY/48:08",
     "overcast-picked": "https://overcast.fm/+FXx4vzIxY/1:19:28"
+  },
+  {
+    "text": "Apple announces a HomeKit accessory or product",
+    "full-pick-text": "Apple announces a HomeKit accessory or product",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:29:29"
   },
   {
     "text": "Apple announces a multi-device charger that looks a lot like AirPower, without designated charging targets",
@@ -611,10 +646,13 @@
     "topics": [
       "Accessories",
       "Developer tools",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 4,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:18:40",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:04:20"
   },
   {
@@ -1039,12 +1077,14 @@
     "type": "Regular",
     "topics": [
       "Accessories",
+      "Ahead of Its Time",
       "AirPods",
-      "Possible Vindication"
+      "Used As Bonus Pick"
     ],
     "host": "Federico",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 255,
     "overcast-graded": "https://overcast.fm/+FXx5wv1as/11:24",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:09:15"
   },
@@ -1660,6 +1700,21 @@
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:22:47"
   },
   {
+    "text": "No new car companies announce CarPlay Ultra",
+    "full-pick-text": "No new car companies announce CarPlay Ultra",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:29:54"
+  },
+  {
     "text": "One of the new iPhones will not have the USB charger in the box",
     "full-pick-text": "One of the new iPhones will not have the USB charger in the box",
     "notes": "",
@@ -1804,10 +1859,13 @@
     "game": "2025 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Accessories"
+      "Accessories",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:35:24",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:20:48"
   },
   {
@@ -2069,6 +2127,19 @@
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:05:39"
   },
   {
+    "text": "The Studio Display gets an update",
+    "full-pick-text": "The Studio Display gets an update",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:04"
+  },
+  {
     "text": "There are multiple AirPods models",
     "full-pick-text": "There are multiple AirPods models",
     "notes": "",
@@ -2117,6 +2188,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:15:36",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:09:58"
+  },
+  {
+    "text": "There is still no Magic Keyboard that supports multi-device pairing",
+    "full-pick-text": "There is still no Magic Keyboard that supports multi-device pairing",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "Buzzkill"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:24:36"
   },
   {
     "text": "Ticci tries an e-ink phone to help reduce distractions and get more into reading",

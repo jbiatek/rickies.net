@@ -1,7 +1,7 @@
 {
   "name": "2025 Annual Rickies",
   "game-type": "Annual",
-  "date-graded": "",
+  "date-graded": "2026-01-08",
   "date-picked": "2025-01-08",
   "main-game": {
     "picks": [
@@ -16,6 +16,8 @@
         ],
         "host": "Federico",
         "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:06:27",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:42:47"
       },
       {
@@ -25,10 +27,13 @@
         "game": "2025 Annual Rickies",
         "type": "Regular",
         "topics": [
-          "Machine Learning/AI"
+          "Machine Learning/AI",
+          "Possible Vindication"
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:08:06",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:44:29"
       },
       {
@@ -42,6 +47,8 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:09:28",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:46:59"
       },
       {
@@ -51,10 +58,13 @@
         "game": "2025 Annual Rickies",
         "type": "Regular",
         "topics": [
-          "Accessories"
+          "Accessories",
+          "Possible Vindication"
         ],
         "host": "Federico",
         "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:10:21",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:48:47"
       },
       {
@@ -68,6 +78,8 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:11:14",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:49:50"
       },
       {
@@ -78,10 +90,13 @@
         "type": "Regular",
         "topics": [
           "Mac",
-          "Buzzkill"
+          "Buzzkill",
+          "Unvindicatable"
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:11:59",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:50:21"
       },
       {
@@ -91,10 +106,13 @@
         "game": "2025 Annual Rickies",
         "type": "Regular",
         "topics": [
-          "Mac"
+          "Mac",
+          "Bonus Pick"
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:13:32",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:51:02"
       },
       {
@@ -107,10 +125,13 @@
           "Apple Apps",
           "Developer tools",
           "Live Edited",
-          "Machine Learning/AI"
+          "Machine Learning/AI",
+          "Possible Vindication"
         ],
         "host": "Federico",
         "pick-conditions": 6,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:14:10",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:55:00"
       },
       {
@@ -122,10 +143,13 @@
         "topics": [
           "Accessories",
           "Developer tools",
-          "Live Edited"
+          "Live Edited",
+          "Possible Vindication"
         ],
         "host": "Myke",
         "pick-conditions": 4,
+        "score": -1,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:18:40",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:04:20"
       },
       {
@@ -140,11 +164,27 @@
         ],
         "host": "Stephen",
         "pick-conditions": 5,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:22:09",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:08:12"
       }
     ],
     "coin-flips": [],
-    "winner": "TBD"
+    "scores": [
+      {
+        "host": "Stephen",
+        "score": 1
+      },
+      {
+        "host": "Myke",
+        "score": 1
+      },
+      {
+        "host": "Federico",
+        "score": 0
+      }
+    ],
+    "winner": "Stephen"
   },
   "the-flexies": {
     "picks": [
@@ -155,10 +195,13 @@
         "game": "2025 Annual Rickies",
         "type": "Flexie",
         "topics": [
-          "Accessories"
+          "Accessories",
+          "Possible Vindication"
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:29:15",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:13:37"
       },
       {
@@ -173,6 +216,8 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:29:19",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:13:59"
       },
       {
@@ -184,10 +229,13 @@
         "topics": [
           "Apple Vision Pro",
           "Buzzkill",
-          "Live Edited"
+          "Live Edited",
+          "Unvindicatable"
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:29:47",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:06"
       },
       {
@@ -202,12 +250,14 @@
         ],
         "host": "Myke",
         "pick-conditions": 2,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:29:53",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:20"
       },
       {
         "text": "Another person on the Apple leadership page changes their title in 2025",
         "full-pick-text": "Another person on the Apple leadership page changes their title in 2025",
-        "notes": "<p><ul><li><a href=\"https://web.archive.org/web/20250108030952/https://www.apple.com/leadership/\" target=\"_blank\">The leadership page at the time of recording</a>.</li></ul></p>",
+        "notes": "<p><ul><li><a href=\"https://web.archive.org/web/20250108030952/https://www.apple.com/leadership/\" target=\"_blank\">The leadership page at the time of recording</a>.</li><li>There was some debate about whether the rather surprising leadership shuffles toward the end of 2025 actually included <em>title</em> changes, but indeed some more mundane title changes happened as well, so the question was moot.</li></ul></p>",
         "game": "2025 Annual Rickies",
         "type": "Flexie",
         "topics": [
@@ -216,6 +266,8 @@
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:30:00",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:27"
       },
       {
@@ -225,10 +277,13 @@
         "game": "2025 Annual Rickies",
         "type": "Flexie",
         "topics": [
-          "Stagecraft"
+          "Stagecraft",
+          "Unvindicatable"
         ],
         "host": "Myke",
         "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:30:57",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:33"
       },
       {
@@ -239,10 +294,13 @@
         "type": "Flexie",
         "topics": [
           "Apple Vision Pro",
-          "Live Edited"
+          "Live Edited",
+          "Unvindicatable"
         ],
         "host": "Stephen",
         "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:31:30",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:16:36"
       },
       {
@@ -253,10 +311,13 @@
         "type": "Flexie",
         "topics": [
           "Mac",
-          "Buzzkill"
+          "Buzzkill",
+          "Possible Vindication"
         ],
         "host": "Stephen",
         "pick-conditions": 2,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:31:47",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:17:49"
       },
       {
@@ -271,27 +332,32 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:31:55",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:18:13"
       },
       {
         "text": "iOS 19 brings agreements with new LLM partners beyond OpenAI",
         "full-pick-text": "iOS 19 brings agreements with new LLM partners beyond OpenAI",
-        "notes": "",
+        "notes": "<p><ul><li>Apple did announce some partnerships, but not much shipped, and nothing particularly \"brought\" by iOS <strike>19</strike> 26, so the particular wording knocks this out.</li></ul></p>",
         "game": "2025 Annual Rickies",
         "type": "Flexie",
         "topics": [
           "iPhone",
           "iOS",
-          "Machine Learning/AI"
+          "Machine Learning/AI",
+          "Possible Vindication"
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:32:48",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:18:55"
       },
       {
         "text": "Apple services see a price increase in the US",
         "full-pick-text": "Apple services see a price increase in the US",
-        "notes": "",
+        "notes": "<p><ul><li>Apple TV increased by a few dollars (when not bundled with a larger plan).</li></ul></p>",
         "game": "2025 Annual Rickies",
         "type": "Flexie",
         "topics": [
@@ -300,6 +366,8 @@
         ],
         "host": "Stephen",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:34:45",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:19:05"
       },
       {
@@ -313,6 +381,8 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:35:18",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:19:52"
       },
       {
@@ -322,16 +392,19 @@
         "game": "2025 Annual Rickies",
         "type": "Flexie",
         "topics": [
-          "Accessories"
+          "Accessories",
+          "Possible Vindication"
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:35:24",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:20:48"
       },
       {
         "text": "Apple does something with Pixelmator beyond keeping it on the App Store or updating its privacy policy",
         "full-pick-text": "Apple does something with Pixelmator beyond keeping it on the App Store or updating its privacy policy",
-        "notes": "<p><ul><li>Taking it off of the app store counts.</li></ul></p>",
+        "notes": "<p><ul><li>Taking it off of the app store counts.</li><li>Not much was done, but it got some updates and Apple Intelligence support.</li></ul></p>",
         "game": "2025 Annual Rickies",
         "type": "Flexie",
         "topics": [
@@ -340,6 +413,8 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:35:34",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:21:14"
       },
       {
@@ -350,16 +425,19 @@
         "type": "Flexie",
         "topics": [
           "Apple Apps",
-          "Machine Learning/AI"
+          "Machine Learning/AI",
+          "Possible Vindication"
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 0,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:36:29",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:22:01"
       },
       {
         "text": "Apple Music gets natural language playlist creation",
         "full-pick-text": "Apple Music gets natural language playlist creation",
-        "notes": "",
+        "notes": "<p><ul><li>Some controversy as Federico pushes for the ChatGPT features integrating with Apple Music and makes a convincing enough argument. After he gets his way, he does admit that that's not really what he was predicting, but that's the game.</li></ul></p>",
         "game": "2025 Annual Rickies",
         "type": "Flexie",
         "topics": [
@@ -368,17 +446,45 @@
         ],
         "host": "Federico",
         "pick-conditions": 1,
+        "score": 1,
+        "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:37:08",
         "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:22:21"
       }
     ],
     "coin-flips": [],
-    "winner": "TBD"
+    "scores": [
+      {
+        "host": "Federico",
+        "correct": 3,
+        "total": 5
+      },
+      {
+        "host": "Myke",
+        "correct": 3,
+        "total": 6
+      },
+      {
+        "host": "Stephen",
+        "correct": 2,
+        "total": 5
+      }
+    ],
+    "charity-name": "Ente Nazionale Protezione Animali",
+    "charity-url": "https://enpa.org/",
+    "donation": 75,
+    "donator": "Stephen",
+    "winner": "Federico"
   },
   "relevant-episodes": [
     {
       "title": "Connected #534: The Rickies (January 2025)",
       "url": "https://relay.fm/connected/534",
       "episode-number": 534
+    },
+    {
+      "title": "Connected #585: The Rickies (January 2026)",
+      "url": "https://relay.fm/connected/585",
+      "episode-number": 585
     }
   ]
 }

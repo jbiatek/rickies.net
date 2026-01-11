@@ -5,9 +5,12 @@
   "game": "2025 Annual Rickies",
   "type": "Flexie",
   "topics": [
-    "Stagecraft"
+    "Stagecraft",
+    "Unvindicatable"
   ],
   "host": "Myke",
   "pick-conditions": 1,
+  "score": 0,
+  "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:30:57",
   "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:33"
 }

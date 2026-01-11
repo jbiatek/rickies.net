@@ -5,9 +5,12 @@
   "game": "2025 Annual Rickies",
   "type": "Regular",
   "topics": [
-    "Mac"
+    "Mac",
+    "Bonus Pick"
   ],
   "host": "Myke",
   "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:13:32",
   "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:51:02"
 }

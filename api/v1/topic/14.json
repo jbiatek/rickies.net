@@ -26,10 +26,13 @@
       "Apple Apps",
       "Developer tools",
       "Live Edited",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 6,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:14:10",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:55:00"
   },
   {
@@ -91,10 +94,13 @@
     "topics": [
       "Accessories",
       "Developer tools",
-      "Live Edited"
+      "Live Edited",
+      "Possible Vindication"
     ],
     "host": "Myke",
     "pick-conditions": 4,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:18:40",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:04:20"
   },
   {
@@ -114,6 +120,21 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:41:45",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:31:53"
+  },
+  {
+    "text": "Apple introduces some kind of MCP integration for iOS apps",
+    "full-pick-text": "Apple introduces some kind of MCP integration for iOS apps",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Developer tools",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:25:31"
   },
   {
     "text": "Apple makes changes to the rules on in-app purchases, removing restrictions on linking to external websites for account creation, etc.",

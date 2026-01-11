@@ -18,7 +18,7 @@
   {
     "text": "Another person on the Apple leadership page changes their title in 2025",
     "full-pick-text": "Another person on the Apple leadership page changes their title in 2025",
-    "notes": "<p><ul><li><a href=\"https://web.archive.org/web/20250108030952/https://www.apple.com/leadership/\" target=\"_blank\">The leadership page at the time of recording</a>.</li></ul></p>",
+    "notes": "<p><ul><li><a href=\"https://web.archive.org/web/20250108030952/https://www.apple.com/leadership/\" target=\"_blank\">The leadership page at the time of recording</a>.</li><li>There was some debate about whether the rather surprising leadership shuffles toward the end of 2025 actually included <em>title</em> changes, but indeed some more mundane title changes happened as well, so the question was moot.</li></ul></p>",
     "game": "2025 Annual Rickies",
     "type": "Flexie",
     "topics": [
@@ -27,6 +27,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:30:00",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:27"
   },
   {
@@ -134,6 +136,19 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx61sqT4/1:00:05",
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:26:48"
+  },
+  {
+    "text": "John Ternus is Apple's new CEO",
+    "full-pick-text": "John Ternus is Apple's new CEO",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:24:24"
   },
   {
     "text": "John Ternus is wearing a black T-shirt",
@@ -298,6 +313,19 @@
     "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/58:52"
   },
   {
+    "text": "Tim Cook becomes chairman of the board",
+    "full-pick-text": "Tim Cook becomes chairman of the board",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:26:51"
+  },
+  {
     "text": "Tim Cook interacts with a celebrity",
     "full-pick-text": "Tim Cook interacts with a celebrity",
     "notes": "",
@@ -379,6 +407,19 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx61sqT4/49:50",
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:13:04"
+  },
+  {
+    "text": "Tim Cook's job title changes in 2026",
+    "full-pick-text": "Tim Cook's job title changes in 2026",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "Apple management"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/00:47:57"
   },
   {
     "text": "Tim presents some portion of the keynote in front of a live audience",

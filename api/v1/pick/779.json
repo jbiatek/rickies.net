@@ -5,9 +5,12 @@
   "game": "2025 Annual Rickies",
   "type": "Flexie",
   "topics": [
-    "Accessories"
+    "Accessories",
+    "Possible Vindication"
   ],
   "host": "Myke",
   "pick-conditions": 1,
+  "score": 0,
+  "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:29:15",
   "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:13:37"
 }

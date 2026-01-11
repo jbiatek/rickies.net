@@ -1,7 +1,7 @@
 {
   "text": "Apple services see a price increase in the US",
   "full-pick-text": "Apple services see a price increase in the US",
-  "notes": "",
+  "notes": "<p><ul><li>Apple TV increased by a few dollars (when not bundled with a larger plan).</li></ul></p>",
   "game": "2025 Annual Rickies",
   "type": "Flexie",
   "topics": [
@@ -10,5 +10,7 @@
   ],
   "host": "Stephen",
   "pick-conditions": 1,
+  "score": 1,
+  "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:34:45",
   "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:19:05"
 }

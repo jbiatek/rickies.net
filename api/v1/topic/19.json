@@ -76,10 +76,13 @@
       "Apple Apps",
       "Developer tools",
       "Live Edited",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 6,
+    "score": -1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:14:10",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:55:00"
   },
   {
@@ -174,7 +177,7 @@
   {
     "text": "Apple does something with Pixelmator beyond keeping it on the App Store or updating its privacy policy",
     "full-pick-text": "Apple does something with Pixelmator beyond keeping it on the App Store or updating its privacy policy",
-    "notes": "<p><ul><li>Taking it off of the app store counts.</li></ul></p>",
+    "notes": "<p><ul><li>Taking it off of the app store counts.</li><li>Not much was done, but it got some updates and Apple Intelligence support.</li></ul></p>",
     "game": "2025 Annual Rickies",
     "type": "Flexie",
     "topics": [
@@ -183,6 +186,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:35:34",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:21:14"
   },
   {
@@ -273,7 +278,7 @@
   {
     "text": "Apple Music gets natural language playlist creation",
     "full-pick-text": "Apple Music gets natural language playlist creation",
-    "notes": "",
+    "notes": "<p><ul><li>Some controversy as Federico pushes for the ChatGPT features integrating with Apple Music and makes a convincing enough argument. After he gets his way, he does admit that that's not really what he was predicting, but that's the game.</li></ul></p>",
     "game": "2025 Annual Rickies",
     "type": "Flexie",
     "topics": [
@@ -282,6 +287,8 @@
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:37:08",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:22:21"
   },
   {
@@ -398,10 +405,13 @@
     "type": "Flexie",
     "topics": [
       "Apple Apps",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Federico",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:36:29",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:22:01"
   },
   {

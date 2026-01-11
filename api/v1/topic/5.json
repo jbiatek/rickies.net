@@ -123,6 +123,21 @@
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:28:50"
   },
   {
+    "text": "Apple introduces some kind of MCP integration for iOS apps",
+    "full-pick-text": "Apple introduces some kind of MCP integration for iOS apps",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "Developer tools",
+      "Machine Learning/AI"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:25:31"
+  },
+  {
     "text": "Apple launches a new AirPods app for iPhone, similar to Watch app",
     "full-pick-text": "Apple launches a new AirPods app for iPhone, similar to Watch app",
     "notes": "<p><ul><li>Instead of an app, Apple made a section in Settings at the next WWDC.</li></ul></p>",
@@ -178,6 +193,21 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/00:28:46",
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:24:19"
+  },
+  {
+    "text": "Apple ships a foldable phone that:",
+    "full-pick-text": "Apple ships a foldable phone that: Is called 'iPhone Duo.' Runs both iOS and iPadOS apps and seamlessly switches between them. Has a feature that operates both the outer and inner screens at the same time.",
+    "notes": "<p><ul><li>\"Is called 'iPhone Duo.'\"</li>\n\n<li>\"Runs both iOS and iPadOS apps and seamlessly switches between them.\"</li>\n\n<li>\"Has a feature that operates both the outer and inner screens at the same time.\"</li>\n</ul></p>",
+    "game": "2026 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 4,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:12:51"
   },
   {
     "text": "Apple showcases at least one new feature coming in iOS or iPadOS 14.1",
@@ -697,16 +727,19 @@
   {
     "text": "iOS 19 brings agreements with new LLM partners beyond OpenAI",
     "full-pick-text": "iOS 19 brings agreements with new LLM partners beyond OpenAI",
-    "notes": "",
+    "notes": "<p><ul><li>Apple did announce some partnerships, but not much shipped, and nothing particularly \"brought\" by iOS <strike>19</strike> 26, so the particular wording knocks this out.</li></ul></p>",
     "game": "2025 Annual Rickies",
     "type": "Flexie",
     "topics": [
       "iPhone",
       "iOS",
-      "Machine Learning/AI"
+      "Machine Learning/AI",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:32:48",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:18:55"
   },
   {
@@ -933,6 +966,21 @@
     "score": -1,
     "overcast-graded": "https://overcast.fm/+FXx70G0aw/1:01:53",
     "overcast-picked": "https://overcast.fm/+FXx4EWu_4/1:09:19"
+  },
+  {
+    "text": "Liquid Glass persists in the OS 27 releases",
+    "full-pick-text": "Liquid Glass persists in the OS 27 releases",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPadOS",
+      "macOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:51"
   },
   {
     "text": "macOS Sequioa released with iOS 18",

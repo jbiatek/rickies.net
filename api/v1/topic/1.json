@@ -302,6 +302,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/48:20"
   },
   {
+    "text": "Apple announces a Mac with a touch screen",
+    "full-pick-text": "Apple announces a Mac with a touch screen. It is an update to an existing notebook. macOS does not radically change to accommodate touch. The product comes with the Apple Polishing Cloth in the box.",
+    "notes": "<p><ul><li>\"It is an update to an existing notebook.\" (in other words, not a new line like \"MacBook Touch\")</li>\n\n<li>\"macOS does not radically change to accommodate touch.\" (Specifically, the macOS on this machine does not have a custom UI compared to a non-touch Mac.)</li>\n\n<li>\"The product comes with the Apple Polishing Cloth in the box.\"\n</li></ul></p>",
+    "game": "2026 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Mac",
+      "macOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:07:42"
+  },
+  {
     "text": "Apple announces a new Apple Silicon system-on-a-chip",
     "full-pick-text": "Apple announces a new Apple Silicon system-on-a-chip",
     "notes": "",
@@ -382,6 +396,20 @@
     "ahead-by": 156,
     "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:06:22",
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:34:31"
+  },
+  {
+    "text": "Apple cancels the Mac Pro",
+    "full-pick-text": "Apple cancels the Mac Pro",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Buzzkill"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:44"
   },
   {
     "text": "Apple compares the performance of Apple Silicon Macs to \"most PCs sold today\"",
@@ -662,6 +690,19 @@
     "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/34:06"
   },
   {
+    "text": "Apple ships a new laptop that is cheaper than the MacBook Air",
+    "full-pick-text": "Apple ships a new laptop that is cheaper than the MacBook Air",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:26:45"
+  },
+  {
     "text": "Apple teases another Mac, that is not for sale right now, with Pro in the name, and says that it is coming next year",
     "full-pick-text": "Apple teases another Mac, that is not for sale right now, with Pro in the name, and says that it is coming next year",
     "notes": "<p><ul><li>It was originally \"Mac product\", but there was some controversy over whether that includes accessories and displays. Ultimately, Myke upped the difficulty and removed the word \"product\".</li></ul></p>",
@@ -695,6 +736,19 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:17:29",
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:17:05"
+  },
+  {
+    "text": "Apple unveils a MacBook Pro with an OLED touchscreen",
+    "full-pick-text": "Apple unveils a MacBook Pro with an OLED touchscreen",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:09"
   },
   {
     "text": "Apple unveils a new MacBook Pro",
@@ -743,6 +797,19 @@
     "ahead-by": 89,
     "overcast-graded": "https://overcast.fm/+FXx4aVfvI/49:59",
     "overcast-picked": "https://overcast.fm/+FXx4VfMWE/1:10:53"
+  },
+  {
+    "text": "Apple updates the MacBook Air with the M5",
+    "full-pick-text": "Apple updates the MacBook Air with the M5",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/00:51:53"
   },
   {
     "text": "Apple Video and Apple Music have dedicated apps for Mac and iOS",
@@ -1146,10 +1213,13 @@
     "game": "2025 Annual Rickies",
     "type": "Regular",
     "topics": [
-      "Mac"
+      "Mac",
+      "Bonus Pick"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:13:32",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:51:02"
   },
   {
@@ -1182,6 +1252,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5nWhwg/1:22:57",
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:24:30"
+  },
+  {
+    "text": "MacBook Pro is refreshed with a new chip",
+    "full-pick-text": "MacBook Pro is refreshed with a new chip",
+    "notes": "<p><ul><li>There is some question as to whether <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#At%20least%20one%20AirPods%20model%20will%20support%20lossless%20music%20playback\">a pick from 3 games ago</a> includes the 2025 game that was graded moments ago, and it is decided that it does. Now that <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ahead%20of%20Its%20Time\">ahead of their time picks</a> grant bonus picks, this throwback from 2023 can now be used.</li></ul></p>",
+    "game": "2026 Annual Rickies",
+    "type": "Regular",
+    "topics": [
+      "Mac",
+      "Bonus Pick"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:07:15"
   },
   {
     "text": "macOS 12.3 does not come out within 48 hours of the event",
@@ -1228,6 +1312,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:31:55",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:18:13"
   },
   {
@@ -1939,6 +2025,19 @@
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:01:28"
   },
   {
+    "text": "The iMac gets an optional Pro chip",
+    "full-pick-text": "The iMac gets an optional Pro chip",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:30"
+  },
+  {
     "text": "The iMac's input devices are updated with USB-C but otherwise remain the same",
     "full-pick-text": "The iMac's input devices are updated with USB-C but otherwise remain the same",
     "notes": "",
@@ -2011,10 +2110,13 @@
     "type": "Regular",
     "topics": [
       "Mac",
-      "Buzzkill"
+      "Buzzkill",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:11:59",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:50:21"
   },
   {
@@ -2108,7 +2210,23 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:29:19",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:13:59"
+  },
+  {
+    "text": "The Mac Pro does not get updated (in 2026)",
+    "full-pick-text": "The Mac Pro does not get updated",
+    "notes": "<p><ul><li>A <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Mac%20Pro%20does%20not%20get%20updated\">legal reuse</a>.</li></ul></p>",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:14"
   },
   {
     "text": "The Mac Pro is updated to use an M4 system on a chip, but is otherwise unchanged from the M2 model",
@@ -2118,10 +2236,13 @@
     "type": "Flexie",
     "topics": [
       "Mac",
-      "Buzzkill"
+      "Buzzkill",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:31:47",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:17:49"
   },
   {

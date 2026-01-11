@@ -6981,12 +6981,14 @@
           "type": "Regular",
           "topics": [
             "Accessories",
+            "Ahead of Its Time",
             "AirPods",
-            "Possible Vindication"
+            "Used As Bonus Pick"
           ],
           "host": "Federico",
           "pick-conditions": 1,
           "score": 0,
+          "ahead-by": 255,
           "overcast-graded": "https://overcast.fm/+FXx5wv1as/11:24",
           "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:09:15"
         },
@@ -14267,7 +14269,7 @@
   {
     "name": "2025 Annual Rickies",
     "game-type": "Annual",
-    "date-graded": "",
+    "date-graded": "2026-01-08",
     "date-picked": "2025-01-08",
     "main-game": {
       "picks": [
@@ -14282,6 +14284,8 @@
           ],
           "host": "Federico",
           "pick-conditions": 2,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:06:27",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:42:47"
         },
         {
@@ -14291,10 +14295,13 @@
           "game": "2025 Annual Rickies",
           "type": "Regular",
           "topics": [
-            "Machine Learning/AI"
+            "Machine Learning/AI",
+            "Possible Vindication"
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:08:06",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:44:29"
         },
         {
@@ -14308,6 +14315,8 @@
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:09:28",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:46:59"
         },
         {
@@ -14317,10 +14326,13 @@
           "game": "2025 Annual Rickies",
           "type": "Regular",
           "topics": [
-            "Accessories"
+            "Accessories",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 2,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:10:21",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:48:47"
         },
         {
@@ -14334,6 +14346,8 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:11:14",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:49:50"
         },
         {
@@ -14344,10 +14358,13 @@
           "type": "Regular",
           "topics": [
             "Mac",
-            "Buzzkill"
+            "Buzzkill",
+            "Unvindicatable"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:11:59",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:50:21"
         },
         {
@@ -14357,10 +14374,13 @@
           "game": "2025 Annual Rickies",
           "type": "Regular",
           "topics": [
-            "Mac"
+            "Mac",
+            "Bonus Pick"
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:13:32",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:51:02"
         },
         {
@@ -14373,10 +14393,13 @@
             "Apple Apps",
             "Developer tools",
             "Live Edited",
-            "Machine Learning/AI"
+            "Machine Learning/AI",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 6,
+          "score": -1,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:14:10",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:55:00"
         },
         {
@@ -14388,10 +14411,13 @@
           "topics": [
             "Accessories",
             "Developer tools",
-            "Live Edited"
+            "Live Edited",
+            "Possible Vindication"
           ],
           "host": "Myke",
           "pick-conditions": 4,
+          "score": -1,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:18:40",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:04:20"
         },
         {
@@ -14406,11 +14432,27 @@
           ],
           "host": "Stephen",
           "pick-conditions": 5,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:22:09",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:08:12"
         }
       ],
       "coin-flips": [],
-      "winner": "TBD"
+      "scores": [
+        {
+          "host": "Stephen",
+          "score": 1
+        },
+        {
+          "host": "Myke",
+          "score": 1
+        },
+        {
+          "host": "Federico",
+          "score": 0
+        }
+      ],
+      "winner": "Stephen"
     },
     "the-flexies": {
       "picks": [
@@ -14421,10 +14463,13 @@
           "game": "2025 Annual Rickies",
           "type": "Flexie",
           "topics": [
-            "Accessories"
+            "Accessories",
+            "Possible Vindication"
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:29:15",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:13:37"
         },
         {
@@ -14439,6 +14484,8 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:29:19",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:13:59"
         },
         {
@@ -14450,10 +14497,13 @@
           "topics": [
             "Apple Vision Pro",
             "Buzzkill",
-            "Live Edited"
+            "Live Edited",
+            "Unvindicatable"
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:29:47",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:06"
         },
         {
@@ -14468,12 +14518,14 @@
           ],
           "host": "Myke",
           "pick-conditions": 2,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:29:53",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:20"
         },
         {
           "text": "Another person on the Apple leadership page changes their title in 2025",
           "full-pick-text": "Another person on the Apple leadership page changes their title in 2025",
-          "notes": "<p><ul><li><a href=\"https://web.archive.org/web/20250108030952/https://www.apple.com/leadership/\" target=\"_blank\">The leadership page at the time of recording</a>.</li></ul></p>",
+          "notes": "<p><ul><li><a href=\"https://web.archive.org/web/20250108030952/https://www.apple.com/leadership/\" target=\"_blank\">The leadership page at the time of recording</a>.</li><li>There was some debate about whether the rather surprising leadership shuffles toward the end of 2025 actually included <em>title</em> changes, but indeed some more mundane title changes happened as well, so the question was moot.</li></ul></p>",
           "game": "2025 Annual Rickies",
           "type": "Flexie",
           "topics": [
@@ -14482,6 +14534,8 @@
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:30:00",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:27"
         },
         {
@@ -14491,10 +14545,13 @@
           "game": "2025 Annual Rickies",
           "type": "Flexie",
           "topics": [
-            "Stagecraft"
+            "Stagecraft",
+            "Unvindicatable"
           ],
           "host": "Myke",
           "pick-conditions": 1,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:30:57",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:33"
         },
         {
@@ -14505,10 +14562,13 @@
           "type": "Flexie",
           "topics": [
             "Apple Vision Pro",
-            "Live Edited"
+            "Live Edited",
+            "Unvindicatable"
           ],
           "host": "Stephen",
           "pick-conditions": 2,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:31:30",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:16:36"
         },
         {
@@ -14519,10 +14579,13 @@
           "type": "Flexie",
           "topics": [
             "Mac",
-            "Buzzkill"
+            "Buzzkill",
+            "Possible Vindication"
           ],
           "host": "Stephen",
           "pick-conditions": 2,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:31:47",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:17:49"
         },
         {
@@ -14537,27 +14600,32 @@
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:31:55",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:18:13"
         },
         {
           "text": "iOS 19 brings agreements with new LLM partners beyond OpenAI",
           "full-pick-text": "iOS 19 brings agreements with new LLM partners beyond OpenAI",
-          "notes": "",
+          "notes": "<p><ul><li>Apple did announce some partnerships, but not much shipped, and nothing particularly \"brought\" by iOS <strike>19</strike> 26, so the particular wording knocks this out.</li></ul></p>",
           "game": "2025 Annual Rickies",
           "type": "Flexie",
           "topics": [
             "iPhone",
             "iOS",
-            "Machine Learning/AI"
+            "Machine Learning/AI",
+            "Possible Vindication"
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:32:48",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:18:55"
         },
         {
           "text": "Apple services see a price increase in the US",
           "full-pick-text": "Apple services see a price increase in the US",
-          "notes": "",
+          "notes": "<p><ul><li>Apple TV increased by a few dollars (when not bundled with a larger plan).</li></ul></p>",
           "game": "2025 Annual Rickies",
           "type": "Flexie",
           "topics": [
@@ -14566,6 +14634,8 @@
           ],
           "host": "Stephen",
           "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:34:45",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:19:05"
         },
         {
@@ -14579,6 +14649,8 @@
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:35:18",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:19:52"
         },
         {
@@ -14588,16 +14660,19 @@
           "game": "2025 Annual Rickies",
           "type": "Flexie",
           "topics": [
-            "Accessories"
+            "Accessories",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:35:24",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:20:48"
         },
         {
           "text": "Apple does something with Pixelmator beyond keeping it on the App Store or updating its privacy policy",
           "full-pick-text": "Apple does something with Pixelmator beyond keeping it on the App Store or updating its privacy policy",
-          "notes": "<p><ul><li>Taking it off of the app store counts.</li></ul></p>",
+          "notes": "<p><ul><li>Taking it off of the app store counts.</li><li>Not much was done, but it got some updates and Apple Intelligence support.</li></ul></p>",
           "game": "2025 Annual Rickies",
           "type": "Flexie",
           "topics": [
@@ -14606,6 +14681,8 @@
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:35:34",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:21:14"
         },
         {
@@ -14616,16 +14693,19 @@
           "type": "Flexie",
           "topics": [
             "Apple Apps",
-            "Machine Learning/AI"
+            "Machine Learning/AI",
+            "Possible Vindication"
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 0,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:36:29",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:22:01"
         },
         {
           "text": "Apple Music gets natural language playlist creation",
           "full-pick-text": "Apple Music gets natural language playlist creation",
-          "notes": "",
+          "notes": "<p><ul><li>Some controversy as Federico pushes for the ChatGPT features integrating with Apple Music and makes a convincing enough argument. After he gets his way, he does admit that that's not really what he was predicting, but that's the game.</li></ul></p>",
           "game": "2025 Annual Rickies",
           "type": "Flexie",
           "topics": [
@@ -14634,17 +14714,45 @@
           ],
           "host": "Federico",
           "pick-conditions": 1,
+          "score": 1,
+          "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:37:08",
           "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:22:21"
         }
       ],
       "coin-flips": [],
-      "winner": "TBD"
+      "scores": [
+        {
+          "host": "Federico",
+          "correct": 3,
+          "total": 5
+        },
+        {
+          "host": "Myke",
+          "correct": 3,
+          "total": 6
+        },
+        {
+          "host": "Stephen",
+          "correct": 2,
+          "total": 5
+        }
+      ],
+      "charity-name": "Ente Nazionale Protezione Animali",
+      "charity-url": "https://enpa.org/",
+      "donation": 75,
+      "donator": "Stephen",
+      "winner": "Federico"
     },
     "relevant-episodes": [
       {
         "title": "Connected #534: The Rickies (January 2025)",
         "url": "https://relay.fm/connected/534",
         "episode-number": 534
+      },
+      {
+        "title": "Connected #585: The Rickies (January 2026)",
+        "url": "https://relay.fm/connected/585",
+        "episode-number": 585
       }
     ]
   },
@@ -15529,7 +15637,20 @@
           "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:48:29"
         }
       ],
-      "coin-flips": [],
+      "coin-flips": [
+        {
+          "game": "2025 WWDC Rickies",
+          "called": "Heads",
+          "caller": "Myke",
+          "flip-method": "Dice by PCalc",
+          "game-phase": "Rickies",
+          "loser": "Myke",
+          "overcast-link": "https://overcast.fm/+FXx6hag-g/00:22:53",
+          "prize": 1,
+          "result": "Tails",
+          "winner": "Stephen"
+        }
+      ],
       "scores": [
         {
           "host": "Federico",
@@ -15985,6 +16106,466 @@
         "title": "Connected #556: The Last Thing You Touch",
         "url": "https://relay.fm/connected/556",
         "episode-number": 556
+      }
+    ]
+  },
+  {
+    "name": "2026 Annual Rickies",
+    "game-type": "Annual",
+    "date-graded": "",
+    "date-picked": "2026-01-08",
+    "main-game": {
+      "picks": [
+        {
+          "text": "Tim Cook's job title changes in 2026",
+          "full-pick-text": "Tim Cook's job title changes in 2026",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Regular",
+          "topics": [
+            "Apple management"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/00:47:57"
+        },
+        {
+          "text": "Apple ships a folding iPhone",
+          "full-pick-text": "Apple ships a folding iPhone",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Regular",
+          "topics": [
+            "iPhone"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/00:48:26"
+        },
+        {
+          "text": "Apple updates the MacBook Air with the M5",
+          "full-pick-text": "Apple updates the MacBook Air with the M5",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Regular",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/00:51:53"
+        },
+        {
+          "text": "The iPhone 17e ships in 2026",
+          "full-pick-text": "The iPhone 17e ships in 2026",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Regular",
+          "topics": [
+            "iPhone"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/00:59:45"
+        },
+        {
+          "text": "A Google LLM is powering Siri's features by default",
+          "full-pick-text": "A Google LLM is powering Siri's features by default",
+          "notes": "<p><ul><li>This might not be verifiable if Apple keeps the details close, but Myke is confident that if it's true, we'll know.</li></ul></p>",
+          "game": "2026 Annual Rickies",
+          "type": "Regular",
+          "topics": [
+            "Machine Learning/AI"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/00:59:52"
+        },
+        {
+          "text": "Apple ships some of the AI features previously seen in 2024",
+          "full-pick-text": "Apple ships some of the AI features previously seen in 2024",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Regular",
+          "topics": [
+            "Machine Learning/AI"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:01:54"
+        },
+        {
+          "text": "MacBook Pro is refreshed with a new chip",
+          "full-pick-text": "MacBook Pro is refreshed with a new chip",
+          "notes": "<p><ul><li>There is some question as to whether <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#At%20least%20one%20AirPods%20model%20will%20support%20lossless%20music%20playback\">a pick from 3 games ago</a> includes the 2025 game that was graded moments ago, and it is decided that it does. Now that <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#Ahead%20of%20Its%20Time\">ahead of their time picks</a> grant bonus picks, this throwback from 2023 can now be used.</li></ul></p>",
+          "game": "2026 Annual Rickies",
+          "type": "Regular",
+          "topics": [
+            "Mac",
+            "Bonus Pick"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:07:15"
+        },
+        {
+          "text": "Apple announces a Mac with a touch screen",
+          "full-pick-text": "Apple announces a Mac with a touch screen. It is an update to an existing notebook. macOS does not radically change to accommodate touch. The product comes with the Apple Polishing Cloth in the box.",
+          "notes": "<p><ul><li>\"It is an update to an existing notebook.\" (in other words, not a new line like \"MacBook Touch\")</li>\n\n<li>\"macOS does not radically change to accommodate touch.\" (Specifically, the macOS on this machine does not have a custom UI compared to a non-touch Mac.)</li>\n\n<li>\"The product comes with the Apple Polishing Cloth in the box.\"\n</li></ul></p>",
+          "game": "2026 Annual Rickies",
+          "type": "Ricky",
+          "topics": [
+            "Mac",
+            "macOS"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 3,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:07:42"
+        },
+        {
+          "text": "By the end of the year, Apple will not have shipped equivalent features for the Apple Intelligence features shown at WWDC 2024",
+          "full-pick-text": "By the end of the year, Apple will not have shipped equivalent features for the Apple Intelligence features shown at WWDC 2024. Craig Federighi will talk at least once more about there being '2 architectures.' Apple will once again promise that the missing features will be shipping by the end of the next year. Actions across apps is one of the features that will not ship.",
+          "notes": "<p><ul><li>\"Craig Federighi will talk at least once more about there being '2 architectures.'\"</li>\n\n<li>\"Apple will once again promise that the missing features will be shipping by the end of the next year.\"</li>\n\n<li>\"Actions across apps is one of the features that will not ship.\"</li>\n</ul></p>",
+          "game": "2026 Annual Rickies",
+          "type": "Ricky",
+          "topics": [
+            "Buzzkill",
+            "Machine Learning/AI",
+            "Stagecraft"
+          ],
+          "host": "Myke",
+          "pick-conditions": 3,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:10:17"
+        },
+        {
+          "text": "Apple ships a foldable phone that:",
+          "full-pick-text": "Apple ships a foldable phone that: Is called 'iPhone Duo.' Runs both iOS and iPadOS apps and seamlessly switches between them. Has a feature that operates both the outer and inner screens at the same time.",
+          "notes": "<p><ul><li>\"Is called 'iPhone Duo.'\"</li>\n\n<li>\"Runs both iOS and iPadOS apps and seamlessly switches between them.\"</li>\n\n<li>\"Has a feature that operates both the outer and inner screens at the same time.\"</li>\n</ul></p>",
+          "game": "2026 Annual Rickies",
+          "type": "Ricky",
+          "topics": [
+            "iPhone",
+            "iOS",
+            "iPadOS"
+          ],
+          "host": "Federico",
+          "pick-conditions": 4,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:12:51"
+        }
+      ],
+      "coin-flips": [],
+      "winner": "TBD"
+    },
+    "the-flexies": {
+      "picks": [
+        {
+          "text": "John Ternus is Apple's new CEO",
+          "full-pick-text": "John Ternus is Apple's new CEO",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Apple management"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:24:24"
+        },
+        {
+          "text": "There is still no Magic Keyboard that supports multi-device pairing",
+          "full-pick-text": "There is still no Magic Keyboard that supports multi-device pairing",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Accessories",
+            "Buzzkill"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:24:36"
+        },
+        {
+          "text": "The iPad mini gets OLED",
+          "full-pick-text": "The iPad mini gets OLED",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:24:54"
+        },
+        {
+          "text": "Apple holds another media event at Battersea in London",
+          "full-pick-text": "Apple holds another media event at Battersea in London",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Live Edited",
+            "Stagecraft"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:25:04"
+        },
+        {
+          "text": "Apple introduces some kind of MCP integration for iOS apps",
+          "full-pick-text": "Apple introduces some kind of MCP integration for iOS apps",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iOS",
+            "Developer tools",
+            "Machine Learning/AI"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:25:31"
+        },
+        {
+          "text": "A case option for the iPhone Duo, made by Apple, has a kickstand",
+          "full-pick-text": "A case option for the iPhone Duo, made by Apple, has a kickstand",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPhone",
+            "Accessories"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:25:41"
+        },
+        {
+          "text": "Apple does not ship the base model iPhone by the end of the year",
+          "full-pick-text": "Apple does not ship the base model iPhone by the end of the year",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPhone",
+            "Buzzkill"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:26:32"
+        },
+        {
+          "text": "Apple ships a new laptop that is cheaper than the MacBook Air",
+          "full-pick-text": "Apple ships a new laptop that is cheaper than the MacBook Air",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:26:45"
+        },
+        {
+          "text": "Tim Cook becomes chairman of the board",
+          "full-pick-text": "Tim Cook becomes chairman of the board",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Apple management"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:26:51"
+        },
+        {
+          "text": "Two more countries after Brazil and Japan get alternate app marketplaces",
+          "full-pick-text": "Two more countries after Brazil and Japan get alternate app marketplaces",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Services"
+          ],
+          "host": "Myke",
+          "pick-conditions": 2,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:26:56"
+        },
+        {
+          "text": "The Studio Display gets an update",
+          "full-pick-text": "The Studio Display gets an update",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Accessories"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:04"
+        },
+        {
+          "text": "Apple unveils a MacBook Pro with an OLED touchscreen",
+          "full-pick-text": "Apple unveils a MacBook Pro with an OLED touchscreen",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:09"
+        },
+        {
+          "text": "The Mac Pro does not get updated (in 2026)",
+          "full-pick-text": "The Mac Pro does not get updated",
+          "notes": "<p><ul><li>A <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Mac%20Pro%20does%20not%20get%20updated\">legal reuse</a>.</li></ul></p>",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac",
+            "Buzzkill"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:14"
+        },
+        {
+          "text": "The iMac gets an optional Pro chip",
+          "full-pick-text": "The iMac gets an optional Pro chip",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:30"
+        },
+        {
+          "text": "The iPad mini receives an update",
+          "full-pick-text": "The iPad mini receives an update",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:34"
+        },
+        {
+          "text": "Apple cancels the Mac Pro",
+          "full-pick-text": "Apple cancels the Mac Pro",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac",
+            "Buzzkill"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:44"
+        },
+        {
+          "text": "Liquid Glass persists in the OS 27 releases",
+          "full-pick-text": "Liquid Glass persists in the OS 27 releases",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iOS",
+            "iPadOS",
+            "macOS"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:51"
+        },
+        {
+          "text": "Apple announces a new service or iCloud feature",
+          "full-pick-text": "Apple announces a new service or iCloud feature",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Services"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:28:09"
+        },
+        {
+          "text": "The foldable is called the iPhone Ultra",
+          "full-pick-text": "The foldable is called the iPhone Ultra",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPhone",
+            "Live Edited"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:29:18"
+        },
+        {
+          "text": "Apple announces a HomeKit accessory or product",
+          "full-pick-text": "Apple announces a HomeKit accessory or product",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Accessories"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:29:29"
+        },
+        {
+          "text": "No new car companies announce CarPlay Ultra",
+          "full-pick-text": "No new car companies announce CarPlay Ultra",
+          "notes": "",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Accessories",
+            "Buzzkill",
+            "Live Edited"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:29:54"
+        },
+        {
+          "text": "At least one more person on Apple's leadership page leaves or retires",
+          "full-pick-text": "At least one more person on Apple's leadership page leaves or retires",
+          "notes": "<p><ul><li><a href=\"https://web.archive.org/web/20260104121728/https://www.apple.com/leadership/\" target=\"_blank\">A snapshot of the page at the time,</a> however at the time of the pick it was already known that Lisa Jackson and Katherine Adams are leaving, so those don't count.</li></ul></p>",
+          "game": "2026 Annual Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Live Edited"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:30:18"
+        }
+      ],
+      "coin-flips": [],
+      "winner": "TBD"
+    },
+    "relevant-episodes": [
+      {
+        "title": "Connected #585: The Rickies (January 2026)",
+        "url": "https://relay.fm/connected/585",
+        "episode-number": 585
       }
     ]
   },

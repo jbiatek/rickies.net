@@ -299,6 +299,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:06:11"
   },
   {
+    "text": "Apple holds another media event at Battersea in London",
+    "full-pick-text": "Apple holds another media event at Battersea in London",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:25:04"
+  },
+  {
     "text": "Apple Intelligence features are demoed again",
     "full-pick-text": "Apple Intelligence features are demoed again",
     "notes": "",
@@ -631,6 +645,21 @@
     "ahead-by": 773,
     "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:05:31",
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/59:00"
+  },
+  {
+    "text": "By the end of the year, Apple will not have shipped equivalent features for the Apple Intelligence features shown at WWDC 2024",
+    "full-pick-text": "By the end of the year, Apple will not have shipped equivalent features for the Apple Intelligence features shown at WWDC 2024. Craig Federighi will talk at least once more about there being '2 architectures.' Apple will once again promise that the missing features will be shipping by the end of the next year. Actions across apps is one of the features that will not ship.",
+    "notes": "<p><ul><li>\"Craig Federighi will talk at least once more about there being '2 architectures.'\"</li>\n\n<li>\"Apple will once again promise that the missing features will be shipping by the end of the next year.\"</li>\n\n<li>\"Actions across apps is one of the features that will not ship.\"</li>\n</ul></p>",
+    "game": "2026 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Buzzkill",
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:10:17"
   },
   {
     "text": "ChatGPT is mentioned again",
@@ -1706,10 +1735,13 @@
     "game": "2025 Annual Rickies",
     "type": "Flexie",
     "topics": [
-      "Stagecraft"
+      "Stagecraft",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:30:57",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:33"
   },
   {

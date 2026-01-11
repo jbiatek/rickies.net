@@ -34,6 +34,34 @@
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:34:27"
   },
   {
+    "text": "Apple cancels the Mac Pro",
+    "full-pick-text": "Apple cancels the Mac Pro",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Buzzkill"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:44"
+  },
+  {
+    "text": "Apple does not ship the base model iPhone by the end of the year",
+    "full-pick-text": "Apple does not ship the base model iPhone by the end of the year",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:26:32"
+  },
+  {
     "text": "Apple Intelligence gains no new features",
     "full-pick-text": "Apple Intelligence gains no new features",
     "notes": "",
@@ -78,6 +106,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 5,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:22:09",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:08:12"
   },
   {
@@ -198,6 +228,21 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/1:29:12",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:39:28"
+  },
+  {
+    "text": "By the end of the year, Apple will not have shipped equivalent features for the Apple Intelligence features shown at WWDC 2024",
+    "full-pick-text": "By the end of the year, Apple will not have shipped equivalent features for the Apple Intelligence features shown at WWDC 2024. Craig Federighi will talk at least once more about there being '2 architectures.' Apple will once again promise that the missing features will be shipping by the end of the next year. Actions across apps is one of the features that will not ship.",
+    "notes": "<p><ul><li>\"Craig Federighi will talk at least once more about there being '2 architectures.'\"</li>\n\n<li>\"Apple will once again promise that the missing features will be shipping by the end of the next year.\"</li>\n\n<li>\"Actions across apps is one of the features that will not ship.\"</li>\n</ul></p>",
+    "game": "2026 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Buzzkill",
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:10:17"
   },
   {
     "text": "FineWoven cases mysteriously disappear",
@@ -590,6 +635,21 @@
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:33:48"
   },
   {
+    "text": "No new car companies announce CarPlay Ultra",
+    "full-pick-text": "No new car companies announce CarPlay Ultra",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "Buzzkill",
+      "Live Edited"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:29:54"
+  },
+  {
     "text": "No new iPad mini",
     "full-pick-text": "No new iPad mini",
     "notes": "<p><ul><li>\"(if it's killed, I'm not wrong)\"</li></ul></p>",
@@ -664,10 +724,13 @@
     "topics": [
       "Apple Vision Pro",
       "Buzzkill",
-      "Live Edited"
+      "Live Edited",
+      "Unvindicatable"
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:29:47",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:06"
   },
   {
@@ -1052,10 +1115,13 @@
     "type": "Regular",
     "topics": [
       "Mac",
-      "Buzzkill"
+      "Buzzkill",
+      "Unvindicatable"
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:11:59",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:50:21"
   },
   {
@@ -1103,7 +1169,23 @@
     ],
     "host": "Myke",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:29:19",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:13:59"
+  },
+  {
+    "text": "The Mac Pro does not get updated (in 2026)",
+    "full-pick-text": "The Mac Pro does not get updated",
+    "notes": "<p><ul><li>A <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20Mac%20Pro%20does%20not%20get%20updated\">legal reuse</a>.</li></ul></p>",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Mac",
+      "Buzzkill"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:14"
   },
   {
     "text": "The Mac Pro is updated to use an M4 system on a chip, but is otherwise unchanged from the M2 model",
@@ -1113,10 +1195,13 @@
     "type": "Flexie",
     "topics": [
       "Mac",
-      "Buzzkill"
+      "Buzzkill",
+      "Possible Vindication"
     ],
     "host": "Stephen",
     "pick-conditions": 2,
+    "score": 0,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:31:47",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:17:49"
   },
   {
@@ -1286,6 +1371,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/36:40",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:16:34"
+  },
+  {
+    "text": "There is still no Magic Keyboard that supports multi-device pairing",
+    "full-pick-text": "There is still no Magic Keyboard that supports multi-device pairing",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories",
+      "Buzzkill"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:24:36"
   },
   {
     "text": "There will be no iPhone 14 with a 5.4\" display",

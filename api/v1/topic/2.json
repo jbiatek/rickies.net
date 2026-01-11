@@ -48,6 +48,19 @@
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:37:25"
   },
   {
+    "text": "Apple announces a new service or iCloud feature",
+    "full-pick-text": "Apple announces a new service or iCloud feature",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Services"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:28:09"
+  },
+  {
     "text": "Apple announces a video game subscription service",
     "full-pick-text": "Apple announces a video game subscription service",
     "notes": "",
@@ -297,7 +310,7 @@
   {
     "text": "Apple services see a price increase in the US",
     "full-pick-text": "Apple services see a price increase in the US",
-    "notes": "",
+    "notes": "<p><ul><li>Apple TV increased by a few dollars (when not bundled with a larger plan).</li></ul></p>",
     "game": "2025 Annual Rickies",
     "type": "Flexie",
     "topics": [
@@ -306,6 +319,8 @@
     ],
     "host": "Stephen",
     "pick-conditions": 1,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:34:45",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:19:05"
   },
   {
@@ -810,5 +825,18 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/34:33",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:13:58"
+  },
+  {
+    "text": "Two more countries after Brazil and Japan get alternate app marketplaces",
+    "full-pick-text": "Two more countries after Brazil and Japan get alternate app marketplaces",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Services"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:26:56"
   }
 ]

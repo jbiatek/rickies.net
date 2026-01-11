@@ -97,6 +97,21 @@
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:17:40"
   },
   {
+    "text": "Apple ships a foldable phone that:",
+    "full-pick-text": "Apple ships a foldable phone that: Is called 'iPhone Duo.' Runs both iOS and iPadOS apps and seamlessly switches between them. Has a feature that operates both the outer and inner screens at the same time.",
+    "notes": "<p><ul><li>\"Is called 'iPhone Duo.'\"</li>\n\n<li>\"Runs both iOS and iPadOS apps and seamlessly switches between them.\"</li>\n\n<li>\"Has a feature that operates both the outer and inner screens at the same time.\"</li>\n</ul></p>",
+    "game": "2026 Annual Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "iPadOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 4,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:12:51"
+  },
+  {
     "text": "Apple showcases at least one new feature coming in iOS or iPadOS 14.1",
     "full-pick-text": "Apple showcases at least one new feature coming in iOS or iPadOS 14.1",
     "notes": "<p><ul><li>The version number wasn't stated explicitly, otherwise Fitness+ would have counted.</li></ul></p>",
@@ -438,6 +453,21 @@
     "ahead-by": 361,
     "overcast-graded": "https://overcast.fm/+FXx4QQ2DA/01:34:42",
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:14:48"
+  },
+  {
+    "text": "Liquid Glass persists in the OS 27 releases",
+    "full-pick-text": "Liquid Glass persists in the OS 27 releases",
+    "notes": "",
+    "game": "2026 Annual Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iOS",
+      "iPadOS",
+      "macOS"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1,
+    "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:27:51"
   },
   {
     "text": "More apps can use a picture-in-picture-style window on iPadOS",

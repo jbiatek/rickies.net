@@ -5,9 +5,12 @@
   "game": "2025 Annual Rickies",
   "type": "Regular",
   "topics": [
-    "Machine Learning/AI"
+    "Machine Learning/AI",
+    "Possible Vindication"
   ],
   "host": "Myke",
   "pick-conditions": 1,
+  "score": 0,
+  "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:08:06",
   "overcast-picked": "https://overcast.fm/+FXx6e_hj0/00:44:29"
 }

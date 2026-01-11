@@ -96,6 +96,8 @@
     ],
     "host": "Myke",
     "pick-conditions": 2,
+    "score": 1,
+    "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:29:53",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:14:20"
   },
   {
@@ -291,12 +293,14 @@
     "type": "Regular",
     "topics": [
       "Accessories",
+      "Ahead of Its Time",
       "AirPods",
-      "Possible Vindication"
+      "Used As Bonus Pick"
     ],
     "host": "Federico",
     "pick-conditions": 1,
     "score": 0,
+    "ahead-by": 255,
     "overcast-graded": "https://overcast.fm/+FXx5wv1as/11:24",
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:09:15"
   },
