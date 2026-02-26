@@ -1,0 +1,12 @@
+{
+  "text": "The MacBook has a screen smaller than 13 inches",
+  "full-pick-text": "The MacBook has a screen smaller than 13 inches",
+  "notes": "<p><ul><li>Strictly \"less than\", not \"less than or equal to.\"</li></ul></p>",
+  "game": "2026 March Rickies",
+  "type": "Regular",
+  "topics": [
+    "Mac"
+  ],
+  "host": "Myke",
+  "pick-conditions": 1
+}

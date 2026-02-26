@@ -448,6 +448,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/58:07"
   },
   {
+    "text": "Apple's press release touts Apple Intelligence features coming to the iPad. They talk about writing tools and show a screenshot from Image Playgrounds",
+    "full-pick-text": "Apple's press release touts Apple Intelligence features coming to the iPad. They talk about writing tools and show a screenshot from Image Playgrounds",
+    "notes": "",
+    "game": "2026 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3
+  },
+  {
     "text": "At least one new non-Pro iPad will switch to USB-C",
     "full-pick-text": "At least one new non-Pro iPad will switch to USB-C",
     "notes": "",
@@ -1402,6 +1416,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6e_hj0/00:22:59",
     "overcast-picked": "https://overcast.fm/+FXx6cG1WQ/1:05:18"
+  },
+  {
+    "text": "The base iPad is updated and supports Apple Intelligence",
+    "full-pick-text": "The base iPad is updated and supports Apple Intelligence",
+    "notes": "",
+    "game": "2026 March Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
   },
   {
     "text": "The big iPad Pro is updated with a feature that is unique to it",

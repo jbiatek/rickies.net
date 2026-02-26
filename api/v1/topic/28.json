@@ -455,6 +455,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:05:52"
   },
   {
+    "text": "Apple's press release touts Apple Intelligence features coming to the iPad. They talk about writing tools and show a screenshot from Image Playgrounds",
+    "full-pick-text": "Apple's press release touts Apple Intelligence features coming to the iPad. They talk about writing tools and show a screenshot from Image Playgrounds",
+    "notes": "",
+    "game": "2026 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPad",
+      "Apple Apps",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 3
+  },
+  {
     "text": "At least one Apple Intelligence feature is announced for watchOS",
     "full-pick-text": "At least one Apple Intelligence feature is announced for watchOS",
     "notes": "<p><ul><li>Workout Buddy counts, barely.</li></ul></p>",
@@ -717,6 +731,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/01:17:25",
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:07:40"
+  },
+  {
+    "text": "The base iPad is updated and supports Apple Intelligence",
+    "full-pick-text": "The base iPad is updated and supports Apple Intelligence",
+    "notes": "",
+    "game": "2026 March Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPad",
+      "Machine Learning/AI"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
   },
   {
     "text": "The ChatGPT integration with Siri now has access to reasoning models",

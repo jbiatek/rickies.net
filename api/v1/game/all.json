@@ -2859,8 +2859,8 @@
           "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:39:56"
         },
         {
-          "text": "One of the new Mac models supports WiFi 6",
-          "full-pick-text": "One of the new Mac models supports WiFi 6",
+          "text": "One of the new Mac models supports Wi-Fi 6",
+          "full-pick-text": "One of the new Mac models supports Wi-Fi 6",
           "notes": "",
           "game": "2020 November Rickies",
           "type": "Flexie",
@@ -16566,6 +16566,349 @@
         "title": "Connected #585: The Rickies (January 2026)",
         "url": "https://relay.fm/connected/585",
         "episode-number": 585
+      }
+    ]
+  },
+  {
+    "name": "2026 March Rickies",
+    "game-type": "Keynote",
+    "date-graded": "",
+    "date-picked": "2026-02-26",
+    "main-game": {
+      "picks": [
+        {
+          "text": "A new Mac laptop is announced in multiple colors",
+          "full-pick-text": "A new Mac laptop is announced in multiple colors",
+          "notes": "<p><ul><li>That is, not part of an existing line, but not locking in to a \"MacBook\" variety.</li></ul></p>",
+          "game": "2026 March Rickies",
+          "type": "Regular",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1
+        },
+        {
+          "text": "John Ternus is quoted in every press release about new products",
+          "full-pick-text": "John Ternus is quoted in every press release about new products",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Regular",
+          "topics": [
+            "Apple management"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1
+        },
+        {
+          "text": "The iPhone 17e is announced",
+          "full-pick-text": "The iPhone 17e is announced",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Regular",
+          "topics": [
+            "iPhone"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1
+        },
+        {
+          "text": "The new iPhone 17e supports MagSafe",
+          "full-pick-text": "The new iPhone 17e supports MagSafe",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Regular",
+          "topics": [
+            "iPhone"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2
+        },
+        {
+          "text": "The MacBook has a screen smaller than 13 inches",
+          "full-pick-text": "The MacBook has a screen smaller than 13 inches",
+          "notes": "<p><ul><li>Strictly \"less than\", not \"less than or equal to.\"</li></ul></p>",
+          "game": "2026 March Rickies",
+          "type": "Regular",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1
+        },
+        {
+          "text": "The base iPad is updated and supports Apple Intelligence",
+          "full-pick-text": "The base iPad is updated and supports Apple Intelligence",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Regular",
+          "topics": [
+            "iPad",
+            "Machine Learning/AI"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 2
+        },
+        {
+          "text": "The new M5 Max chip in the MacBook Pro comes with a new architecture that...",
+          "full-pick-text": "The new M5 Max chip in the MacBook Pro comes with a new architecture that better separates CPU and GPU inside the chip, allows Apple to advertise higher sustained performance and better heat dissipation, and allows for more than two configuration options for M5 Max",
+          "notes": "<p><ul><li>\"Better separates CPU and GPU inside the chip\"\n    <ul><li>Ungraded: something like a <a href=\"https://en.wikipedia.org/wiki/2.5D_integrated_circuit\" target=\"_blank\">2.5D chiplet design</a></li></ul></li>\n<li>\"Allows Apple to advertise higher sustained performance and better heat dissipation\"</li>\n<li>\"Allows for more than two configuration options for M5 Max\"<ul><li>These must be CPU/GPU options, not other things in the SOC like RAM</li></ul></li></ul></p>",
+          "game": "2026 March Rickies",
+          "type": "Ricky",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Federico",
+          "pick-conditions": 4
+        },
+        {
+          "text": "There is at least one new Studio Display",
+          "full-pick-text": "There is at least one new Studio Display. At least one model features a Mini LED display with a 90hz refresh rate. Apple will create a new name to describe this panel (like Liquid Retina XDR). The old Studio Display and Pro Display XDR are still available",
+          "notes": "<p><ul><li>\"At least one model features a Mini LED display with a 90hz refresh rate\"</li><li>\"Apple will create a new name to describe this panel (like Liquid Retina XDR)\"</li>\n<li>\"The old Studio Display and Pro Display XDR are still available\"</li></ul></p>",
+          "game": "2026 March Rickies",
+          "type": "Ricky",
+          "topics": [
+            "Accessories"
+          ],
+          "host": "Myke",
+          "pick-conditions": 4
+        },
+        {
+          "text": "There is a new entry-level Mac laptop, powered by an A-series chip",
+          "full-pick-text": "There is a new entry-level Mac laptop, powered by an A-series chip. Apple calls it the MacBook, but mentions or shows the original colorful iBooks. It has MagSafe and two USB-C (not Thunderbolt) ports. The base SKU has 8 GB of RAM, isn't available in all colors, and starts at $699",
+          "notes": "<p><ul><li>\"Apple calls it the MacBook, but mentions or shows the original colorful iBooks\"</li>\n<li>\"It has MagSafe and two USB-C (not Thunderbolt) ports\"</li>\n<li>\"The base SKU has 8 GB of RAM, isn't available in all colors, and starts at $699\"\n    <ul><li>That price could be the regular or education store price.</li></ul></li></ul></p>",
+          "game": "2026 March Rickies",
+          "type": "Ricky",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 8
+        }
+      ],
+      "coin-flips": [],
+      "winner": "TBD"
+    },
+    "the-flexies": {
+      "picks": [
+        {
+          "text": "There is a silver MacBook",
+          "full-pick-text": "There is a silver MacBook",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1
+        },
+        {
+          "text": "There is a blue MacBook",
+          "full-pick-text": "There is a blue MacBook",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1
+        },
+        {
+          "text": "There is a yellow MacBook",
+          "full-pick-text": "There is a yellow MacBook",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1
+        },
+        {
+          "text": "There is a pink MacBook",
+          "full-pick-text": "There is a pink MacBook",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1
+        },
+        {
+          "text": "There is not an orange MacBook",
+          "full-pick-text": "There is not an orange MacBook",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac",
+            "Buzzkill"
+          ],
+          "host": "Stephen",
+          "pick-conditions": 1
+        },
+        {
+          "text": "The new low-cost MacBook comes with a slightly more expensive cellular option",
+          "full-pick-text": "The new low-cost MacBook comes with a slightly more expensive cellular option",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Federico",
+          "pick-conditions": 2
+        },
+        {
+          "text": "The new low-cost MacBook cannot charge as quickly as a MacBook Pro",
+          "full-pick-text": "The new low-cost MacBook cannot charge as quickly as a MacBook Pro",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1
+        },
+        {
+          "text": "John Ternus is photographed in person at one of the media events",
+          "full-pick-text": "John Ternus is photographed in person at one of the media events",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Apple management",
+            "Stagecraft"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1
+        },
+        {
+          "text": "Tim Cook is not photographed in person at any of the media events",
+          "full-pick-text": "Tim Cook is not photographed in person at any of the media events",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Apple management",
+            "Stagecraft"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1
+        },
+        {
+          "text": "The new MacBook will not support Wi-Fi 7",
+          "full-pick-text": "The new MacBook will not support Wi-Fi 7",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Federico",
+          "pick-conditions": 1
+        },
+        {
+          "text": "RAM prices do not change on the MacBook Pro",
+          "full-pick-text": "RAM prices do not change on the MacBook Pro",
+          "notes": "<p><ul><li>The original prices: <ul><li>24 GB included, 48 GB for $400 on the Pro</li><li>36 GB included on the 14 core Max</li><li>48 GB included on the 16 core Max</li><li>Uprgades on the Max are 64 GB for $200 and 128 GB for $1000 </li></ul></li></ul></p>",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1
+        },
+        {
+          "text": "M5 Pro and M5 Max come to MacBook Pro",
+          "full-pick-text": "M5 Pro and M5 Max come to MacBook Pro",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Myke",
+          "pick-conditions": 2
+        },
+        {
+          "text": "Nothing changes for the Mac Pro",
+          "full-pick-text": "Nothing changes for the Mac Pro",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Mac"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1
+        },
+        {
+          "text": "There is a video released to the public on Wednesday",
+          "full-pick-text": "There is a video released to the public on Wednesday",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Stagecraft"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1
+        },
+        {
+          "text": "Apple's press release touts Apple Intelligence features coming to the iPad. They talk about writing tools and show a screenshot from Image Playgrounds",
+          "full-pick-text": "Apple's press release touts Apple Intelligence features coming to the iPad. They talk about writing tools and show a screenshot from Image Playgrounds",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "iPad",
+            "Apple Apps",
+            "Machine Learning/AI"
+          ],
+          "host": "Myke",
+          "pick-conditions": 3
+        },
+        {
+          "text": "An image of a Formula 1 car finds its way in to a press release or video",
+          "full-pick-text": "An image of a Formula 1 car finds its way in to a press release or video",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Apple TV+"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1
+        },
+        {
+          "text": "Apple mentions their 50th anniversary being this year",
+          "full-pick-text": "Apple mentions their 50th anniversary being this year",
+          "notes": "",
+          "game": "2026 March Rickies",
+          "type": "Flexie",
+          "topics": [
+            "Stagecraft"
+          ],
+          "host": "Myke",
+          "pick-conditions": 1
+        }
+      ],
+      "coin-flips": [],
+      "winner": "TBD"
+    },
+    "relevant-episodes": [
+      {
+        "title": "Connected #592: The Rickies (March 2026)",
+        "url": "https://relay.fm/connected/592",
+        "episode-number": 592
       }
     ]
   },

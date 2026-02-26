@@ -151,6 +151,31 @@
     "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:24:24"
   },
   {
+    "text": "John Ternus is photographed in person at one of the media events",
+    "full-pick-text": "John Ternus is photographed in person at one of the media events",
+    "notes": "",
+    "game": "2026 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
+    "text": "John Ternus is quoted in every press release about new products",
+    "full-pick-text": "John Ternus is quoted in every press release about new products",
+    "notes": "",
+    "game": "2026 March Rickies",
+    "type": "Regular",
+    "topics": [
+      "Apple management"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "John Ternus is wearing a black T-shirt",
     "full-pick-text": "John Ternus is wearing a black T-shirt",
     "notes": "",
@@ -340,6 +365,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx75P5Bg/33:14",
     "overcast-picked": "https://overcast.fm/+FXx4SLgn4/1:16:30"
+  },
+  {
+    "text": "Tim Cook is not photographed in person at any of the media events",
+    "full-pick-text": "Tim Cook is not photographed in person at any of the media events",
+    "notes": "",
+    "game": "2026 March Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "Tim Cook mentions the war in Ukraine",

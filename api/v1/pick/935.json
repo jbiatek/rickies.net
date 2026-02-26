@@ -1,0 +1,12 @@
+{
+  "text": "The new M5 Max chip in the MacBook Pro comes with a new architecture that...",
+  "full-pick-text": "The new M5 Max chip in the MacBook Pro comes with a new architecture that better separates CPU and GPU inside the chip, allows Apple to advertise higher sustained performance and better heat dissipation, and allows for more than two configuration options for M5 Max",
+  "notes": "<p><ul><li>\"Better separates CPU and GPU inside the chip\"\n    <ul><li>Ungraded: something like a <a href=\"https://en.wikipedia.org/wiki/2.5D_integrated_circuit\" target=\"_blank\">2.5D chiplet design</a></li></ul></li>\n<li>\"Allows Apple to advertise higher sustained performance and better heat dissipation\"</li>\n<li>\"Allows for more than two configuration options for M5 Max\"<ul><li>These must be CPU/GPU options, not other things in the SOC like RAM</li></ul></li></ul></p>",
+  "game": "2026 March Rickies",
+  "type": "Ricky",
+  "topics": [
+    "Mac"
+  ],
+  "host": "Federico",
+  "pick-conditions": 4
+}
