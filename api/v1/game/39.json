@@ -1,7 +1,7 @@
 {
   "name": "2026 March Rickies",
   "game-type": "Keynote",
-  "date-graded": "",
+  "date-graded": "2026-03-05",
   "date-picked": "2026-02-26",
   "main-game": {
     "picks": [
@@ -15,7 +15,8 @@
           "Mac"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 1
       },
       {
         "text": "John Ternus is quoted in every press release about new products",
@@ -27,7 +28,8 @@
           "Apple management"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 0
       },
       {
         "text": "The iPhone 17e is announced",
@@ -39,7 +41,8 @@
           "iPhone"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 1
       },
       {
         "text": "The new iPhone 17e supports MagSafe",
@@ -51,7 +54,8 @@
           "iPhone"
         ],
         "host": "Federico",
-        "pick-conditions": 2
+        "pick-conditions": 2,
+        "score": 1
       },
       {
         "text": "The MacBook has a screen smaller than 13 inches",
@@ -63,7 +67,8 @@
           "Mac"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 0
       },
       {
         "text": "The base iPad is updated and supports Apple Intelligence",
@@ -76,7 +81,8 @@
           "Machine Learning/AI"
         ],
         "host": "Stephen",
-        "pick-conditions": 2
+        "pick-conditions": 2,
+        "score": 0
       },
       {
         "text": "The new M5 Max chip in the MacBook Pro comes with a new architecture that...",
@@ -88,19 +94,21 @@
           "Mac"
         ],
         "host": "Federico",
-        "pick-conditions": 4
+        "pick-conditions": 4,
+        "score": 0
       },
       {
         "text": "There is at least one new Studio Display",
         "full-pick-text": "There is at least one new Studio Display. At least one model features a Mini LED display with a 90hz refresh rate. Apple will create a new name to describe this panel (like Liquid Retina XDR). The old Studio Display and Pro Display XDR are still available",
-        "notes": "<p><ul><li>\"At least one model features a Mini LED display with a 90hz refresh rate\"</li><li>\"Apple will create a new name to describe this panel (like Liquid Retina XDR)\"</li>\n<li>\"The old Studio Display and Pro Display XDR are still available\"</li></ul></p>",
+        "notes": "<p><ul><li>\"At least one model features a Mini LED display with a 90hz refresh rate\"</li><li>\"Apple will create a new name to describe this panel (like Liquid Retina XDR)\"<ul><li>It is indeed described in copy as a \"27-inch 5K Retina XDR display\"</li></ul></li>\n<li>\"The old Studio Display and Pro Display XDR are still available\"</li></ul></p>",
         "game": "2026 March Rickies",
         "type": "Ricky",
         "topics": [
           "Accessories"
         ],
         "host": "Myke",
-        "pick-conditions": 4
+        "pick-conditions": 4,
+        "score": 0
       },
       {
         "text": "There is a new entry-level Mac laptop, powered by an A-series chip",
@@ -112,11 +120,26 @@
           "Mac"
         ],
         "host": "Stephen",
-        "pick-conditions": 8
+        "pick-conditions": 8,
+        "score": -1
       }
     ],
     "coin-flips": [],
-    "winner": "TBD"
+    "scores": [
+      {
+        "host": "Federico",
+        "score": 2
+      },
+      {
+        "host": "Myke",
+        "score": 0
+      },
+      {
+        "host": "Stephen",
+        "score": 0
+      }
+    ],
+    "winner": "Federico"
   },
   "the-flexies": {
     "picks": [
@@ -130,7 +153,8 @@
           "Mac"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 1
       },
       {
         "text": "There is a blue MacBook",
@@ -142,7 +166,8 @@
           "Mac"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 1
       },
       {
         "text": "There is a yellow MacBook",
@@ -154,7 +179,8 @@
           "Mac"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 1
       },
       {
         "text": "There is a pink MacBook",
@@ -166,7 +192,8 @@
           "Mac"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 1
       },
       {
         "text": "There is not an orange MacBook",
@@ -179,7 +206,8 @@
           "Buzzkill"
         ],
         "host": "Stephen",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 1
       },
       {
         "text": "The new low-cost MacBook comes with a slightly more expensive cellular option",
@@ -191,7 +219,8 @@
           "Mac"
         ],
         "host": "Federico",
-        "pick-conditions": 2
+        "pick-conditions": 2,
+        "score": 0
       },
       {
         "text": "The new low-cost MacBook cannot charge as quickly as a MacBook Pro",
@@ -203,7 +232,8 @@
           "Mac"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 1
       },
       {
         "text": "John Ternus is photographed in person at one of the media events",
@@ -216,7 +246,8 @@
           "Stagecraft"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 1
       },
       {
         "text": "Tim Cook is not photographed in person at any of the media events",
@@ -229,7 +260,8 @@
           "Stagecraft"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 1
       },
       {
         "text": "The new MacBook will not support Wi-Fi 7",
@@ -241,7 +273,8 @@
           "Mac"
         ],
         "host": "Federico",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 1
       },
       {
         "text": "RAM prices do not change on the MacBook Pro",
@@ -253,7 +286,8 @@
           "Mac"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 1
       },
       {
         "text": "M5 Pro and M5 Max come to MacBook Pro",
@@ -265,7 +299,8 @@
           "Mac"
         ],
         "host": "Myke",
-        "pick-conditions": 2
+        "pick-conditions": 2,
+        "score": 1
       },
       {
         "text": "Nothing changes for the Mac Pro",
@@ -277,7 +312,8 @@
           "Mac"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 1
       },
       {
         "text": "There is a video released to the public on Wednesday",
@@ -289,7 +325,8 @@
           "Stagecraft"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 0
       },
       {
         "text": "Apple's press release touts Apple Intelligence features coming to the iPad. They talk about writing tools and show a screenshot from Image Playgrounds",
@@ -303,19 +340,21 @@
           "Machine Learning/AI"
         ],
         "host": "Myke",
-        "pick-conditions": 3
+        "pick-conditions": 3,
+        "score": 0
       },
       {
         "text": "An image of a Formula 1 car finds its way in to a press release or video",
         "full-pick-text": "An image of a Formula 1 car finds its way in to a press release or video",
-        "notes": "",
+        "notes": "<p><ul><li>Apple <a href=\"https://www.apple.com/newsroom/2026/03/formula-1-begins-this-weekend-exclusively-on-apple-tv-in-the-us/\" target=\"_blank\">sneaks it in <em>just</em> before the episode records</a>.</li></ul></p>",
         "game": "2026 March Rickies",
         "type": "Flexie",
         "topics": [
           "Apple TV+"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 1
       },
       {
         "text": "Apple mentions their 50th anniversary being this year",
@@ -327,17 +366,44 @@
           "Stagecraft"
         ],
         "host": "Myke",
-        "pick-conditions": 1
+        "pick-conditions": 1,
+        "score": 0
       }
     ],
     "coin-flips": [],
-    "winner": "TBD"
+    "scores": [
+      {
+        "host": "Stephen",
+        "correct": 5,
+        "total": 5
+      },
+      {
+        "host": "Federico",
+        "correct": 4,
+        "total": 5
+      },
+      {
+        "host": "Myke",
+        "correct": 4,
+        "total": 7
+      }
+    ],
+    "charity-name": "ACLU",
+    "charity-url": "https://www.aclu.org",
+    "donation": 100,
+    "donator": "Myke",
+    "winner": "Stephen"
   },
   "relevant-episodes": [
     {
       "title": "Connected #592: The Rickies (March 2026)",
       "url": "https://relay.fm/connected/592",
       "episode-number": 592
+    },
+    {
+      "title": "Connected #593: John Ternus Was Deployed Tactically",
+      "url": "https://relay.fm/connected/593",
+      "episode-number": 593
     }
   ]
 }

@@ -459,7 +459,8 @@
       "Machine Learning/AI"
     ],
     "host": "Myke",
-    "pick-conditions": 3
+    "pick-conditions": 3,
+    "score": 0
   },
   {
     "text": "At least one new non-Pro iPad will switch to USB-C",
@@ -1428,7 +1429,8 @@
       "Machine Learning/AI"
     ],
     "host": "Stephen",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 0
   },
   {
     "text": "The big iPad Pro is updated with a feature that is unique to it",

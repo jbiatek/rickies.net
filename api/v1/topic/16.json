@@ -19,14 +19,15 @@
   {
     "text": "An image of a Formula 1 car finds its way in to a press release or video",
     "full-pick-text": "An image of a Formula 1 car finds its way in to a press release or video",
-    "notes": "",
+    "notes": "<p><ul><li>Apple <a href=\"https://www.apple.com/newsroom/2026/03/formula-1-begins-this-weekend-exclusively-on-apple-tv-in-the-us/\" target=\"_blank\">sneaks it in <em>just</em> before the episode records</a>.</li></ul></p>",
     "game": "2026 March Rickies",
     "type": "Flexie",
     "topics": [
       "Apple TV+"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "Apple adds another sport to TV+",

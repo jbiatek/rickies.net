@@ -1383,7 +1383,8 @@
       "Buzzkill"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "There is still no Magic Keyboard that supports multi-device pairing",

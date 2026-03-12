@@ -159,5 +159,12 @@
     "donation": 75,
     "charity-name": "Ente Nazionale Protezione Animali",
     "charity-url": "https://enpa.org/"
+  },
+  {
+    "game": "2026 March Rickies",
+    "donator": "Myke",
+    "donation": 100,
+    "charity-name": "ACLU",
+    "charity-url": "https://www.aclu.org"
   }
 ]

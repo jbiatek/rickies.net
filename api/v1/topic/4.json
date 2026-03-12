@@ -386,7 +386,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "Apple reframes an existing feature as being powered by \"AI\"",
@@ -904,7 +905,8 @@
       "Stagecraft"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "John Ternus is wearing a black T-shirt",
@@ -1746,7 +1748,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "There is going to be a funny scene involving one of the characters of Ted Lasso",
@@ -1808,7 +1811,8 @@
       "Stagecraft"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "Tim Cook is surrounded by long grass",

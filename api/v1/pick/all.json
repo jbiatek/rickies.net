@@ -594,7 +594,8 @@
       "Mac"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "A new MacBook comes with at least one new non-USB-C/Thunderbolt port on the laptop itself",
@@ -1130,14 +1131,15 @@
   {
     "text": "An image of a Formula 1 car finds its way in to a press release or video",
     "full-pick-text": "An image of a Formula 1 car finds its way in to a press release or video",
-    "notes": "",
+    "notes": "<p><ul><li>Apple <a href=\"https://www.apple.com/newsroom/2026/03/formula-1-begins-this-weekend-exclusively-on-apple-tv-in-the-us/\" target=\"_blank\">sneaks it in <em>just</em> before the episode records</a>.</li></ul></p>",
     "game": "2026 March Rickies",
     "type": "Flexie",
     "topics": [
       "Apple TV+"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "An iPhone gets a periscope camera",
@@ -2828,7 +2830,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "Apple Music Classical ships",
@@ -4698,7 +4701,8 @@
       "Machine Learning/AI"
     ],
     "host": "Myke",
-    "pick-conditions": 3
+    "pick-conditions": 3,
+    "score": 0
   },
   {
     "text": "AR-specific features are added to Swift or SwiftUI",
@@ -7235,7 +7239,8 @@
       "Stagecraft"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "John Ternus is quoted in every press release about new products",
@@ -7247,7 +7252,8 @@
       "Apple management"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "John Ternus is wearing a black T-shirt",
@@ -7474,7 +7480,8 @@
       "Mac"
     ],
     "host": "Myke",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 1
   },
   {
     "text": "Mac Studio is updated with a new chip",
@@ -8982,7 +8989,8 @@
       "Mac"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "Notification summaries are provided by a new AI system",
@@ -9303,7 +9311,8 @@
       "Mac"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "RCS is not spoken aloud in the keynote",
@@ -10752,7 +10761,8 @@
       "Machine Learning/AI"
     ],
     "host": "Stephen",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 0
   },
   {
     "text": "The big iPad Pro is updated with a feature that is unique to it",
@@ -11752,7 +11762,8 @@
       "iPhone"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "The iPhone 17e ships in 2026",
@@ -12320,7 +12331,8 @@
       "Mac"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "The Magic Keyboard for iPad goes unchanged",
@@ -12728,7 +12740,8 @@
       "iPhone"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 1
   },
   {
     "text": "The new iPhone color is called Earth Titanium",
@@ -12932,7 +12945,8 @@
       "Mac"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "The new low-cost MacBook comes with a slightly more expensive cellular option",
@@ -12944,7 +12958,8 @@
       "Mac"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 0
   },
   {
     "text": "The new M5 Max chip in the MacBook Pro comes with a new architecture that...",
@@ -12956,7 +12971,8 @@
       "Mac"
     ],
     "host": "Federico",
-    "pick-conditions": 4
+    "pick-conditions": 4,
+    "score": 0
   },
   {
     "text": "The new Mac mini comes in more colors than silver and grey",
@@ -13019,7 +13035,8 @@
       "Mac"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "The new phone will offer some kind of night mode for shooting photos in the dark",
@@ -13712,7 +13729,8 @@
       "Mac"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "There is a ceramic Apple Watch",
@@ -13756,7 +13774,8 @@
       "Mac"
     ],
     "host": "Stephen",
-    "pick-conditions": 8
+    "pick-conditions": 8,
+    "score": -1
   },
   {
     "text": "There is a new system for changing the colors of icons on the home screen",
@@ -13799,7 +13818,8 @@
       "Mac"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "There is a segment about Apple Intelligence that lasts at least 10 minutes",
@@ -13827,7 +13847,8 @@
       "Mac"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "There is a video released to the public on Wednesday",
@@ -13839,7 +13860,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "There is a yellow MacBook",
@@ -13851,7 +13873,8 @@
       "Mac"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "There is an iPhone Pro that is copper by the eye",
@@ -13887,14 +13910,15 @@
   {
     "text": "There is at least one new Studio Display",
     "full-pick-text": "There is at least one new Studio Display. At least one model features a Mini LED display with a 90hz refresh rate. Apple will create a new name to describe this panel (like Liquid Retina XDR). The old Studio Display and Pro Display XDR are still available",
-    "notes": "<p><ul><li>\"At least one model features a Mini LED display with a 90hz refresh rate\"</li><li>\"Apple will create a new name to describe this panel (like Liquid Retina XDR)\"</li>\n<li>\"The old Studio Display and Pro Display XDR are still available\"</li></ul></p>",
+    "notes": "<p><ul><li>\"At least one model features a Mini LED display with a 90hz refresh rate\"</li><li>\"Apple will create a new name to describe this panel (like Liquid Retina XDR)\"<ul><li>It is indeed described in copy as a \"27-inch 5K Retina XDR display\"</li></ul></li>\n<li>\"The old Studio Display and Pro Display XDR are still available\"</li></ul></p>",
     "game": "2026 March Rickies",
     "type": "Ricky",
     "topics": [
       "Accessories"
     ],
     "host": "Myke",
-    "pick-conditions": 4
+    "pick-conditions": 4,
+    "score": 0
   },
   {
     "text": "There is going to be a funny scene involving one of the characters of Ted Lasso",
@@ -14009,7 +14033,8 @@
       "Buzzkill"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "There is still no Magic Keyboard that supports multi-device pairing",
@@ -14369,7 +14394,8 @@
       "Stagecraft"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "Tim Cook is surrounded by long grass",

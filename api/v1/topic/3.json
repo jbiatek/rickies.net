@@ -161,7 +161,8 @@
       "Stagecraft"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "John Ternus is quoted in every press release about new products",
@@ -173,7 +174,8 @@
       "Apple management"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "John Ternus is wearing a black T-shirt",
@@ -377,7 +379,8 @@
       "Stagecraft"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "Tim Cook mentions the war in Ukraine",

@@ -1843,7 +1843,8 @@
       "iPhone"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "The iPhone 17e ships in 2026",
@@ -2104,7 +2105,8 @@
       "iPhone"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 1
   },
   {
     "text": "The new iPhone color is called Earth Titanium",

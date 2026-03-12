@@ -41,69 +41,44 @@
       "overcast-picked": "https://overcast.fm/+FXx6hag-g/00:47:57"
     },
     {
-      "text": "Apple announces an updated Mac Pro",
-      "full-pick-text": "Apple announces an updated Mac Pro. The starting price remains at $6,999. The starting system on a chip is the Apple M3 Ultra chip with 32-core CPU, 80-core GPU, and 32-core Neural Engine. There is a build-to-order option that exceeds the unified memory available on the Mac Studio, which currently tops out at 512 GB.",
-      "notes": "<p><ul><li>\"The starting price remains at $6,999.\"</li><li>\"The starting system on a chip is the Apple M3 Ultra chip with 32-core CPU, 80-core GPU, and 32-core Neural Engine.\"</li><li>\"There is a build-to-order option that exceeds the unified memory available on the Mac Studio, which currently tops out at 512 GB.\"</li><li>Like <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#A%20desktop%20Apple%20Silicon%20Mac%20is%20announced\">a previous pick</a>, this pick was prophesied in a dream, and one detail of the dream (the size of the Mac Pro wheels) was already confirmed, so it's basically a lock.</li></ul></p>",
-      "game": "2025 WWDC Rickies",
-      "type": "Ricky",
-      "topics": [
-        "Mac",
-        "Possible Vindication"
-      ],
-      "host": "Stephen",
-      "pick-conditions": 6,
-      "score": -1,
-      "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/01:05:17",
-      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:48:29"
-    },
-    {
-      "text": "iPadOS gets updated window management tools",
-      "full-pick-text": "iPadOS gets updated window management tools",
+      "text": "The base iPad is updated and supports Apple Intelligence",
+      "full-pick-text": "The base iPad is updated and supports Apple Intelligence",
       "notes": "",
-      "game": "2025 WWDC Rickies",
+      "game": "2026 March Rickies",
       "type": "Regular",
       "topics": [
         "iPad",
-        "iPadOS"
-      ],
-      "host": "Stephen",
-      "pick-conditions": 1,
-      "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/00:38:18",
-      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:33:28"
-    },
-    {
-      "text": "The Google Gemini logo is shown on screen as part of a partnership announcement",
-      "full-pick-text": "The Google Gemini logo is shown on screen as part of a partnership announcement",
-      "notes": "",
-      "game": "2025 WWDC Rickies",
-      "type": "Regular",
-      "topics": [
-        "Machine Learning/AI",
-        "Stagecraft",
-        "Possible Vindication"
-      ],
-      "host": "Stephen",
-      "pick-conditions": 1,
-      "score": 0,
-      "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/00:44:13",
-      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:35:38"
-    },
-    {
-      "text": "The new version of macOS drops support for some Intel Macs",
-      "full-pick-text": "The new version of macOS drops support for some Intel Macs",
-      "notes": "<p><ul><li>\"Not all, but some.\"</li></ul></p>",
-      "game": "2025 WWDC Rickies",
-      "type": "Regular",
-      "topics": [
-        "Mac",
-        "macOS"
+        "Machine Learning/AI"
       ],
       "host": "Stephen",
       "pick-conditions": 2,
-      "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/00:30:56",
-      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:26:24"
+      "score": 0
+    },
+    {
+      "text": "The iPhone 17e is announced",
+      "full-pick-text": "The iPhone 17e is announced",
+      "notes": "",
+      "game": "2026 March Rickies",
+      "type": "Regular",
+      "topics": [
+        "iPhone"
+      ],
+      "host": "Stephen",
+      "pick-conditions": 1,
+      "score": 1
+    },
+    {
+      "text": "There is a new entry-level Mac laptop, powered by an A-series chip",
+      "full-pick-text": "There is a new entry-level Mac laptop, powered by an A-series chip. Apple calls it the MacBook, but mentions or shows the original colorful iBooks. It has MagSafe and two USB-C (not Thunderbolt) ports. The base SKU has 8 GB of RAM, isn't available in all colors, and starts at $699",
+      "notes": "<p><ul><li>\"Apple calls it the MacBook, but mentions or shows the original colorful iBooks\"</li>\n<li>\"It has MagSafe and two USB-C (not Thunderbolt) ports\"</li>\n<li>\"The base SKU has 8 GB of RAM, isn't available in all colors, and starts at $699\"\n    <ul><li>That price could be the regular or education store price.</li></ul></li></ul></p>",
+      "game": "2026 March Rickies",
+      "type": "Ricky",
+      "topics": [
+        "Mac"
+      ],
+      "host": "Stephen",
+      "pick-conditions": 8,
+      "score": -1
     }
   ],
   "Myke": [
@@ -149,55 +124,43 @@
       "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:10:17"
     },
     {
-      "text": "Apple has a new app for gamers",
-      "full-pick-text": "Apple has a new app for gamers. It's called Apple Games. It creates new, specific developer terms for games. It features a partnership with Microsoft for Xbox Game Pass.",
-      "notes": "<p><ul><li>\"It's called Apple Games.\"</li><li>\"It creates new, specific developer terms for games.\"</li><li>\"It features a partnership with Microsoft for Xbox Game Pass.\"</li></ul></p>",
-      "game": "2025 WWDC Rickies",
+      "text": "John Ternus is quoted in every press release about new products",
+      "full-pick-text": "John Ternus is quoted in every press release about new products",
+      "notes": "",
+      "game": "2026 March Rickies",
+      "type": "Regular",
+      "topics": [
+        "Apple management"
+      ],
+      "host": "Myke",
+      "pick-conditions": 1,
+      "score": 0
+    },
+    {
+      "text": "The MacBook has a screen smaller than 13 inches",
+      "full-pick-text": "The MacBook has a screen smaller than 13 inches",
+      "notes": "<p><ul><li>Strictly \"less than\", not \"less than or equal to.\"</li></ul></p>",
+      "game": "2026 March Rickies",
+      "type": "Regular",
+      "topics": [
+        "Mac"
+      ],
+      "host": "Myke",
+      "pick-conditions": 1,
+      "score": 0
+    },
+    {
+      "text": "There is at least one new Studio Display",
+      "full-pick-text": "There is at least one new Studio Display. At least one model features a Mini LED display with a 90hz refresh rate. Apple will create a new name to describe this panel (like Liquid Retina XDR). The old Studio Display and Pro Display XDR are still available",
+      "notes": "<p><ul><li>\"At least one model features a Mini LED display with a 90hz refresh rate\"</li><li>\"Apple will create a new name to describe this panel (like Liquid Retina XDR)\"<ul><li>It is indeed described in copy as a \"27-inch 5K Retina XDR display\"</li></ul></li>\n<li>\"The old Studio Display and Pro Display XDR are still available\"</li></ul></p>",
+      "game": "2026 March Rickies",
       "type": "Ricky",
       "topics": [
-        "Apple Apps",
-        "Developer tools"
+        "Accessories"
       ],
       "host": "Myke",
-      "pick-conditions": 3,
-      "score": 0,
-      "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/00:47:41",
-      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:40:02"
-    },
-    {
-      "text": "New features are announced that are powered by Apple Intelligence",
-      "full-pick-text": "New features are announced that are powered by Apple Intelligence",
-      "notes": "",
-      "game": "2025 WWDC Rickies",
-      "type": "Regular",
-      "topics": [
-        "Machine Learning/AI"
-      ],
-      "host": "Myke",
-      "pick-conditions": 1,
-      "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/00:33:25",
-      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:28:19"
-    },
-    {
-      "text": "Significantly new OS design on at least one platform",
-      "full-pick-text": "Significantly new OS design on at least one platform",
-      "notes": "",
-      "game": "2025 WWDC Rickies",
-      "type": "Regular",
-      "topics": [
-        "iOS",
-        "iPad",
-        "iPadOS",
-        "Mac",
-        "macOS",
-        "visionOS"
-      ],
-      "host": "Myke",
-      "pick-conditions": 1,
-      "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/00:19:57",
-      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:17:51"
+      "pick-conditions": 4,
+      "score": 0
     }
   ],
   "Federico": [
@@ -257,71 +220,43 @@
       "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:07:15"
     },
     {
-      "text": "Apple opens up AFM (Apple Foundation Model) to developers",
-      "full-pick-text": "Apple opens up AFM (Apple Foundation Model) to developers. It's a 3B parameter version only that runs on device. It's designed in a way that only specific \"endpoints\" can be used with a native API, like summarization or writing or prioritizing content. Apple shows off examples of how they're using the same tech in its own system apps.",
-      "notes": "<p><ul><li>\"It's a 3B parameter version only that runs on device.\"</li><li>\"It's designed in a way that only specific \"endpoints\" can be used with a native API, like summarization or writing or prioritizing content.\" (In other words, developers won't be able to prompt the API with arbitrary text, they only have access to particular tasks like summarization.)</li><li>\"Apple shows off examples of how they're using the same tech in its own system apps.\"</li></ul></p>",
-      "game": "2025 WWDC Rickies",
+      "text": "A new Mac laptop is announced in multiple colors",
+      "full-pick-text": "A new Mac laptop is announced in multiple colors",
+      "notes": "<p><ul><li>That is, not part of an existing line, but not locking in to a \"MacBook\" variety.</li></ul></p>",
+      "game": "2026 March Rickies",
+      "type": "Regular",
+      "topics": [
+        "Mac"
+      ],
+      "host": "Federico",
+      "pick-conditions": 1,
+      "score": 1
+    },
+    {
+      "text": "The new iPhone 17e supports MagSafe",
+      "full-pick-text": "The new iPhone 17e supports MagSafe",
+      "notes": "",
+      "game": "2026 March Rickies",
+      "type": "Regular",
+      "topics": [
+        "iPhone"
+      ],
+      "host": "Federico",
+      "pick-conditions": 2,
+      "score": 1
+    },
+    {
+      "text": "The new M5 Max chip in the MacBook Pro comes with a new architecture that...",
+      "full-pick-text": "The new M5 Max chip in the MacBook Pro comes with a new architecture that better separates CPU and GPU inside the chip, allows Apple to advertise higher sustained performance and better heat dissipation, and allows for more than two configuration options for M5 Max",
+      "notes": "<p><ul><li>\"Better separates CPU and GPU inside the chip\"\n    <ul><li>Ungraded: something like a <a href=\"https://en.wikipedia.org/wiki/2.5D_integrated_circuit\" target=\"_blank\">2.5D chiplet design</a></li></ul></li>\n<li>\"Allows Apple to advertise higher sustained performance and better heat dissipation\"</li>\n<li>\"Allows for more than two configuration options for M5 Max\"<ul><li>These must be CPU/GPU options, not other things in the SOC like RAM</li></ul></li></ul></p>",
+      "game": "2026 March Rickies",
       "type": "Ricky",
       "topics": [
-        "Developer tools",
-        "Machine Learning/AI"
+        "Mac"
       ],
       "host": "Federico",
-      "pick-conditions": 3,
-      "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/00:50:58",
-      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:41:59"
-    },
-    {
-      "text": "Apple rebrands version numbers of its operating systems",
-      "full-pick-text": "Apple rebrands version numbers of its operating systems",
-      "notes": "",
-      "game": "2025 WWDC Rickies",
-      "type": "Regular",
-      "topics": [
-        "iOS",
-        "iPad",
-        "iPadOS",
-        "Mac",
-        "macOS",
-        "visionOS"
-      ],
-      "host": "Federico",
-      "pick-conditions": 1,
-      "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/00:28:46",
-      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:24:19"
-    },
-    {
-      "text": "At least one visionOS app in compatibility mode becomes a native one",
-      "full-pick-text": "At least one visionOS app in compatibility mode becomes a native one",
-      "notes": "",
-      "game": "2025 WWDC Rickies",
-      "type": "Regular",
-      "topics": [
-        "visionOS",
-        "Possible Vindication"
-      ],
-      "host": "Federico",
-      "pick-conditions": 1,
-      "score": 0,
-      "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/00:42:35",
-      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:34:41"
-    },
-    {
-      "text": "The updated visionOS gets an eye scrolling feature",
-      "full-pick-text": "The updated visionOS gets an eye scrolling feature",
-      "notes": "",
-      "game": "2025 WWDC Rickies",
-      "type": "Regular",
-      "topics": [
-        "visionOS"
-      ],
-      "host": "Federico",
-      "pick-conditions": 1,
-      "score": 1,
-      "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/00:37:09",
-      "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:30:53"
+      "pick-conditions": 4,
+      "score": 0
     }
   ]
 }
