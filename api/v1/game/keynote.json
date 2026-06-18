@@ -12446,5 +12446,367 @@
         "episode-number": 593
       }
     ]
+  },
+  {
+    "name": "2026 WWDC Rickies",
+    "game-type": "Keynote",
+    "date-graded": "2026-06-12",
+    "date-picked": "2026-06-04",
+    "main-game": {
+      "picks": [
+        {
+          "text": "Apple unveils a new Siri experience",
+          "full-pick-text": "Apple unveils a new Siri experience",
+          "notes": "<p><ul><li>Ungraded: chatbot UI, previous chats, powered by Google</li></ul></p>",
+          "game": "2026 WWDC Rickies",
+          "type": "Regular",
+          "topics": [],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "score": 1
+        },
+        {
+          "text": "Apple Intelligence gains grammar checking features",
+          "full-pick-text": "Apple Intelligence gains grammar checking features",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Regular",
+          "topics": [],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "score": 1
+        },
+        {
+          "text": "No new hardware is announced",
+          "full-pick-text": "No new hardware is announced",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Regular",
+          "topics": [],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "score": 1
+        },
+        {
+          "text": "The Camera app gets Siri/Apple Intelligence integration",
+          "full-pick-text": "The Camera app gets Siri/Apple Intelligence integration",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Regular",
+          "topics": [],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "score": 1
+        },
+        {
+          "text": "Apple opens up to more third party AI providers to be integrated in to the system",
+          "full-pick-text": "Apple opens up to more third party AI providers to be integrated in to the system",
+          "notes": "<p><ul><li>A $5 side bet about Grok image generation: Federico thinks it'll be included, Stephen disagrees.</li></ul></p>",
+          "game": "2026 WWDC Rickies",
+          "type": "Regular",
+          "topics": [],
+          "host": "",
+          "pick-conditions": 1,
+          "score": 0
+        },
+        {
+          "text": "We see Li'l Finder in some capacity",
+          "full-pick-text": "We see Li'l Finder in some capacity",
+          "notes": "<p>Li'l Finder</p>",
+          "game": "2026 WWDC Rickies",
+          "type": "Regular",
+          "topics": [],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "score": 1
+        },
+        {
+          "text": "The new Siri will be partially based on Google technology, with...",
+          "full-pick-text": "The new Siri will be partially based on Google technology, with...",
+          "notes": "<p><ul><li>A model based on the Gemini 3.5 Flash family</li>\n<li>A \"translation layer\" (MCP or JSON) for App Intents when the Google model is involved</li>\n<li>No 'Thinking' selector in the UI for users</li>\n<li>A second $5 side bet: Federico thinks you'll be able to ask what the model is, Myke disagrees.</li></ul></p>",
+          "game": "2026 WWDC Rickies",
+          "type": "Ricky",
+          "topics": [],
+          "host": "Federico",
+          "pick-conditions": 3,
+          "score": 1
+        },
+        {
+          "text": "Apple unveils a standalone Siri app",
+          "full-pick-text": "Apple unveils a standalone Siri app",
+          "notes": "<p><ul>\n<li>It will be available in the App Store</li>\n<li>It includes an integrated storefront for downloading chatbot-style AI apps</li>\n<li>In this store there will be \"AI Extensions\" for non chatbot-style apps. These will let developers give access to their data to Siri to use for Personal Context. This will be Apple essentially offering MCP support in to the Siri system.</li>\n</ul></p>",
+          "game": "2026 WWDC Rickies",
+          "type": "Ricky",
+          "topics": [],
+          "host": "Myke",
+          "pick-conditions": 5,
+          "score": -1
+        },
+        {
+          "text": "Apple announces a paid AI service",
+          "full-pick-text": "Apple announces a paid AI service",
+          "notes": "<p><ul>\n<li>Removes caps on Siri chatbot usage</li>\n<li>Unlocks better image generation in Image Playgrounds</li>\n<li>Is not part of any existing Apple bundle</li>\n</ul></p>",
+          "game": "2026 WWDC Rickies",
+          "type": "Ricky",
+          "topics": [],
+          "host": "Stephen",
+          "pick-conditions": 3,
+          "score": 0
+        }
+      ],
+      "coin-flips": [],
+      "scores": [
+        {
+          "host": "Federico",
+          "score": 3
+        },
+        {
+          "host": "Stephen",
+          "score": 2
+        },
+        {
+          "host": "Myke",
+          "score": 0
+        }
+      ],
+      "winner": "Federico"
+    },
+    "the-flexies": {
+      "picks": [
+        {
+          "text": "iPadOS 27 has no major new features unique from iOS",
+          "full-pick-text": "iPadOS 27 has no major new features unique from iOS",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "score": 0
+        },
+        {
+          "text": "macOS 27 has some updated design elements",
+          "full-pick-text": "macOS 27 has some updated design elements",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "score": 1
+        },
+        {
+          "text": "tvOS is mentioned",
+          "full-pick-text": "tvOS is mentioned",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "score": 1
+        },
+        {
+          "text": "iOS 27 has new Lock Screen customizations",
+          "full-pick-text": "iOS 27 has new Lock Screen customizations",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "score": 1
+        },
+        {
+          "text": "Siri and Spotlight merge, at least in iOS and iPadOS",
+          "full-pick-text": "Siri and Spotlight merge, at least in iOS and iPadOS",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "score": 1
+        },
+        {
+          "text": "Apple does not announce any video-generation AI tools ",
+          "full-pick-text": "Apple does not announce any video-generation AI tools ",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "score": 1
+        },
+        {
+          "text": "Tim Cook has a moment of reflection",
+          "full-pick-text": "Tim Cook has a moment of reflection",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Stephen",
+          "pick-conditions": 1,
+          "score": 1
+        },
+        {
+          "text": "There will be an iOS feature to split bills with friends and family",
+          "full-pick-text": "There will be an iOS feature to split bills with friends and family",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "score": 1
+        },
+        {
+          "text": "John Ternus is seen onstage at Apple Park",
+          "full-pick-text": "John Ternus is seen onstage at Apple Park",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "score": 0
+        },
+        {
+          "text": "The new Siri replaces Spotlight for Cmd-Space activation on iPad",
+          "full-pick-text": "The new Siri replaces Spotlight for Cmd-Space activation on iPad",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "score": 1
+        },
+        {
+          "text": "Tab bars are subtly redesigned on iOS, once again",
+          "full-pick-text": "Tab bars are subtly redesigned on iOS, once again",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "score": 1
+        },
+        {
+          "text": "The new Siri is based on a dual-LLM architecture, on-device and in the cloud",
+          "full-pick-text": "The new Siri is based on a dual-LLM architecture, on-device and in the cloud",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Federico",
+          "pick-conditions": 2,
+          "score": 1
+        },
+        {
+          "text": "There is a feature to create wallpapers with AI",
+          "full-pick-text": "There is a feature to create wallpapers with AI",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Federico",
+          "pick-conditions": 1,
+          "score": 1
+        },
+        {
+          "text": "Some hardware is announced",
+          "full-pick-text": "Some hardware is announced",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "score": 0
+        },
+        {
+          "text": "Google, Anthrophic, and OpenAI will all be said aloud in the Keynote",
+          "full-pick-text": "Google, Anthrophic, and OpenAI will all be said aloud in the Keynote",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Myke",
+          "pick-conditions": 3,
+          "score": 0
+        },
+        {
+          "text": "A Formula 1 Car appears at some point in the keynote",
+          "full-pick-text": "A Formula 1 Car appears at some point in the keynote",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "score": 0
+        },
+        {
+          "text": "Tim says that one of the best parts of his job has been to enable so many developers to be on the App Store",
+          "full-pick-text": "Tim says that one of the best parts of his job has been to enable so many developers to be on the App Store",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "score": 1
+        },
+        {
+          "text": "Tim hands over to John Ternus and they close the event together",
+          "full-pick-text": "Tim hands over to John Ternus and they close the event together",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Myke",
+          "pick-conditions": 2,
+          "score": 0
+        },
+        {
+          "text": "Apple makes a big focus with on-device AI",
+          "full-pick-text": "Apple makes a big focus with on-device AI",
+          "notes": "",
+          "game": "2026 WWDC Rickies",
+          "type": "Flexie",
+          "topics": [],
+          "host": "Myke",
+          "pick-conditions": 1,
+          "score": 1
+        }
+      ],
+      "coin-flips": [],
+      "scores": [
+        {
+          "host": "Stephen",
+          "correct": 6,
+          "total": 7
+        },
+        {
+          "host": "Federico",
+          "correct": 5,
+          "total": 6
+        },
+        {
+          "host": "Myke",
+          "correct": 2,
+          "total": 6
+        }
+      ],
+      "charity-name": "TBD",
+      "charity-url": "TBD",
+      "donation": 100,
+      "donator": "Myke",
+      "winner": "Stephen"
+    },
+    "relevant-episodes": []
   }
 ]

@@ -166,5 +166,12 @@
     "donation": 100,
     "charity-name": "ACLU",
     "charity-url": "https://www.aclu.org"
+  },
+  {
+    "game": "2026 WWDC Rickies",
+    "donator": "Myke",
+    "donation": 100,
+    "charity-name": "TBD",
+    "charity-url": "TBD"
   }
 ]

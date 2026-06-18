@@ -1,0 +1,11 @@
+{
+  "text": "The new Siri will be partially based on Google technology, with...",
+  "full-pick-text": "The new Siri will be partially based on Google technology, with...",
+  "notes": "<p><ul><li>A model based on the Gemini 3.5 Flash family</li>\n<li>A \"translation layer\" (MCP or JSON) for App Intents when the Google model is involved</li>\n<li>No 'Thinking' selector in the UI for users</li>\n<li>A second $5 side bet: Federico thinks you'll be able to ask what the model is, Myke disagrees.</li></ul></p>",
+  "game": "2026 WWDC Rickies",
+  "type": "Ricky",
+  "topics": [],
+  "host": "Federico",
+  "pick-conditions": 3,
+  "score": 1
+}
