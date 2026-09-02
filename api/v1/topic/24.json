@@ -196,6 +196,20 @@
     "overcast-picked": "https://overcast.fm/+FXx4ahnn0/1:01:11"
   },
   {
+    "text": "Foldable supports drag and drop for content between apps in Split View",
+    "full-pick-text": "Foldable supports drag and drop for content between apps in Split View",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Alternate Risky"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "iPad multitasking is overhauled again",
     "full-pick-text": "iPad multitasking is overhauled again",
     "notes": "",
@@ -337,6 +351,21 @@
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:16:55"
   },
   {
+    "text": "Ternus introduces himself as \"the new CEO\"",
+    "full-pick-text": "Ternus introduces himself as \"the new CEO\"",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Apple management",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "The iPhone 14 Pro switches to titanium for the side rails",
     "full-pick-text": "The iPhone 14 Pro switches to titanium for the side rails",
     "notes": "<p><ul><li>This was going to be a Risky pick, but <a href=\"https://www.macrumors.com/2021/07/26/iphone-14-2022-pro-models-titanium-case/\" target=\"_blank\">rumors were found before the show</a>.</li></ul></p>",
@@ -385,5 +414,63 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx7hkz9o/52:31",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:01:33"
+  },
+  {
+    "text": "The new foldable iPhone ships with a brand new multitasking system that lets you have independent \"docks\" on the outer and inner display with fewer or more icons",
+    "full-pick-text": "The new foldable iPhone ships with a brand new multitasking system that lets you have independent \"docks\" on the outer and inner display with fewer or more icons",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Alternate Risky"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
+    "text": "They explain Tim's not going anywhere",
+    "full-pick-text": "They explain Tim's not going anywhere",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Apple management",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "They show photos of Tim",
+    "full-pick-text": "They show photos of Tim",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Apple management",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "You can drag apps into view from either the dock (like iPad) or Spotlight (from Dynamic Island)",
+    "full-pick-text": "You can drag apps into view from either the dock (like iPad) or Spotlight (from Dynamic Island)",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Alternate Risky"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
   }
 ]

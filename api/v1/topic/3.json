@@ -138,6 +138,20 @@
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:26:48"
   },
   {
+    "text": "John Ternus introduces the folding iPhone by saying \"We have one more thing...\"",
+    "full-pick-text": "John Ternus introduces the folding iPhone by saying \"We have one more thing...\"",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "John Ternus is Apple's new CEO",
     "full-pick-text": "John Ternus is Apple's new CEO",
     "notes": "",
@@ -149,6 +163,19 @@
     "host": "Federico",
     "pick-conditions": 1,
     "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:24:24"
+  },
+  {
+    "text": "John Ternus is in a dark T-shirt",
+    "full-pick-text": "John Ternus is in a dark T-shirt",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "John Ternus is photographed in person at one of the media events",
@@ -226,6 +253,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx7hkz9o/51:15",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:04"
+  },
+  {
+    "text": "John Ternus walks out on stage live",
+    "full-pick-text": "John Ternus walks out on stage live",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   },
   {
     "text": "Johnny Srouji makes an appearance",
@@ -338,6 +378,104 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx7hS2kY/27:39",
     "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/58:52"
+  },
+  {
+    "text": "Ternus does not wear Nike shoes",
+    "full-pick-text": "Ternus does not wear Nike shoes",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Ternus does the majority of the folding phone presentation",
+    "full-pick-text": "Ternus does the majority of the folding phone presentation",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Ternus introduces himself as \"the new CEO\"",
+    "full-pick-text": "Ternus introduces himself as \"the new CEO\"",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Apple management",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Ternus says how much of an honour it is to take on the role as CEO, and how it feels to be on that stage",
+    "full-pick-text": "Ternus says how much of an honour it is to take on the role as CEO, and how it feels to be on that stage",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
+  },
+  {
+    "text": "There is a live audience in attendance that we see",
+    "full-pick-text": "There is a live audience in attendance that we see",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
+    "text": "They explain Tim's not going anywhere",
+    "full-pick-text": "They explain Tim's not going anywhere",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Apple management",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "They show photos of Tim",
+    "full-pick-text": "They show photos of Tim",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Apple management",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "Tim Cook becomes chairman of the board",

@@ -2569,6 +2569,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/57:46"
   },
   {
+    "text": "Apple introduces a new, expanded Home initiative",
+    "full-pick-text": "Apple introduces a new, expanded Home initiative. A \"HomePod with a display\" is introduced at $249. The Apple TV is updated with a remote that supports Find My. Apple talks about improved Thread support.",
+    "notes": "<p><ul>\n<li>A \"HomePod with a display\" is introduced at $249</li>\n<li>The Apple TV is updated with a remote that supports Find My</li>\n<li>Apple talks about improved Thread support</li>\n<li>Stephen's first Risky Pick candidate was about John Ternus introducing himself as CEO, but they got demoted to Flexies.</li>\n</ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Accessories",
+      "Apple TV",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3
+  },
+  {
     "text": "Apple introduces a new, lower end Apple Watch model in addition to the higher end Series 6",
     "full-pick-text": "Apple introduces a new, lower end Apple Watch model in addition to the higher end Series 6",
     "notes": "",
@@ -5033,6 +5047,18 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/42:59"
   },
   {
+    "text": "At least one iPhone has a variable aperture camera",
+    "full-pick-text": "At least one iPhone has a variable aperture camera",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "At least one iPhone model does not have a shipping date of September 16",
     "full-pick-text": "At least one iPhone model does not have a shipping date of September 16",
     "notes": "",
@@ -5568,6 +5594,18 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx61X3jI/1:07:29",
     "overcast-picked": "https://overcast.fm/+FXx4inpiI/1:36:41"
+  },
+  {
+    "text": "Both iPhone 18 Pro models have a smaller Dynamic Island than their predecessors",
+    "full-pick-text": "Both iPhone 18 Pro models have a smaller Dynamic Island than their predecessors",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
   },
   {
     "text": "By the end of the year, Apple will not have shipped equivalent features for the Apple Intelligence features shown at WWDC 2024",
@@ -6160,6 +6198,20 @@
     "ahead-by": 321,
     "overcast-graded": "https://overcast.fm/+FXx7hS2kY/21:57",
     "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/48:08"
+  },
+  {
+    "text": "Foldable supports drag and drop for content between apps in Split View",
+    "full-pick-text": "Foldable supports drag and drop for content between apps in Split View",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Alternate Risky"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "Gaming on the iPad Pro is mentioned with at least a triple-A game shown",
@@ -7337,6 +7389,20 @@
     "overcast-picked": "https://overcast.fm/+FXx5bRzKc/1:26:48"
   },
   {
+    "text": "John Ternus introduces the folding iPhone by saying \"We have one more thing...\"",
+    "full-pick-text": "John Ternus introduces the folding iPhone by saying \"We have one more thing...\"",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "John Ternus is Apple's new CEO",
     "full-pick-text": "John Ternus is Apple's new CEO",
     "notes": "",
@@ -7348,6 +7414,19 @@
     "host": "Federico",
     "pick-conditions": 1,
     "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:24:24"
+  },
+  {
+    "text": "John Ternus is in a dark T-shirt",
+    "full-pick-text": "John Ternus is in a dark T-shirt",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "John Ternus is photographed in person at one of the media events",
@@ -7436,6 +7515,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx7hkz9o/51:15",
     "overcast-picked": "https://overcast.fm/+FXx52vzd4/1:00:04"
+  },
+  {
+    "text": "John Ternus walks out on stage live",
+    "full-pick-text": "John Ternus walks out on stage live",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   },
   {
     "text": "Johnny Srouji makes an appearance",
@@ -9850,6 +9942,32 @@
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:17:51"
   },
   {
+    "text": "Siri AI is demoed again",
+    "full-pick-text": "Siri AI is demoed again",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Siri AI on the foldable can open two apps at once",
+    "full-pick-text": "Siri AI on the foldable can open two apps at once",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "Siri and Spotlight merge, at least in iOS and iPadOS",
     "full-pick-text": "Siri and Spotlight merge, at least in iOS and iPadOS",
     "notes": "",
@@ -10553,6 +10671,61 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:36:02"
   },
   {
+    "text": "Ternus does not wear Nike shoes",
+    "full-pick-text": "Ternus does not wear Nike shoes",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Ternus does the majority of the folding phone presentation",
+    "full-pick-text": "Ternus does the majority of the folding phone presentation",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Ternus introduces himself as \"the new CEO\"",
+    "full-pick-text": "Ternus introduces himself as \"the new CEO\"",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Apple management",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "Ternus says how much of an honour it is to take on the role as CEO, and how it feels to be on that stage",
+    "full-pick-text": "Ternus says how much of an honour it is to take on the role as CEO, and how it feels to be on that stage",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
+  },
+  {
     "text": "The 11\" iPad Pro gets a mini LED display",
     "full-pick-text": "The 11\" iPad Pro gets a mini LED display",
     "notes": "<p><ul><li>This was originally \"WWDC 2022 will be virtual\", but that was very close to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20in-person%20WWDC%202021\">last year's pick</a>, which was within the 365 day limit. It was a borderline judgement, but ultimately they decided they didn't like the precedent.</li></ul></p>",
@@ -10730,6 +10903,18 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:47"
   },
   {
+    "text": "The A20 is a 2nm chip",
+    "full-pick-text": "The A20 is a 2nm chip",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "The AirPods line is split in two, and the lower end version gets a price drop",
     "full-pick-text": "The AirPods line is split in two, and the lower end version gets a price drop",
     "notes": "<p><ul><li>The additional condition is an intentionally risky choice by Federico</li><li>Ultimately this is in fact his undoing. While AirPods Pro were released to split the line, the normal AirPods 2 didn't drop from their original $159 price until the 3rd generation was released in October 2021.</li></ul></p>",
@@ -10866,6 +11051,18 @@
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:24:36"
   },
   {
+    "text": "The Apple Watch Series 12 includes a ceramic option",
+    "full-pick-text": "The Apple Watch Series 12 includes a ceramic option",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "Apple Watch"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "The Apple Watch Series 6 uses the Series 4 & 5 design",
     "full-pick-text": "The Apple Watch Series 6 uses the Series 4 & 5 design",
     "notes": "",
@@ -10879,6 +11076,18 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5peDck/13:43",
     "overcast-picked": "https://overcast.fm/+FXx5XgcdI/48:40"
+  },
+  {
+    "text": "The Apple Watch Ultra 4 has a new sensor not found on the Series 12",
+    "full-pick-text": "The Apple Watch Ultra 4 has a new sensor not found on the Series 12",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple Watch"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 2
   },
   {
     "text": "The Apple Watch Ultra finally goes to '3'",
@@ -11044,6 +11253,18 @@
     "ahead-by": 1111,
     "overcast-graded": "https://overcast.fm/+FXx6J60tU/1:26:44",
     "overcast-picked": "https://overcast.fm/+FXx5oC3S0/1:26:16"
+  },
+  {
+    "text": "The ceramic Apple Watch Series 12 starts at $799 ($100 more than the Series 11 Titanium)",
+    "full-pick-text": "The ceramic Apple Watch Series 12 starts at $799 ($100 more than the Series 11 Titanium)",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "Apple Watch"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "The ChatGPT integration with Siri now has access to reasoning models",
@@ -11264,6 +11485,71 @@
     "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:29:18"
   },
   {
+    "text": "The foldable is called the iPhone Ultra (2)",
+    "full-pick-text": "The foldable is called the iPhone Ultra (2)",
+    "notes": "<p><ul><li>Not mentioned during picking that this is an <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20foldable%20is%20called%20the%20iPhone%20Ultra\">exact duplicate of an active Annual pick from Stephen</a>, but luckily that one is a Flexie, so it is a legal pick.</li></ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The foldable's software goes beyond simple \"open\" and \"closed\" states",
+    "full-pick-text": "The foldable's software goes beyond simple \"open\" and \"closed\" states. There will be support for \"tabletop\" mode with specific UIs for it. Users can \"peek through\" at one side of the inner display by slightly opening the device. StandBy will support a \"tent\" mode when the iPhone is charging.",
+    "notes": "<p><ul>\n<li>There will be support for \"tabletop\" mode with specific UIs for it</li>\n<li>Users can \"peek through\" at one side of the inner display by slightly opening the device</li>\n<li>StandBy will support a \"tent\" mode when the iPhone is charging</li>\n<li>Federico also had a backup Risky Pick about the iOS dock, but it was demoted to Flexies.</li>\n</ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3
+  },
+  {
+    "text": "The folding iPhone allows two iPhone-sized apps side by side and not iPad apps",
+    "full-pick-text": "The folding iPhone allows two iPhone-sized apps side by side and not iPad apps",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The folding iPhone comes in one color other than black or white",
+    "full-pick-text": "The folding iPhone comes in one color other than black or white",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The folding phone has Touch ID",
+    "full-pick-text": "The folding phone has Touch ID. But also offers a new version of Face ID powered by just cameras. Apple says this is powered by Apple Intelligence and is a beta. They publish information later that shows it's less secure than standard Face ID, but close enough to Touch ID.",
+    "notes": "<p><ul>\n<li>But also offers a new version of Face ID powered by just cameras</li>\n<li>Apple says this is powered by Apple Intelligence and is a beta</li>\n<li>They publish information later that shows it's less secure than standard Face ID, but close enough to Touch ID</li>\n</ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "Live Edited",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 4
+  },
+  {
     "text": "The Google Gemini logo is shown on screen as part of a partnership announcement",
     "full-pick-text": "The Google Gemini logo is shown on screen as part of a partnership announcement",
     "notes": "",
@@ -11361,6 +11647,18 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:35:24",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:20:48"
+  },
+  {
+    "text": "The HomePod or HomePod mini is updated",
+    "full-pick-text": "The HomePod or HomePod mini is updated",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "The HomePod will gain multiple user support via voice detection",
@@ -12008,6 +12306,19 @@
     "pick-conditions": 1,
     "score": 0,
     "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:17:18"
+  },
+  {
+    "text": "The iPhone Air is not updated",
+    "full-pick-text": "The iPhone Air is not updated",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Buzzkill"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "The iPhone Air is the \"one more thing\"",
@@ -12698,6 +13009,33 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4DRf-c/00:58:52",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/45:59"
+  },
+  {
+    "text": "The new foldable iPhone does not have Face ID",
+    "full-pick-text": "The new foldable iPhone does not have Face ID",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Buzzkill"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The new foldable iPhone ships with a brand new multitasking system that lets you have independent \"docks\" on the outer and inner display with fewer or more icons",
+    "full-pick-text": "The new foldable iPhone ships with a brand new multitasking system that lets you have independent \"docks\" on the outer and inner display with fewer or more icons",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Alternate Risky"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
   },
   {
     "text": "The new high-end Apple Watch is named the \"Apple Watch Pro\"",
@@ -13712,6 +14050,18 @@
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/31:55"
   },
   {
+    "text": "The starting price of the 18 Pro is higher than the 17 Pro",
+    "full-pick-text": "The starting price of the 18 Pro is higher than the 17 Pro",
+    "notes": "<p><ul><li>Ungraded: $100 more, at least is the consensus.</li></ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "The Studio Display gets an update",
     "full-pick-text": "The Studio Display gets an update",
     "notes": "",
@@ -13936,6 +14286,19 @@
     "overcast-picked": "https://overcast.fm/+FXx6bXcOY/1:46:55"
   },
   {
+    "text": "There are no new AirPods announced",
+    "full-pick-text": "There are no new AirPods announced",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "AirPods",
+      "Buzzkill"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "There are some design and navigation updates to the Settings app across multiple platforms",
     "full-pick-text": "There are some design and navigation updates to the Settings app across multiple platforms",
     "notes": "",
@@ -13991,6 +14354,19 @@
     "score": 1
   },
   {
+    "text": "There is a live audience in attendance that we see",
+    "full-pick-text": "There is a live audience in attendance that we see",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "There is a new AirPods model with noise cancellation",
     "full-pick-text": "There is a new AirPods model with noise cancellation",
     "notes": "",
@@ -14005,6 +14381,18 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:15:36",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:09:58"
+  },
+  {
+    "text": "There is a new color on the iPhone 18 Pro line",
+    "full-pick-text": "There is a new color on the iPhone 18 Pro line",
+    "notes": "<p><ul><li>Federico applying strategy rather than passion.</li></ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "There is a new entry-level Mac laptop, powered by an A-series chip",
@@ -14180,6 +14568,18 @@
     "overcast-picked": "https://overcast.fm/+FXx6Hkxs4/1:20:21"
   },
   {
+    "text": "There is no Action button on the foldable",
+    "full-pick-text": "There is no Action button on the foldable",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "There is no additional external display support for iPadOS",
     "full-pick-text": "There is no additional external display support for iPadOS",
     "notes": "",
@@ -14263,6 +14663,19 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/36:40",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:16:34"
+  },
+  {
+    "text": "There is no telephoto camera in the foldable",
+    "full-pick-text": "There is no telephoto camera in the foldable",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Buzzkill"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "There is not an orange MacBook",
@@ -14415,6 +14828,19 @@
     "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/1:03:59"
   },
   {
+    "text": "There will be fold state automation triggers in Shortcuts",
+    "full-pick-text": "There will be fold state automation triggers in Shortcuts",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "There will be new ways to invoke Siri by voice instead of saying \"Hey Siri\"",
     "full-pick-text": "There will be new ways to invoke Siri by voice instead of saying \"Hey Siri\"",
     "notes": "",
@@ -14509,6 +14935,36 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/40:05",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/39:07"
+  },
+  {
+    "text": "They explain Tim's not going anywhere",
+    "full-pick-text": "They explain Tim's not going anywhere",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Apple management",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "They show photos of Tim",
+    "full-pick-text": "They show photos of Tim",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Apple management",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "Third party Apple Watch faces are introduced",
@@ -15300,6 +15756,18 @@
     "overcast-picked": "https://overcast.fm/+FXx56qHEU/01:11:04"
   },
   {
+    "text": "We do not see the base model iPhone 18",
+    "full-pick-text": "We do not see the base model iPhone 18",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "We don't see Tim Cook on video",
     "full-pick-text": "We don't see Tim Cook on video",
     "notes": "",
@@ -15414,6 +15882,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/54:42",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:09:09"
+  },
+  {
+    "text": "We see a video showing the folding phone going through durability testing",
+    "full-pick-text": "We see a video showing the folding phone going through durability testing",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   },
   {
     "text": "We see at least one new Dynamic Island feature",
@@ -15685,6 +16166,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5r8V-w/1:41:30",
     "overcast-picked": "https://overcast.fm/+FXx4PSTGk/1:31:25"
+  },
+  {
+    "text": "You can drag apps into view from either the dock (like iPad) or Spotlight (from Dynamic Island)",
+    "full-pick-text": "You can drag apps into view from either the dock (like iPad) or Spotlight (from Dynamic Island)",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Alternate Risky"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
   },
   {
     "text": "You will be able to control which data types show on the always-on lock screen",

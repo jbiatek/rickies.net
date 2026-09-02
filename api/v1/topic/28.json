@@ -683,6 +683,19 @@
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:13:59"
   },
   {
+    "text": "Siri AI is demoed again",
+    "full-pick-text": "Siri AI is demoed again",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Machine Learning/AI",
+      "Stagecraft"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "Some AI features on the Mac require an M2 or later",
     "full-pick-text": "Some AI features on the Mac require an M2 or later",
     "notes": "",
@@ -762,6 +775,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4Y66Ss/01:17:38",
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/01:08:25"
+  },
+  {
+    "text": "The folding phone has Touch ID",
+    "full-pick-text": "The folding phone has Touch ID. But also offers a new version of Face ID powered by just cameras. Apple says this is powered by Apple Intelligence and is a beta. They publish information later that shows it's less secure than standard Face ID, but close enough to Touch ID.",
+    "notes": "<p><ul>\n<li>But also offers a new version of Face ID powered by just cameras</li>\n<li>Apple says this is powered by Apple Intelligence and is a beta</li>\n<li>They publish information later that shows it's less secure than standard Face ID, but close enough to Touch ID</li>\n</ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "Live Edited",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 4
   },
   {
     "text": "The Google Gemini logo is shown on screen as part of a partnership announcement",

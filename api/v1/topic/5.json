@@ -434,6 +434,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6h7YDQ/1:04:52"
   },
   {
+    "text": "Foldable supports drag and drop for content between apps in Split View",
+    "full-pick-text": "Foldable supports drag and drop for content between apps in Split View",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Alternate Risky"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "Improved support for ZIP archives in the Files app and framework",
     "full-pick-text": "Improved support for ZIP archives in the Files app and framework",
     "notes": "",
@@ -1235,6 +1249,19 @@
     "overcast-picked": "https://overcast.fm/+FXx4MXR6U/00:17:51"
   },
   {
+    "text": "Siri AI on the foldable can open two apps at once",
+    "full-pick-text": "Siri AI on the foldable can open two apps at once",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "Siri on iOS will gain more verbal responses, speak more than it does now when activated with your voice",
     "full-pick-text": "Siri on iOS will gain more verbal responses, speak more than it does now when activated with your voice",
     "notes": "<p><ul><li>\"It can hold longer conversations without the user needing to look at the screen.\"</li><li>This was graded as a half point or a \"kinda\".</li></ul></p>",
@@ -1335,6 +1362,33 @@
     "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:31:33"
   },
   {
+    "text": "The foldable's software goes beyond simple \"open\" and \"closed\" states",
+    "full-pick-text": "The foldable's software goes beyond simple \"open\" and \"closed\" states. There will be support for \"tabletop\" mode with specific UIs for it. Users can \"peek through\" at one side of the inner display by slightly opening the device. StandBy will support a \"tent\" mode when the iPhone is charging.",
+    "notes": "<p><ul>\n<li>There will be support for \"tabletop\" mode with specific UIs for it</li>\n<li>Users can \"peek through\" at one side of the inner display by slightly opening the device</li>\n<li>StandBy will support a \"tent\" mode when the iPhone is charging</li>\n<li>Federico also had a backup Risky Pick about the iOS dock, but it was demoted to Flexies.</li>\n</ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3
+  },
+  {
+    "text": "The folding iPhone allows two iPhone-sized apps side by side and not iPad apps",
+    "full-pick-text": "The folding iPhone allows two iPhone-sized apps side by side and not iPad apps",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
+  },
+  {
     "text": "The iPhone 14 Pro Camera app introduces some kind of 3D capturing functionality",
     "full-pick-text": "The iPhone 14 Pro Camera app introduces some kind of 3D capturing functionality",
     "notes": "",
@@ -1368,6 +1422,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4DRf-c/00:58:52",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/45:59"
+  },
+  {
+    "text": "The new foldable iPhone ships with a brand new multitasking system that lets you have independent \"docks\" on the outer and inner display with fewer or more icons",
+    "full-pick-text": "The new foldable iPhone ships with a brand new multitasking system that lets you have independent \"docks\" on the outer and inner display with fewer or more icons",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Alternate Risky"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
   },
   {
     "text": "The next version of iOS brings at least one new AirPods-related feature",
@@ -1601,6 +1669,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx7hS2kY/30:04",
     "overcast-picked": "https://overcast.fm/+FXx5i5-3Y/1:08:54"
+  },
+  {
+    "text": "You can drag apps into view from either the dock (like iPad) or Spotlight (from Dynamic Island)",
+    "full-pick-text": "You can drag apps into view from either the dock (like iPad) or Spotlight (from Dynamic Island)",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Alternate Risky"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
   },
   {
     "text": "You will be able to control which data types show on the always-on lock screen",

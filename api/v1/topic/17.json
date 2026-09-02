@@ -1072,6 +1072,19 @@
     "overcast-picked": "https://overcast.fm/+FXx7nikbQ/30:06"
   },
   {
+    "text": "The iPhone Air is not updated",
+    "full-pick-text": "The iPhone Air is not updated",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Buzzkill"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "The iPod Touch is taken down from sale in the wake of the event",
     "full-pick-text": "The iPod Touch is taken down from sale in the wake of the event",
     "notes": "<p><ul><li><a href=\"https://www.apple.com/newsroom/2022/05/the-music-lives-on/\" target=\"_blank\">Finally came true in 2022</a>.</li></ul></p>",
@@ -1254,6 +1267,19 @@
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/37:29"
   },
   {
+    "text": "The new foldable iPhone does not have Face ID",
+    "full-pick-text": "The new foldable iPhone does not have Face ID",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Buzzkill"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "The Pro iPhone gets a new camera feature the regular iPhone doesn't get",
     "full-pick-text": "The Pro iPhone gets a new camera feature the regular iPhone doesn't get",
     "notes": "",
@@ -1304,6 +1330,19 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:17:34",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:19:39"
+  },
+  {
+    "text": "There are no new AirPods announced",
+    "full-pick-text": "There are no new AirPods announced",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "AirPods",
+      "Buzzkill"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "There is no additional external display support for iPadOS",
@@ -1371,6 +1410,19 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6cG1WQ/36:40",
     "overcast-picked": "https://overcast.fm/+FXx5wv1as/1:16:34"
+  },
+  {
+    "text": "There is no telephoto camera in the foldable",
+    "full-pick-text": "There is no telephoto camera in the foldable",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Buzzkill"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "There is not an orange MacBook",

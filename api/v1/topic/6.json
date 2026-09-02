@@ -739,6 +739,18 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/42:59"
   },
   {
+    "text": "At least one iPhone has a variable aperture camera",
+    "full-pick-text": "At least one iPhone has a variable aperture camera",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "At least one iPhone model does not have a shipping date of September 16",
     "full-pick-text": "At least one iPhone model does not have a shipping date of September 16",
     "notes": "",
@@ -849,6 +861,18 @@
     "overcast-picked": "https://overcast.fm/+FXx5SWQQA/1:26:43"
   },
   {
+    "text": "Both iPhone 18 Pro models have a smaller Dynamic Island than their predecessors",
+    "full-pick-text": "Both iPhone 18 Pro models have a smaller Dynamic Island than their predecessors",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
+  },
+  {
     "text": "Center Stage comes to the iPhone",
     "full-pick-text": "Center Stage comes to the iPhone",
     "notes": "<p><ul><li>This was tossed out as a possible replacement Risky pick for this game after Stephen's original got invalidated, but ultimately landed as a Flexie.</li></ul></p>",
@@ -912,6 +936,20 @@
     "ahead-by": 726,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/1:24:37",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:35:32"
+  },
+  {
+    "text": "Foldable supports drag and drop for content between apps in Split View",
+    "full-pick-text": "Foldable supports drag and drop for content between apps in Split View",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Alternate Risky"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "iOS 15 drops support for the iPhone 6S",
@@ -1074,6 +1112,20 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4c3VV0/1:13:39",
     "overcast-picked": "https://overcast.fm/+FXx5s-OzI/1:15:07"
+  },
+  {
+    "text": "John Ternus introduces the folding iPhone by saying \"We have one more thing...\"",
+    "full-pick-text": "John Ternus introduces the folding iPhone by saying \"We have one more thing...\"",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   },
   {
     "text": "Joz introduces the Pro iPhones in a dark setting",
@@ -1386,6 +1438,19 @@
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:30:32"
   },
   {
+    "text": "Siri AI on the foldable can open two apps at once",
+    "full-pick-text": "Siri AI on the foldable can open two apps at once",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
     "text": "Some iPhones will come with color-matched cables",
     "full-pick-text": "Some iPhones will come with color-matched cables",
     "notes": "",
@@ -1499,6 +1564,20 @@
     "overcast-picked": "https://overcast.fm/+FXx44XOYA/00:26:04"
   },
   {
+    "text": "Ternus does the majority of the folding phone presentation",
+    "full-pick-text": "Ternus does the majority of the folding phone presentation",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Apple management",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "The 17 line is all made of aluminium",
     "full-pick-text": "The 17 line is all made of aluminium",
     "notes": "<p><ul><li>Myke successfully argues that this <em>doesn't</em> include the iPhone Air, as it's not numbered... despite getting leniency about \"Air\" vs \"17 Air\" earlier. (It helps that it doesn't affect things too much.)</li></ul></p>",
@@ -1542,6 +1621,18 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/1:12:13",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:27:47"
+  },
+  {
+    "text": "The A20 is a 2nm chip",
+    "full-pick-text": "The A20 is a 2nm chip",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
   },
   {
     "text": "The back of the Pro iPhones looks different",
@@ -1636,6 +1727,71 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:29:18"
+  },
+  {
+    "text": "The foldable is called the iPhone Ultra (2)",
+    "full-pick-text": "The foldable is called the iPhone Ultra (2)",
+    "notes": "<p><ul><li>Not mentioned during picking that this is an <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20foldable%20is%20called%20the%20iPhone%20Ultra\">exact duplicate of an active Annual pick from Stephen</a>, but luckily that one is a Flexie, so it is a legal pick.</li></ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The foldable's software goes beyond simple \"open\" and \"closed\" states",
+    "full-pick-text": "The foldable's software goes beyond simple \"open\" and \"closed\" states. There will be support for \"tabletop\" mode with specific UIs for it. Users can \"peek through\" at one side of the inner display by slightly opening the device. StandBy will support a \"tent\" mode when the iPhone is charging.",
+    "notes": "<p><ul>\n<li>There will be support for \"tabletop\" mode with specific UIs for it</li>\n<li>Users can \"peek through\" at one side of the inner display by slightly opening the device</li>\n<li>StandBy will support a \"tent\" mode when the iPhone is charging</li>\n<li>Federico also had a backup Risky Pick about the iOS dock, but it was demoted to Flexies.</li>\n</ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3
+  },
+  {
+    "text": "The folding iPhone allows two iPhone-sized apps side by side and not iPad apps",
+    "full-pick-text": "The folding iPhone allows two iPhone-sized apps side by side and not iPad apps",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS"
+    ],
+    "host": "Myke",
+    "pick-conditions": 2
+  },
+  {
+    "text": "The folding iPhone comes in one color other than black or white",
+    "full-pick-text": "The folding iPhone comes in one color other than black or white",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The folding phone has Touch ID",
+    "full-pick-text": "The folding phone has Touch ID. But also offers a new version of Face ID powered by just cameras. Apple says this is powered by Apple Intelligence and is a beta. They publish information later that shows it's less secure than standard Face ID, but close enough to Touch ID.",
+    "notes": "<p><ul>\n<li>But also offers a new version of Face ID powered by just cameras</li>\n<li>Apple says this is powered by Apple Intelligence and is a beta</li>\n<li>They publish information later that shows it's less secure than standard Face ID, but close enough to Touch ID</li>\n</ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "Live Edited",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 4
   },
   {
     "text": "The iPad Pro line is updated before the iPhone with a hardware feature that's not on any current iPhone in 2019 or 2020",
@@ -1893,6 +2049,19 @@
     "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:17:18"
   },
   {
+    "text": "The iPhone Air is not updated",
+    "full-pick-text": "The iPhone Air is not updated",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Buzzkill"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "The iPhone Air is the \"one more thing\"",
     "full-pick-text": "The iPhone Air is the \"one more thing\"",
     "notes": "",
@@ -2079,6 +2248,33 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx4DRf-c/00:58:52",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/45:59"
+  },
+  {
+    "text": "The new foldable iPhone does not have Face ID",
+    "full-pick-text": "The new foldable iPhone does not have Face ID",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Buzzkill"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
+    "text": "The new foldable iPhone ships with a brand new multitasking system that lets you have independent \"docks\" on the outer and inner display with fewer or more icons",
+    "full-pick-text": "The new foldable iPhone ships with a brand new multitasking system that lets you have independent \"docks\" on the outer and inner display with fewer or more icons",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Alternate Risky"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
   },
   {
     "text": "The new iPhone 17 Pro devices have additional Apple Intelligence features",
@@ -2423,6 +2619,18 @@
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/31:55"
   },
   {
+    "text": "The starting price of the 18 Pro is higher than the 17 Pro",
+    "full-pick-text": "The starting price of the 18 Pro is higher than the 17 Pro",
+    "notes": "<p><ul><li>Ungraded: $100 more, at least is the consensus.</li></ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "The two Pro phones will have different camera features",
     "full-pick-text": "The two Pro phones will have different camera features",
     "notes": "<p><ul><li>It is agreed not to quibble too much about the name \"Pro\" if there ends up being something like an Ultra phone.</li></ul></p>",
@@ -2451,6 +2659,18 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx4DRf-c/01:16:21",
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/01:11:41"
+  },
+  {
+    "text": "There is a new color on the iPhone 18 Pro line",
+    "full-pick-text": "There is a new color on the iPhone 18 Pro line",
+    "notes": "<p><ul><li>Federico applying strategy rather than passion.</li></ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "There is a new system for changing the colors of icons on the home screen",
@@ -2498,6 +2718,31 @@
     "pick-conditions": 1,
     "score": 1,
     "overcast-picked": "https://overcast.fm/+FXx7dNRBI/01:15:19"
+  },
+  {
+    "text": "There is no Action button on the foldable",
+    "full-pick-text": "There is no Action button on the foldable",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
+    "text": "There is no telephoto camera in the foldable",
+    "full-pick-text": "There is no telephoto camera in the foldable",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone",
+      "Buzzkill"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "There will be 3 cameras on the high end phones",
@@ -2562,6 +2807,19 @@
     "ahead-by": 190,
     "overcast-graded": "https://overcast.fm/+FXx650Foc/1:26:15",
     "overcast-picked": "https://overcast.fm/+FXx4UJ2RE/1:36:39"
+  },
+  {
+    "text": "There will be fold state automation triggers in Shortcuts",
+    "full-pick-text": "There will be fold state automation triggers in Shortcuts",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Apple Apps"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
   },
   {
     "text": "There will be no iPhone 14 with a 5.4\" display",
@@ -2629,6 +2887,31 @@
     "overcast-picked": "https://overcast.fm/+FXx6F3FTY/10:20:24"
   },
   {
+    "text": "We do not see the base model iPhone 18",
+    "full-pick-text": "We do not see the base model iPhone 18",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Regular",
+    "topics": [
+      "iPhone"
+    ],
+    "host": "Federico",
+    "pick-conditions": 1
+  },
+  {
+    "text": "We see a video showing the folding phone going through durability testing",
+    "full-pick-text": "We see a video showing the folding phone going through durability testing",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "Stagecraft"
+    ],
+    "host": "Myke",
+    "pick-conditions": 1
+  },
+  {
     "text": "We see at least one new Dynamic Island feature",
     "full-pick-text": "We see at least one new Dynamic Island feature",
     "notes": "",
@@ -2643,6 +2926,20 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx5Das8Q/48:43",
     "overcast-picked": "https://overcast.fm/+FXx6N6Rqw/1:03:34"
+  },
+  {
+    "text": "You can drag apps into view from either the dock (like iPad) or Spotlight (from Dynamic Island)",
+    "full-pick-text": "You can drag apps into view from either the dock (like iPad) or Spotlight (from Dynamic Island)",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Alternate Risky"
+    ],
+    "host": "Federico",
+    "pick-conditions": 2
   },
   {
     "text": "You will be able to control which data types show on the always-on lock screen",

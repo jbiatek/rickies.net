@@ -464,6 +464,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:04:20"
   },
   {
+    "text": "Apple introduces a new, expanded Home initiative",
+    "full-pick-text": "Apple introduces a new, expanded Home initiative. A \"HomePod with a display\" is introduced at $249. The Apple TV is updated with a remote that supports Find My. Apple talks about improved Thread support.",
+    "notes": "<p><ul>\n<li>A \"HomePod with a display\" is introduced at $249</li>\n<li>The Apple TV is updated with a remote that supports Find My</li>\n<li>Apple talks about improved Thread support</li>\n<li>Stephen's first Risky Pick candidate was about John Ternus introducing himself as CEO, but they got demoted to Flexies.</li>\n</ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Accessories",
+      "Apple TV",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3
+  },
+  {
     "text": "Apple introduces a new, lower end Apple Watch model in addition to the higher end Series 6",
     "full-pick-text": "Apple introduces a new, lower end Apple Watch model in addition to the higher end Series 6",
     "notes": "",
@@ -1616,6 +1630,21 @@
     "overcast-picked": "https://overcast.fm/+FXx7FoU8U/57:29"
   },
   {
+    "text": "Ternus introduces himself as \"the new CEO\"",
+    "full-pick-text": "Ternus introduces himself as \"the new CEO\"",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Apple management",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
     "text": "The 11\" iPad Pro gets a mini LED display",
     "full-pick-text": "The 11\" iPad Pro gets a mini LED display",
     "notes": "<p><ul><li>This was originally \"WWDC 2022 will be virtual\", but that was very close to <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#No%20in-person%20WWDC%202021\">last year's pick</a>, which was within the 365 day limit. It was a borderline judgement, but ultimately they decided they didn't like the precedent.</li></ul></p>",
@@ -1714,6 +1743,34 @@
     "host": "Stephen",
     "pick-conditions": 1,
     "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:29:18"
+  },
+  {
+    "text": "The foldable's software goes beyond simple \"open\" and \"closed\" states",
+    "full-pick-text": "The foldable's software goes beyond simple \"open\" and \"closed\" states. There will be support for \"tabletop\" mode with specific UIs for it. Users can \"peek through\" at one side of the inner display by slightly opening the device. StandBy will support a \"tent\" mode when the iPhone is charging.",
+    "notes": "<p><ul>\n<li>There will be support for \"tabletop\" mode with specific UIs for it</li>\n<li>Users can \"peek through\" at one side of the inner display by slightly opening the device</li>\n<li>StandBy will support a \"tent\" mode when the iPhone is charging</li>\n<li>Federico also had a backup Risky Pick about the iOS dock, but it was demoted to Flexies.</li>\n</ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "iOS",
+      "Live Edited"
+    ],
+    "host": "Federico",
+    "pick-conditions": 3
+  },
+  {
+    "text": "The folding phone has Touch ID",
+    "full-pick-text": "The folding phone has Touch ID. But also offers a new version of Face ID powered by just cameras. Apple says this is powered by Apple Intelligence and is a beta. They publish information later that shows it's less secure than standard Face ID, but close enough to Touch ID.",
+    "notes": "<p><ul>\n<li>But also offers a new version of Face ID powered by just cameras</li>\n<li>Apple says this is powered by Apple Intelligence and is a beta</li>\n<li>They publish information later that shows it's less secure than standard Face ID, but close enough to Touch ID</li>\n</ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "iPhone",
+      "Live Edited",
+      "Machine Learning/AI"
+    ],
+    "host": "Myke",
+    "pick-conditions": 4
   },
   {
     "text": "The HomePod will gain multiple user support via voice detection",
@@ -2301,6 +2358,36 @@
     "score": 1,
     "overcast-graded": "https://overcast.fm/+FXx6z4vdc/18:07",
     "overcast-picked": "https://overcast.fm/+FXx5Crqo4/28:02"
+  },
+  {
+    "text": "They explain Tim's not going anywhere",
+    "full-pick-text": "They explain Tim's not going anywhere",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Apple management",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
+  },
+  {
+    "text": "They show photos of Tim",
+    "full-pick-text": "They show photos of Tim",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Alternate Risky",
+      "Apple management",
+      "Live Edited",
+      "Stagecraft"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "Third party widgets gain interactivity",

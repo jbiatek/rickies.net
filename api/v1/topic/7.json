@@ -656,6 +656,20 @@
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:04:20"
   },
   {
+    "text": "Apple introduces a new, expanded Home initiative",
+    "full-pick-text": "Apple introduces a new, expanded Home initiative. A \"HomePod with a display\" is introduced at $249. The Apple TV is updated with a remote that supports Find My. Apple talks about improved Thread support.",
+    "notes": "<p><ul>\n<li>A \"HomePod with a display\" is introduced at $249</li>\n<li>The Apple TV is updated with a remote that supports Find My</li>\n<li>Apple talks about improved Thread support</li>\n<li>Stephen's first Risky Pick candidate was about John Ternus introducing himself as CEO, but they got demoted to Flexies.</li>\n</ul></p>",
+    "game": "2026 September Rickies",
+    "type": "Ricky",
+    "topics": [
+      "Accessories",
+      "Apple TV",
+      "Live Edited"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 3
+  },
+  {
     "text": "Apple introduces new \"vegan leather\" cases",
     "full-pick-text": "Apple introduces new \"vegan leather\" cases",
     "notes": "<p><ul><li>Added late in the episode to go \"from 7 to 11\"... but that's only the beginning.</li></ul></p>",
@@ -1867,6 +1881,18 @@
     "score": 0,
     "overcast-graded": "https://overcast.fm/+FXx6hag-g/00:35:24",
     "overcast-picked": "https://overcast.fm/+FXx6e_hj0/01:20:48"
+  },
+  {
+    "text": "The HomePod or HomePod mini is updated",
+    "full-pick-text": "The HomePod or HomePod mini is updated",
+    "notes": "",
+    "game": "2026 September Rickies",
+    "type": "Flexie",
+    "topics": [
+      "Accessories"
+    ],
+    "host": "Stephen",
+    "pick-conditions": 1
   },
   {
     "text": "The HomePod will gain multiple user support via voice detection",
