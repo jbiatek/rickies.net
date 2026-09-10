@@ -502,7 +502,8 @@
       "Apple Watch"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "The Apple Watch Series 6 uses the Series 4 & 5 design",
@@ -529,7 +530,8 @@
       "Apple Watch"
     ],
     "host": "Stephen",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 0
   },
   {
     "text": "The Apple Watch Ultra finally goes to '3'",
@@ -569,7 +571,8 @@
       "Apple Watch"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "The new Apple Watch SE costs $199",

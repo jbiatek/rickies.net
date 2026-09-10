@@ -149,7 +149,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "John Ternus is Apple's new CEO",
@@ -167,7 +168,7 @@
   {
     "text": "John Ternus is in a dark T-shirt",
     "full-pick-text": "John Ternus is in a dark T-shirt",
-    "notes": "",
+    "notes": "<p><ul><li>It's deemed \"not a t-shirt\" unfortunately</li></ul></p>",
     "game": "2026 September Rickies",
     "type": "Flexie",
     "topics": [
@@ -175,7 +176,8 @@
       "Stagecraft"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "John Ternus is photographed in person at one of the media events",
@@ -265,7 +267,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "Johnny Srouji makes an appearance",
@@ -390,7 +393,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "Ternus does the majority of the folding phone presentation",
@@ -404,7 +408,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "Ternus introduces himself as \"the new CEO\"",
@@ -419,7 +424,8 @@
       "Stagecraft"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "Ternus says how much of an honour it is to take on the role as CEO, and how it feels to be on that stage",
@@ -432,7 +438,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 0
   },
   {
     "text": "There is a live audience in attendance that we see",
@@ -445,7 +452,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "They explain Tim's not going anywhere",
@@ -460,7 +468,8 @@
       "Stagecraft"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "They show photos of Tim",
@@ -475,7 +484,8 @@
       "Stagecraft"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "Tim Cook becomes chairman of the board",

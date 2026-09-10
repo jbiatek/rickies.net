@@ -1082,7 +1082,8 @@
       "Buzzkill"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0.5
   },
   {
     "text": "The iPod Touch is taken down from sale in the wake of the event",
@@ -1277,7 +1278,8 @@
       "Buzzkill"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "The Pro iPhone gets a new camera feature the regular iPhone doesn't get",
@@ -1342,7 +1344,8 @@
       "Buzzkill"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "There is no additional external display support for iPadOS",
@@ -1422,7 +1425,8 @@
       "Buzzkill"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "There is not an orange MacBook",

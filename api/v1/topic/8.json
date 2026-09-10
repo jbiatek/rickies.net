@@ -579,7 +579,8 @@
       "Buzzkill"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "There is a new AirPods model with noise cancellation",

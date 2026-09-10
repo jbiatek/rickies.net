@@ -41,44 +41,72 @@
       "overcast-picked": "https://overcast.fm/+FXx6hag-g/00:47:57"
     },
     {
-      "text": "The base iPad is updated and supports Apple Intelligence",
-      "full-pick-text": "The base iPad is updated and supports Apple Intelligence",
-      "notes": "",
-      "game": "2026 March Rickies",
-      "type": "Regular",
+      "text": "Apple introduces a new, expanded Home initiative",
+      "full-pick-text": "Apple introduces a new, expanded Home initiative. A \"HomePod with a display\" is introduced at $249. The Apple TV is updated with a remote that supports Find My. Apple talks about improved Thread support.",
+      "notes": "<p><ul>\n<li>A \"HomePod with a display\" is introduced at $249</li>\n<li>The Apple TV is updated with a remote that supports Find My</li>\n<li>Apple talks about improved Thread support</li>\n<li>Stephen's first Risky Pick candidate was about John Ternus introducing himself as CEO, but they got demoted to Flexies.</li>\n</ul></p>",
+      "game": "2026 September Rickies",
+      "type": "Ricky",
       "topics": [
-        "iPad",
-        "Machine Learning/AI"
+        "Accessories",
+        "Apple TV",
+        "Live Edited"
       ],
       "host": "Stephen",
-      "pick-conditions": 2,
-      "score": 0
+      "pick-conditions": 3,
+      "score": -1
     },
     {
-      "text": "The iPhone 17e is announced",
-      "full-pick-text": "The iPhone 17e is announced",
+      "text": "The Apple Watch Series 12 includes a ceramic option",
+      "full-pick-text": "The Apple Watch Series 12 includes a ceramic option",
       "notes": "",
-      "game": "2026 March Rickies",
+      "game": "2026 September Rickies",
       "type": "Regular",
       "topics": [
-        "iPhone"
+        "Apple Watch"
       ],
       "host": "Stephen",
       "pick-conditions": 1,
       "score": 1
     },
     {
-      "text": "There is a new entry-level Mac laptop, powered by an A-series chip",
-      "full-pick-text": "There is a new entry-level Mac laptop, powered by an A-series chip. Apple calls it the MacBook, but mentions or shows the original colorful iBooks. It has MagSafe and two USB-C (not Thunderbolt) ports. The base SKU has 8 GB of RAM, isn't available in all colors, and starts at $699",
-      "notes": "<p><ul><li>\"Apple calls it the MacBook, but mentions or shows the original colorful iBooks\"</li>\n<li>\"It has MagSafe and two USB-C (not Thunderbolt) ports\"</li>\n<li>\"The base SKU has 8 GB of RAM, isn't available in all colors, and starts at $699\"\n    <ul><li>That price could be the regular or education store price.</li></ul></li></ul></p>",
-      "game": "2026 March Rickies",
-      "type": "Ricky",
+      "text": "The ceramic Apple Watch Series 12 starts at $799 ($100 more than the Series 11 Titanium)",
+      "full-pick-text": "The ceramic Apple Watch Series 12 starts at $799 ($100 more than the Series 11 Titanium)",
+      "notes": "",
+      "game": "2026 September Rickies",
+      "type": "Regular",
       "topics": [
-        "Mac"
+        "Apple Watch"
       ],
       "host": "Stephen",
-      "pick-conditions": 8,
-      "score": -1
+      "pick-conditions": 1,
+      "score": 0
+    },
+    {
+      "text": "The foldable is called the iPhone Ultra (2)",
+      "full-pick-text": "The foldable is called the iPhone Ultra (2)",
+      "notes": "<p><ul><li>Not mentioned during picking that this is an <a class=\"tc-tiddlylink tc-tiddlylink-resolves\" href=\"#The%20foldable%20is%20called%20the%20iPhone%20Ultra\">exact duplicate of an active Annual pick from Stephen</a>, but luckily that one is a Flexie, so it is a legal pick.</li></ul></p>",
+      "game": "2026 September Rickies",
+      "type": "Regular",
+      "topics": [
+        "iPhone"
+      ],
+      "host": "Stephen",
+      "pick-conditions": 1,
+      "score": 0
+    },
+    {
+      "text": "The iPhone Air is not updated",
+      "full-pick-text": "The iPhone Air is not updated",
+      "notes": "",
+      "game": "2026 September Rickies",
+      "type": "Regular",
+      "topics": [
+        "iPhone",
+        "Buzzkill"
+      ],
+      "host": "Stephen",
+      "pick-conditions": 1,
+      "score": 0.5
     }
   ],
   "Myke": [
@@ -124,43 +152,60 @@
       "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:10:17"
     },
     {
-      "text": "John Ternus is quoted in every press release about new products",
-      "full-pick-text": "John Ternus is quoted in every press release about new products",
+      "text": "At least one iPhone has a variable aperture camera",
+      "full-pick-text": "At least one iPhone has a variable aperture camera",
       "notes": "",
-      "game": "2026 March Rickies",
+      "game": "2026 September Rickies",
       "type": "Regular",
       "topics": [
-        "Apple management"
+        "iPhone"
       ],
       "host": "Myke",
       "pick-conditions": 1,
-      "score": 0
+      "score": 1
     },
     {
-      "text": "The MacBook has a screen smaller than 13 inches",
-      "full-pick-text": "The MacBook has a screen smaller than 13 inches",
-      "notes": "<p><ul><li>Strictly \"less than\", not \"less than or equal to.\"</li></ul></p>",
-      "game": "2026 March Rickies",
+      "text": "John Ternus introduces the folding iPhone by saying \"We have one more thing...\"",
+      "full-pick-text": "John Ternus introduces the folding iPhone by saying \"We have one more thing...\"",
+      "notes": "",
+      "game": "2026 September Rickies",
       "type": "Regular",
       "topics": [
-        "Mac"
+        "iPhone",
+        "Apple management",
+        "Stagecraft"
       ],
       "host": "Myke",
       "pick-conditions": 1,
-      "score": 0
+      "score": 1
     },
     {
-      "text": "There is at least one new Studio Display",
-      "full-pick-text": "There is at least one new Studio Display. At least one model features a Mini LED display with a 90hz refresh rate. Apple will create a new name to describe this panel (like Liquid Retina XDR). The old Studio Display and Pro Display XDR are still available",
-      "notes": "<p><ul><li>\"At least one model features a Mini LED display with a 90hz refresh rate\"</li><li>\"Apple will create a new name to describe this panel (like Liquid Retina XDR)\"<ul><li>It is indeed described in copy as a \"27-inch 5K Retina XDR display\"</li></ul></li>\n<li>\"The old Studio Display and Pro Display XDR are still available\"</li></ul></p>",
-      "game": "2026 March Rickies",
+      "text": "The folding phone has Touch ID",
+      "full-pick-text": "The folding phone has Touch ID. But also offers a new version of Face ID powered by just cameras. Apple says this is powered by Apple Intelligence and is a beta. They publish information later that shows it's less secure than standard Face ID, but close enough to Touch ID.",
+      "notes": "<p><ul>\n<li>But also offers a new version of Face ID powered by just cameras</li>\n<li>Apple says this is powered by Apple Intelligence and is a beta</li>\n<li>They publish information later that shows it's less secure than standard Face ID, but close enough to Touch ID</li>\n</ul></p>",
+      "game": "2026 September Rickies",
       "type": "Ricky",
       "topics": [
-        "Accessories"
+        "iPhone",
+        "Live Edited",
+        "Machine Learning/AI"
       ],
       "host": "Myke",
       "pick-conditions": 4,
-      "score": 0
+      "score": -1
+    },
+    {
+      "text": "The starting price of the 18 Pro is higher than the 17 Pro",
+      "full-pick-text": "The starting price of the 18 Pro is higher than the 17 Pro",
+      "notes": "<p><ul><li>Ungraded: $100 more, at least is the consensus.</li></ul></p>",
+      "game": "2026 September Rickies",
+      "type": "Regular",
+      "topics": [
+        "iPhone"
+      ],
+      "host": "Myke",
+      "pick-conditions": 1,
+      "score": 0.5
     }
   ],
   "Federico": [
@@ -220,43 +265,73 @@
       "overcast-picked": "https://overcast.fm/+FXx6hag-g/01:07:15"
     },
     {
-      "text": "A new Mac laptop is announced in multiple colors",
-      "full-pick-text": "A new Mac laptop is announced in multiple colors",
-      "notes": "<p><ul><li>That is, not part of an existing line, but not locking in to a \"MacBook\" variety.</li></ul></p>",
-      "game": "2026 March Rickies",
+      "text": "The foldable's software goes beyond simple \"open\" and \"closed\" states",
+      "full-pick-text": "The foldable's software goes beyond simple \"open\" and \"closed\" states. There will be support for \"tabletop\" mode with specific UIs for it. Users can \"peek through\" at one side of the inner display by slightly opening the device. StandBy will support a \"tent\" mode when the iPhone is charging.",
+      "notes": "<p><ul>\n<li>There will be support for \"tabletop\" mode with specific UIs for it</li>\n<li>Users can \"peek through\" at one side of the inner display by slightly opening the device</li>\n<li>StandBy will support a \"tent\" mode when the iPhone is charging</li>\n<li>Federico also had a backup Risky Pick about the iOS dock, but it was demoted to Flexies.</li>\n<li>The \"open\" and \"close\" animations are deemed to fulfill the second point.</li>\n</ul></p>",
+      "game": "2026 September Rickies",
+      "type": "Ricky",
+      "topics": [
+        "iPhone",
+        "iOS",
+        "Live Edited"
+      ],
+      "host": "Federico",
+      "pick-conditions": 3,
+      "score": 2
+    },
+    {
+      "text": "The new foldable iPhone does not have Face ID",
+      "full-pick-text": "The new foldable iPhone does not have Face ID",
+      "notes": "",
+      "game": "2026 September Rickies",
       "type": "Regular",
       "topics": [
-        "Mac"
+        "iPhone",
+        "Buzzkill"
       ],
       "host": "Federico",
       "pick-conditions": 1,
       "score": 1
     },
     {
-      "text": "The new iPhone 17e supports MagSafe",
-      "full-pick-text": "The new iPhone 17e supports MagSafe",
-      "notes": "",
-      "game": "2026 March Rickies",
+      "text": "There is a new color on the iPhone 18 Pro line",
+      "full-pick-text": "There is a new color on the iPhone 18 Pro line",
+      "notes": "<p><ul><li>Federico applying strategy rather than passion.</li></ul></p>",
+      "game": "2026 September Rickies",
       "type": "Regular",
       "topics": [
         "iPhone"
       ],
       "host": "Federico",
-      "pick-conditions": 2,
+      "pick-conditions": 1,
+      "score": 0.5
+    },
+    {
+      "text": "There is no telephoto camera in the foldable",
+      "full-pick-text": "There is no telephoto camera in the foldable",
+      "notes": "",
+      "game": "2026 September Rickies",
+      "type": "Regular",
+      "topics": [
+        "iPhone",
+        "Buzzkill"
+      ],
+      "host": "Federico",
+      "pick-conditions": 1,
       "score": 1
     },
     {
-      "text": "The new M5 Max chip in the MacBook Pro comes with a new architecture that...",
-      "full-pick-text": "The new M5 Max chip in the MacBook Pro comes with a new architecture that better separates CPU and GPU inside the chip, allows Apple to advertise higher sustained performance and better heat dissipation, and allows for more than two configuration options for M5 Max",
-      "notes": "<p><ul><li>\"Better separates CPU and GPU inside the chip\"\n    <ul><li>Ungraded: something like a <a href=\"https://en.wikipedia.org/wiki/2.5D_integrated_circuit\" target=\"_blank\">2.5D chiplet design</a></li></ul></li>\n<li>\"Allows Apple to advertise higher sustained performance and better heat dissipation\"</li>\n<li>\"Allows for more than two configuration options for M5 Max\"<ul><li>These must be CPU/GPU options, not other things in the SOC like RAM</li></ul></li></ul></p>",
-      "game": "2026 March Rickies",
-      "type": "Ricky",
+      "text": "We do not see the base model iPhone 18",
+      "full-pick-text": "We do not see the base model iPhone 18",
+      "notes": "",
+      "game": "2026 September Rickies",
+      "type": "Regular",
       "topics": [
-        "Mac"
+        "iPhone"
       ],
       "host": "Federico",
-      "pick-conditions": 4,
-      "score": 0
+      "pick-conditions": 1,
+      "score": 0.5
     }
   ]
 }

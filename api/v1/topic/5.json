@@ -445,7 +445,8 @@
       "Alternate Risky"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "Improved support for ZIP archives in the Files app and framework",
@@ -1251,7 +1252,7 @@
   {
     "text": "Siri AI on the foldable can open two apps at once",
     "full-pick-text": "Siri AI on the foldable can open two apps at once",
-    "notes": "",
+    "notes": "<p><ul><li>Another unverifiable pick from Federico.</li></ul></p>",
     "game": "2026 September Rickies",
     "type": "Flexie",
     "topics": [
@@ -1259,7 +1260,8 @@
       "iOS"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "Siri on iOS will gain more verbal responses, speak more than it does now when activated with your voice",
@@ -1364,7 +1366,7 @@
   {
     "text": "The foldable's software goes beyond simple \"open\" and \"closed\" states",
     "full-pick-text": "The foldable's software goes beyond simple \"open\" and \"closed\" states. There will be support for \"tabletop\" mode with specific UIs for it. Users can \"peek through\" at one side of the inner display by slightly opening the device. StandBy will support a \"tent\" mode when the iPhone is charging.",
-    "notes": "<p><ul>\n<li>There will be support for \"tabletop\" mode with specific UIs for it</li>\n<li>Users can \"peek through\" at one side of the inner display by slightly opening the device</li>\n<li>StandBy will support a \"tent\" mode when the iPhone is charging</li>\n<li>Federico also had a backup Risky Pick about the iOS dock, but it was demoted to Flexies.</li>\n</ul></p>",
+    "notes": "<p><ul>\n<li>There will be support for \"tabletop\" mode with specific UIs for it</li>\n<li>Users can \"peek through\" at one side of the inner display by slightly opening the device</li>\n<li>StandBy will support a \"tent\" mode when the iPhone is charging</li>\n<li>Federico also had a backup Risky Pick about the iOS dock, but it was demoted to Flexies.</li>\n<li>The \"open\" and \"close\" animations are deemed to fulfill the second point.</li>\n</ul></p>",
     "game": "2026 September Rickies",
     "type": "Ricky",
     "topics": [
@@ -1373,7 +1375,8 @@
       "Live Edited"
     ],
     "host": "Federico",
-    "pick-conditions": 3
+    "pick-conditions": 3,
+    "score": 2
   },
   {
     "text": "The folding iPhone allows two iPhone-sized apps side by side and not iPad apps",
@@ -1386,7 +1389,8 @@
       "iOS"
     ],
     "host": "Myke",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 1
   },
   {
     "text": "The iPhone 14 Pro Camera app introduces some kind of 3D capturing functionality",
@@ -1435,7 +1439,8 @@
       "Alternate Risky"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 0
   },
   {
     "text": "The next version of iOS brings at least one new AirPods-related feature",
@@ -1673,7 +1678,7 @@
   {
     "text": "You can drag apps into view from either the dock (like iPad) or Spotlight (from Dynamic Island)",
     "full-pick-text": "You can drag apps into view from either the dock (like iPad) or Spotlight (from Dynamic Island)",
-    "notes": "",
+    "notes": "<p><ul><li>Might be possible, but not verified.</li></ul></p>",
     "game": "2026 September Rickies",
     "type": "Flexie",
     "topics": [
@@ -1682,7 +1687,8 @@
       "Alternate Risky"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 0
   },
   {
     "text": "You will be able to control which data types show on the always-on lock screen",

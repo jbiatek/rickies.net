@@ -173,5 +173,12 @@
     "donation": 100,
     "charity-name": "TBD",
     "charity-url": "TBD"
+  },
+  {
+    "game": "2026 September Rickies",
+    "donator": "Stephen",
+    "donation": 210,
+    "charity-name": "St Jude",
+    "charity-url": "https://stjude.org/relay"
   }
 ]

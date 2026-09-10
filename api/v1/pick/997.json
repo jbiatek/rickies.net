@@ -1,7 +1,7 @@
 {
   "text": "John Ternus is in a dark T-shirt",
   "full-pick-text": "John Ternus is in a dark T-shirt",
-  "notes": "",
+  "notes": "<p><ul><li>It's deemed \"not a t-shirt\" unfortunately</li></ul></p>",
   "game": "2026 September Rickies",
   "type": "Flexie",
   "topics": [
@@ -9,5 +9,6 @@
     "Stagecraft"
   ],
   "host": "Stephen",
-  "pick-conditions": 1
+  "pick-conditions": 1,
+  "score": 0
 }

@@ -1,7 +1,7 @@
 {
   "text": "Siri AI on the foldable can open two apps at once",
   "full-pick-text": "Siri AI on the foldable can open two apps at once",
-  "notes": "",
+  "notes": "<p><ul><li>Another unverifiable pick from Federico.</li></ul></p>",
   "game": "2026 September Rickies",
   "type": "Flexie",
   "topics": [
@@ -9,5 +9,6 @@
     "iOS"
   ],
   "host": "Federico",
-  "pick-conditions": 1
+  "pick-conditions": 1,
+  "score": 0
 }

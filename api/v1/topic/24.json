@@ -207,7 +207,8 @@
       "Alternate Risky"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "iPad multitasking is overhauled again",
@@ -363,7 +364,8 @@
       "Stagecraft"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "The iPhone 14 Pro switches to titanium for the side rails",
@@ -427,7 +429,8 @@
       "Alternate Risky"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 0
   },
   {
     "text": "They explain Tim's not going anywhere",
@@ -442,7 +445,8 @@
       "Stagecraft"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "They show photos of Tim",
@@ -457,12 +461,13 @@
       "Stagecraft"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "You can drag apps into view from either the dock (like iPad) or Spotlight (from Dynamic Island)",
     "full-pick-text": "You can drag apps into view from either the dock (like iPad) or Spotlight (from Dynamic Island)",
-    "notes": "",
+    "notes": "<p><ul><li>Might be possible, but not verified.</li></ul></p>",
     "game": "2026 September Rickies",
     "type": "Flexie",
     "topics": [
@@ -471,6 +476,7 @@
       "Alternate Risky"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 0
   }
 ]

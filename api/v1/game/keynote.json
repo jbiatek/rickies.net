@@ -12450,7 +12450,7 @@
   {
     "name": "2026 September Rickies",
     "game-type": "Keynote",
-    "date-graded": "",
+    "date-graded": "2026-09-10",
     "date-picked": "2026-09-01",
     "main-game": {
       "picks": [
@@ -12465,7 +12465,8 @@
             "Buzzkill"
           ],
           "host": "Federico",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 1
         },
         {
           "text": "The foldable is called the iPhone Ultra (2)",
@@ -12477,7 +12478,8 @@
             "iPhone"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0
         },
         {
           "text": "John Ternus introduces the folding iPhone by saying \"We have one more thing...\"",
@@ -12491,7 +12493,8 @@
             "Stagecraft"
           ],
           "host": "Myke",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 1
         },
         {
           "text": "There is no telephoto camera in the foldable",
@@ -12504,7 +12507,8 @@
             "Buzzkill"
           ],
           "host": "Federico",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 1
         },
         {
           "text": "The Apple Watch Series 12 includes a ceramic option",
@@ -12516,7 +12520,8 @@
             "Apple Watch"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 1
         },
         {
           "text": "At least one iPhone has a variable aperture camera",
@@ -12528,7 +12533,8 @@
             "iPhone"
           ],
           "host": "Myke",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 1
         },
         {
           "text": "We do not see the base model iPhone 18",
@@ -12540,7 +12546,8 @@
             "iPhone"
           ],
           "host": "Federico",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0.5
         },
         {
           "text": "The ceramic Apple Watch Series 12 starts at $799 ($100 more than the Series 11 Titanium)",
@@ -12552,7 +12559,8 @@
             "Apple Watch"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0
         },
         {
           "text": "The starting price of the 18 Pro is higher than the 17 Pro",
@@ -12564,7 +12572,8 @@
             "iPhone"
           ],
           "host": "Myke",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0.5
         },
         {
           "text": "There is a new color on the iPhone 18 Pro line",
@@ -12576,7 +12585,8 @@
             "iPhone"
           ],
           "host": "Federico",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0.5
         },
         {
           "text": "The iPhone Air is not updated",
@@ -12589,12 +12599,13 @@
             "Buzzkill"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0.5
         },
         {
           "text": "The foldable's software goes beyond simple \"open\" and \"closed\" states",
           "full-pick-text": "The foldable's software goes beyond simple \"open\" and \"closed\" states. There will be support for \"tabletop\" mode with specific UIs for it. Users can \"peek through\" at one side of the inner display by slightly opening the device. StandBy will support a \"tent\" mode when the iPhone is charging.",
-          "notes": "<p><ul>\n<li>There will be support for \"tabletop\" mode with specific UIs for it</li>\n<li>Users can \"peek through\" at one side of the inner display by slightly opening the device</li>\n<li>StandBy will support a \"tent\" mode when the iPhone is charging</li>\n<li>Federico also had a backup Risky Pick about the iOS dock, but it was demoted to Flexies.</li>\n</ul></p>",
+          "notes": "<p><ul>\n<li>There will be support for \"tabletop\" mode with specific UIs for it</li>\n<li>Users can \"peek through\" at one side of the inner display by slightly opening the device</li>\n<li>StandBy will support a \"tent\" mode when the iPhone is charging</li>\n<li>Federico also had a backup Risky Pick about the iOS dock, but it was demoted to Flexies.</li>\n<li>The \"open\" and \"close\" animations are deemed to fulfill the second point.</li>\n</ul></p>",
           "game": "2026 September Rickies",
           "type": "Ricky",
           "topics": [
@@ -12603,7 +12614,8 @@
             "Live Edited"
           ],
           "host": "Federico",
-          "pick-conditions": 3
+          "pick-conditions": 3,
+          "score": 2
         },
         {
           "text": "Apple introduces a new, expanded Home initiative",
@@ -12617,7 +12629,8 @@
             "Live Edited"
           ],
           "host": "Stephen",
-          "pick-conditions": 3
+          "pick-conditions": 3,
+          "score": -1
         },
         {
           "text": "The folding phone has Touch ID",
@@ -12631,18 +12644,33 @@
             "Machine Learning/AI"
           ],
           "host": "Myke",
-          "pick-conditions": 4
+          "pick-conditions": 4,
+          "score": -1
         }
       ],
       "coin-flips": [],
-      "winner": "TBD"
+      "scores": [
+        {
+          "host": "Federico",
+          "score": 5
+        },
+        {
+          "host": "Myke",
+          "score": 1.5
+        },
+        {
+          "host": "Stephen",
+          "score": 0.5
+        }
+      ],
+      "winner": "Federico"
     },
     "the-flexies": {
       "picks": [
         {
           "text": "John Ternus is in a dark T-shirt",
           "full-pick-text": "John Ternus is in a dark T-shirt",
-          "notes": "",
+          "notes": "<p><ul><li>It's deemed \"not a t-shirt\" unfortunately</li></ul></p>",
           "game": "2026 September Rickies",
           "type": "Flexie",
           "topics": [
@@ -12650,7 +12678,8 @@
             "Stagecraft"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0
         },
         {
           "text": "The Apple Watch Ultra 4 has a new sensor not found on the Series 12",
@@ -12662,7 +12691,8 @@
             "Apple Watch"
           ],
           "host": "Stephen",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "score": 0
         },
         {
           "text": "The folding iPhone comes in one color other than black or white",
@@ -12674,7 +12704,8 @@
             "iPhone"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 1
         },
         {
           "text": "The HomePod or HomePod mini is updated",
@@ -12686,7 +12717,8 @@
             "Accessories"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0
         },
         {
           "text": "There are no new AirPods announced",
@@ -12699,7 +12731,8 @@
             "Buzzkill"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0
         },
         {
           "text": "Ternus introduces himself as \"the new CEO\"",
@@ -12714,7 +12747,8 @@
             "Stagecraft"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0
         },
         {
           "text": "They show photos of Tim",
@@ -12729,7 +12763,8 @@
             "Stagecraft"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0
         },
         {
           "text": "They explain Tim's not going anywhere",
@@ -12744,7 +12779,8 @@
             "Stagecraft"
           ],
           "host": "Stephen",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0
         },
         {
           "text": "There is no Action button on the foldable",
@@ -12756,7 +12792,8 @@
             "iPhone"
           ],
           "host": "Federico",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 1
         },
         {
           "text": "Both iPhone 18 Pro models have a smaller Dynamic Island than their predecessors",
@@ -12768,12 +12805,13 @@
             "iPhone"
           ],
           "host": "Federico",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "score": 1
         },
         {
           "text": "There will be fold state automation triggers in Shortcuts",
           "full-pick-text": "There will be fold state automation triggers in Shortcuts",
-          "notes": "",
+          "notes": "<p><ul><li>Unknown at time of grading.</li></ul></p>",
           "game": "2026 September Rickies",
           "type": "Flexie",
           "topics": [
@@ -12781,7 +12819,8 @@
             "Apple Apps"
           ],
           "host": "Federico",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0
         },
         {
           "text": "The new foldable iPhone ships with a brand new multitasking system that lets you have independent \"docks\" on the outer and inner display with fewer or more icons",
@@ -12795,12 +12834,13 @@
             "Alternate Risky"
           ],
           "host": "Federico",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "score": 0
         },
         {
           "text": "You can drag apps into view from either the dock (like iPad) or Spotlight (from Dynamic Island)",
           "full-pick-text": "You can drag apps into view from either the dock (like iPad) or Spotlight (from Dynamic Island)",
-          "notes": "",
+          "notes": "<p><ul><li>Might be possible, but not verified.</li></ul></p>",
           "game": "2026 September Rickies",
           "type": "Flexie",
           "topics": [
@@ -12809,7 +12849,8 @@
             "Alternate Risky"
           ],
           "host": "Federico",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "score": 0
         },
         {
           "text": "Foldable supports drag and drop for content between apps in Split View",
@@ -12823,7 +12864,8 @@
             "Alternate Risky"
           ],
           "host": "Federico",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 1
         },
         {
           "text": "Siri AI is demoed again",
@@ -12836,7 +12878,8 @@
             "Stagecraft"
           ],
           "host": "Federico",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 1
         },
         {
           "text": "Ternus does not wear Nike shoes",
@@ -12849,7 +12892,8 @@
             "Stagecraft"
           ],
           "host": "Myke",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 1
         },
         {
           "text": "Ternus does the majority of the folding phone presentation",
@@ -12863,7 +12907,8 @@
             "Stagecraft"
           ],
           "host": "Myke",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0
         },
         {
           "text": "The folding iPhone allows two iPhone-sized apps side by side and not iPad apps",
@@ -12876,7 +12921,8 @@
             "iOS"
           ],
           "host": "Myke",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "score": 1
         },
         {
           "text": "The A20 is a 2nm chip",
@@ -12888,7 +12934,8 @@
             "iPhone"
           ],
           "host": "Myke",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 1
         },
         {
           "text": "We see a video showing the folding phone going through durability testing",
@@ -12901,7 +12948,8 @@
             "Stagecraft"
           ],
           "host": "Myke",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0
         },
         {
           "text": "John Ternus walks out on stage live",
@@ -12914,7 +12962,8 @@
             "Stagecraft"
           ],
           "host": "Myke",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0
         },
         {
           "text": "Ternus says how much of an honour it is to take on the role as CEO, and how it feels to be on that stage",
@@ -12927,7 +12976,8 @@
             "Stagecraft"
           ],
           "host": "Myke",
-          "pick-conditions": 2
+          "pick-conditions": 2,
+          "score": 0
         },
         {
           "text": "There is a live audience in attendance that we see",
@@ -12940,12 +12990,13 @@
             "Stagecraft"
           ],
           "host": "Myke",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0
         },
         {
           "text": "Siri AI on the foldable can open two apps at once",
           "full-pick-text": "Siri AI on the foldable can open two apps at once",
-          "notes": "",
+          "notes": "<p><ul><li>Another unverifiable pick from Federico.</li></ul></p>",
           "game": "2026 September Rickies",
           "type": "Flexie",
           "topics": [
@@ -12953,7 +13004,8 @@
             "iOS"
           ],
           "host": "Federico",
-          "pick-conditions": 1
+          "pick-conditions": 1,
+          "score": 0
         }
       ],
       "coin-flips": [],

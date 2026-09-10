@@ -1312,7 +1312,7 @@
   {
     "text": "There will be fold state automation triggers in Shortcuts",
     "full-pick-text": "There will be fold state automation triggers in Shortcuts",
-    "notes": "",
+    "notes": "<p><ul><li>Unknown at time of grading.</li></ul></p>",
     "game": "2026 September Rickies",
     "type": "Flexie",
     "topics": [
@@ -1320,7 +1320,8 @@
       "Apple Apps"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "Workflow 2 will appear as a system feature or app",

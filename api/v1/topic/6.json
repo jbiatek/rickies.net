@@ -748,7 +748,8 @@
       "iPhone"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "At least one iPhone model does not have a shipping date of September 16",
@@ -870,7 +871,8 @@
       "iPhone"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 1
   },
   {
     "text": "Center Stage comes to the iPhone",
@@ -949,7 +951,8 @@
       "Alternate Risky"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "iOS 15 drops support for the iPhone 6S",
@@ -1125,7 +1128,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "Joz introduces the Pro iPhones in a dark setting",
@@ -1440,7 +1444,7 @@
   {
     "text": "Siri AI on the foldable can open two apps at once",
     "full-pick-text": "Siri AI on the foldable can open two apps at once",
-    "notes": "",
+    "notes": "<p><ul><li>Another unverifiable pick from Federico.</li></ul></p>",
     "game": "2026 September Rickies",
     "type": "Flexie",
     "topics": [
@@ -1448,7 +1452,8 @@
       "iOS"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "Some iPhones will come with color-matched cables",
@@ -1575,7 +1580,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "The 17 line is all made of aluminium",
@@ -1632,7 +1638,8 @@
       "iPhone"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "The back of the Pro iPhones looks different",
@@ -1738,12 +1745,13 @@
       "iPhone"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "The foldable's software goes beyond simple \"open\" and \"closed\" states",
     "full-pick-text": "The foldable's software goes beyond simple \"open\" and \"closed\" states. There will be support for \"tabletop\" mode with specific UIs for it. Users can \"peek through\" at one side of the inner display by slightly opening the device. StandBy will support a \"tent\" mode when the iPhone is charging.",
-    "notes": "<p><ul>\n<li>There will be support for \"tabletop\" mode with specific UIs for it</li>\n<li>Users can \"peek through\" at one side of the inner display by slightly opening the device</li>\n<li>StandBy will support a \"tent\" mode when the iPhone is charging</li>\n<li>Federico also had a backup Risky Pick about the iOS dock, but it was demoted to Flexies.</li>\n</ul></p>",
+    "notes": "<p><ul>\n<li>There will be support for \"tabletop\" mode with specific UIs for it</li>\n<li>Users can \"peek through\" at one side of the inner display by slightly opening the device</li>\n<li>StandBy will support a \"tent\" mode when the iPhone is charging</li>\n<li>Federico also had a backup Risky Pick about the iOS dock, but it was demoted to Flexies.</li>\n<li>The \"open\" and \"close\" animations are deemed to fulfill the second point.</li>\n</ul></p>",
     "game": "2026 September Rickies",
     "type": "Ricky",
     "topics": [
@@ -1752,7 +1760,8 @@
       "Live Edited"
     ],
     "host": "Federico",
-    "pick-conditions": 3
+    "pick-conditions": 3,
+    "score": 2
   },
   {
     "text": "The folding iPhone allows two iPhone-sized apps side by side and not iPad apps",
@@ -1765,7 +1774,8 @@
       "iOS"
     ],
     "host": "Myke",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 1
   },
   {
     "text": "The folding iPhone comes in one color other than black or white",
@@ -1777,7 +1787,8 @@
       "iPhone"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "The folding phone has Touch ID",
@@ -1791,7 +1802,8 @@
       "Machine Learning/AI"
     ],
     "host": "Myke",
-    "pick-conditions": 4
+    "pick-conditions": 4,
+    "score": -1
   },
   {
     "text": "The iPad Pro line is updated before the iPhone with a hardware feature that's not on any current iPhone in 2019 or 2020",
@@ -2059,7 +2071,8 @@
       "Buzzkill"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0.5
   },
   {
     "text": "The iPhone Air is the \"one more thing\"",
@@ -2260,7 +2273,8 @@
       "Buzzkill"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "The new foldable iPhone ships with a brand new multitasking system that lets you have independent \"docks\" on the outer and inner display with fewer or more icons",
@@ -2274,7 +2288,8 @@
       "Alternate Risky"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 0
   },
   {
     "text": "The new iPhone 17 Pro devices have additional Apple Intelligence features",
@@ -2628,7 +2643,8 @@
       "iPhone"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0.5
   },
   {
     "text": "The two Pro phones will have different camera features",
@@ -2670,7 +2686,8 @@
       "iPhone"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0.5
   },
   {
     "text": "There is a new system for changing the colors of icons on the home screen",
@@ -2729,7 +2746,8 @@
       "iPhone"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "There is no telephoto camera in the foldable",
@@ -2742,7 +2760,8 @@
       "Buzzkill"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 1
   },
   {
     "text": "There will be 3 cameras on the high end phones",
@@ -2811,7 +2830,7 @@
   {
     "text": "There will be fold state automation triggers in Shortcuts",
     "full-pick-text": "There will be fold state automation triggers in Shortcuts",
-    "notes": "",
+    "notes": "<p><ul><li>Unknown at time of grading.</li></ul></p>",
     "game": "2026 September Rickies",
     "type": "Flexie",
     "topics": [
@@ -2819,7 +2838,8 @@
       "Apple Apps"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "There will be no iPhone 14 with a 5.4\" display",
@@ -2896,7 +2916,8 @@
       "iPhone"
     ],
     "host": "Federico",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0.5
   },
   {
     "text": "We see a video showing the folding phone going through durability testing",
@@ -2909,7 +2930,8 @@
       "Stagecraft"
     ],
     "host": "Myke",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "We see at least one new Dynamic Island feature",
@@ -2930,7 +2952,7 @@
   {
     "text": "You can drag apps into view from either the dock (like iPad) or Spotlight (from Dynamic Island)",
     "full-pick-text": "You can drag apps into view from either the dock (like iPad) or Spotlight (from Dynamic Island)",
-    "notes": "",
+    "notes": "<p><ul><li>Might be possible, but not verified.</li></ul></p>",
     "game": "2026 September Rickies",
     "type": "Flexie",
     "topics": [
@@ -2939,7 +2961,8 @@
       "Alternate Risky"
     ],
     "host": "Federico",
-    "pick-conditions": 2
+    "pick-conditions": 2,
+    "score": 0
   },
   {
     "text": "You will be able to control which data types show on the always-on lock screen",

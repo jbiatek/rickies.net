@@ -1,8 +1,7 @@
 {
   "titles": {
     "Stephen": [
-      "Annual Chairman",
-      "Attorney General Flexie"
+      "Annual Chairman"
     ],
     "Myke": [],
     "Federico": [
@@ -18,8 +17,8 @@
     "title": "Annual Chairman"
   },
   "keynote": {
-    "game-name": "2026 WWDC Rickies",
-    "date": "2026-06-12",
+    "game-name": "2026 September Rickies",
+    "date": "2026-09-10",
     "winner": "Federico",
     "social": "https://twitter.com/KeynoteChairman",
     "title": "Keynote Chairman"
@@ -39,11 +38,11 @@
     "title": "Prince Flexie"
   },
   "keynote-flexies": {
-    "game-name": "2026 WWDC Rickies",
-    "date": "2026-06-12",
-    "winner": "Stephen",
+    "game-name": "2026 September Rickies",
+    "date": "2026-09-10",
+    "winner": "TBD",
     "social": "",
-    "title": "Attorney General Flexie"
+    "title": ""
   },
   "the-tricky-image": "https://rickies.net/files/images/tricky/StephenFederico.png"
 }

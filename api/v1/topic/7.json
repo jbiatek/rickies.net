@@ -667,7 +667,8 @@
       "Live Edited"
     ],
     "host": "Stephen",
-    "pick-conditions": 3
+    "pick-conditions": 3,
+    "score": -1
   },
   {
     "text": "Apple introduces new \"vegan leather\" cases",
@@ -1892,7 +1893,8 @@
       "Accessories"
     ],
     "host": "Stephen",
-    "pick-conditions": 1
+    "pick-conditions": 1,
+    "score": 0
   },
   {
     "text": "The HomePod will gain multiple user support via voice detection",
